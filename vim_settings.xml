@@ -194,6 +194,14 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" timestamp="1520429430420">
+        <mark key="a" line="140" column="61" />
+        <mark key="'" line="142" column="12" />
+        <mark key="[" line="140" column="23" />
+        <mark key="]" line="140" column="24" />
+        <mark key="^" line="140" column="24" />
+        <mark key="." line="140" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="18" />
@@ -220,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="540" column="19" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
-      <jump line="455" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="489" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="490" column="15" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="275" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
@@ -320,19 +326,21 @@
       <jump line="34450" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="36997" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="37015" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
+      <jump line="9" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" />
+      <jump line="142" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>fulgurit-frontend</text>
       </register>
       <register name="/" type="4">
-        <text>RegantesLandingPage</text>
+        <text>fulgurit</text>
       </register>
       <register name="0" type="4">
-        <text>ReportsLandingPage</text>
+        <text encoding="base64">Y29udHJvbGxlcnM6IHsKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBvc2l0aW9uOiAncmVsYXRpdmUnLAo=</text>
@@ -372,15 +380,14 @@ work with external imports</text>
       </register>
     </registers>
     <search>
-      <last-search>RegantesLandingPage</last-search>
+      <last-search>fulgurit</last-search>
       <last-offset />
-      <last-pattern>RegantesLandingPage</last-pattern>
+      <last-pattern>fulgurit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>apps</entry>
         <entry>cro</entry>
         <entry encoding="base64">XDxDcm9wXD4=</entry>
@@ -400,6 +407,7 @@ work with external imports</text>
         <entry>dis</entry>
         <entry>version</entry>
         <entry>RegantesLandingPage</entry>
+        <entry>fulgurit</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
