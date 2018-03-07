@@ -64,6 +64,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/land.html" timestamp="1520443696988">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+      </file>
       <file name="/Django Console" timestamp="1520011016032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -133,6 +139,13 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1520444344227">
+        <mark key="'" line="15" column="20" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1518619038550">
         <mark key="[" line="109" column="14" />
         <mark key="]" line="109" column="33" />
@@ -163,10 +176,10 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1520441445084">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="91" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1520441491475">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/controllers/mainController.js" timestamp="1520333159210">
@@ -182,12 +195,12 @@
         <mark key="]" line="14" column="72" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" timestamp="1520436170295">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" timestamp="1520443975482">
         <mark key="'" line="174" column="28" />
-        <mark key="[" line="179" column="65" />
-        <mark key="]" line="179" column="68" />
-        <mark key="." line="179" column="68" />
-        <mark key="^" line="179" column="68" />
+        <mark key="[" line="178" column="70" />
+        <mark key="]" line="178" column="74" />
+        <mark key="." line="178" column="74" />
+        <mark key="^" line="178" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/webpack.config.js" timestamp="1519849899333">
         <mark key="[" line="10" column="23" />
@@ -229,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="490" column="15" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="275" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
       <jump line="13" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/.gitlab-ci.yml" />
@@ -329,52 +341,53 @@
       <jump line="37015" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="9" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" />
       <jump line="142" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" />
+      <jump line="15" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>git+ssh://git@89.115.238.62:10922/simoc/fulgurit_regantes.git</text>
+        <text>metering</text>
       </register>
       <register name="/" type="4">
         <text>fulgurit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgImZ1bGd1cml0LXJlZ2FudGVzIjogImdpdCtzc2g6Ly9naXRAODkuMTE1LjIzOC42MjoxMDkyMi9zaW1vYy9mdWxndXJpdF9yZWdhbnRlcy5naXQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2hlbignL29yZ2FuaXphdGlvbnMvOm9yZ2FuaXphdGlvbklkLzpmYWNpbGl0eUlkL21ldGVyaW5nLycsIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAncmVsYXRpdmUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2hlbignL2xhbmQvJywgewo=</text>
       </register>
       <register name="q" type="4">
         <text>f.maj$2F'wy3w'awwvi'p4j0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9mIHRoZSBzb25nCg==</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBSZWdhbnRlc0xhbmRpbmdQYWdlKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBSZWdhbnRlc0xhbmRpbmdQYWdlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgImZ1bGd1cml0LXJlZ2FudGVzIjogImdpdCtzc2g6Ly9naXRAODkuMTE1LjIzOC42MjoxMDkyMi9zaW1vYy9mdWxndXJpdF9yZWdhbnRlcy5naXQiLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAncmVsYXRpdmUnLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9mIHRoZSBzb25nCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnRlbnRkZAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>frontend config files now on project root
 
 moved pakage.json, babel and webpack to root to avoid duplication and
 work with external imports</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vc3JjL3JlcG9ydHMvUmVwb3J0c0xhbmRpbmdQYWdlLmpzeAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJ1dHRvbiBuZy1jbGljaz0iRGV2Q3RybC50ZXN0UHJpbnQoKSI+Y2xpY2sgbWUgdG8gcHJpbnQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
