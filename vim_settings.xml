@@ -122,16 +122,21 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520424516561">
+      <file name="/Dummy.txt" timestamp="1520435942765">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="56" />
-        <mark key="." line="0" column="56" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/setup.py" timestamp="1519239224474">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1520436304319">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1518619038550">
         <mark key="[" line="109" column="14" />
@@ -332,13 +337,13 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>fulgurit-frontend</text>
+        <text>integrates with abm frontend</text>
       </register>
       <register name="/" type="4">
         <text>RegantesLandingPage</text>
       </register>
-      <register name="0" type="4">
-        <text>ReportsLandingPage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBSZWdhbnRlc0xhbmRpbmdQYWdlKQo=</text>
       </register>
       <register name="1" type="4">
         <text>],
