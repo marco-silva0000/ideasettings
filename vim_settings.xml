@@ -21,11 +21,11 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/fixtures/start.json" timestamp="1520331114067">
-        <mark key="[" line="152" column="17" />
-        <mark key="]" line="152" column="18" />
-        <mark key="." line="152" column="18" />
-        <mark key="^" line="152" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/fixtures/start.json" timestamp="1520444240270">
+        <mark key="[" line="163" column="18" />
+        <mark key="]" line="163" column="31" />
+        <mark key="." line="163" column="31" />
+        <mark key="^" line="163" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0001_initial.py" timestamp="1519833391559">
         <mark key="[" line="66" column="69" />
@@ -99,7 +99,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1520441394565">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1520444396226">
         <mark key="[" line="3" column="63" />
         <mark key="]" line="1" column="58" />
         <mark key="." line="3" column="66" />
@@ -122,7 +122,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520435942765">
+      <file name="/Dummy.txt" timestamp="1520444650534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -337,13 +337,24 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>src/irrigators/landingPage.jsx</text>
+        <text>moves angular app packaging files to its folder</text>
       </register>
       <register name="/" type="4">
         <text>RegantesLandingPage</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2lzdHJhdGlvbkRldGFpbCBmcm9tICcuL3NyYy9pcnJpZ2F0b3JzL3JlZ2lzdHJhdGlvbkRldGFpbCcK</text>
+      <register name="0" type="4">
+        <text>,
+{
+ &quot;model&quot;: &quot;organizations.apps&quot;,
+ &quot;pk&quot;: 15,
+ &quot;fields&quot;: {
+  &quot;appname&quot;: &quot;abmira&quot;,
+  &quot;app_url&quot;: &quot;abmira&quot;,
+  &quot;display_name&quot;: &quot;_abmira_&quot;,
+  &quot;icon&quot;: &quot;abm.png&quot;,
+  &quot;description&quot;: &quot;abm temp app&quot;
+ }
+}</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
@@ -389,7 +400,7 @@ work with external imports</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -423,9 +434,9 @@ work with external imports</text>
         <entry>RegantesLandingPage</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>set relativenumber=rnu</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
