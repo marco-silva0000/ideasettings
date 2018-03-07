@@ -194,6 +194,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" timestamp="1520428334867">
+        <mark key="[" line="274" column="17" />
+        <mark key="]" line="274" column="17" />
+        <mark key="." line="274" column="18" />
+        <mark key="^" line="163" column="22" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="18" />
@@ -326,7 +332,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>fulgurit-frontend</text>
       </register>
       <register name="/" type="4">
         <text>RegantesLandingPage</text>
@@ -334,38 +340,48 @@
       <register name="0" type="4">
         <text>ReportsLandingPage</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAncmVsYXRpdmUnLAo=</text>
+      <register name="1" type="4">
+        <text>],
+                // the</text>
       </register>
       <register name="q" type="4">
-        <text>f.maj$2F'wy3w'awwvi'p4j0</text>
+        <keys>
+          <key char="51" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9mIHRoZSBzb25nCg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAncmVsYXRpdmUnLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIG9mIHRoZSBzb25nCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnRlbnRkZAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>frontend config files now on project root
 
 moved pakage.json, babel and webpack to root to avoid duplication and
 work with external imports</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vc3JjL3JlcG9ydHMvUmVwb3J0c0xhbmRpbmdQYWdlLmpzeAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vc3JjL3JlcG9ydHMvUmVwb3J0c0xhbmRpbmdQYWdlLmpzeAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJ1dHRvbiBuZy1jbGljaz0iRGV2Q3RybC50ZXN0UHJpbnQoKSI+Y2xpY2sgbWUgdG8gcHJpbnQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
