@@ -1,0 +1,231 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/.virtualenvs/simocplusdjango1.9" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/.virtualenvs/simocplusdjango1.9/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/.virtualenvs/pontorisonteDjango1.6" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/.virtualenvs/pontorisonteDjango1.6/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/.virtualenvs/mysite" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/.virtualenvs/mysite/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/.virtualenvs/myservices" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/.virtualenvs/myservices/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/MyServices" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (fulgurit_regantes-QP1aHMC2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14+" />
+      <homePath value="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/208919263" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/fulgurit_regantes" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (fulgurit_fieldwork-tVat8cmf)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14+" />
+      <homePath value="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/122158077" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/fulgurit_fieldwork" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (simoc-plus-XGZukjQK)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14+" />
+      <homePath value="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/28692785" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/simoc-plus" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (fulgurit_sensoring-lTF-FBw-)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14+" />
+      <homePath value="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-2056782318" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/fulgurit_sensoring" />
+    </jdk>
+  </component>
+</application>
