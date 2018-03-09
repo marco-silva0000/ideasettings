@@ -40,6 +40,12 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/serializers.py" timestamp="1520595364630">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/services/CropsService.js" timestamp="1520597189702">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="55" />
+      </file>
       <file name="/index.stories.js" timestamp="1520511062768">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="107" column="116" />
@@ -69,13 +75,6 @@
       <file name="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/views.py" timestamp="1520596404965">
         <mark key="'" line="77" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1520444344227">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="23" />
@@ -102,13 +101,6 @@
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" timestamp="1520443975482">
-        <mark key="'" line="174" column="28" />
-        <mark key="[" line="178" column="70" />
-        <mark key="]" line="178" column="74" />
-        <mark key="." line="178" column="74" />
-        <mark key="^" line="178" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
         <mark key="[" line="12" column="5" />
@@ -175,23 +167,16 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520331401047">
-        <mark key="'" line="2" column="11" />
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="29" />
-        <mark key="." line="89" column="29" />
-        <mark key="^" line="89" column="22" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1520351183986">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="50" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520597035418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1520597207577">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/crops/serializers.py" timestamp="1520596629855">
         <mark key="'" line="20" column="18" />
@@ -363,7 +348,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>By</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -417,7 +402,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -452,8 +437,8 @@
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
