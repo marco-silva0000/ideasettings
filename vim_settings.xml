@@ -9,8 +9,8 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1520595435758">
-        <mark key="'" line="1021" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" timestamp="1520682364821">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1519754989612">
         <mark key="[" line="0" column="0" />
@@ -40,37 +40,8 @@
         <mark key="]" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1520676564293" />
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0001_initial.py" timestamp="1519833391559">
-        <mark key="[" line="66" column="69" />
-        <mark key="]" line="66" column="76" />
-        <mark key="." line="66" column="76" />
-        <mark key="^" line="66" column="76" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit-frontend/appES6/index.js" timestamp="1520350880348">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="61" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/serializers.py" timestamp="1520595364630">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/package.json" timestamp="1520359605629">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="74" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/main.js" timestamp="1519848727298">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/land.html" timestamp="1520443696988">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/services/CropsService.js" timestamp="1520597189702">
         <mark key="[" line="17" column="50" />
@@ -106,6 +77,83 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/views.py" timestamp="1520596404965">
         <mark key="'" line="77" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" timestamp="1518440467796">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/models.py" timestamp="1520595016108">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="72" />
+        <mark key="." line="14" column="56" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/urls.py" timestamp="1520596397090">
+        <mark key="'" line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/urls.py" timestamp="1520596950424">
+        <mark key="'" line="8" column="67" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/.eslintrc.json" timestamp="1520615578263">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/controllers/environmentalController.js" timestamp="1520682014717">
+        <mark key="'" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/package.json" timestamp="1520340067008">
+        <mark key="[" line="73" column="11" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
+        <mark key="^" line="73" column="36" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1520595435758">
+        <mark key="'" line="1021" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1520676564293" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0001_initial.py" timestamp="1519833391559">
+        <mark key="[" line="66" column="69" />
+        <mark key="]" line="66" column="76" />
+        <mark key="." line="66" column="76" />
+        <mark key="^" line="66" column="76" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit-frontend/appES6/index.js" timestamp="1520350880348">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="61" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/package.json" timestamp="1520359605629">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="74" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/main.js" timestamp="1519848727298">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/land.html" timestamp="1520443696988">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" timestamp="1519828895280">
         <mark key="[" line="11" column="18" />
@@ -168,41 +216,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" timestamp="1518440467796">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1520441491475">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/models.py" timestamp="1520595016108">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="72" />
-        <mark key="." line="14" column="56" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/urls.py" timestamp="1520596397090">
-        <mark key="'" line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/urls.py" timestamp="1520596950424">
-        <mark key="'" line="8" column="67" />
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/.eslintrc.json" timestamp="1520615578263">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/webpack.config.js" timestamp="1519849899333">
         <mark key="[" line="10" column="23" />
@@ -210,11 +228,8 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" timestamp="1520681977669">
+        <mark key="'" line="53" column="96" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/landingPage.jsx" timestamp="1519848786064">
         <mark key="[" line="8" column="40" />
@@ -235,21 +250,8 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/package.json" timestamp="1520340067008">
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="36" />
-        <mark key="." line="73" column="36" />
-        <mark key="^" line="73" column="36" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
-      <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" />
-      <jump line="175" column="65" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
-      <jump line="174" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
-      <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="43" column="5" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="71" column="31" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
       <jump line="93" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
       <jump line="103" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
       <jump line="108" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
@@ -343,6 +345,13 @@
       <jump line="267" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/tasks.py" />
       <jump line="268" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/.eslintrc.json" />
+      <jump line="107" column="113" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
+      <jump line="28" column="92" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
+      <jump line="42" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
+      <jump line="49" column="64" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
+      <jump line="53" column="96" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
+      <jump line="14" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/controllers/environmentalController.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -352,7 +361,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>icon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3JvcCc6IHBhcmNlbC5jcm9wX25hbWUsCg==</text>
@@ -407,16 +416,14 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>icon</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>icon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmlxdWVfdG9nZXRoZXJcPg==</entry>
-        <entry>field</entry>
         <entry>day_point</entry>
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDx3cml0ZVN5c3RlbUNvbmZpZ0xvZ1w+</entry>
@@ -435,6 +442,8 @@
         <entry encoding="base64">XDxDcm9wc0J5RmFjaWxpdHlQZXJtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxDcm9wU2VyaWFsaXplclw+</entry>
         <entry>list</entry>
+        <entry encoding="base64">XDxpY29uXD4=</entry>
+        <entry>icon</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
