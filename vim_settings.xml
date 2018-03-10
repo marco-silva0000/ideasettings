@@ -9,8 +9,8 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" timestamp="1520682364821">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" timestamp="1520684024948">
+        <mark key="'" line="129" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1519754989612">
         <mark key="[" line="0" column="0" />
@@ -40,8 +40,8 @@
         <mark key="]" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" timestamp="1520683160210">
-        <mark key="'" line="181" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" timestamp="1520683979522">
+        <mark key="'" line="415" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/serializers.py" timestamp="1520595364630">
         <mark key="'" line="0" column="0" />
@@ -225,6 +225,9 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/views.py" timestamp="1520684186351">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/webpack.config.js" timestamp="1519849899333">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="33" />
@@ -255,19 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="108" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="111" column="70" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="114" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="117" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="122" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="133" column="27" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="140" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="165" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="166" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="243" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="244" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="1199" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="1248" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="2974" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
@@ -355,6 +345,19 @@
       <jump line="14" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/controllers/environmentalController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
       <jump line="181" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="416" column="52" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="421" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="387" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="398" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="400" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="401" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="415" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="51" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
+      <jump line="53" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
+      <jump line="59" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
+      <jump line="124" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
+      <jump line="129" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -364,7 +367,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>current_po</text>
+        <text>limitation_type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3JvcCc6IHBhcmNlbC5jcm9wX25hbWUsCg==</text>
@@ -419,18 +422,14 @@
       </register>
     </registers>
     <search>
-      <last-search>current_po</last-search>
+      <last-search>limitation_type</last-search>
       <last-offset />
-      <last-pattern>current_po</last-pattern>
+      <last-pattern>limitation_type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
-        <entry encoding="base64">XDx3cml0ZVN5c3RlbUNvbmZpZ0xvZ1w+</entry>
-        <entry>alerts</entry>
-        <entry>dev</entry>
         <entry encoding="base64">XDxSZWdhbmRlc0xhbmRpbmdQYWdlXD4=</entry>
         <entry>abm</entry>
         <entry encoding="base64">XDxTZWxlY3RcPg==</entry>
@@ -445,8 +444,12 @@
         <entry encoding="base64">XDxDcm9wU2VyaWFsaXplclw+</entry>
         <entry>list</entry>
         <entry encoding="base64">XDxpY29uXD4=</entry>
-        <entry>icon</entry>
         <entry>current_po</entry>
+        <entry>current_limitation</entry>
+        <entry>icon</entry>
+        <entry>limitation_value</entry>
+        <entry>value</entry>
+        <entry>limitation_type</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
