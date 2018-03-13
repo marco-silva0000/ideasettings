@@ -180,11 +180,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520957973659">
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520961213408">
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="132" column="20" />
+        <mark key="^" line="132" column="4" />
+        <mark key="." line="132" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1520351183986">
         <mark key="[" line="6" column="21" />
@@ -192,11 +192,11 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520956034289">
+      <file name="/Dummy.txt" timestamp="1520961359860">
         <mark key="a" line="0" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/crops/serializers.py" timestamp="1520596629855">
         <mark key="'" line="20" column="18" />
@@ -367,10 +367,10 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>Vj</text>
+        <text encoding="base64">ZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>limitation_type</text>
+        <text>REST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cm91dGVyID0gRGVmYXVsdFJvdXRlcigpCnJvdXRlci5yZWdpc3RlcihyJ2xhbmQnLCBMYW5kVmlld1NldCkK</text>
@@ -425,15 +425,14 @@
       </register>
     </registers>
     <search>
-      <last-search>limitation_type</last-search>
+      <last-search>REST</last-search>
       <last-offset />
-      <last-pattern>limitation_type</last-pattern>
+      <last-pattern>REST</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWdhbmRlc0xhbmRpbmdQYWdlXD4=</entry>
         <entry>abm</entry>
         <entry encoding="base64">XDxTZWxlY3RcPg==</entry>
         <entry>dis</entry>
@@ -453,6 +452,7 @@
         <entry>limitation_value</entry>
         <entry>value</entry>
         <entry>limitation_type</entry>
+        <entry>REST</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
