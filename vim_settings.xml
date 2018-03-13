@@ -33,11 +33,17 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" timestamp="1520683979522">
         <mark key="'" line="415" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1520957414711">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/admin.py" timestamp="1520962046372">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1520963002436">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/serializers.py" timestamp="1520595364630">
         <mark key="'" line="0" column="0" />
@@ -117,11 +123,11 @@
         <mark key="]" line="289" column="21" />
         <mark key="." line="289" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/api.py" timestamp="1520957809065">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="8" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/api.py" timestamp="1520962883011">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/package.json" timestamp="1520340067008">
         <mark key="[" line="73" column="11" />
@@ -138,11 +144,11 @@
         <mark key="." line="66" column="76" />
         <mark key="^" line="66" column="76" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/urls.py" timestamp="1520958067148">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/urls.py" timestamp="1520962734833">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/main.js" timestamp="1519848727298">
         <mark key="[" line="0" column="26" />
@@ -180,7 +186,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520961213408">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520961587923">
         <mark key="[" line="132" column="20" />
         <mark key="]" line="132" column="20" />
         <mark key="^" line="132" column="4" />
@@ -207,6 +213,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1520962586718">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1518619038550">
         <mark key="[" line="109" column="14" />
         <mark key="]" line="109" column="33" />
@@ -219,7 +231,7 @@
         <mark key="." line="15" column="65" />
         <mark key="^" line="15" column="65" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/data/importer.py" timestamp="1520879293000">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/data/importer.py" timestamp="1520962519748">
         <mark key="'" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/my_serializer.py" timestamp="1518609058543">
@@ -367,16 +379,16 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWQg</text>
+        <text>NIF</text>
       </register>
       <register name="/" type="4">
         <text>REST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyID0gRGVmYXVsdFJvdXRlcigpCnJvdXRlci5yZWdpc3RlcihyJ2xhbmQnLCBMYW5kVmlld1NldCkK</text>
+        <text encoding="base64">Y2xhc3MgTGFuZFZpZXdTZXQodmlld3NldHMuTW9kZWxWaWV3U2V0KToKICAgIHF1ZXJ5c2V0ID0gTGFuZC5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gTGFuZFNlcmlhbGl6ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm91dGVyID0gRGVmYXVsdFJvdXRlcigpCnJvdXRlci5yZWdpc3RlcihyJ2xhbmQnLCBMYW5kVmlld1NldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnQ2xpZW50RXh0cmFEYXRhLk11bHRpcGxlT2JqZWN0c1JldHVybmVkJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,28 +409,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnQ2xpZW50RXh0cmFEYXRhLkRvZXNOb3RFeGlzdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TGFuZFNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnTXVsdGlwbGVPYmplY3RzUmV0dXJuZWQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFdvcmtQbGFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnRG9lc05vdEV4aXN0JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbWVhZGRvbiA9IFRpbWVBZGRvblNlcmlhbGl6ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uYWRkb24gPSBMb2NhdGlvbkFkZG9uU2VyaWFsaXplcigpCg==</text>
+        <text encoding="base64">cm91dGVyID0gRGVmYXVsdFJvdXRlcigpCnJvdXRlci5yZWdpc3RlcihyJ2xhbmQnLCBMYW5kVmlld1NldCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgey8qe2VtcHR5Um93cyA+IDAgJiYgKCovfQogICAgICAgICAgICAgICAgICAgIHsvKjxUYWJsZVJvdyBzdHlsZT17eyBoZWlnaHQ6IDQ5ICogZW1wdHlSb3dzIH19PiovfQogICAgICAgICAgICAgICAgICAgICAgey8qPFRhYmxlQ2VsbCBjb2xTcGFuPXs2fSAvPiovfQogICAgICAgICAgICAgICAgICAgIHsvKjwvVGFibGVSb3c+Ki99CiAgICAgICAgICAgICAgICAgIHsvKil9Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICB7LypPTERTIFNUVUZGKi99CiAgICAgICAgey8qPENhcmQ+Ki99CiAgICAgICAgICB7Lyo8Q2FyZENvbnRlbnQ+Ki99CiAgICAgICAgICAgIHsvKnt0aGlzLnN0YXRlLnNlbGVjdGVkUmVwb3J0ID8gPFJlcG9ydERldGFpbCBpc0RpYWxvZ09wZW49e3RoaXMuc3RhdGUuaXNEaWFsb2dPcGVufSovfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qcmVwb3J0PXt0aGlzLnN0YXRlLnNlbGVjdGVkUmVwb3J0fSovfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qY2xvc2VEaWFsb2c9e3RoaXMuY2xvc2VEaWFsb2d9Lz4gOiAnJ30qL30KICAgICAgICAgICAgey8qPExpc3Q+Ki99CiAgICAgICAgICAgICAgey8qe3RoaXMuc3RhdGUucmVwb3J0TGlzdC5tYXAoKHJlcG9ydCkgPT4geyovfQogICAgICAgICAgICAgICAgey8qcmV0dXJuICgqL30KICAgICAgICAgICAgICAgICAgey8qPExpc3RJdGVtIGtleT17cmVwb3J0LmlkfSBidXR0b24gb25DbGljaz17KCkgPT4gdGhpcy5vcGVuRGlhbG9nKHJlcG9ydCl9PiovfQogICAgICAgICAgICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtjbGFzc2VzLmNvbHVtbn0+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuaGVhZGluZ30+IHtyZXBvcnQuY3JlYXRpb25fZGF0ZS5mb3JtYXQoJ1lZWVkvTU0vREQnKX08L1R5cG9ncmFwaHk+Ki99CiAgICAgICAgICAgICAgICAgICAgey8qPC9kaXY+Ki99CiAgICAgICAgICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuY29sdW1ufT4qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjxUeXBvZ3JhcGh5IGNsYXNzTmFtZT17Y2xhc3Nlcy5oZWFkaW5nfT4ge3JlcG9ydC5jcmVhdG9yLm5hbWV9PC9UeXBvZ3JhcGh5PiovfQogICAgICAgICAgICAgICAgICAgIHsvKjwvZGl2PiovfQogICAgICAgICAgICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtjbGFzc2VzLmNvbHVtbn0+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuaGVhZGluZ30+IHtyZXBvcnQucGFyY2VsfTwvVHlwb2dyYXBoeT4qL30KICAgICAgICAgICAgICAgICAgICB7Lyo8L2Rpdj4qL30KICAgICAgICAgICAgICAgICAgey8qPC9MaXN0SXRlbT4qL30KICAgICAgICAgICAgICAgIHsvKikqL30KICAgICAgICAgICAgICB7Lyp9KX0qL30KICAgICAgICAgICAgey8qPC9MaXN0PiovfQogICAgICAgICAgey8qPC9DYXJkQ29udGVudD4qL30KICAgICAgICB7Lyo8L0NhcmQ+Ki99Cg==</text>
+        <text encoding="base64">TGFuZFNlcmlhbGl6ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFdvcmtQbGFuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
