@@ -129,10 +129,8 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1521021371761">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1521027760535">
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1518619038550">
         <mark key="[" line="109" column="14" />
@@ -328,6 +326,9 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBrZXkgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9NjQpCg==</text>
+      </register>
       <register name="-" type="4">
         <text>c.multiple</text>
       </register>
@@ -383,7 +384,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAnY2VkLmRvZXNub3RleGlzdCcK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>registers</text>
       </register>
     </registers>
     <search>
@@ -420,6 +421,7 @@
         <entry>set relativenumber=rnu</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>registers</entry>
       </history-cmd>
       <history-expr />
       <history-input />
