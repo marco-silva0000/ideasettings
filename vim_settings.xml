@@ -21,6 +21,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/cropDetails.jsx" timestamp="1521046370482">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0001_initial.py" timestamp="1519833391559">
         <mark key="[" line="66" column="69" />
         <mark key="]" line="66" column="76" />
@@ -97,7 +103,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1521042753618">
+      <file name="/dummy.sql" timestamp="1521045948819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520961587923">
@@ -116,11 +122,9 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521044578744">
-        <mark key="a" line="0" column="5" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1521046543570">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" timestamp="1520957271611">
         <mark key="[" line="12" column="0" />
@@ -349,8 +353,9 @@
       <register name="0" type="4">
         <text>super(MyModelType, self).__getattribute__(name)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>adds api.py and serializers.py, also adds DRF and drf_yasg to installed
+apps</text>
       </register>
       <register name="q" type="4">
         <text>__getattr__</text>
@@ -359,25 +364,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
+        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdoZXJlLCBjaGVja2luZyBmaWVsZHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCdvbiBuZXcgZ2V0YXR0cicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdoZXJlLCBjaGVja2luZyBmaWVsZHMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
