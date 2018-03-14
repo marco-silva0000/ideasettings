@@ -39,12 +39,11 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1521042766782">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1521044568648">
         <mark key="'" line="11" column="43" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="18" column="48" />
-        <mark key="^" line="18" column="48" />
-        <mark key="." line="18" column="48" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/main.js" timestamp="1519848727298">
         <mark key="[" line="0" column="26" />
@@ -117,11 +116,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520961359860">
+      <file name="/Dummy.txt" timestamp="1521044578744">
         <mark key="a" line="0" column="5" />
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" timestamp="1520957271611">
         <mark key="[" line="12" column="0" />
@@ -342,7 +341,7 @@
         <text>__getattr__</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>lands</text>
       </register>
       <register name="/" type="4">
         <text>build_unknown_field</text>
@@ -351,34 +350,34 @@
         <text>super(MyModelType, self).__getattribute__(name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>__getattr__</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdoZXJlLCBjaGVja2luZyBmaWVsZHMnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCdvbiBuZXcgZ2V0YXR0cicpCg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuRklFTERTKQo=</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdoZXJlLCBjaGVja2luZyBmaWVsZHMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCdvbiBuZXcgZ2V0YXR0cicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
