@@ -39,12 +39,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1520964611804">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1521031832156">
         <mark key="'" line="11" column="43" />
         <mark key="[" line="15" column="33" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/main.js" timestamp="1519848727298">
         <mark key="[" line="0" column="26" />
@@ -64,9 +64,10 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="55" />
       </file>
-      <file name="/Django Console" timestamp="1520964516238">
+      <file name="/Django Console" timestamp="1521031795488">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/django/contrib/gis/db/models/__init__.py" timestamp="1521029997575" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" timestamp="1519750180435">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="19" />
@@ -129,8 +130,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1521027760535">
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1521031786797">
+        <mark key="'" line="6" column="36" />
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+        <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1518619038550">
         <mark key="[" line="109" column="14" />
@@ -171,7 +176,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1520965426699">
+      <file name="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1521028639298">
         <mark key="'" line="1276" column="34" />
         <mark key="[" line="1166" column="0" />
         <mark key="]" line="1166" column="0" />
@@ -194,6 +199,9 @@
         <mark key="]" line="7" column="51" />
         <mark key="^" line="7" column="51" />
         <mark key="." line="8" column="43" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/django/db/models/base.py" timestamp="1521029640778">
+        <mark key="'" line="470" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit-frontend/appES6/src/reports/ReportsList.jsx" timestamp="1520955820628">
         <mark key="'" line="262" column="23" />
@@ -221,9 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15865" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="16000" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="16488" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="17664" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="17665" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="17749" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
@@ -321,67 +326,55 @@
       <jump line="1272" column="8" filename="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="1161" column="33" filename="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="1276" column="34" filename="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="13" column="31" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" />
+      <jump line="470" column="25" filename="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/django/db/models/base.py" />
+      <jump line="6" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9NjQpCg==</text>
+      <register name="*" type="4">
+        <text>__getattr__</text>
       </register>
       <register name="-" type="4">
-        <text>c.multiple</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>build_unknown_field</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGhhc2F0dHIobW9kZWxfY2xhc3MsIGZpZWxkX25hbWUpOgogICAgICAgICAgICByZXR1cm4gc2VsZi5idWlsZF9wcm9wZXJ0eV9maWVsZChmaWVsZF9uYW1lLCBtb2RlbF9jbGFzcykK</text>
+      <register name="0" type="4">
+        <text>super(MyModelType, self).__getattribute__(name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="120" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-        </keys>
+        <text>__getattr__</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhdHRyIGluIHNlbGYuRklFTERTCg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHN1cGVyKENsaWVudCwgc2VsZikuX19oYXNhdHRyX18oYXR0cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX19oYXNhdHRyX18oc2VsZiwgYXR0cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdoZXJlLCBjaGVja2luZyBmaWVsZHMnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ2hleSBtb20nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCdvbiBuZXcgZ2V0YXR0cicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuRklFTERTKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE15TWV0YU1vZGVsKG1vZGVscy5Nb2RlbCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAnYy5tdWx0aXBsZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAnY2VkLmRvZXNub3RleGlzdCcK</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
