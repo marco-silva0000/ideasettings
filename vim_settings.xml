@@ -177,11 +177,11 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1520441491475">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1521049764749">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="82" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1521028639298">
         <mark key="'" line="1276" column="34" />
@@ -345,44 +345,44 @@
         <text>__getattr__</text>
       </register>
       <register name="-" type="4">
-        <text>lands</text>
+        <text>rrrrrrrrr</text>
       </register>
       <register name="/" type="4">
         <text>build_unknown_field</text>
       </register>
       <register name="0" type="4">
-        <text>super(MyModelType, self).__getattribute__(name)</text>
+        <text>regantes</text>
       </register>
-      <register name="1" type="4">
-        <text>adds api.py and serializers.py, also adds DRF and drf_yasg to installed
-apps</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJmdWxndXJpdC1yZWdhbnRlcyI6ICJmaWxlOi9ob21lL21zaWx2YS9QeWNoYXJtUHJvamVjdHMvZnVsZ3VyaXRfcmVnYW50ZXMiLAo=</text>
       </register>
       <register name="q" type="4">
         <text>__getattr__</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>adds api.py and serializers.py, also adds DRF and drf_yasg to installed
+apps</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
+        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlLl9fZ2V0YXR0cl9fID0gbmV3X2dldGF0dHIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
+        <text encoding="base64">ICAgIE15TW9kZWxUeXBlID0gdHlwZShzdHIoJ015TW9kZWxUeXBlJyksIChNb2RlbEJhc2UsICksIHt9KQoKICAgIGRlZiBuZXdfZ2V0YXR0cihzZWxmLCBuYW1lKToKICAgICAgICBwcmludCAoJ29uIG5ldyBnZXRhdHRyJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihNeU1vZGVsVHlwZSwgc2VsZikuX19nZXRhdHRyaWJ1dGVfXyhuYW1lKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvciBhcyBhdHRyaWJ1dGVfZXJyb3I6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBuYW1lIGluIHNlbGYuRklFTERTCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIGF0dHJpYnV0ZV9lcnJvcgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdoZXJlLCBjaGVja2luZyBmaWVsZHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
