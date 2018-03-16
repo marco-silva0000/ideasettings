@@ -122,11 +122,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1520351258089">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="3" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1521111159303">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit-frontend/appES6/webpack.config.js" timestamp="1520350919640">
         <mark key="[" line="11" column="0" />
@@ -145,7 +146,7 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520617077455">
+      <file name="/Dummy.txt" timestamp="1521111161775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -271,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/models.py" />
       <jump line="469" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="277" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="20" column="6" filename="/sideDrawer.jsx" />
@@ -371,19 +371,20 @@
       <jump line="85" column="20" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
       <jump line="197" column="74" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
       <jump line="83" column="2" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
+      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>John Doe</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>:s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dEZpZWxkCiAgICAgICAgICBpZD0ibmFtZSIKICAgICAgICAgIGxhYmVsPSJOYW1lIgogICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUubmFtZX0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnbmFtZScpfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICBCdWlsZGluZ0xpc3QsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
