@@ -69,10 +69,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521202474846">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521205112320">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
         <mark key="[" line="2" column="19" />
@@ -97,14 +97,6 @@
         <mark key="]" line="178" column="74" />
         <mark key="." line="178" column="74" />
         <mark key="^" line="178" column="74" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" timestamp="1520429430420">
-        <mark key="a" line="140" column="61" />
-        <mark key="'" line="142" column="12" />
-        <mark key="[" line="140" column="23" />
-        <mark key="]" line="140" column="24" />
-        <mark key="^" line="140" column="24" />
-        <mark key="." line="140" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
         <mark key="[" line="12" column="5" />
@@ -177,12 +169,12 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1521111159303">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="62" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1521205180058">
+        <mark key="'" line="0" column="60" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit-frontend/appES6/webpack.config.js" timestamp="1520350919640">
         <mark key="[" line="11" column="0" />
@@ -251,7 +243,7 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/landingPage.jsx" timestamp="1519848786064">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/landingPage.jsx" timestamp="1521205192623">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="7" column="51" />
         <mark key="^" line="7" column="51" />
@@ -271,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="469" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="277" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="20" column="6" filename="/sideDrawer.jsx" />
       <jump line="98" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/api.py" />
@@ -371,6 +362,7 @@
       <jump line="83" column="2" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
       <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" />
       <jump line="15" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" />
+      <jump line="0" column="60" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -386,49 +378,58 @@
         <text encoding="base64">ICBCdWlsZGluZ0xpc3QsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAnZnVsZ3VyaXQtcmVnYW50ZXMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMvZnJvbnRlbmQvaW5kZXgiOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="120" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBSZWdpc3RyYXRpb25MaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpbj0ibm9ybWFsIgo=</text>
+        <text encoding="base64">ICBSZWdpc3RyYXRpb25EZXRhaWwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy50ZXh0RmllbGR9Cg==</text>
+        <text encoding="base64">ICBCdWlsZGluZ0RldGFpbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9yQm91bmRhcnkgZnJvbSAncmVhY3QtZXJyb3ItYm91bmRhcnknCg==</text>
+        <text encoding="base64">ICBCdWlsZGluZ0xpc3QsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1aWxkaW5nRGV0YWlsIGJ1aWxkaW5nPXt0aGlzLnN0YXRlLnNlbGVjdGVkQnVpbGRpbmd9IC8+Cg==</text>
+        <text encoding="base64">ICBMYW5kaW5nUGFnZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
