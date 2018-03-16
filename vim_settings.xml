@@ -74,11 +74,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521190889866">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521194634025">
         <mark key="'" line="15" column="27" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
         <mark key="^" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
@@ -139,11 +139,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/package.json" timestamp="1521193853427">
-        <mark key="[" line="82" column="22" />
-        <mark key="]" line="82" column="26" />
-        <mark key="." line="82" column="26" />
-        <mark key="^" line="82" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/package.json" timestamp="1521195160271">
+        <mark key="[" line="82" column="30" />
+        <mark key="]" line="82" column="30" />
+        <mark key="." line="82" column="30" />
+        <mark key="^" line="82" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/land.html" timestamp="1520443696988">
         <mark key="[" line="1" column="37" />
@@ -160,12 +160,12 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1521190593186">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1521195075199">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="3" column="48" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" timestamp="1520957948943">
         <mark key="[" line="17" column="55" />
@@ -375,7 +375,7 @@
         <text>__getattr__</text>
       </register>
       <register name="-" type="4">
-        <text>dist/RegantesLandingPage</text>
+        <text encoding="base64">QnVpbGRpbmdMaXN0LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdWlsZGluZ0xpc3RcPg==</text>
@@ -384,34 +384,34 @@
         <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQpzdG9yaWVzT2YoJ1JlZ2lzdHJhdGlvbkxpc3QnLCBtb2R1bGUpLmFkZCgnUmVnaXN0cmF0aW9uTGlzdCcsICgpID0+IDxSZWdpc3RyYXRpb25MaXN0IC8+KQpzdG9yaWVzT2YoJ05ld1JlZ2lzdHJhdGlvbkRpYWxvZycsIG1vZHVsZSkuYWRkKCdOZXdSZWdpc3RyYXRpb25EaWFsb2cnLCAoKSA9PiA8TmV3UmVnaXN0cmF0aW9uRGlhbG9nIC8+KQpzdG9yaWVzT2YoJ0F1dG9Db21wbGV0ZVNlbGVjdCcsIG1vZHVsZSkuYWRkKCdBdXRvQ29tcGxldGVTZWxlY3QnLCAoKSA9PiA8QXV0b0NvbXBsZXRlU2VsZWN0IC8+KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExhbmRpbmdQYWdlCg==</text>
       </register>
       <register name="q" type="4">
         <text>__getattr__</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">ZXhwb3J0IFJlZ2lzdHJhdGlvbkRldGFpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">ZXhwb3J0IEJ1aWxkaW5nTGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwpzdG9yaWVzT2YoJ0xhbmRpbmdQYWdlJywgbW9kdWxlKS5hZGQoJ0xhbmRpbmdQYWdlJywgKCkgPT4gKDxMYW5kaW5nUGFnZSAvPikpCnN0b3JpZXNPZignUmVnaXN0cmF0aW9uTGlzdCcsIG1vZHVsZSkuYWRkKCdSZWdpc3RyYXRpb25MaXN0JywgKCkgPT4gPFJlZ2lzdHJhdGlvbkxpc3QgLz4pCg==</text>
+        <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQpzdG9yaWVzT2YoJ1JlZ2lzdHJhdGlvbkxpc3QnLCBtb2R1bGUpLmFkZCgnUmVnaXN0cmF0aW9uTGlzdCcsICgpID0+IDxSZWdpc3RyYXRpb25MaXN0IC8+KQo=</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdBdXRvQ29tcGxldGVTZWxlY3QnLCBtb2R1bGUpLmFkZCgnQXV0b0NvbXBsZXRlU2VsZWN0JywgKCkgPT4gPEF1dG9Db21wbGV0ZVNlbGVjdCAvPikK</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdOZXdSZWdpc3RyYXRpb25EaWFsb2cnLCBtb2R1bGUpLmFkZCgnTmV3UmVnaXN0cmF0aW9uRGlhbG9nJywgKCkgPT4gPE5ld1JlZ2lzdHJhdGlvbkRpYWxvZyAvPikK</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtCdWlsZGluZ0xpc3R9IGZyb20gJ2Z1bGd1cml0LXJlZ2FudGVzJwo=</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwpzdG9yaWVzT2YoJ0xhbmRpbmdQYWdlJywgbW9kdWxlKS5hZGQoJ0xhbmRpbmdQYWdlJywgKCkgPT4gKDxMYW5kaW5nUGFnZSAvPikpCnN0b3JpZXNPZignUmVnaXN0cmF0aW9uTGlzdCcsIG1vZHVsZSkuYWRkKCdSZWdpc3RyYXRpb25MaXN0JywgKCkgPT4gPFJlZ2lzdHJhdGlvbkxpc3QgLz4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
