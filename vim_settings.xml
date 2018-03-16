@@ -63,11 +63,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521218668009">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="42" />
-        <mark key="^" line="27" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521221898099">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
         <mark key="[" line="2" column="19" />
@@ -164,7 +164,7 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521218742003">
+      <file name="/Dummy.txt" timestamp="1521222110336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -341,16 +341,16 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>BuildingDetail</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>LandingPage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBMYW5kaW5nUGFnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
+        <text encoding="base64">aW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uLy4uLy4uLy4uL2Z1bGd1cml0X3JlZ2FudGVzL2Zyb250ZW5kL3NyYy9pcnJpZ2F0b3JzL2xhbmRpbmdQYWdlLmpzeCcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,28 +380,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2lzdHJhdGlvbkxpc3QgZnJvbSAnLi9yZWdpc3RyYXRpb25MaXN0LmpzeCcK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uL25vZGVfbW9kdWxlcy9mdWxndXJpdC1yZWdhbnRlcy9mcm9udGVuZC9zcmMvaXJyaWdhdG9ycy9sYW5kaW5nUGFnZS5qc3gnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpCg==</text>
+        <text encoding="base64">aW1wb3J0IFJlZ2lzdHJhdGlvbkxpc3QgZnJvbSAnLi9yZWdpc3RyYXRpb25MaXN0LmpzeCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8UmVnaXN0cmF0aW9uTWFwLz4sCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVuZGVyKAo=</text>
+        <text encoding="base64">ICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NLCB7cmVuZGVyfSBmcm9tICdyZWFjdC1kb20nCg==</text>
+        <text encoding="base64">ICA8UmVnaXN0cmF0aW9uTWFwLz4sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2lzdHJhdGlvbk1hcCBmcm9tICcuL3JlZ2lzdHJhdGlvbk1hcC5qc3gnCg==</text>
+        <text encoding="base64">cmVuZGVyKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJlZ2lzdHJhdGlvbk1hcCAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NLCB7cmVuZGVyfSBmcm9tICdyZWFjdC1kb20nCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
