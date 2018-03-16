@@ -74,12 +74,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521194634025">
-        <mark key="'" line="15" column="27" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="17" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521198364672">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
         <mark key="[" line="2" column="19" />
@@ -182,11 +181,11 @@
         <mark key="^" line="132" column="4" />
         <mark key="." line="132" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1520351183986">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1521198687214">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
         <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="50" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1521133597165">
         <mark key="[" line="0" column="0" />
@@ -375,7 +374,7 @@
         <text>__getattr__</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QnVpbGRpbmdMaXN0LCA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdWlsZGluZ0xpc3RcPg==</text>
@@ -384,34 +383,34 @@
         <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQpzdG9yaWVzT2YoJ1JlZ2lzdHJhdGlvbkxpc3QnLCBtb2R1bGUpLmFkZCgnUmVnaXN0cmF0aW9uTGlzdCcsICgpID0+IDxSZWdpc3RyYXRpb25MaXN0IC8+KQpzdG9yaWVzT2YoJ05ld1JlZ2lzdHJhdGlvbkRpYWxvZycsIG1vZHVsZSkuYWRkKCdOZXdSZWdpc3RyYXRpb25EaWFsb2cnLCAoKSA9PiA8TmV3UmVnaXN0cmF0aW9uRGlhbG9nIC8+KQpzdG9yaWVzT2YoJ0F1dG9Db21wbGV0ZVNlbGVjdCcsIG1vZHVsZSkuYWRkKCdBdXRvQ29tcGxldGVTZWxlY3QnLCAoKSA9PiA8QXV0b0NvbXBsZXRlU2VsZWN0IC8+KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExhbmRpbmdQYWdlCg==</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
       <register name="q" type="4">
         <text>__getattr__</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IFJlZ2lzdHJhdGlvbkRldGFpbAo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBMYW5kaW5nUGFnZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IEJ1aWxkaW5nTGlzdAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExhbmRpbmdQYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
+        <text encoding="base64">ZXhwb3J0IFJlZ2lzdHJhdGlvbkRldGFpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQo=</text>
+        <text encoding="base64">ZXhwb3J0IEJ1aWxkaW5nTGlzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwpzdG9yaWVzT2YoJ0xhbmRpbmdQYWdlJywgbW9kdWxlKS5hZGQoJ0xhbmRpbmdQYWdlJywgKCkgPT4gKDxMYW5kaW5nUGFnZSAvPikpCnN0b3JpZXNPZignUmVnaXN0cmF0aW9uTGlzdCcsIG1vZHVsZSkuYWRkKCdSZWdpc3RyYXRpb25MaXN0JywgKCkgPT4gPFJlZ2lzdHJhdGlvbkxpc3QgLz4pCg==</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
