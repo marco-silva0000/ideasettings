@@ -42,12 +42,6 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/serializers.py" timestamp="1521044568648">
-        <mark key="'" line="11" column="43" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/services/CropsService.js" timestamp="1521112753389">
         <mark key="[" line="17" column="50" />
         <mark key="]" line="17" column="50" />
@@ -69,6 +63,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/tasks.py" timestamp="1521457175720">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/urls.py" timestamp="1520958031427">
         <mark key="[" line="25" column="0" />
@@ -103,12 +101,6 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit-frontend/appES6/src/reports/ReportsList.jsx" timestamp="1520955820628">
-        <mark key="'" line="262" column="23" />
-        <mark key="[" line="289" column="21" />
-        <mark key="]" line="289" column="21" />
-        <mark key="." line="289" column="21" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/api.py" timestamp="1520962883011">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="40" />
@@ -124,10 +116,11 @@
         <mark key="." line="73" column="36" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1521456191850">
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1521457178155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/package.json" timestamp="1521138156848">
         <mark key="[" line="39" column="0" />
@@ -244,12 +237,6 @@
         <mark key="]" line="39" column="79" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1521028639298">
-        <mark key="'" line="1276" column="34" />
-        <mark key="[" line="1166" column="0" />
-        <mark key="]" line="1166" column="0" />
-        <mark key="." line="1166" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/webpack.config.js" timestamp="1519849899333">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="33" />
@@ -260,6 +247,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1521458264692">
+        <mark key="'" line="28" column="11" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/landingPage.jsx" timestamp="1519848786064">
         <mark key="[" line="8" column="40" />
@@ -279,20 +272,6 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1521456985792" />
     </filemarks>
     <jumps>
-      <jump line="22367" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="23854" column="141" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="24035" column="62" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="24595" column="66" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="24598" column="60" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="24615" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="24823" column="67" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="25987" column="92" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="28044" column="3" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="29003" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="29762" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="29959" column="113" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="31306" column="303" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="34395" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="34425" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="34435" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
       <jump line="34450" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
@@ -379,69 +358,80 @@
       <jump line="8" column="2" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" />
       <jump line="15" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" />
       <jump line="277" column="17" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/dist/RegantesLandingPage.js" />
+      <jump line="81" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="82" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="19" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="80" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="84" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="28" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="3" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="22" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="25" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="16" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="23" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="29" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
-      <register name="*" type="4">
-        <text>__getattr__</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>LandingPage</text>
+        <text encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGFwcC50YXNrKCkK</text>
+        <text encoding="base64">ZnJvbSBmdWxndXJpdC5lcXVpcG1lbnRfZGF0YWxvZy5tb2RlbHMgaW1wb3J0IEluc3RhbnREYXRhbG9nSGlzdG9yeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">ICAgIGlmIHNhdmU6Cg==</text>
       </register>
-      <register name="q" type="4">
-        <text>__getattr__</text>
+      <register name="q" type="2">
+        <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBMYW5kaW5nUGFnZSkK</text>
+        <text encoding="base64">ZnJvbSBmdWxndXJpdC5lcXVpcG1lbnRfZGF0YWxvZy5tb2RlbHMgaW1wb3J0IEluc3RhbnREYXRhbG9nSGlzdG9yeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExhbmRpbmdQYWdlCg==</text>
+        <text encoding="base64">ZnJvbSBmdWxndXJpdC5lcXVpcG1lbnRzLm1vZGVscyBpbXBvcnQgRXF1aXBtZW50RGF0YSwgUHJvY2Vzc2VkRGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IFJlZ2lzdHJhdGlvbkRldGFpbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IEJ1aWxkaW5nTGlzdAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3Rvcmllc09mKCdMYW5kaW5nUGFnZScsIG1vZHVsZSkuYWRkKCdMYW5kaW5nUGFnZScsICgpID0+ICg8TGFuZGluZ1BhZ2UgLz4pKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZX0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZGluZ1BhZ2UnLCBMYW5kaW5nUGFnZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExhbmRpbmdQYWdlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IFJlZ2lzdHJhdGlvbkRldGFpbAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IEJ1aWxkaW5nTGlzdAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgUmVnaXN0cmF0aW9uTGlzdH0gZnJvbSAiZnVsZ3VyaXQtcmVnYW50ZXMiOwo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search>LandingPage</last-search>
+      <last-search encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern>LandingPage</last-pattern>
+      <last-pattern encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RegantesLandingPage</entry>
-        <entry>coor</entry>
-        <entry>Coo</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxQYXJjZWxOZXdTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxDcm9wc0J5RmFjaWxpdHlQZXJtaXNzaW9uc1w+</entry>
@@ -459,6 +449,9 @@
         <entry encoding="base64">XDxTVkdFcXVpcG1lbnREZXRhaWxMYW5kaW5nXD4=</entry>
         <entry encoding="base64">XDxCdWlsZGluZ0xpc3RcPg==</entry>
         <entry>LandingPage</entry>
+        <entry encoding="base64">XDxQcm9jZXNzZWREYXRhXD4=</entry>
+        <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
+        <entry encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
