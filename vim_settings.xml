@@ -96,6 +96,7 @@
         <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/models.py" timestamp="1521536835227" />
+      <file name="/usr/lib/python2.7/json/__init__.py" timestamp="1521564340657" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="18" />
@@ -129,7 +130,8 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" timestamp="1521561326896">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" timestamp="1521564313937">
+        <mark key="'" line="66" column="103" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="103" column="52" />
       </file>
@@ -281,22 +283,17 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1521564089424">
-        <mark key="p" line="484" column="6" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="578" column="74" />
-        <mark key="]" line="578" column="74" />
-        <mark key="." line="578" column="74" />
-        <mark key="^" line="578" column="76" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1521564962880">
+        <mark key="p" line="485" column="6" />
+        <mark key="a" line="581" column="0" />
+        <mark key="'" line="694" column="39" />
+        <mark key="[" line="597" column="90" />
+        <mark key="]" line="597" column="90" />
+        <mark key="^" line="589" column="105" />
+        <mark key="." line="597" column="92" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/.eslintrc.json" />
-      <jump line="107" column="113" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
-      <jump line="28" column="92" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
-      <jump line="42" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
-      <jump line="49" column="64" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
-      <jump line="53" column="96" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
       <jump line="14" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/controllers/environmentalController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/serializers.py" />
       <jump line="181" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/models.py" />
@@ -391,6 +388,12 @@
       <jump line="682" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="581" column="84" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="580" column="72" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="705" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="724" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="578" column="69" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="701" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="66" column="103" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -400,43 +403,43 @@
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>self.eq_data.id</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
       </register>
       <register name="0" type="4">
-        <text>'sectorTemperatureUpdate'</text>
+        <text>equipment_data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaXQgd2lsbCBiZSB1c2VkIHRvIHVwZGF0ZSBlbnZpcm9uZW1udGFsIGNvbnRyb2wgZnJvbnQgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcm9tIGFwcHMuZW52aXJvbm1lbnRhbF9jb250cm9sLm1vZGVscyBpbXBvcnQgCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PWxhbWJkYSB4OiB4Lmlzb2Zvcm1hdCgpKX0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29kZSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6IHNlbGYuZXFfZGF0YS5sYXRlc3RfaW5zdF9tZWFzdXJlbWVudH19LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRvIGF2b2lkIHRoZSBhbGwgdGhlIG90aGVyIGlmcyBpbiB0aGUgY2FzZSBvZiB0aGUgY29kZSBiZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaWQnKS5nZXQoZXF1aXBtZW50X19lcXVpcG1lbnRkYXRhX19pZD1zZWxmLmVxX2RhdGEuaWQpWydpZCddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29kZSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCc6IFNjcmVlbi5vYmplY3RzLnZhbHVlcygK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBFTlZfQ09OVFJPTF9BUFA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7J3dpbmRvd1Bvc2l0aW9uVXBkYXRlJzogeyd0eXBlJzogJ3NjcmVlbicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwKCdhcHBzX2VudkNvbnRyb2xfJyArIHN0cihlcV9kYXRhLmVxdWlwbWVudC5mYWNpbGl0eS5pZCkpLnNlbmQoeyd0ZXh0JzoganNvbi5kdW1wcygK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PWxhbWJkYSB4OiB4Lmlzb2Zvcm1hdCgpKX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2VuZCh7J3RleHQnOiBqc29uLmR1bXBzKHsnVXBkYXRlUHJvY2Vzc2VkRGF0YSc6IH0pfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6IHNlbGYuZXFfZGF0YS5sYXRlc3RfaW5zdF9tZWFzdXJlbWVudH19LAo=</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
