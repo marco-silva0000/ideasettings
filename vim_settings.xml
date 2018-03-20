@@ -64,6 +64,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/tasks.py" timestamp="1521562511224">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="45" column="88" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/urls.py" timestamp="1520958031427">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="29" column="26" />
@@ -98,6 +102,12 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/utilities.py" timestamp="1521562754574">
+        <mark key="[" line="342" column="22" />
+        <mark key="]" line="342" column="25" />
+        <mark key="^" line="342" column="25" />
+        <mark key="." line="342" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/api.py" timestamp="1520962883011">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="40" />
@@ -119,13 +129,19 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" timestamp="1521461506143">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" timestamp="1521561326896">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="103" column="52" />
       </file>
       <file name="/package.json" timestamp="1521138156848">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="79" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1521561998805">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0001_initial.py" timestamp="1519833391559">
         <mark key="[" line="66" column="69" />
@@ -265,59 +281,16 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1521462081166">
-        <mark key="'" line="572" column="46" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1521564089424">
+        <mark key="p" line="484" column="6" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="578" column="74" />
+        <mark key="]" line="578" column="74" />
+        <mark key="." line="578" column="74" />
+        <mark key="^" line="578" column="76" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36997" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="37015" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="9" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" />
-      <jump line="142" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/Gruntfile.js" />
-      <jump line="98" column="10" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="99" column="27" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="100" column="27" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="101" column="20" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="154" column="32" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="35" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="65" column="19" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="69" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/models.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/serializers.py" />
-      <jump line="822" column="27" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="1015" column="45" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="1016" column="15" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="1017" column="16" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="1021" column="16" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="64" column="14" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="35" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="37" column="22" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="42" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="48" column="23" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="54" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="60" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="117" column="23" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="126" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="31" column="22" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="13" column="31" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/urls.py" />
-      <jump line="77" column="39" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/views.py" />
-      <jump line="84" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="99" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="114" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="131" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="16" column="30" filename="$USER_HOME$/PycharmProjects/fulgurit_sensoring/sensoring/serializers.py" />
-      <jump line="20" column="18" filename="$USER_HOME$/.virtualenvs/fulgurit_sensoring-lTF-FBw-/local/lib/python2.7/site-packages/crops/serializers.py" />
-      <jump line="33" column="53" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="72" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/views.py" />
-      <jump line="8" column="67" filename="$USER_HOME$/PycharmProjects/fulgurit_crops/crops/urls.py" />
-      <jump line="267" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/tasks.py" />
-      <jump line="268" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/.eslintrc.json" />
       <jump line="107" column="113" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
       <jump line="28" column="92" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/windowedSector.html" />
@@ -374,6 +347,50 @@
       <jump line="83" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="24" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="504" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="485" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="170" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="413" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="565" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="563" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="667" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="915" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="280" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="328" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="330" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="361" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="668" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="673" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="691" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="694" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="706" column="67" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="710" column="67" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="717" column="56" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="722" column="56" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="746" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="755" column="67" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="760" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="765" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="767" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="769" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="776" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="777" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="779" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="785" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="789" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="793" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="805" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="810" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="828" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="838" column="67" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="276" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="574" column="101" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="671" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="682" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="581" column="84" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -383,60 +400,57 @@
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</text>
+        <text>settings</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+      <register name="0" type="4">
+        <text>'sectorTemperatureUpdate'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaXQgd2lsbCBiZSB1c2VkIHRvIHVwZGF0ZSBlbnZpcm9uZW1udGFsIGNvbnRyb2wgZnJvbnQgZW5kCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV9tb250aGx5KHByb2Nlc3NlZF9kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV9zdGF0ZV9ib29sKHByb2Nlc3NlZF9kYXRhLCByZWd1bGFyPUZhbHNlKQogICAgICAgICAgICBlbGlmIHByb2Nlc3NlZF9kYXRhLnZhcmlhYmxlX3R5cGUuY29kZSA9PSAnc3RiJzoKICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV9zdGF0ZV9ib29sKHByb2Nlc3NlZF9kYXRhKQogICAgICAgICAgICBlbGlmIHByb2Nlc3NlZF9kYXRhLnZhcmlhYmxlX3R5cGUuY29kZSA9PSAnc3QnOgogICAgICAgICAgICAgICAgc2VsZi5zYXZlX3ZhbHVlKHByb2Nlc3NlZF9kYXRhKQogICAgICAgICAgICBlbGlmIHByb2Nlc3NlZF9kYXRhLnZhcmlhYmxlX3R5cGUuY29kZSA9PSAncGNzdCc6CiAgICAgICAgICAgICAgICBzZWxmLnNhdmVfY29zdChwcm9jZXNzZWRfZGF0YSkKICAgICAgICAgICAgZWxpZiBwcm9jZXNzZWRfZGF0YS52YXJpYWJsZV90eXBlLmNvZGUgPT0gJ3BjYWMnOgogICAgICAgICAgICAgICAgc2VsZi5zYXZlX2RhaWx5X2Nvc3QocHJvY2Vzc2VkX2RhdGEpCiAgICAgICAgICAgIGVsaWYgcHJvY2Vzc2VkX2RhdGEudmFyaWFibGVfdHlwZS5jb2RlID09ICdkYWNjJzoKICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV9kYWlseShwcm9jZXNzZWRfZGF0YSkKICAgICAgICAgICAgZWxpZiBwcm9jZXNzZWRfZGF0YS52YXJpYWJsZV90eXBlLmNvZGUgPT0gJ3dhY2MnOgogICAgICAgICAgICAgICAgc2VsZi5zYXZlX3dlZWtseShwcm9jZXNzZWRfZGF0YSkKICAgICAgICAgICAgZWxpZiBwcm9jZXNzZWRfZGF0YS52YXJpYWJsZV90eXBlLmNvZGUgPT0gJ21hY2MnOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29kZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBwcm9jZXNzZWRfZGF0YS52YXJpYWJsZV90eXBlLmNvZGUgPT0gJ3N0YmknOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRvIGF2b2lkIHRoZSBhbGwgdGhlIG90aGVyIGlmcyBpbiB0aGUgY2FzZSBvZiB0aGUgY29kZSBiZSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV92YWx1ZShwcm9jZXNzZWRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29kZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBwcm9jZXNzZWRfZGF0YS52YXJpYWJsZV90eXBlLmNvZGUgPT0gJ2Fscm0nOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBFTlZfQ09OVFJPTF9BUFA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV92YWx1ZShwcm9jZXNzZWRfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBwcm9jZXNzZWRfZGF0YS52YXJpYWJsZV90eXBlLmNvZGUgPT0gJ3ZhbCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2F2ZV9hY2N1bXVsYXRlZDIocHJvY2Vzc2VkX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2VuZCh7J3RleHQnOiBqc29uLmR1bXBzKHsnVXBkYXRlUHJvY2Vzc2VkRGF0YSc6IH0pfSkK</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</last-search>
+      <last-search>settings</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</last-pattern>
+      <last-pattern>settings</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>source</entry>
-        <entry encoding="base64">XDxQYXJjZWxOZXdTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxDcm9wc0J5RmFjaWxpdHlQZXJtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxDcm9wU2VyaWFsaXplclw+</entry>
         <entry>list</entry>
         <entry encoding="base64">XDxpY29uXD4=</entry>
@@ -454,6 +468,9 @@
         <entry encoding="base64">XDxQcm9jZXNzZWREYXRhXD4=</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
         <entry encoding="base64">XDxJbnN0YW50RGF0YWxvZ0hpc3RvcnlcPg==</entry>
+        <entry>Processed</entry>
+        <entry>conf</entry>
+        <entry>settings</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
