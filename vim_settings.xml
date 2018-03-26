@@ -40,6 +40,9 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/urls.py" timestamp="1522067403822">
         <mark key="'" line="14" column="74" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsLandingPage.jsx" timestamp="1522075668780">
+        <mark key="'" line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/admin.py" timestamp="1520962046372">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="33" />
@@ -51,13 +54,6 @@
         <mark key="]" line="17" column="50" />
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="54" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/tasks/tasks.py" timestamp="1521568136508">
-        <mark key="'" line="34" column="5" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" timestamp="1521571527746">
         <mark key="[" line="445" column="103" />
@@ -74,15 +70,8 @@
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/urls.py" timestamp="1522055813667">
         <mark key="'" line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521200015658">
-        <mark key="'" line="3" column="39" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" timestamp="1522055828463">
-        <mark key="'" line="43" column="29" />
+        <mark key="'" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1520330288645">
         <mark key="[" line="2" column="19" />
@@ -101,13 +90,6 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" timestamp="1522066014994">
-        <mark key="'" line="77" column="39" />
-        <mark key="[" line="132" column="86" />
-        <mark key="]" line="132" column="32" />
-        <mark key="." line="132" column="32" />
-        <mark key="^" line="132" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/utilities.py" timestamp="1521562754574">
         <mark key="[" line="342" column="22" />
@@ -193,26 +175,30 @@
       <file name="/Django Console" timestamp="1522059872459">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/data/report_list.json" timestamp="1522075654485">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="105" />
+        <mark key="^" line="0" column="105" />
+        <mark key="." line="0" column="105" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" timestamp="1519828895280">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" timestamp="1521195075199">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/api.py" timestamp="1522067618234" />
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" timestamp="1522066884857">
-        <mark key="'" line="145" column="36" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="'" line="152" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" timestamp="1522077462290">
+        <mark key="'" line="272" column="52" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="258" column="40" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/index.stories.js" timestamp="1522077386833">
+        <mark key="'" line="16" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/regantes/settings.py" timestamp="1520961587923">
         <mark key="[" line="132" column="20" />
@@ -220,14 +206,14 @@
         <mark key="^" line="132" column="4" />
         <mark key="." line="132" column="20" />
       </file>
-      <file name="/report.py" timestamp="1522073724123" />
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1521199544536">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522074201770">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/data/exampleGenericReport.json" timestamp="1522077383631" />
+      <file name="/Dummy.txt" timestamp="1522076724044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -237,13 +223,6 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1521031786797">
-        <mark key="'" line="6" column="36" />
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="13" />
-        <mark key="." line="49" column="13" />
-        <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/local/lib/python2.7/site-packages/rest_framework/relations.py" timestamp="1522059663125">
         <mark key="'" line="229" column="34" />
@@ -269,16 +248,23 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsList.jsx" timestamp="1522076689752">
+        <mark key="'" line="238" column="35" />
+        <mark key="[" line="238" column="32" />
+        <mark key="]" line="238" column="33" />
+        <mark key="." line="238" column="34" />
+        <mark key="^" line="237" column="15" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1521138160656">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="79" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/package.json" timestamp="1522066949656">
-        <mark key="[" line="75" column="11" />
-        <mark key="]" line="75" column="19" />
-        <mark key="^" line="75" column="19" />
-        <mark key="." line="75" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/package.json" timestamp="1522076130328">
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="72" column="63" />
+        <mark key="^" line="72" column="63" />
+        <mark key="." line="72" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/webpack.config.js" timestamp="1519849899333">
         <mark key="[" line="10" column="23" />
@@ -290,13 +276,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1521571509008">
-        <mark key="'" line="95" column="4" />
-        <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="49" />
-        <mark key="." line="83" column="49" />
-        <mark key="^" line="83" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/landingPage.jsx" timestamp="1519848786064">
         <mark key="[" line="8" column="40" />
@@ -315,23 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1276" column="34" filename="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="13" column="31" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" />
-      <jump line="470" column="25" filename="$USER_HOME$/.virtualenvs/fulgurit_regantes-QP1aHMC2/local/lib/python2.7/site-packages/django/db/models/base.py" />
-      <jump line="6" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" />
-      <jump line="7" column="66" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/stories/index.stories.js" />
-      <jump line="22" column="74" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/stories/index.stories.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/index.js" />
-      <jump line="15" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" />
-      <jump line="277" column="17" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/dist/RegantesLandingPage.js" />
-      <jump line="81" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="82" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="19" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="80" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="84" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="28" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="3" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="22" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="25" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="15" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="16" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
@@ -415,6 +377,23 @@
       <jump line="256" column="32" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
       <jump line="77" column="39" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
       <jump line="14" column="74" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/urls.py" />
+      <jump line="16" column="75" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/index.stories.js" />
+      <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsLandingPage.jsx" />
+      <jump line="86" column="49" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsList.jsx" />
+      <jump line="237" column="22" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsList.jsx" />
+      <jump line="281" column="40" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsList.jsx" />
+      <jump line="238" column="35" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsList.jsx" />
+      <jump line="115" column="29" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="265" column="20" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="266" column="9" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="268" column="10" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="6" column="57" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="267" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="10" column="34" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="274" column="10" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="11" column="57" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="272" column="52" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,63 +403,57 @@
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>fixes parcel post problems and adds timestamp and generic componen</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text encoding="base64">XDxGaWxlRG93bmxvYWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnRfdHlwZSA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0KGFwcF9sYWJlbD0nc2Vuc29yaW5nJywgbW9kZWw9J3BhcmNlbCcpCiAgICAgICAgICAgICAgICBjb21wb25lbnRfb2JqLmNvbXBvbmVudGZvcmVpZ25rZXlfc2V0LmNyZWF0ZShjb250ZW50X3R5cGU9Y29udGVudF90eXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2JqZWN0X2lkPWNvbXBvbmVudFsncGFyY2VsX2lkJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9J3BhcmNlbCcpCg==</text>
+      <register name="0" type="4">
+        <text>{i18n.t('common</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEaWFsb2dBY3Rpb25zfSBmcm9tICJtYXRlcmlhbC11aS9EaWFsb2cvaW5kZXgiOwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0YXR0cihvYmosICdrZXknLCAnaW1hZ2UnKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">W3siaWQiOjEyNCwiY3JlYXRvciI6CiAgICAgICAgICAgIHsicGsiOjEsIm5hbWUiOiJFZHVhcmRvIE1hcnRpbnMiLCJjcmVhdGlvbl9kYXRlIjoiMjAxOC0wMS0xOFQxODowNDowOVoiLCJwaG9uZW51bWJlciI6IjkxOTAxNDU4MSIsInVzZXIiOgogICAgICAgICAgICAgeyJmaXJzdF9uYW1lIjoiRWR1YXJkbyBNYXJ0aW5zIiwibGFzdF9uYW1lIjoiIiwidXNlcm5hbWUiOiJlbWFydGlucyIsImVtYWlsIjoiZW1hcnRpbnNAaHViZWwucHQifX0sCiAgICAgICAgICAgICAgImNvbXBvbmVudHMiOlt7ImNvbXBvbmVudCI6MzA0LCJrZXkiOiJpbWFnZSIsImZpbGVfdXVpZCI6IjIwMTgwMzAxXzEwNTczNV9zY3JlZW5zaG90XzIwMTgwMjEzLTE5MjU0N3BuZyIsIl9maWxlIjoiaHR0cDovLzE3Mi4xMDQuMjMzLjg1L21lZGlhL3JlcG9ydF8xMjQvZmllbGR3b3JrdGVtcDIwMTgwMzAxXzEwNTczNV9zY3JlZW5zaG90XzIwMTgwMjEzLTE5MjU0N3BuZyIsInVwbG9hZGVkX2F0IjoiMjAxOC0wMy0wMVQxMToyNDoyMy40NzMzMzFaIiwidHlwZSI6ImltYWdlIn0KICAgICAgICAgICAgICAseyJwYXJjZWwiOiJNSUxIT1RvZGFzIiwidGltZXN0YW1wIjoiMjAxOC0wMy0wMVQxMToyNDoxMC4yODQ2MDBaIiwib2JzIjoidGVzdCIsIm5vIjoxLjAsIm5vX2N0cmwiOjEuMCwiayI6MS4wLCJrX2N0cmwiOjEuMCwiY2EiOjEuMCwiY2FfY3RybCI6MS4wLCJuYSI6MS4wLCJuYV9jdHJsIjoxLjAsImNlIjoxLjAsImNlX2N0cmwiOjEuMCwicGgiOjEuMCwicGhfY3RybCI6MS4wLCJicml4IjoxLjAsImJyaXhfY3RybCI6MS4wLCJpZCI6MzAzLCJ0eXBlIjoic2VpdmEifV0sImNyZWF0aW9uX2RhdGUiOiIyMDE4LTAzLTAxVDExOjI0OjEwLjI3MzQyNloiLCJrZXkiOiJIVlJlcG9ydCJ9LAoKCiAgICAgICAgeyJpZCI6MTIzLCJjcmVhdG9yIjp7InBrIjoxLCJuYW1lIjoiRWR1YXJkbyBNYXJ0aW5zIiwiY3JlYXRpb25fZGF0ZSI6IjIwMTgtMDEtMThUMTg6MDQ6MDlaIiwicGhvbmVudW1iZXIiOiI5MTkwMTQ1ODEiLCJ1c2VyIjp7ImZpcnN0X25hbWUiOiJFZHVhcmRvIE1hcnRpbnMiLCJsYXN0X25hbWUiOiIiLCJ1c2VybmFtZSI6ImVtYXJ0aW5zIiwiZW1haWwiOiJlbWFydGluc0BodWJlbC5wdCJ9fSwiY29tcG9uZW50cyI6W3sibm90ZSI6Ink3aGhoaiIsInR5cGUiOiJ0ZXh0In0seyJub3RlIjoiMmVydSBldCIsInR5cGUiOiJ0ZXh0In0seyJjb21wb25lbnQiOjMwMCwia2V5IjoiaW1hZ2UiLCJmaWxlX3V1aWQiOiIyMDE4MDMwMV8xMTEzMzNfMTUxOTkwMjgwNDc2NGpwZyIsIl9maWxlIjoiaHR0cDovLzE3Mi4xMDQuMjMzLjg1L21lZGlhL3JlcG9ydF8xMjQvZmllbGR3b3JrdGVtcDIwMTgwMzAxXzEwNTczNV9zY3JlZW5zaG90XzIwMTgwMjEzLTE5MjU0N3BuZyIsInVwbG9hZGVkX2F0IjoiMjAxOC0wMy0wMVQxMToxNzoxNS43NDQxNjNaIiwidHlwZSI6ImltYWdlIn0seyJjb21wb25lbnQiOjI5OSwia2V5IjoiaW1hZ2UiLCJmaWxlX3V1aWQiOiIyMDE4MDMwMV8xMTEzNTZfMjAxODAyMjdfMTYzNTU1XzE1MTk2NjU0MTEzMzBqcGciLCJfZmlsZSI6Imh0dHA6Ly8xNzIuMTA0LjIzMy44NS9tZWRpYS9yZXBvcnRfMTI0L2ZpZWxkd29ya3RlbXAyMDE4MDMwMV8xMDU3MzVfc2NyZWVuc2hvdF8yMDE4MDIxMy0xOTI1NDdwbmciLCJ1cGxvYWRlZF9hdCI6IjIwMTgtMDMtMDFUMTE6MTc6MTIuODE3MzU3WiIsInR5cGUiOiJpbWFnZSJ9LHsicGFyY2VsIjoiTUlMSE9Ub2RhcyIsInRpbWVzdGFtcCI6IjIwMTgtMDMtMDFUMTE6MTU6MjUuMTIxNjg3WiIsIm9icyI6IkkgZG9uJ3Qga25vdyBpZiB0aGlzIGlzIGluIEVuZ2xpc2ggdGhlIGVuZCBvZiB0aGUgbW92aWUiLCJubyI6Mi4wLCJub19jdHJsIjoyLjIsImsiOjMuMCwia19jdHJsIjoyLjAsImNhIjowLjAsImNhX2N0cmwiOjAuMCwibmEiOjAuMCwibmFfY3RybCI6MC4wLCJjZSI6MC4wLCJjZV9jdHJsIjowLjAsInBoIjowLjAsInBoX2N0cmwiOjAuMCwiYnJpeCI6MC4wLCJicml4X2N0cmwiOjAuMCwiaWQiOjI5OCwidHlwZSI6InNlaXZhIn1dLCJjcmVhdGlvbl9kYXRlIjoiMjAxOC0wMy0wMVQxMToxNToyNS4xMDQyMzFaIiwia2V5IjoiSFZSZXBvcnQifV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfa2V5KHNlbGYsIG9iaik6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0YXR0cihvYmosICdrZXknLCAnaW1hZ2UnKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtleSA9IHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXJNZXRob2RGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfa2V5KHNlbGYsIG9iaik6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdnZW5lcmljIGRldGVjdGVkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
+        <text encoding="base64">ICAgIGtleSA9IHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXJNZXRob2RGaWVsZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSW5zaWRlIFJlcG9ydENvbXBvbmVudFNlbGVjdG9yU2VyaWFsaXplciAtIHRvX3JlcHJlc2VudGF0aW9uJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdnZW5lcmljIGRldGVjdGVkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdnZW5lcmljIGRldGVjdGVkJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxGaWxlRG93bmxvYWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxGaWxlRG93bmxvYWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>current_po</entry>
-        <entry>current_limitation</entry>
-        <entry>icon</entry>
-        <entry>limitation_value</entry>
-        <entry>value</entry>
-        <entry>limitation_type</entry>
         <entry>REST</entry>
         <entry>build_unknown_field</entry>
         <entry encoding="base64">XDxTVkdFcXVpcG1lbnREZXRhaWxMYW5kaW5nXD4=</entry>
@@ -495,6 +468,12 @@
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry encoding="base64">XDxfdXBkYXRlX2FsYXJtXD4=</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>Badge</entry>
+        <entry encoding="base64">XDxEaWxvZ0FjdGlvblw+</entry>
+        <entry encoding="base64">XDxEaWFsb2dBY3Rpb25zXD4=</entry>
+        <entry>tran</entry>
+        <entry>i18n</entry>
+        <entry encoding="base64">XDxGaWxlRG93bmxvYWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
@@ -538,6 +517,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
