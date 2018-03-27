@@ -9,11 +9,6 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/.babelrc" timestamp="1522068212385">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="/a.dummy" timestamp="1519754989612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -25,11 +20,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/stories/index.stories.js" timestamp="1521193901330">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/cropDetails.jsx" timestamp="1521046370482">
         <mark key="[" line="5" column="52" />
@@ -106,12 +96,12 @@
         <mark key="." line="28" column="50" />
         <mark key="^" line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" timestamp="1522148302420">
-        <mark key="'" line="65" column="18" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="52" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" timestamp="1522158282216">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" timestamp="1522147684909">
         <mark key="'" line="291" column="11" />
@@ -279,10 +269,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522151512414">
+      <file name="/Dummy.txt" timestamp="1522158324982">
+        <mark key="a" line="0" column="7" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/setup.py" timestamp="1519239224474">
         <mark key="[" line="10" column="10" />
@@ -327,11 +318,6 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/package.json" timestamp="1521138160656">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="79" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/package.json" timestamp="1522076130328">
         <mark key="[" line="72" column="41" />
         <mark key="]" line="72" column="63" />
@@ -343,11 +329,6 @@
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/.storybook/config.js" timestamp="1521191109153">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1521571509008">
         <mark key="'" line="95" column="4" />
@@ -475,8 +456,8 @@
       <jump line="70" column="15" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
       <jump line="69" column="14" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
       <jump line="288" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
-      <jump line="67" column="18" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
       <jump line="290" column="25" filename="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/local/lib/python2.7/site-packages/django/http/response.py" />
+      <jump line="67" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -486,10 +467,10 @@
         <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>SIM-1355</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text encoding="base64">XDxqc29uX3RvX3BkZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWxpZiBfdHlwZSA9PSAnZ2VuZXJpYyc6CiAgICAgICAgICAgICAgICBpZiBjb21wb25lbnRfb2JqIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50X29iaiA9IHJlcG9ydC5yZXBvcnRjb21wb25lbnRfc2V0LmNyZWF0ZShrZXk9X3R5cGUpCiAgICAgICAgICAgICAgICBjbHMuZ2VuZXJhdGVfbXVsdGlwbGUoY29tcG9uZW50WydkYXRhJ10sIHJlcG9ydCwgY29tcG9uZW50X29iaj1jb21wb25lbnRfb2JqKQo=</text>
@@ -542,15 +523,14 @@
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search encoding="base64">XDxqc29uX3RvX3BkZlw+</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern encoding="base64">XDxqc29uX3RvX3BkZlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>REST</entry>
         <entry>build_unknown_field</entry>
         <entry encoding="base64">XDxTVkdFcXVpcG1lbnREZXRhaWxMYW5kaW5nXD4=</entry>
         <entry encoding="base64">XDxCdWlsZGluZ0xpc3RcPg==</entry>
@@ -570,6 +550,7 @@
         <entry>wsgi</entry>
         <entry>main</entry>
         <entry>media</entry>
+        <entry encoding="base64">XDxqc29uX3RvX3BkZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
