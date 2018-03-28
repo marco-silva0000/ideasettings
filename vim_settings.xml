@@ -244,12 +244,12 @@
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" timestamp="1522169121321">
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" timestamp="1522170208087">
         <mark key="'" line="120" column="87" />
-        <mark key="[" line="120" column="82" />
-        <mark key="]" line="115" column="92" />
-        <mark key="^" line="115" column="92" />
-        <mark key="." line="120" column="91" />
+        <mark key="[" line="109" column="39" />
+        <mark key="]" line="109" column="52" />
+        <mark key="^" line="109" column="52" />
+        <mark key="." line="109" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" timestamp="1522077462290">
         <mark key="'" line="286" column="52" />
@@ -269,7 +269,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522168104512">
+      <file name="/Dummy.txt" timestamp="1522170319365">
         <mark key="a" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -463,11 +463,11 @@
       <register name="&quot;" type="4">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5tb2RlbHMgaW1wb3J0IEVxdWlwbWVudERhdGEsIFByb2Nlc3NlZERhdGEK</text>
+      <register name="*" type="4">
+        <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>NotImplementedError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXBvcnRFeHRyYURhdGFTZWxlY3RvclNlcmlhbGl6ZXJcPg==</text>
@@ -476,47 +476,34 @@
         <text encoding="base64">ICAgIAogICAgQHByb3BlcnR5CiAgICBkZWYgZXh0cmFfZGF0YShzZWxmKToKICAgICAgICBpZiBzZWxmLmtleSA9PSBzZWxmLmNvbXBvbmVudC5rZXk6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmNvbXBvbmVudC5leHRyYV9kYXRhCiAgICAgICAgcmV0dXJuIFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="36" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZXh0cmFfY29tcG9uZW50IGluIGluc3RhbmNlLmV4dHJhX2RhdGE6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShpbnN0YW5jZS5jb250ZW50X29iamVjdCkgPT0gUGFyY2VsOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmtleSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4dHJhX2RhdGEgPSBSZXBvcnRDb21wb25lbnRTZWxlY3RvclNlcmlhbGl6ZXIoc291cmNlPScnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IFJlcG9ydENvbXBvbmVudFNlbGVjdG9yU2VyaWFsaXplcihpbnN0YW5jZSkuZGF0YX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gYW5hbHl6ZXMubW9kZWxzIGltcG9ydCAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsndHlwZSc6IGluc3RhbmNlLnR5cGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBhbmFseXplcy5tb2RlbHMgaW1wb3J0ICoK</text>
+        <text encoding="base64">ICAgIGRlZiB0b19yZXByZXNlbnRhdGlvbihzZWxmLCBpbnN0YW5jZSk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgJ2FuYWx5emVzJyBpbiBhcHBzLmFsbF9tb2RlbHM6Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ29tcG9uZW50RXh0cmFEYXRhU2VyaWFsaXplcihzZXJpYWxpemVycy5TZXJpYWxpemVyKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgJ2FuYWx5emVzJyBpbiBhcHBzLmFsbF9tb2RlbHM6CiAgICBmcm9tIGFuYWx5emVzLm1vZGVscyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
