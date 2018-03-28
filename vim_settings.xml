@@ -88,6 +88,12 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="34" column="41" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" timestamp="1522231101907">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="238" column="2" />
+        <mark key="." line="221" column="15" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/mainES6.js" timestamp="1521200015658">
         <mark key="'" line="3" column="39" />
         <mark key="[" line="15" column="25" />
@@ -226,8 +232,12 @@
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" timestamp="1522077462290">
-        <mark key="'" line="286" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" timestamp="1522231392114">
+        <mark key="'" line="87" column="45" />
+        <mark key="[" line="287" column="2" />
+        <mark key="]" line="287" column="2" />
+        <mark key="^" line="278" column="47" />
+        <mark key="." line="287" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/index.stories.js" timestamp="1522077386833">
         <mark key="'" line="16" column="75" />
@@ -244,7 +254,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522229138491">
+      <file name="/Dummy.txt" timestamp="1522230247940">
         <mark key="a" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -333,9 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="779" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="785" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="789" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="793" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="805" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
@@ -433,6 +440,9 @@
       <jump line="157" column="24" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
       <jump line="83" column="53" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
       <jump line="120" column="87" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
+      <jump line="276" column="17" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="87" column="45" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
+      <jump line="30" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -442,58 +452,57 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXBvcnRFeHRyYURhdGFTZWxlY3RvclNlcmlhbGl6ZXJcPg==</text>
+        <text>post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIAogICAgQHByb3BlcnR5CiAgICBkZWYgZXh0cmFfZGF0YShzZWxmKToKICAgICAgICBpZiBzZWxmLmtleSA9PSBzZWxmLmNvbXBvbmVudC5rZXk6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmNvbXBvbmVudC5leHRyYV9kYXRhCiAgICAgICAgcmV0dXJuIFtdCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICsgdGhpcy5wcm9wcy5yZXBvcnQuaWQgKyAnLyc=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShpbnN0YW5jZS5jb250ZW50X29iamVjdCkgPT0gUGFyY2VsOgo=</text>
+        <text encoding="base64">ICAgd2luZG93Lm9wZW4oJ2FwcHMvZmllbGR3b3JrL2FwaS9yZXBvcnQtcGRmLycgKyB0aGlzLnByb3BzLnJlcG9ydC5pZCArICcvJykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgd2luZG93Lm9wZW4oJ2FwcHMvZmllbGR3b3JrL2FwaS9yZXBvcnQtcGRmLycgKyB0aGlzLnByb3BzLnJlcG9ydC5pZCArICcvJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IFJlcG9ydENvbXBvbmVudFNlbGVjdG9yU2VyaWFsaXplcihpbnN0YW5jZSkuZGF0YX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsndHlwZSc6IGluc3RhbmNlLnR5cGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHlwZShpbnN0YW5jZS5jb250ZW50X29iamVjdCkgPT0gUGFyY2VsOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19yZXByZXNlbnRhdGlvbihzZWxmLCBpbnN0YW5jZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ29tcG9uZW50RXh0cmFEYXRhU2VyaWFsaXplcihzZXJpYWxpemVycy5TZXJpYWxpemVyKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IFJlcG9ydENvbXBvbmVudFNlbGVjdG9yU2VyaWFsaXplcihpbnN0YW5jZSkuZGF0YX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXBvcnRFeHRyYURhdGFTZWxlY3RvclNlcmlhbGl6ZXJcPg==</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXBvcnRFeHRyYURhdGFTZWxlY3RvclNlcmlhbGl6ZXJcPg==</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
         <entry>settings</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry encoding="base64">XDxfdXBkYXRlX2FsYXJtXD4=</entry>
@@ -513,6 +522,7 @@
         <entry>from analy</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxSZXBvcnRFeHRyYURhdGFTZWxlY3RvclNlcmlhbGl6ZXJcPg==</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
