@@ -36,6 +36,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/stories/index.stories.js" timestamp="1522316972924" />
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/cropDetails.jsx" timestamp="1521046370482">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="55" />
@@ -287,6 +288,9 @@
         <mark key="^" line="132" column="4" />
         <mark key="." line="132" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/newRegistrationDialog.jsx" timestamp="1522317040379">
+        <mark key="'" line="11" column="7" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1521199544536">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="10" column="38" />
@@ -388,7 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="578" column="69" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="701" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="66" column="103" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" />
       <jump line="34" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/tasks/tasks.py" />
@@ -488,6 +491,7 @@
       <jump line="47" column="34" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
       <jump line="55" column="48" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
       <jump line="318" column="24" filename="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/newRegistrationDialog.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +504,7 @@
         <text>serializers.DateTimeField(read_only=True)</text>
       </register>
       <register name="/" type="4">
-        <text>allApps</text>
+        <text encoding="base64">XDxSZWdpc3RyYXRpb25Dcm9wXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCB2YWx1ZSk6CiAgICAgICAgaW5wdXRfZm9ybWF0cyA9IGdldGF0dHIoc2VsZiwgJ2lucHV0X2Zvcm1hdHMnLCBhcGlfc2V0dGluZ3MuREFURVRJTUVfSU5QVVRfRk9STUFUUykKCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgZGF0ZXRpbWUuZGF0ZSkgYW5kIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBkYXRldGltZS5kYXRldGltZSk6CiAgICAgICAgICAgIHNlbGYuZmFpbCgnZGF0ZScpCgogICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGRhdGV0aW1lLmRhdGV0aW1lKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW5mb3JjZV90aW1lem9uZSh2YWx1ZSkKCiAgICAgICAgZm9yIGlucHV0X2Zvcm1hdCBpbiBpbnB1dF9mb3JtYXRzOgogICAgICAgICAgICBpZiBpbnB1dF9mb3JtYXQubG93ZXIoKSA9PSBJU09fODYwMToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwYXJzZWQgPSBwYXJzZV9kYXRldGltZSh2YWx1ZSkKICAgICAgICAgICAgICAgICAgICBpZiBwYXJzZWQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVuZm9yY2VfdGltZXpvbmUocGFyc2VkKQogICAgICAgICAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwYXJzZWQgPSBzZWxmLmRhdGV0aW1lX3BhcnNlcih2YWx1ZSwgaW5wdXRfZm9ybWF0KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVuZm9yY2VfdGltZXpvbmUocGFyc2VkKQogICAgICAgICAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgaHVtYW5pemVkX2Zvcm1hdCA9IGh1bWFuaXplX2RhdGV0aW1lLmRhdGV0aW1lX2Zvcm1hdHMoaW5wdXRfZm9ybWF0cykKICAgICAgICBzZWxmLmZhaWwoJ2ludmFsaWQnLCBmb3JtYXQ9aHVtYW5pemVkX2Zvcm1hdCkK</text>
@@ -540,15 +544,14 @@
       </register>
     </registers>
     <search>
-      <last-search>allApps</last-search>
+      <last-search encoding="base64">XDxSZWdpc3RyYXRpb25Dcm9wXD4=</last-search>
       <last-offset />
-      <last-pattern>allApps</last-pattern>
+      <last-pattern encoding="base64">XDxSZWdpc3RyYXRpb25Dcm9wXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>wsgi</entry>
         <entry>main</entry>
         <entry>media</entry>
         <entry encoding="base64">XDxqc29uX3RvX3BkZlw+</entry>
@@ -568,6 +571,7 @@
         <entry>context</entry>
         <entry>timestamp</entry>
         <entry>allApps</entry>
+        <entry encoding="base64">XDxSZWdpc3RyYXRpb25Dcm9wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
