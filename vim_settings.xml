@@ -89,6 +89,11 @@
         <mark key="." line="446" column="86" />
         <mark key="^" line="446" column="86" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/BuildingDetail.jsx" timestamp="1522319966229">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1520355030735">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -192,8 +197,12 @@
         <mark key="[" line="1178" column="0" />
         <mark key="]" line="1203" column="52" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" timestamp="1522317870403">
-        <mark key="[" line="196" column="79" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" timestamp="1522320689936">
+        <mark key="'" line="214" column="23" />
+        <mark key="[" line="211" column="17" />
+        <mark key="]" line="211" column="35" />
+        <mark key="." line="211" column="35" />
+        <mark key="^" line="211" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1521457178155">
         <mark key="[" line="0" column="0" />
@@ -395,9 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="701" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="66" column="103" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/save_data_helper.py" />
-      <jump line="34" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/tasks/tasks.py" />
       <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="185" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
@@ -495,6 +501,9 @@
       <jump line="55" column="48" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
       <jump line="318" column="24" filename="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
       <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/newRegistrationDialog.jsx" />
+      <jump line="200" column="74" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
+      <jump line="207" column="23" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
+      <jump line="13" column="15" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/BuildingDetail.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -504,43 +513,43 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>serializers.DateTimeField(read_only=True)</text>
+        <text>Close</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWdpc3RyYXRpb25Dcm9wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCB2YWx1ZSk6CiAgICAgICAgaW5wdXRfZm9ybWF0cyA9IGdldGF0dHIoc2VsZiwgJ2lucHV0X2Zvcm1hdHMnLCBhcGlfc2V0dGluZ3MuREFURVRJTUVfSU5QVVRfRk9STUFUUykKCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgZGF0ZXRpbWUuZGF0ZSkgYW5kIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBkYXRldGltZS5kYXRldGltZSk6CiAgICAgICAgICAgIHNlbGYuZmFpbCgnZGF0ZScpCgogICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGRhdGV0aW1lLmRhdGV0aW1lKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW5mb3JjZV90aW1lem9uZSh2YWx1ZSkKCiAgICAgICAgZm9yIGlucHV0X2Zvcm1hdCBpbiBpbnB1dF9mb3JtYXRzOgogICAgICAgICAgICBpZiBpbnB1dF9mb3JtYXQubG93ZXIoKSA9PSBJU09fODYwMToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwYXJzZWQgPSBwYXJzZV9kYXRldGltZSh2YWx1ZSkKICAgICAgICAgICAgICAgICAgICBpZiBwYXJzZWQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVuZm9yY2VfdGltZXpvbmUocGFyc2VkKQogICAgICAgICAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwYXJzZWQgPSBzZWxmLmRhdGV0aW1lX3BhcnNlcih2YWx1ZSwgaW5wdXRfZm9ybWF0KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVuZm9yY2VfdGltZXpvbmUocGFyc2VkKQogICAgICAgICAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgaHVtYW5pemVkX2Zvcm1hdCA9IGh1bWFuaXplX2RhdGV0aW1lLmRhdGV0aW1lX2Zvcm1hdHMoaW5wdXRfZm9ybWF0cykKICAgICAgICBzZWxmLmZhaWwoJ2ludmFsaWQnLCBmb3JtYXQ9aHVtYW5pemVkX2Zvcm1hdCkK</text>
+      <register name="0" type="4">
+        <text>DialogClose</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IHtDbG9zZX0gZnJvbSAnbWF0ZXJpYWwtdWktaWNvbnMvQ2xvc2UnCg==</text>
       </register>
       <register name="q" type="4">
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eikK</text>
+        <text encoding="base64">aW1wb3J0IHtDbG9zZX0gZnJvbSAnbWF0ZXJpYWwtdWktaWNvbnMvQ2xvc2UnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3NlbGVjdGVkQnVpbGRpbmc6IGJ1aWxkaW5nLCBpc0RpYWxvZ09wZW5tfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJyAtICcgKyBpdGVtWydkYXRhJ11bJ2Nyb3AnXVsnbmFtZSddCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdGV4dCA9ICc8Zm9udCBzaXplPTE0IGZvbnRuYW1lPSJIZWx2ZXRpY2EtQm9sZCIgY29sb3I9YmxhY2s+UGFyY2VsYTogPC9mb250PicgKyBpdGVtWydkYXRhJ11bJ3NlY3RvciddWyduYW1lJ10uZW5jb2RlKCJ1dGYtOCIpIFwK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wICsgJywgJyArIGNvbXBvbmVudFsndGltZXN0YW1wJ10uc3BsaXQoJ1QnKVsxXS5zcGxpdCgnLicpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgJyAtICcgKyBpdGVtWydkYXRhJ11bJ2Nyb3AnXVsnbmFtZSddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZXN0YW1wID0gY29tcG9uZW50Wyd0aW1lc3RhbXAnXS5zcGxpdCgnVCcpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdGV4dCA9ICc8Zm9udCBzaXplPTE0IGZvbnRuYW1lPSJIZWx2ZXRpY2EtQm9sZCIgY29sb3I9YmxhY2s+UGFyY2VsYTogPC9mb250PicgKyBpdGVtWydkYXRhJ11bJ3NlY3RvciddWyduYW1lJ10uZW5jb2RlKCJ1dGYtOCIpIFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
