@@ -66,7 +66,6 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/analyzesAnalysisDetail.html" timestamp="1522078729692">
         <mark key="'" line="178" column="47" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/local/lib/python2.7/site-packages/rest_framework/decorators.py" timestamp="1522232841199" />
       <file name="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/local/lib/python2.7/site-packages/django/http/response.py" timestamp="1522148071754">
         <mark key="'" line="290" column="25" />
       </file>
@@ -135,8 +134,6 @@
         <mark key="." line="218" column="15" />
         <mark key="^" line="218" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/package.json" timestamp="1522240590899" />
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" timestamp="1522235180147" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/metering/serializers.py" timestamp="1519990883917">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="18" />
@@ -503,7 +500,7 @@
         <text>serializers.DateTimeField(read_only=True)</text>
       </register>
       <register name="/" type="4">
-        <text>timestamp</text>
+        <text>allApps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCB2YWx1ZSk6CiAgICAgICAgaW5wdXRfZm9ybWF0cyA9IGdldGF0dHIoc2VsZiwgJ2lucHV0X2Zvcm1hdHMnLCBhcGlfc2V0dGluZ3MuREFURVRJTUVfSU5QVVRfRk9STUFUUykKCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgZGF0ZXRpbWUuZGF0ZSkgYW5kIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBkYXRldGltZS5kYXRldGltZSk6CiAgICAgICAgICAgIHNlbGYuZmFpbCgnZGF0ZScpCgogICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGRhdGV0aW1lLmRhdGV0aW1lKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW5mb3JjZV90aW1lem9uZSh2YWx1ZSkKCiAgICAgICAgZm9yIGlucHV0X2Zvcm1hdCBpbiBpbnB1dF9mb3JtYXRzOgogICAgICAgICAgICBpZiBpbnB1dF9mb3JtYXQubG93ZXIoKSA9PSBJU09fODYwMToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwYXJzZWQgPSBwYXJzZV9kYXRldGltZSh2YWx1ZSkKICAgICAgICAgICAgICAgICAgICBpZiBwYXJzZWQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVuZm9yY2VfdGltZXpvbmUocGFyc2VkKQogICAgICAgICAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwYXJzZWQgPSBzZWxmLmRhdGV0aW1lX3BhcnNlcih2YWx1ZSwgaW5wdXRfZm9ybWF0KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmVuZm9yY2VfdGltZXpvbmUocGFyc2VkKQogICAgICAgICAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgaHVtYW5pemVkX2Zvcm1hdCA9IGh1bWFuaXplX2RhdGV0aW1lLmRhdGV0aW1lX2Zvcm1hdHMoaW5wdXRfZm9ybWF0cykKICAgICAgICBzZWxmLmZhaWwoJ2ludmFsaWQnLCBmb3JtYXQ9aHVtYW5pemVkX2Zvcm1hdCkK</text>
@@ -543,15 +540,14 @@
       </register>
     </registers>
     <search>
-      <last-search>timestamp</last-search>
+      <last-search>allApps</last-search>
       <last-offset />
-      <last-pattern>timestamp</last-pattern>
+      <last-pattern>allApps</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
         <entry>wsgi</entry>
         <entry>main</entry>
         <entry>media</entry>
@@ -571,6 +567,7 @@
         <entry>facility</entry>
         <entry>context</entry>
         <entry>timestamp</entry>
+        <entry>allApps</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
