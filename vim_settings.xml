@@ -16,12 +16,6 @@
         <mark key="." line="51" column="23" />
         <mark key="^" line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7/site-packages/fulgurit/utils/utilities.py" timestamp="1522254645731">
-        <mark key="'" line="318" column="24" />
-        <mark key="[" line="318" column="74" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1519754989612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -87,12 +81,6 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" timestamp="1522231101907">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="238" column="2" />
-        <mark key="." line="221" column="15" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/devSettings.py" timestamp="1522340813013">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="17" />
@@ -135,6 +123,12 @@
         <mark key="]" line="73" column="36" />
         <mark key="." line="73" column="36" />
         <mark key="^" line="73" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/tasks.py" timestamp="1522753979369">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" timestamp="1522320689936">
         <mark key="'" line="214" column="23" />
@@ -432,7 +426,7 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>abmira</text>
+        <text>force_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3B1bGF0ZUNvbHVtbnNXaXRoQ29tcG9uZW50c1w+</text>
@@ -440,35 +434,35 @@
       <register name="0" type="2">
         <text encoding="base64">YWJtaXJhID0gewogICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmNvbnRyaWIuZ2lzLmRiLmJhY2tlbmRzLnBvc3RnaXMnLAogICAgICAgICdOQU1FJzogJ2FibWlyYScsCiAgICAgICAgJ1VTRVInOiAnbG9jYWxfZGJfdXNlcicsCiAgICAgICAgJ1BBU1NXT1JEJzogJzFxMnczZTRyJywKICAgICAgICAnUE9SVCc6ICc1NDMyJywKICAgICAgICAnSE9TVCc6ICdsb2NhbGhvc3QnLAogICAgfQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>postgres</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHNsZWVwCg==</text>
       </register>
       <register name="q" type="4">
         <text>ReportComponentSelectorSerializer</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
+      <register name="2" type="8">
+        <text>postgres</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dvID0gSW1hZ2Uoc2V0dGluZ3MuTUVESUFfUk9PVC5yc3BsaXQoJy8nLCAyKVswXSArIGl0ZW1bJ19maWxlJ10sIDE1MCwgMTUwKQo=</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nb191cmwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dvID0gSW1hZ2Uoc2V0dGluZ3MuTUVESUFfUk9PVC5yc3BsaXQoJy8nLCAyKVswXSArIGl0ZW1bJ19maWxlJ10sIDE1MCwgMTUwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nb191cmwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
