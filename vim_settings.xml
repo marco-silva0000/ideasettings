@@ -118,6 +118,9 @@
         <mark key="^" line="193" column="16" />
         <mark key="." line="199" column="46" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipment_datalog/test.py" timestamp="1522754414432">
+        <mark key="[" line="130" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/package.json" timestamp="1520340067008">
         <mark key="[" line="73" column="11" />
         <mark key="]" line="73" column="36" />
@@ -205,6 +208,7 @@
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/models/base.py" timestamp="1522754641665" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" timestamp="1519828895280">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="22" />
@@ -237,9 +241,6 @@
         <mark key="]" line="132" column="20" />
         <mark key="^" line="132" column="4" />
         <mark key="." line="132" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/newRegistrationDialog.jsx" timestamp="1522317040379">
-        <mark key="'" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1521199544536">
         <mark key="[" line="10" column="38" />
@@ -315,22 +316,15 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1522755051709">
+        <mark key="'" line="459" column="21" />
+        <mark key="[" line="460" column="105" />
+        <mark key="]" line="460" column="7" />
+        <mark key="^" line="460" column="7" />
+        <mark key="." line="460" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="10" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="11" column="57" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="98" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/analyzes/views.py" />
-      <jump line="345" column="121" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/analyzes/views.py" />
-      <jump line="388" column="96" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/analyzes/views.py" />
-      <jump line="131" column="91" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/analyzesAnalysisDetail.html" />
-      <jump line="178" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/partials/analyzesAnalysisDetail.html" />
-      <jump line="47" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" />
-      <jump line="147" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" />
-      <jump line="91" column="39" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" />
-      <jump line="215" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
-      <jump line="296" column="4" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
-      <jump line="291" column="4" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
-      <jump line="295" column="18" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
       <jump line="287" column="4" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
       <jump line="37" column="17" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/jsonToPdf.py" />
       <jump line="1173" column="0" filename="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/local/lib/python2.7/site-packages/reportlab/platypus/doctemplate.py" />
@@ -417,6 +411,20 @@
       <jump line="143" column="53" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="226" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="105" column="40" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
+      <jump line="11" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="163" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="168" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="180" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="187" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="226" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="236" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="239" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="241" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="248" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="251" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="614" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="626" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="459" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -426,58 +434,78 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>force_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3B1bGF0ZUNvbHVtbnNXaXRoQ29tcG9uZW50c1w+</text>
+        <text encoding="base64">XDxwcmludF9pZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWJtaXJhID0gewogICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmNvbnRyaWIuZ2lzLmRiLmJhY2tlbmRzLnBvc3RnaXMnLAogICAgICAgICdOQU1FJzogJ2FibWlyYScsCiAgICAgICAgJ1VTRVInOiAnbG9jYWxfZGJfdXNlcicsCiAgICAgICAgJ1BBU1NXT1JEJzogJzFxMnczZTRyJywKICAgICAgICAnUE9SVCc6ICc1NDMyJywKICAgICAgICAnSE9TVCc6ICdsb2NhbGhvc3QnLAogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>update_processed_data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNsZWVwCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0LCBmYWlscwo=</text>
       </register>
       <register name="q" type="4">
-        <text>ReportComponentSelectorSerializer</text>
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="2" type="8">
-        <text>postgres</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZyb20gZnVsZ3VyaXQuZXF1aXBtZW50cy5zYXZlX2RhdGFfaGVscGVyIGltcG9ydCBTYXZlSGVscGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
+        <text encoding="base64">ICAgIFNhdmVIZWxwZXIoa3dhcmdzWydpbnN0YW5jZSddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT4K</text>
+        <text encoding="base64">aW1wb3J0IHNsZWVwCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0KQo=</text>
+      <register name="5" type="8">
+        <text>postgres</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dvID0gSW1hZ2Uoc2V0dGluZ3MuTUVESUFfUk9PVC5yc3BsaXQoJy8nLCAyKVswXSArIGl0ZW1bJ19maWxlJ10sIDE1MCwgMTUwKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVwb3J0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nb191cmwK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3B1bGF0ZUNvbHVtbnNXaXRoQ29tcG9uZW50c1w+</last-search>
+      <last-search encoding="base64">XDxwcmludF9pZlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3B1bGF0ZUNvbHVtbnNXaXRoQ29tcG9uZW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludF9pZlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBbmFseXNpc1R5cGVcPg==</entry>
         <entry>from analy</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxSZXBvcnRFeHRyYURhdGFTZWxlY3RvclNlcmlhbGl6ZXJcPg==</entry>
@@ -497,12 +525,13 @@
         <entry encoding="base64">XDxERVZFTE9QTUVOVFw+</entry>
         <entry>this.props.report.creator</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZUNvbHVtbnNXaXRoQ29tcG9uZW50c1w+</entry>
+        <entry encoding="base64">XDxwcmludF9pZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
         <entry>wq</entry>
-        <entry>registers</entry>
         <entry>w</entry>
+        <entry>registers</entry>
       </history-cmd>
       <history-expr />
       <history-input />
