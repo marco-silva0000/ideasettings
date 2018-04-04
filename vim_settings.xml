@@ -58,12 +58,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" timestamp="1522850996895">
-        <mark key="'" line="410" column="30" />
-        <mark key="[" line="418" column="44" />
-        <mark key="]" line="418" column="70" />
-        <mark key="^" line="418" column="43" />
-        <mark key="." line="418" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" timestamp="1522851398952">
+        <mark key="'" line="427" column="15" />
+        <mark key="[" line="344" column="13" />
+        <mark key="]" line="345" column="27" />
+        <mark key="^" line="345" column="27" />
+        <mark key="." line="345" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/BuildingDetail.jsx" timestamp="1522319966229">
         <mark key="[" line="13" column="0" />
@@ -106,11 +106,12 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1522850947400">
-        <mark key="'" line="95" column="30" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1522851222447">
+        <mark key="'" line="96" column="30" />
+        <mark key="[" line="79" column="69" />
+        <mark key="]" line="80" column="70" />
+        <mark key="." line="80" column="70" />
+        <mark key="^" line="80" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" timestamp="1522345968290">
         <mark key="'" line="14" column="0" />
@@ -137,12 +138,12 @@
         <mark key="^" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1522850956396">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1522851474398">
         <mark key="'" line="197" column="28" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="185" column="58" />
-        <mark key="." line="197" column="0" />
+        <mark key="[" line="201" column="65" />
+        <mark key="]" line="202" column="31" />
+        <mark key="^" line="202" column="31" />
+        <mark key="." line="202" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipment_datalog/test.py" timestamp="1522773119216">
         <mark key="[" line="83" column="0" />
@@ -366,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
       <jump line="293" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
       <jump line="57" column="14" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
       <jump line="272" column="32" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
@@ -466,6 +466,7 @@
       <jump line="97" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="199" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="80" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="425" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,13 +502,13 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>FULG</text>
       </register>
-      <register name="0" type="4">
-        <text>equipment_data_values_list</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChlcXVpcG1lbnRzX2RhdGFfc2V0KQo=</text>
