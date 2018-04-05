@@ -98,7 +98,9 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1522925249747" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1522926754722">
+        <mark key="'" line="423" column="36" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" timestamp="1522345968290">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="318" column="8" />
@@ -219,6 +221,11 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/tasks.py" timestamp="1522927097666">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" timestamp="1522345873874">
         <mark key="'" line="105" column="40" />
         <mark key="[" line="55" column="48" />
@@ -287,6 +294,7 @@
         <mark key="." line="15" column="65" />
         <mark key="^" line="15" column="65" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/metering/tasks.py" timestamp="1522926919568" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/my_serializer.py" timestamp="1518609058543">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="18" />
@@ -338,9 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="11" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
-      <jump line="57" column="14" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
-      <jump line="272" column="32" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="266" column="60" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportsList.jsx" />
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
       <jump line="210" column="41" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
@@ -438,6 +443,9 @@
       <jump line="199" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="80" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="425" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
+      <jump line="260" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
+      <jump line="267" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
+      <jump line="423" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -476,10 +484,10 @@
         <text>sssssssssssssssssssssssss</text>
       </register>
       <register name="/" type="4">
-        <text>FULG</text>
+        <text encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">QGFwcC50YXNrKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChlcXVpcG1lbnRzX2RhdGFfc2V0KQo=</text>
@@ -519,15 +527,14 @@
       </register>
     </registers>
     <search>
-      <last-search>FULG</last-search>
+      <last-search encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</last-search>
       <last-offset />
-      <last-pattern>FULG</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>png</entry>
         <entry>facility</entry>
         <entry>context</entry>
         <entry>timestamp</entry>
@@ -547,6 +554,7 @@
         <entry encoding="base64">XDxvdmVycmlkZV9zZXR0aW5nc1w+</entry>
         <entry>Fulgur</entry>
         <entry>FULG</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
