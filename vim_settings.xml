@@ -80,6 +80,13 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1522937544096">
+        <mark key="'" line="2" column="26" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="11" column="9" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/devSettings.py" timestamp="1522340813013">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="17" />
@@ -148,6 +155,12 @@
         <mark key="]" line="211" column="35" />
         <mark key="." line="211" column="35" />
         <mark key="^" line="211" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1522936820930">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1522773863767">
         <mark key="[" line="8" column="23" />
@@ -346,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipment_datalog/serializers.py" />
       <jump line="86" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipment_datalog/views.py" />
       <jump line="281" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/utilities.py" />
       <jump line="22" column="75" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/urls.py" />
@@ -446,6 +458,7 @@
       <jump line="421" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
       <jump line="55" column="10" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/settings.py" />
       <jump line="54" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/settings.py" />
+      <jump line="2" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,46 +494,46 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>apps.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwLmF1dG9kaXNjb3Zlcl90YXNrcygpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICsgU3RyaW5nLmZyb21DaGFyQ29kZShpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBNZXRlcgo=</text>
+        <text encoding="base64">NTdBVkZZRFNERgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmdWxndXJpdC5lcXVpcG1lbnRfZGF0YWxvZy5tb2RlbHMgaW1wb3J0IEluc3RhbnREYXRhbG9nSGlzdG9yeQpmcm9tIGZ1bGd1cml0LmVxdWlwbWVudHMubW9kZWxzIGltcG9ydCBQcm9jZXNzZWREYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkudGFzayBpbXBvcnQgcGVyaW9kaWNfdGFzawo=</text>
+        <text encoding="base64">bGV0IHRlbXAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkuc2NoZWR1bGVzIGltcG9ydCBjcm9udGFiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzaW1vYy5jZWxlcnkgaW1wb3J0IGFwcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IjlmNmEzNjkiID0ge3BhdGggPSAiL2hvbWUvbXNpbHZhL1B5Y2hhcm1Qcm9qZWN0cy9mdWxndXJpdF9tZXRlcmluZyIsIGVkaXRhYmxlID0gdHJ1ZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFwcC50YXNrKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGFwcC50YXNrKCkK</text>
+        <text encoding="base64">bGV0IGkgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVsZ3VyaXQtbWV0ZXJpbmcgPSB7Z2l0ID0gInNzaDovL2dpdEA4OS4xMTUuMjM4LjYyOjEwOTIyL3NpbW9jL2Z1bGd1cml0X21ldGVyaW5nLmdpdCJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
