@@ -57,6 +57,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" timestamp="1522947438035">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/settings.py" timestamp="1522931011864">
         <mark key="'" line="54" column="7" />
       </file>
@@ -84,10 +90,11 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/Pipfile" timestamp="1522946608119">
-        <mark key="[" line="15" column="74" />
-        <mark key="]" line="15" column="74" />
-        <mark key="." line="15" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/Pipfile" timestamp="1522947342013">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/devSettings.py" timestamp="1522340813013">
         <mark key="[" line="0" column="15" />
@@ -219,6 +226,12 @@
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/dev_server/settings.py" timestamp="1522947272868">
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="86" column="20" />
+        <mark key="^" line="86" column="20" />
+        <mark key="." line="86" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" timestamp="1519828895280">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="22" />
@@ -328,17 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="75" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/urls.py" />
-      <jump line="47" column="34" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/api.py" />
-      <jump line="55" column="48" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
-      <jump line="318" column="24" filename="$USER_HOME$/.virtualenvs/fulgurit_fieldwork-tVat8cmf/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/newRegistrationDialog.jsx" />
-      <jump line="200" column="74" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="207" column="23" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="13" column="15" filename="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/BuildingDetail.jsx" />
-      <jump line="65" column="57" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="119" column="18" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="120" column="25" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="195" column="34" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="17" column="44" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/index.stories.js" />
@@ -428,6 +430,17 @@
       <jump line="2" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="10" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" />
       <jump line="303" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="153" column="15" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="157" column="16" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="196" column="14" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="198" column="11" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="174" column="20" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="181" column="11" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="150" column="39" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="160" column="79" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,43 +476,43 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>, ref = &quot;linode-master+migrations&quot;</text>
+        <text>crops</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXRjaFw+</text>
+        <text encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlRGlyOiAnLi4vJywK</text>
+        <text encoding="base64">ZnVsZ3VyaXQtY3JvcHMgPSB7Z2l0ID0gInNzaDovL2dpdEA4OS4xMTUuMjM4LjYyOjEwOTIyL3NpbW9jL2Z1bGd1cml0X2Nyb3BzLmdpdCJ9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcuLi9zdGF0aWMvY3NzLyouY3NzJwo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJncnVudC1jYWNoZS1idXN0IjogIl4xLjUuMCIsCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">NTdBVkZZRFNERgo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IHRlbXAwCg==</text>
+        <text encoding="base64">Y2VsZXJ5ID0gIioiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcuLi9zdGF0aWMvY3NzLyouY3NzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJncnVudC1jYWNoZS1idXN0IjogIl4xLjUuMCIsCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NTdBVkZZRFNERgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -509,18 +522,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YXRjaFw+</last-search>
+      <last-search encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXRjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timestamp</entry>
-        <entry>allApps</entry>
-        <entry encoding="base64">XDxSZWdpc3RyYXRpb25Dcm9wXD4=</entry>
-        <entry>extra</entry>
         <entry encoding="base64">XDxnZW5lcmljUmVwb3J0XD4=</entry>
         <entry>MultiCard</entry>
         <entry>Image</entry>
@@ -537,6 +546,10 @@
         <entry encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</entry>
         <entry>bust</entry>
         <entry encoding="base64">XDx3YXRjaFw+</entry>
+        <entry encoding="base64">XDxwZFw+</entry>
+        <entry encoding="base64">XDxucFw+</entry>
+        <entry encoding="base64">XDxkYXRldXRpbFw+</entry>
+        <entry encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
