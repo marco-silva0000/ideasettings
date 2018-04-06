@@ -342,12 +342,15 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1523028051665">
-        <mark key="'" line="514" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1523028968623">
+        <mark key="'" line="415" column="14" />
+        <mark key="[" line="415" column="39" />
+        <mark key="]" line="415" column="87" />
+        <mark key="^" line="415" column="87" />
+        <mark key="." line="415" column="87" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="29" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="141" column="24" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="175" column="2" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="138" column="30" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
@@ -447,6 +450,7 @@
       <jump line="249" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="419" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="514" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="415" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,34 +486,34 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>.items()</text>
+        <text>'call_update_processed_data'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGV2X2Z1bGd1cml0ID0gewogICAgJ0VOR0lORSc6ICdkamFuZ28uY29udHJpYi5naXMuZGIuYmFja2VuZHMucG9zdGdpcycsCiAgICAnTkFNRSc6ICdkZXZfZnVsZ3VyaXQnLAogICAgJ1VTRVInOiAnZnVsZ3VyaXRfZGV2X3VzZXInLAogICAgJ1BBU1NXT1JEJzogJzFxMnczZTRyJywKICAgICdQT1JUJzogJzU0MzInLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKfQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnY2FsbF91cGRhdGVfcHJvY2Vzc2VkX2RhdGEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmdWxndXJpdC5jb21fZGV2aWNlcy5tb2RlbHMgaW1wb3J0IERldmljZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCd1cGRhdGVfcHJvY2Vzc2VkX2RhdGEnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmdWxndXJpdC5jb21fZGV2aWNlcy5tb2RlbHMgaW1wb3J0IERldmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmFjYWxoYXUgYSBicmF6IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RvZ29ub2Ygdml0ZWxhIDEK</text>
+        <text encoding="base64">YmFjYWxoYXUgYSBicmF6IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJhbmdvIGFzc2FkbyAyCg==</text>
+        <text encoding="base64">c3RvZ29ub2Ygdml0ZWxhIDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
+        <text encoding="base64">ZnJhbmdvIGFzc2FkbyAyCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
@@ -518,13 +522,13 @@
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
-        <text>registers</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -562,6 +566,7 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>registers</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
