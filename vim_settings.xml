@@ -145,6 +145,13 @@
         <mark key="^" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1523014990663">
+        <mark key="'" line="249" column="41" />
+        <mark key="[" line="233" column="62" />
+        <mark key="]" line="235" column="41" />
+        <mark key="^" line="235" column="41" />
+        <mark key="." line="235" column="41" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/package.json" timestamp="1520340067008">
         <mark key="[" line="73" column="11" />
         <mark key="]" line="73" column="36" />
@@ -163,11 +170,11 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1522773863767">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1523015022437">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="50" />
         <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1521561998805">
         <mark key="[" line="19" column="25" />
@@ -217,7 +224,7 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="9" column="44" />
       </file>
-      <file name="/Django Console" timestamp="1522931043815">
+      <file name="/Django Console" timestamp="1523015348537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/data/report_list.json" timestamp="1522231596496">
@@ -335,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="25" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="195" column="34" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
       <jump line="17" column="44" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/index.stories.js" />
       <jump line="137" column="29" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
@@ -435,6 +441,7 @@
       <jump line="150" column="39" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
       <jump line="160" column="79" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
       <jump line="8" column="0" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
+      <jump line="249" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,7 +477,7 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>task</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</text>
@@ -479,37 +486,37 @@
         <text encoding="base64">ZGV2X2Z1bGd1cml0ID0gewogICAgJ0VOR0lORSc6ICdkamFuZ28uY29udHJpYi5naXMuZGIuYmFja2VuZHMucG9zdGdpcycsCiAgICAnTkFNRSc6ICdkZXZfZnVsZ3VyaXQnLAogICAgJ1VTRVInOiAnZnVsZ3VyaXRfZGV2X3VzZXInLAogICAgJ1BBU1NXT1JEJzogJzFxMnczZTRyJywKICAgICdQT1JUJzogJzU0MzInLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
+        <text encoding="base64">ZnJvbSBmdWxndXJpdC5jb21fZGV2aWNlcy5tb2RlbHMgaW1wb3J0IERldmljZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">YmFjYWxoYXUgYSBicmF6IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">c3RvZ29ub2Ygdml0ZWxhIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2VsZXJ5ID0gIioiCg==</text>
+        <text encoding="base64">ZnJhbmdvIGFzc2FkbyAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcuLi9zdGF0aWMvY3NzLyouY3NzJwo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJncnVudC1jYWNoZS1idXN0IjogIl4xLjUuMCIsCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">NTdBVkZZRFNERgo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
