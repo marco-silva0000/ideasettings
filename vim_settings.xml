@@ -66,11 +66,11 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/settings.py" timestamp="1522931011864">
         <mark key="'" line="54" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1522748663497">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="26" />
-        <mark key="." line="54" column="26" />
-        <mark key="^" line="54" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1523011914650">
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/Pipfile" timestamp="1522930066483">
         <mark key="[" line="128" column="0" />
@@ -470,13 +470,13 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>crops</text>
+        <text>fulgurit_dev_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVsZ3VyaXQtY3JvcHMgPSB7Z2l0ID0gInNzaDovL2dpdEA4OS4xMTUuMjM4LjYyOjEwOTIyL3NpbW9jL2Z1bGd1cml0X2Nyb3BzLmdpdCJ9Cg==</text>
+        <text encoding="base64">ZGV2X2Z1bGd1cml0ID0gewogICAgJ0VOR0lORSc6ICdkamFuZ28uY29udHJpYi5naXMuZGIuYmFja2VuZHMucG9zdGdpcycsCiAgICAnTkFNRSc6ICdkZXZfZnVsZ3VyaXQnLAogICAgJ1VTRVInOiAnZnVsZ3VyaXRfZGV2X3VzZXInLAogICAgJ1BBU1NXT1JEJzogJzFxMnczZTRyJywKICAgICdQT1JUJzogJzU0MzInLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
