@@ -15,12 +15,12 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1523274141006">
-        <mark key="'" line="162" column="13" />
-        <mark key="[" line="199" column="20" />
-        <mark key="]" line="202" column="29" />
-        <mark key="." line="202" column="29" />
-        <mark key="^" line="202" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1523287784272">
+        <mark key="'" line="507" column="11" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="161" column="37" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" timestamp="1523265731553">
         <mark key="'" line="1994" column="5" />
@@ -41,6 +41,13 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1523287750957">
+        <mark key="'" line="53" column="32" />
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="59" column="34" />
+        <mark key="^" line="59" column="34" />
+        <mark key="." line="59" column="34" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/frontend/src/irrigators/registrationSteps/cropDetails.jsx" timestamp="1521046370482">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="55" />
@@ -59,12 +66,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523271529694">
-        <mark key="'" line="202" column="18" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="25" />
-        <mark key="^" line="213" column="57" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523284012477">
+        <mark key="'" line="100" column="6" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="226" column="57" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/services/CropsService.js" timestamp="1521112753389">
         <mark key="[" line="17" column="50" />
@@ -398,12 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="180" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="187" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="226" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="236" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="239" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="241" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="248" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="251" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
@@ -485,7 +486,6 @@
       <jump line="60" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="47" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
       <jump line="52" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
-      <jump line="202" column="18" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
       <jump line="97" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
       <jump line="20" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
       <jump line="78" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
@@ -498,6 +498,13 @@
       <jump line="152" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="162" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="0" column="10" filename="/Dummy.txt" />
+      <jump line="117" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="202" column="76" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="100" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="53" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
+      <jump line="508" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="98" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="507" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,63 +540,60 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>apps</text>
+        <text encoding="base64">XDxXZWJzb2NrZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2ZhY2lsaXRpZXMubWFwKChmYWNpbGl0eSkgPT4gKAogICAgICAgICAgICAgIDxUYWIga2V5PXtmYWNpbGl0eS5mYWNpbGl0eV9faWR9IGxhYmVsPXtmYWNpbGl0eS5mYWNpbGl0eV9fbmFtZX0gdmFsdWU9e2ZhY2lsaXR5LmZhY2lsaXR5X19pZH0gLz4KICAgICAgICAgICAgKSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Byb2Nlc3NlZERhdGFBdXgnLCBwcm9jZXNzZWREYXRhQXV4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L1RhYkNvbnRhaW5lcj4K</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFiQ29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICAgICAgdXJsID0gJ2FwcHMvc3ZnL2FwaS9zdmctcmVmZXJlbmNlZC1lcXVpcG1lbnRzLWJ5LWZhY2lsaXR5LycgKyB0aGlzLnByb3BzWydmYWNpbGl0eUlkJ10gKyAnLz9mb3JtYXQ9anNvbicKICAgICAgZmV0Y2godXJsLCB0aGlzLmF1dGhlbnRpY2F0aW9uKQogICAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gcmVzcG9uc2UuanNvbigpKQogICAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgICBsZXQgcHJvY2Vzc2VkRGF0YUF1eCA9IHt9CiAgICAgICAgICBkYXRhLm1hcCgoZXF1aXBtZW50KSA9PiB7CiAgICAgICAgICAgIGxldCBlcXVpcG1lbnRUZW1wID0gZXF1aXBtZW50CiAgICAgICAgICAgIGVxdWlwbWVudC5wcm9jZXNzZWRfZGF0YS5tYXAoKHByb2Nlc3NlZERhdGEpID0+IHsKICAgICAgICAgICAgICBwcm9jZXNzZWREYXRhQXV4W3Byb2Nlc3NlZERhdGEuaWRdID0gewogICAgICAgICAgICAgICAgJ2VxdWlwbWVudCc6IGVxdWlwbWVudFRlbXAsCiAgICAgICAgICAgICAgICAncHJvY2Vzc2VkRGF0YSc6IHByb2Nlc3NlZERhdGEsCiAgICAgICAgICAgICAgICAnc3ZnX3JlZmVyZW5jZSc6IHByb2Nlc3NlZERhdGEuU1ZHX3JlZmVyZW5jZSwKICAgICAgICAgICAgICAgICdoYXNBZGRvbic6IGZhbHNlLAogICAgICAgICAgICAgICAgJ2FkZG9uJzogW10KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYiBrZXk9e2ZhY2lsaXR5LmZhY2lsaXR5X19pZH0gbGFiZWw9e2ZhY2lsaXR5LmZhY2lsaXR5X19uYW1lfSB2YWx1ZT17ZmFjaWxpdHkuZmFjaWxpdHlfX2lkfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigocmVzcG9uc2UpID0+IHJlc3BvbnNlLmpzb24oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtgRmFjaWxpdHkgOiAke3RoaXMuc3RhdGUuc2VsZWN0ZWRGYWNpbGl0eX1gfQogICAgICAgICAgPFN5bm9wdGljTGFuZFBhZ2UgZmFjaWxpdHlJZD17dGhpcy5zdGF0ZS5zZWxlY3RlZEZhY2lsaXR5fSBpc0dsb2JhbCAvPgo=</text>
+        <text encoding="base64">ICAgICAgZmV0Y2godXJsLCB0aGlzLmF1dGhlbnRpY2F0aW9uKQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXJsID0gJ2FwcHMvc3ZnL2FwaS9hZGRvbnMtYnktZmFjaWxpdHkvJyArIHRoaXMucHJvcHNbJ2ZhY2lsaXR5SWQnXSArICcvP2Zvcm1hdD1qc29uJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0RGF0YUZyb21TZXJ2ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>apps</last-search>
+      <last-search encoding="base64">XDxXZWJzb2NrZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>apps</last-pattern>
+      <last-pattern encoding="base64">XDxXZWJzb2NrZXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Fulgur</entry>
-        <entry>FULG</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</entry>
         <entry>bust</entry>
         <entry encoding="base64">XDx3YXRjaFw+</entry>
         <entry encoding="base64">XDxwZFw+</entry>
@@ -607,6 +611,9 @@
         <entry>selected</entry>
         <entry encoding="base64">XDxoYXNBbGxEYXRhXD4=</entry>
         <entry>apps</entry>
+        <entry encoding="base64">XDxzeW5vcHRpY3NcPg==</entry>
+        <entry encoding="base64">XDx3c191cmxcPg==</entry>
+        <entry encoding="base64">XDxXZWJzb2NrZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
