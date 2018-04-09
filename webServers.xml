@@ -1,0 +1,46 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="30ca8734-5d9f-475e-95c4-491415584fa6" name="Pegasus(linode1)" url="http://139.162.162.101/">
+        <fileTransfer host="139.162.162.101" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/webapps/simoc/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2bcf1e25-7bc1-4d52-a5c7-674b69cfd41b" name="Icarus_1(Linode2)" url="http://139.162.162.101/">
+        <fileTransfer host="172.104.137.197" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/webapps/simoc/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="934332d2-ce9a-40be-84f2-9f8150e7a8e8" name="Icarus_2(Linode2)" url="http://139.162.162.101:8006/">
+        <fileTransfer host="172.104.137.197" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/webapps/simoc/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="da6eaf2f-aca1-4524-a0da-7dfc5e88de2f" name="Icarus_3(Linode2)" url="http://139.162.162.101:8007/">
+        <fileTransfer host="172.104.137.197" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/webapps/simoc/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="237449e3-3bdd-48ae-9ac1-d9fe8d67dc0a" name="Cerialia(Linode3)" url="http://139.162.162.101/">
+        <fileTransfer host="172.104.233.85" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/webapps/simoc/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
