@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/version.json" timestamp="1519828876307">
@@ -14,6 +14,13 @@
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1523274141006">
+        <mark key="'" line="162" column="13" />
+        <mark key="[" line="199" column="20" />
+        <mark key="]" line="202" column="29" />
+        <mark key="." line="202" column="29" />
+        <mark key="^" line="202" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" timestamp="1523265731553">
         <mark key="'" line="1994" column="5" />
@@ -52,6 +59,13 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="14" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523271529694">
+        <mark key="'" line="202" column="18" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="25" />
+        <mark key="^" line="213" column="57" />
+        <mark key="." line="38" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/services/CropsService.js" timestamp="1521112753389">
         <mark key="[" line="17" column="50" />
         <mark key="]" line="17" column="50" />
@@ -75,6 +89,12 @@
         <mark key="[" line="235" column="0" />
         <mark key="]" line="280" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1522936820930">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1523030546753">
         <mark key="[" line="101" column="29" />
         <mark key="]" line="101" column="29" />
@@ -93,17 +113,17 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1522938962102">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="14" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/Pipfile" timestamp="1522947342013">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="17" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1522938962102">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/devSettings.py" timestamp="1522340813013">
         <mark key="[" line="0" column="15" />
@@ -175,11 +195,17 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1522936820930">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" timestamp="1523273046890">
+        <mark key="'" line="93" column="22" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="72" column="3" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticGlobalList.jsx" timestamp="1523271983946">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1523031944686">
         <mark key="'" line="8" column="19" />
@@ -187,6 +213,12 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1523272940361">
+        <mark key="[" line="60" column="0" />
+        <mark key="m" line="26" column="33" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1521561998805">
         <mark key="[" line="19" column="25" />
@@ -242,6 +274,11 @@
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1523271358402">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/dev_server/settings.py" timestamp="1522947272868">
         <mark key="[" line="86" column="17" />
         <mark key="]" line="86" column="20" />
@@ -266,7 +303,6 @@
         <mark key="^" line="132" column="4" />
         <mark key="." line="132" column="20" />
       </file>
-      <file name="/resources-locale_pt-PT.js" timestamp="1523265493023" />
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/webpack.config.js" timestamp="1521199544536">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="10" column="38" />
@@ -307,6 +343,11 @@
         <mark key="]" line="15" column="65" />
         <mark key="." line="15" column="65" />
         <mark key="^" line="15" column="65" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1523271415283">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/my_serializer.py" timestamp="1518609058543">
         <mark key="[" line="0" column="5" />
@@ -357,22 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="98" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
-      <jump line="147" column="20" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
-      <jump line="153" column="19" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
-      <jump line="265" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
-      <jump line="50" column="16" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
-      <jump line="22" column="72" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/stories/index.stories.js" />
-      <jump line="173" column="33" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="297" column="26" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="255" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="240" column="28" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="225" column="2" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="235" column="29" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="143" column="53" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="226" column="21" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/frontend/src/reports/ReportDetail.jsx" />
-      <jump line="105" column="40" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/serializers.py" />
-      <jump line="11" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="163" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="168" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="180" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
@@ -457,6 +482,22 @@
       <jump line="17" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
       <jump line="3283" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
       <jump line="1994" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
+      <jump line="31" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
+      <jump line="60" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
+      <jump line="47" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="52" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="202" column="18" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="97" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
+      <jump line="20" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
+      <jump line="78" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
+      <jump line="92" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
+      <jump line="437" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="96" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="122" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="93" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
+      <jump line="137" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="152" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="162" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -492,18 +533,13 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nextProps</text>
       </register>
       <register name="/" type="4">
-        <text>coor</text>
+        <text>apps</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-        'fulgurit.com_manager': {
-            'handlers': ['file_plc'],
-            'level': 'INFO',
-            'propagate': True,
-        },</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnRXaWxsTW91bnQnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -512,53 +548,45 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0RGF0YUZyb21TZXJ2ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAia2V5IjogIl9zZWFyY2hfb3JnYW5pemF0aW9uXyIsCiAgICAgICAgInZhbHVlIjogIlBlc3F1aXNhciBvcmdhbml6YcOnw6NvIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAiU2VhcmNoIG9yZ2FuaXphdGlvbiIKICAgIH0K</text>
+        <text encoding="base64">ICAgIGxldCBuYW1lcyA9IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zX25hbWVzLnNsaWNlKCkKICAgIGxldCBkaWFncmFtcyA9IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zLnNsaWNlKCkKCiAgICBsZXQgdXJsID0gJy9tYWluL2FwaS9lbXBsb3llZS1wZXJtaXNzaW9ucy9lbXBsb3llZS1hcHAtZmFjaWxpdHktcGVybWlzc2lvbi8nICsgdGhpcy5wcm9wcy5mYWNpbGl0eUlkICsgJy85Lz9mb3JtYXQ9anNvbicKICAgIGZldGNoKHVybCwgdGhpcy5hdXRoZW50aWNhdGlvbikKICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgIH0pCgogICAgbGV0IHByb21pc2UxID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB1cmwgPSAnYXBwcy9zdmcvYXBpL2ZhY2lsaXR5LXN2Zy8nICsgdGhpcy5wcm9wc1snZmFjaWxpdHlJZCddICsgJy8/Zm9ybWF0PWpzb24nCiAgICAgIGZldGNoKHVybCwgdGhpcy5hdXRoZW50aWNhdGlvbikKICAgICAgICAudGhlbigocmVzcG9uc2UpID0+IHJlc3BvbnNlLmpzb24oKSkKICAgICAgICAudGhlbigoZGF0YSkgPT4gewogICAgICAgICAgZGF0YS5tYXAoKHN2Z0RpYWdyYW0sIGluZGV4KSA9PiB7CiAgICAgICAgICAgIGRpYWdyYW1zLnB1c2goc3ZnRGlhZ3JhbSkKICAgICAgICAgICAgbmFtZXMucHVzaChzdmdEaWFncmFtWydsYWJlbCddKQogICAgICAgICAgfSwgdGhpcykKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBzdmdfZGlhZ3JhbXM6IGRpYWdyYW1zLAogICAgICAgICAgICBzdmdfZGlhZ3JhbXNfbmFtZXM6IG5hbWVzLAogICAgICAgICAgICBzZWxlY3RlZE5hbWVzOiBuYW1lcywKICAgICAgICAgICAgLy8gc3ZnX3Bvc2l0aW9uX3RvcDogJCgnI3N2Z19jYW52YXMnKSA/ICQoJyNzdmdfY2FudmFzJykucG9zaXRpb24oKVsndG9wJ10gKyA5MCA6IDAKICAgICAgICAgIH0pCiAgICAgICAgICByZXNvbHZlKCdTVkcgZGlhZ3JhbXMgbG9hZGVkJykKICAgICAgICB9KQogICAgfSkKCiAgICBsZXQgcHJvbWlzZTIgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIHVybCA9ICdhcHBzL3N2Zy9hcGkvYWRkb25zLWJ5LWZhY2lsaXR5LycgKyB0aGlzLnByb3BzWydmYWNpbGl0eUlkJ10gKyAnLz9mb3JtYXQ9anNvbicKICAgICAgZmV0Y2godXJsLCB0aGlzLmF1dGhlbnRpY2F0aW9uKQogICAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gcmVzcG9uc2UuanNvbigpKQogICAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHthZGRvbnM6IGRhdGF9KQogICAgICAgICAgcmVzb2x2ZSgnQWRkb25zIGxvYWRlZCcpCiAgICAgICAgfSkKICAgIH0pCgogICAgbGV0IHByb21pc2UzID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB1cmwgPSAnYXBwcy9zdmcvYXBpL3N2Zy1yZWZlcmVuY2VkLWVxdWlwbWVudHMtYnktZmFjaWxpdHkvJyArIHRoaXMucHJvcHNbJ2ZhY2lsaXR5SWQnXSArICcvP2Zvcm1hdD1qc29uJwogICAgICBmZXRjaCh1cmwsIHRoaXMuYXV0aGVudGljYXRpb24pCiAgICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAgICAgLnRoZW4oKGRhdGEpID0+IHsKICAgICAgICAgIGxldCBwcm9jZXNzZWREYXRhQXV4ID0ge30KICAgICAgICAgIGRhdGEubWFwKChlcXVpcG1lbnQpID0+IHsKICAgICAgICAgICAgbGV0IGVxdWlwbWVudFRlbXAgPSBlcXVpcG1lbnQKICAgICAgICAgICAgZXF1aXBtZW50LnByb2Nlc3NlZF9kYXRhLm1hcCgocHJvY2Vzc2VkRGF0YSkgPT4gewogICAgICAgICAgICAgIHByb2Nlc3NlZERhdGFBdXhbcHJvY2Vzc2VkRGF0YS5pZF0gPSB7CiAgICAgICAgICAgICAgICAnZXF1aXBtZW50JzogZXF1aXBtZW50VGVtcCwKICAgICAgICAgICAgICAgICdwcm9jZXNzZWREYXRhJzogcHJvY2Vzc2VkRGF0YSwKICAgICAgICAgICAgICAgICdzdmdfcmVmZXJlbmNlJzogcHJvY2Vzc2VkRGF0YS5TVkdfcmVmZXJlbmNlLAogICAgICAgICAgICAgICAgJ2hhc0FkZG9uJzogZmFsc2UsCiAgICAgICAgICAgICAgICAnYWRkb24nOiBbXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkKICAgICAgICAgIH0pCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFfaW5kZXhlczogcHJvY2Vzc2VkRGF0YUF1eCwKICAgICAgICAgICAgc3ZnX2VxdWlwbWVudHM6IGRhdGEKICAgICAgICAgIH0pCiAgICAgICAgICByZXNvbHZlKCdFcXVpcG1lbnRzIGxvYWRlZCBhbmQgcHJvY2Vzc2VkJykKICAgICAgICB9KQogICAgfSkKICAgIFByb21pc2UuYWxsKFtwcm9taXNlMSwgcHJvbWlzZTIsIHByb21pc2UzXSkKICAgICAgLnRoZW4oKHZhbHVlKSA9PiB7CiAgICAgICAgLyoqID4gVE9ETzogTWFuaXB1bGF0ZSBoZXJlIGV2ZXJ5IGRpY3QgYW5kL29yIGxpc3QgKi8KICAgICAgICB0aGlzLnNldFN0YXRlKHtoYXNBbGxEYXRhOiB0cnVlfSkKICAgICAgICAvKiogPiBUT0RPOiBEeW5hbWljIHN5bm9wdGljIGVxdWlwbWVudHMgKi8KICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcmNlID0ga3dhcmdzLmdldCgnZm9yY2UnLCBUcnVlKQo=</text>
+        <text encoding="base64">ICAgIGxldCBuYW1lcyA9IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zX25hbWVzLnNsaWNlKCkKICAgIGxldCBkaWFncmFtcyA9IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zLnNsaWNlKCkKCiAgICBsZXQgdXJsID0gJy9tYWluL2FwaS9lbXBsb3llZS1wZXJtaXNzaW9ucy9lbXBsb3llZS1hcHAtZmFjaWxpdHktcGVybWlzc2lvbi8nICsgdGhpcy5wcm9wcy5mYWNpbGl0eUlkICsgJy85Lz9mb3JtYXQ9anNvbicKICAgIGZldGNoKHVybCwgdGhpcy5hdXRoZW50aWNhdGlvbikKICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgIH0pCgogICAgbGV0IHByb21pc2UxID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB1cmwgPSAnYXBwcy9zdmcvYXBpL2ZhY2lsaXR5LXN2Zy8nICsgdGhpcy5wcm9wc1snZmFjaWxpdHlJZCddICsgJy8/Zm9ybWF0PWpzb24nCiAgICAgIGZldGNoKHVybCwgdGhpcy5hdXRoZW50aWNhdGlvbikKICAgICAgICAudGhlbigocmVzcG9uc2UpID0+IHJlc3BvbnNlLmpzb24oKSkKICAgICAgICAudGhlbigoZGF0YSkgPT4gewogICAgICAgICAgZGF0YS5tYXAoKHN2Z0RpYWdyYW0sIGluZGV4KSA9PiB7CiAgICAgICAgICAgIGRpYWdyYW1zLnB1c2goc3ZnRGlhZ3JhbSkKICAgICAgICAgICAgbmFtZXMucHVzaChzdmdEaWFncmFtWydsYWJlbCddKQogICAgICAgICAgfSwgdGhpcykKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBzdmdfZGlhZ3JhbXM6IGRpYWdyYW1zLAogICAgICAgICAgICBzdmdfZGlhZ3JhbXNfbmFtZXM6IG5hbWVzLAogICAgICAgICAgICBzZWxlY3RlZE5hbWVzOiBuYW1lcywKICAgICAgICAgICAgLy8gc3ZnX3Bvc2l0aW9uX3RvcDogJCgnI3N2Z19jYW52YXMnKSA/ICQoJyNzdmdfY2FudmFzJykucG9zaXRpb24oKVsndG9wJ10gKyA5MCA6IDAKICAgICAgICAgIH0pCiAgICAgICAgICByZXNvbHZlKCdTVkcgZGlhZ3JhbXMgbG9hZGVkJykKICAgICAgICB9KQogICAgfSkKCiAgICBsZXQgcHJvbWlzZTIgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIHVybCA9ICdhcHBzL3N2Zy9hcGkvYWRkb25zLWJ5LWZhY2lsaXR5LycgKyB0aGlzLnByb3BzWydmYWNpbGl0eUlkJ10gKyAnLz9mb3JtYXQ9anNvbicKICAgICAgZmV0Y2godXJsLCB0aGlzLmF1dGhlbnRpY2F0aW9uKQogICAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gcmVzcG9uc2UuanNvbigpKQogICAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHthZGRvbnM6IGRhdGF9KQogICAgICAgICAgcmVzb2x2ZSgnQWRkb25zIGxvYWRlZCcpCiAgICAgICAgfSkKICAgIH0pCgogICAgbGV0IHByb21pc2UzID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB1cmwgPSAnYXBwcy9zdmcvYXBpL3N2Zy1yZWZlcmVuY2VkLWVxdWlwbWVudHMtYnktZmFjaWxpdHkvJyArIHRoaXMucHJvcHNbJ2ZhY2lsaXR5SWQnXSArICcvP2Zvcm1hdD1qc29uJwogICAgICBmZXRjaCh1cmwsIHRoaXMuYXV0aGVudGljYXRpb24pCiAgICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAgICAgLnRoZW4oKGRhdGEpID0+IHsKICAgICAgICAgIGxldCBwcm9jZXNzZWREYXRhQXV4ID0ge30KICAgICAgICAgIGRhdGEubWFwKChlcXVpcG1lbnQpID0+IHsKICAgICAgICAgICAgbGV0IGVxdWlwbWVudFRlbXAgPSBlcXVpcG1lbnQKICAgICAgICAgICAgZXF1aXBtZW50LnByb2Nlc3NlZF9kYXRhLm1hcCgocHJvY2Vzc2VkRGF0YSkgPT4gewogICAgICAgICAgICAgIHByb2Nlc3NlZERhdGFBdXhbcHJvY2Vzc2VkRGF0YS5pZF0gPSB7CiAgICAgICAgICAgICAgICAnZXF1aXBtZW50JzogZXF1aXBtZW50VGVtcCwKICAgICAgICAgICAgICAgICdwcm9jZXNzZWREYXRhJzogcHJvY2Vzc2VkRGF0YSwKICAgICAgICAgICAgICAgICdzdmdfcmVmZXJlbmNlJzogcHJvY2Vzc2VkRGF0YS5TVkdfcmVmZXJlbmNlLAogICAgICAgICAgICAgICAgJ2hhc0FkZG9uJzogZmFsc2UsCiAgICAgICAgICAgICAgICAnYWRkb24nOiBbXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkKICAgICAgICAgIH0pCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFfaW5kZXhlczogcHJvY2Vzc2VkRGF0YUF1eCwKICAgICAgICAgICAgc3ZnX2VxdWlwbWVudHM6IGRhdGEKICAgICAgICAgIH0pCiAgICAgICAgICByZXNvbHZlKCdFcXVpcG1lbnRzIGxvYWRlZCBhbmQgcHJvY2Vzc2VkJykKICAgICAgICB9KQogICAgfSkKICAgIFByb21pc2UuYWxsKFtwcm9taXNlMSwgcHJvbWlzZTIsIHByb21pc2UzXSkKICAgICAgLnRoZW4oKHZhbHVlKSA9PiB7CiAgICAgICAgLyoqID4gVE9ETzogTWFuaXB1bGF0ZSBoZXJlIGV2ZXJ5IGRpY3QgYW5kL29yIGxpc3QgKi8KICAgICAgICB0aGlzLnNldFN0YXRlKHtoYXNBbGxEYXRhOiB0cnVlfSkKICAgICAgICAvKiogPiBUT0RPOiBEeW5hbWljIHN5bm9wdGljIGVxdWlwbWVudHMgKi8KICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd1cGRhdGVfcHJvY2Vzc2VkX2RhdGEnKQo=</text>
+        <text encoding="base64">ICAgIGxldCBuYW1lcyA9IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zX25hbWVzLnNsaWNlKCkKICAgIGxldCBkaWFncmFtcyA9IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zLnNsaWNlKCkKCiAgICBsZXQgdXJsID0gJy9tYWluL2FwaS9lbXBsb3llZS1wZXJtaXNzaW9ucy9lbXBsb3llZS1hcHAtZmFjaWxpdHktcGVybWlzc2lvbi8nICsgdGhpcy5wcm9wcy5mYWNpbGl0eUlkICsgJy85Lz9mb3JtYXQ9anNvbicKICAgIGZldGNoKHVybCwgdGhpcy5hdXRoZW50aWNhdGlvbikKICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgIH0pCgogICAgbGV0IHByb21pc2UxID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB1cmwgPSAnYXBwcy9zdmcvYXBpL2ZhY2lsaXR5LXN2Zy8nICsgdGhpcy5wcm9wc1snZmFjaWxpdHlJZCddICsgJy8/Zm9ybWF0PWpzb24nCiAgICAgIGZldGNoKHVybCwgdGhpcy5hdXRoZW50aWNhdGlvbikKICAgICAgICAudGhlbigocmVzcG9uc2UpID0+IHJlc3BvbnNlLmpzb24oKSkKICAgICAgICAudGhlbigoZGF0YSkgPT4gewogICAgICAgICAgZGF0YS5tYXAoKHN2Z0RpYWdyYW0sIGluZGV4KSA9PiB7CiAgICAgICAgICAgIGRpYWdyYW1zLnB1c2goc3ZnRGlhZ3JhbSkKICAgICAgICAgICAgbmFtZXMucHVzaChzdmdEaWFncmFtWydsYWJlbCddKQogICAgICAgICAgfSwgdGhpcykKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBzdmdfZGlhZ3JhbXM6IGRpYWdyYW1zLAogICAgICAgICAgICBzdmdfZGlhZ3JhbXNfbmFtZXM6IG5hbWVzLAogICAgICAgICAgICBzZWxlY3RlZE5hbWVzOiBuYW1lcywKICAgICAgICAgICAgLy8gc3ZnX3Bvc2l0aW9uX3RvcDogJCgnI3N2Z19jYW52YXMnKSA/ICQoJyNzdmdfY2FudmFzJykucG9zaXRpb24oKVsndG9wJ10gKyA5MCA6IDAKICAgICAgICAgIH0pCiAgICAgICAgICByZXNvbHZlKCdTVkcgZGlhZ3JhbXMgbG9hZGVkJykKICAgICAgICB9KQogICAgfSkKCiAgICBsZXQgcHJvbWlzZTIgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIHVybCA9ICdhcHBzL3N2Zy9hcGkvYWRkb25zLWJ5LWZhY2lsaXR5LycgKyB0aGlzLnByb3BzWydmYWNpbGl0eUlkJ10gKyAnLz9mb3JtYXQ9anNvbicKICAgICAgZmV0Y2godXJsLCB0aGlzLmF1dGhlbnRpY2F0aW9uKQogICAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gcmVzcG9uc2UuanNvbigpKQogICAgICAgIC50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHthZGRvbnM6IGRhdGF9KQogICAgICAgICAgcmVzb2x2ZSgnQWRkb25zIGxvYWRlZCcpCiAgICAgICAgfSkKICAgIH0pCgogICAgbGV0IHByb21pc2UzID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB1cmwgPSAnYXBwcy9zdmcvYXBpL3N2Zy1yZWZlcmVuY2VkLWVxdWlwbWVudHMtYnktZmFjaWxpdHkvJyArIHRoaXMucHJvcHNbJ2ZhY2lsaXR5SWQnXSArICcvP2Zvcm1hdD1qc29uJwogICAgICBmZXRjaCh1cmwsIHRoaXMuYXV0aGVudGljYXRpb24pCiAgICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiByZXNwb25zZS5qc29uKCkpCiAgICAgICAgLnRoZW4oKGRhdGEpID0+IHsKICAgICAgICAgIGxldCBwcm9jZXNzZWREYXRhQXV4ID0ge30KICAgICAgICAgIGRhdGEubWFwKChlcXVpcG1lbnQpID0+IHsKICAgICAgICAgICAgbGV0IGVxdWlwbWVudFRlbXAgPSBlcXVpcG1lbnQKICAgICAgICAgICAgZXF1aXBtZW50LnByb2Nlc3NlZF9kYXRhLm1hcCgocHJvY2Vzc2VkRGF0YSkgPT4gewogICAgICAgICAgICAgIHByb2Nlc3NlZERhdGFBdXhbcHJvY2Vzc2VkRGF0YS5pZF0gPSB7CiAgICAgICAgICAgICAgICAnZXF1aXBtZW50JzogZXF1aXBtZW50VGVtcCwKICAgICAgICAgICAgICAgICdwcm9jZXNzZWREYXRhJzogcHJvY2Vzc2VkRGF0YSwKICAgICAgICAgICAgICAgICdzdmdfcmVmZXJlbmNlJzogcHJvY2Vzc2VkRGF0YS5TVkdfcmVmZXJlbmNlLAogICAgICAgICAgICAgICAgJ2hhc0FkZG9uJzogZmFsc2UsCiAgICAgICAgICAgICAgICAnYWRkb24nOiBbXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkKICAgICAgICAgIH0pCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFfaW5kZXhlczogcHJvY2Vzc2VkRGF0YUF1eCwKICAgICAgICAgICAgc3ZnX2VxdWlwbWVudHM6IGRhdGEKICAgICAgICAgIH0pCiAgICAgICAgICByZXNvbHZlKCdFcXVpcG1lbnRzIGxvYWRlZCBhbmQgcHJvY2Vzc2VkJykKICAgICAgICB9KQogICAgfSkKICAgIFByb21pc2UuYWxsKFtwcm9taXNlMSwgcHJvbWlzZTIsIHByb21pc2UzXSkKICAgICAgLnRoZW4oKHZhbHVlKSA9PiB7CiAgICAgICAgLyoqID4gVE9ETzogTWFuaXB1bGF0ZSBoZXJlIGV2ZXJ5IGRpY3QgYW5kL29yIGxpc3QgKi8KICAgICAgICB0aGlzLnNldFN0YXRlKHtoYXNBbGxEYXRhOiB0cnVlfSkKICAgICAgICAvKiogPiBUT0RPOiBEeW5hbWljIHN5bm9wdGljIGVxdWlwbWVudHMgKi8KICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmdWxndXJpdC5jb21fZGV2aWNlcy5tb2RlbHMgaW1wb3J0IERldmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxTeW5vcHRpY0xhbmRQYWdlIGZhY2lsaXR5SWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRGYWNpbGl0eX0gaXNHbG9iYWwgLz4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmFjYWxoYXUgYSBicmF6IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RvZ29ub2Ygdml0ZWxhIDEK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>coor</last-search>
+      <last-search>apps</last-search>
       <last-offset />
-      <last-pattern>coor</last-pattern>
+      <last-pattern>apps</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERVZFTE9QTUVOVFw+</entry>
-        <entry>this.props.report.creator</entry>
-        <entry encoding="base64">XDxwb3B1bGF0ZUNvbHVtbnNXaXRoQ29tcG9uZW50c1w+</entry>
-        <entry encoding="base64">XDxwcmludF9pZlw+</entry>
-        <entry encoding="base64">XDxmdWxndXJpdF9zZXR0aW5nc1w+</entry>
-        <entry>20</entry>
-        <entry encoding="base64">XDxjb29raWVcPg==</entry>
-        <entry encoding="base64">XDxvdmVycmlkZV9zZXR0aW5nc1w+</entry>
         <entry>Fulgur</entry>
         <entry>FULG</entry>
         <entry encoding="base64">XDxkaXNwYXRjaF9tZXRlcnNfZ2VuZXJhdGluZ1w+</entry>
@@ -571,6 +599,14 @@
         <entry encoding="base64">XDxmb3JjZVw+</entry>
         <entry>select_a_fac</entry>
         <entry>coor</entry>
+        <entry>resiz</entry>
+        <entry>react-res</entry>
+        <entry>react-gr</entry>
+        <entry encoding="base64">XDxJVEVNX0hFSUdIVFw+</entry>
+        <entry>menu</entry>
+        <entry>selected</entry>
+        <entry encoding="base64">XDxoYXNBbGxEYXRhXD4=</entry>
+        <entry>apps</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
