@@ -150,9 +150,6 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1523027901191">
-        <mark key="'" line="421" column="24" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/celery.py" timestamp="1522939566932">
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -320,7 +317,7 @@
         <mark key="^" line="55" column="24" />
         <mark key="." line="55" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523282254399">
+      <file name="/Dummy.txt" timestamp="1523290206146">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -486,7 +483,6 @@
       <jump line="137" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="152" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="162" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="0" column="10" filename="/Dummy.txt" />
       <jump line="117" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
       <jump line="100" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
       <jump line="53" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
@@ -504,6 +500,7 @@
       <jump line="426" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="100" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="202" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="0" column="10" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -539,7 +536,7 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdmdfZGlhZ3JhbXNfbmFtZXNcPg==</text>
