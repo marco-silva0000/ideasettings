@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/version.json" timestamp="1519828876307">
@@ -188,6 +188,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1523269321310">
+        <mark key="[" line="78" column="81" />
+        <mark key="]" line="78" column="105" />
+        <mark key="." line="78" column="105" />
+        <mark key="^" line="78" column="105" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1521561998805">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="24" />
@@ -241,6 +247,12 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1523270169883">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/dev_server/settings.py" timestamp="1522947272868">
         <mark key="[" line="86" column="17" />
@@ -357,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="98" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
       <jump line="147" column="20" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
       <jump line="153" column="19" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
       <jump line="265" column="36" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/jsonToPdf.py" />
@@ -457,6 +468,7 @@
       <jump line="17" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
       <jump line="3283" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
       <jump line="1994" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
+      <jump line="14" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -492,51 +504,46 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>build-storybook</text>
       </register>
       <register name="/" type="4">
         <text>coor</text>
       </register>
       <register name="0" type="4">
-        <text>,
-        'fulgurit.com_manager': {
-            'handlers': ['file_plc'],
-            'level': 'INFO',
-            'propagate': True,
-        },</text>
+        <text encoding="base64">JiYgeWFybiB1cGdyYWRl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAudmFsdWUoJ1N5bm9wdGljR2xvYmFsTGFuZFBhZ2UnLCBzeW5vcHRpY0dsb2JhbExhbmRQYWdlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHN5bm9wdGljR2xvYmFsTGFuZFBhZ2UgZnJvbSAnLi9zeW5vcHRpYy9zeW5vcHRpY0dsb2JhbExhbmRQYWdlLmpzeCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAia2V5IjogIl9zZWFyY2hfb3JnYW5pemF0aW9uXyIsCiAgICAgICAgInZhbHVlIjogIlBlc3F1aXNhciBvcmdhbml6YcOnw6NvIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAiU2VhcmNoIG9yZ2FuaXphdGlvbiIKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHN5bm9wdGljR2xvYmFsTGFuZFBhZ2UgZnJvbSAnLi9zeW5vcHRpYy9zeW5vcHRpY0dsb2JhbExhbmRQYWdlLmpzeCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcmNlID0ga3dhcmdzLmdldCgnZm9yY2UnLCBUcnVlKQo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1N5bm9wdGljR2xvYmFsTGFuZFBhZ2UnLCBzeW5vcHRpY0dsb2JhbExhbmRQYWdlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd1cGRhdGVfcHJvY2Vzc2VkX2RhdGEnKQo=</text>
+        <text encoding="base64">aW1wb3J0IFNWR0VxdWlwbWVudERldGFpbExhbmRpbmcgZnJvbSAnLi9zeW5vcHRpYy9jb21wb25lbnRzL1NWR0VxdWlwbWVudERldGFpbExhbmRpbmcuanN4Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmdWxndXJpdC5jb21fZGV2aWNlcy5tb2RlbHMgaW1wb3J0IERldmljZQo=</text>
+        <text encoding="base64">ICAudmFsdWUoJ1NWR0VxdWlwbWVudERldGFpbExhbmRpbmcnLCBTVkdFcXVpcG1lbnREZXRhaWxMYW5kaW5nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5bm9wdGljR2xvYmFsTGFuZFBhZ2UgZnJvbSAnLi9zeW5vcHRpYy9zeW5vcHRpY0dsb2JhbExhbmRQYWdlLmpzeCcK</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmFjYWxoYXUgYSBicmF6IDAK</text>
+        <text encoding="base64">ICAudmFsdWUoJ1N5bm9wdGljR2xvYmFsTGFuZFBhZ2UnLCBzeW5vcHRpY0dsb2JhbExhbmRQYWdlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RvZ29ub2Ygdml0ZWxhIDEK</text>
+        <text encoding="base64">ICAudmFsdWUoJ1NWR0VxdWlwbWVudERldGFpbExhbmRpbmcnLCBTVkdFcXVpcG1lbnREZXRhaWxMYW5kaW5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
