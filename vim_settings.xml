@@ -15,13 +15,6 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1523290022211">
-        <mark key="'" line="100" column="6" />
-        <mark key="[" line="138" column="26" />
-        <mark key="]" line="138" column="26" />
-        <mark key="." line="138" column="26" />
-        <mark key="^" line="137" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" timestamp="1523265731553">
         <mark key="'" line="1994" column="5" />
         <mark key="[" line="3360" column="0" />
@@ -66,12 +59,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523289941192">
-        <mark key="'" line="202" column="17" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="226" column="57" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523379517633">
+        <mark key="'" line="214" column="17" />
+        <mark key="[" line="155" column="15" />
+        <mark key="]" line="155" column="19" />
+        <mark key="^" line="155" column="19" />
+        <mark key="." line="155" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/services/CropsService.js" timestamp="1521112753389">
         <mark key="[" line="17" column="50" />
@@ -199,7 +192,7 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" timestamp="1523274922730">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" timestamp="1523378847094">
         <mark key="[" line="53" column="31" />
         <mark key="]" line="53" column="31" />
         <mark key="^" line="97" column="11" />
@@ -218,10 +211,7 @@
         <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1523272940361">
-        <mark key="[" line="60" column="0" />
         <mark key="m" line="26" column="33" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/environmental_control/settings.py" timestamp="1521561998805">
         <mark key="[" line="19" column="25" />
@@ -276,11 +266,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1523271358402">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/dev_server/settings.py" timestamp="1522947272868">
         <mark key="[" line="86" column="17" />
@@ -347,11 +332,6 @@
         <mark key="]" line="15" column="65" />
         <mark key="." line="15" column="65" />
         <mark key="^" line="15" column="65" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1523271415283">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/my_serializer.py" timestamp="1518609058543">
         <mark key="[" line="0" column="5" />
@@ -540,16 +520,16 @@
         <text>ReportComponentSelectorSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdmdfZGlhZ3JhbXNfbmFtZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>names</text>
+        <text>facility.facility__id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNBbGxEYXRhOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5zdGF0ZS5mYWNpbGl0eVN5bm9wdGljRGF0YX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -566,31 +546,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoYXNBbGxEYXRhOiB0cnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLyoqID4gVE9ETzogRHluYW1pYyBzeW5vcHRpYyBlcXVpcG1lbnRzICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLyoqID4gVE9ETzogTWFuaXB1bGF0ZSBoZXJlIGV2ZXJ5IGRpY3QgYW5kL29yIGxpc3QgKi8K</text>
+        <text encoding="base64">ICAgICAgLyoqID4gVE9ETzogRHluYW1pYyBzeW5vcHRpYyBlcXVpcG1lbnRzICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7aGFzQWxsRGF0YTogdHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgICAgLyoqID4gVE9ETzogTWFuaXB1bGF0ZSBoZXJlIGV2ZXJ5IGRpY3QgYW5kL29yIGxpc3QgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7aGFzQWxsRGF0YTogdHJ1ZX0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwwwwww/.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ZnX2VxdWlwbWVudHM6IHN2Z0VxdWlwbWVudHMK</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFfaW5kZXhlczogcHJvY2Vzc2VkRGF0YUF1eCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3ZnX2VxdWlwbWVudHM6IHN2Z0VxdWlwbWVudHMK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
