@@ -25,11 +25,11 @@
         <mark key="^" line="1982" column="20" />
         <mark key="." line="3360" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1523439998389">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1523456477248">
         <mark key="'" line="85" column="4" />
-        <mark key="[" line="214" column="8" />
-        <mark key="]" line="214" column="14" />
-        <mark key="." line="214" column="14" />
+        <mark key="[" line="215" column="30" />
+        <mark key="]" line="215" column="30" />
+        <mark key="." line="215" column="30" />
         <mark key="^" line="214" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" timestamp="1523439895585">
@@ -243,22 +243,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>log_lorak</text>
+        <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>this.setState</text>
+        <text>this.state.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzZXRTVkdzRWxlbWVudHNSZXNwb25zZSA9IChlbGVtZW50KSA9PiB7CgogICAgJChlbGVtZW50KS5maW5kKCdbaWQkPVwnX19jbGlja1wnXScpLm1hcCgoaW5kZXgsIGNsaWNrYWJlbEVsZW1lbnQpID0+IHsKICAgICAgY2xpY2thYmVsRWxlbWVudC5zZXRBdHRyaWJ1dGUoJ2N1cnNvcicsICdwb2ludGVyJykKCiAgICAgICQoY2xpY2thYmVsRWxlbWVudCkuY2xpY2soKCkgPT4gewogICAgICAgIGxldCBlbGVtZW50ID0gJC5ncmVwKE9iamVjdC5rZXlzKHRoaXMuc3RhdGUucHJvY2Vzc2VkX2RhdGFfaW5kZXhlcyksIChrKSA9PiB7CiAgICAgICAgICByZXR1cm4gKHRoaXMuc3RhdGUucHJvY2Vzc2VkX2RhdGFfaW5kZXhlc1trXS5zdmdfcmVmZXJlbmNlLmluZGV4T2YoY2xpY2thYmVsRWxlbWVudC5pZC5zcGxpdCgnX18nKVswXSkgPT09IDApCiAgICAgICAgfSkKICAgICAgICBpZiAodGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzW2VsZW1lbnRbMF1dKSB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgc2VsZWN0ZWRfZXF1aXBtZW50OiB0aGlzLnN0YXRlLnByb2Nlc3NlZF9kYXRhX2luZGV4ZXNbZWxlbWVudFswXV0uZXF1aXBtZW50LAogICAgICAgICAgICBpc0RpYWxvZ09wZW5lZDogdHJ1ZQogICAgICAgICAgfSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgY29uc29sZS53YXJuKCdObyBNYXRjaGluZyBFcXVpcG1lbnQnKQogICAgICAgICAgdGhpcy5zbmFja0Jhck1lc3NhZ2UgPSAnTm8gTWF0Y2hpbmcgRXF1aXBtZW50JwogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7aXNTbmFja0Jhck9wZW46IHRydWV9KQogICAgICAgIH0KICAgICAgfSkKICAgIH0pCiAgICBpZiAodGhpcy5udW1iZXJPZlJlYWR5U1ZHcyA8IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zLmxlbmd0aCkgewogICAgICB0aGlzLm51bWJlck9mUmVhZHlTVkdzKysKICAgICAgZWxlbWVudC5uYW1lID0KICAgICAgICB0aGlzLnN2Z0NvbXBvbmVudHMucHVzaChlbGVtZW50KQogICAgfQogICAgaWYgKHRoaXMubnVtYmVyT2ZSZWFkeVNWR3MgPT09IHRoaXMuc3RhdGUuc3ZnX2RpYWdyYW1zLmxlbmd0aCkgewogICAgICAvLyBBbGwgc3ZncyBhcmUgcmVhZHkuIENhbiBiZSBwb3VsYXRlZCB3aXRoIGRhdGEKICAgICAgdGhpcy51cGRhdGVBZnRlckZpcnN0UmVuZGVyKCkKICAgICAgdGhpcy5zdGF0ZS5hZGRvbnMubWFwKChhZGRvbikgPT4gewogICAgICAgIHRoaXMuc2V0QWRkb25zKFthZGRvbl0pCiAgICAgIH0pCiAgICB9CiAgfQo=</text>
+      <register name="0" type="4">
+        <text>processedDataIndexes</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <text>0www2dwye&quot;wye3kyy3jP$bve&quot;wpjjj</text>
+        <text>ve&quot;wp</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICB0aGlzLnNldFN0YXRlKHt3aW5kb3dfaGVpZ2h0OiB3aW5kb3dIZWlnaHRBdXh9KQo=</text>
@@ -279,7 +279,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgdGhpcy5zdGF0ZS5mYWNpbGl0eVN5bm9wdGljRGF0YVtmYWNpbGl0eS5mYWNpbGl0eV9faWRdID0K</text>
       </register>
       <register name="w" type="4">
-        <text>log_lorak</text>
+        <text>processedDataIndexes</text>
       </register>
       <register name="8" type="4">
         <text>{
