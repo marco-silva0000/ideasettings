@@ -32,6 +32,10 @@
         <mark key="^" line="1982" column="20" />
         <mark key="." line="3360" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1524155879789">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticGlobalList.jsx" timestamp="1523271983946">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="16" />
@@ -48,6 +52,18 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/SVGEquipmentDetailLanding.jsx" timestamp="1524155523806">
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="72" column="53" />
+        <mark key="." line="72" column="53" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticDashboard.jsx" timestamp="1524155867088">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" timestamp="1522945393572">
         <mark key="'" line="302" column="44" />
@@ -68,8 +84,12 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/utilities.py" timestamp="1523305057472">
         <mark key="'" line="268" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523378435113">
-        <mark key="'" line="410" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1524155907863">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="241" column="97" />
+        <mark key="]" line="237" column="32" />
+        <mark key="." line="237" column="32" />
+        <mark key="^" line="237" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1523305095942">
         <mark key="'" line="10" column="4" />
@@ -77,7 +97,12 @@
         <mark key="]" line="65" column="54" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/ProcessedDataListItem.jsx" timestamp="1524155192547" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/ProcessedDataListItem.jsx" timestamp="1524155414441">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="71" column="13" />
+      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" timestamp="1522947438035">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
@@ -105,9 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="20" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="181" column="11" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="150" column="39" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
       <jump line="160" column="79" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
       <jump line="8" column="0" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
       <jump line="249" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
@@ -205,6 +227,9 @@
       <jump line="453" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="110" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
       <jump line="476" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="18" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
+      <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticDashboard.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,62 +268,60 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</text>
+        <text encoding="base64">XDxSZWFjdFNWR1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvKiogPiBBc3NpZ24gb25DbGljayBsaXN0ZW5lciBvbiBldmVyeSBTVkcgSUQgZW5kZWQgd2l0aCAnX19jbGljaycgYW5kIGNoYW5nZSBwb2ludGVyIG9uSG92ZXIgLS0tLS0tLS0tLS0tLS0tLS0tLSAqLwogIHNldFNWR3NFbGVtZW50c1Jlc3BvbnNlID0gKGVsZW1lbnQpID0+IHsKCiAgICAkKGVsZW1lbnQpLmZpbmQoJ1tpZCQ9XCdfX2NsaWNrXCddJykubWFwKChpbmRleCwgY2xpY2thYmVsRWxlbWVudCkgPT4gewogICAgICBjbGlja2FiZWxFbGVtZW50LnNldEF0dHJpYnV0ZSgnY3Vyc29yJywgJ3BvaW50ZXInKQoKICAgICAgJChjbGlja2FiZWxFbGVtZW50KS5jbGljaygoKSA9PiB7CiAgICAgICAgbGV0IGVsZW1lbnQgPSAkLmdyZXAoT2JqZWN0LmtleXModGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzKSwgKGspID0+IHsKICAgICAgICAgIHJldHVybiAodGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzW2tdLnN2Z19yZWZlcmVuY2UuaW5kZXhPZihjbGlja2FiZWxFbGVtZW50LmlkLnNwbGl0KCdfXycpWzBdKSA9PT0gMCkKICAgICAgICB9KQogICAgICAgIGlmICh0aGlzLnN0YXRlLnByb2Nlc3NlZF9kYXRhX2luZGV4ZXNbZWxlbWVudFswXV0pIHsKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBzZWxlY3RlZF9lcXVpcG1lbnQ6IHRoaXMuc3RhdGUucHJvY2Vzc2VkX2RhdGFfaW5kZXhlc1tlbGVtZW50WzBdXS5lcXVpcG1lbnQsCiAgICAgICAgICAgIGlzRGlhbG9nT3BlbmVkOiB0cnVlCiAgICAgICAgICB9KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBjb25zb2xlLndhcm4oJ05vIE1hdGNoaW5nIEVxdWlwbWVudCcpCiAgICAgICAgICB0aGlzLnNuYWNrQmFyTWVzc2FnZSA9ICdObyBNYXRjaGluZyBFcXVpcG1lbnQnCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtpc1NuYWNrQmFyT3BlbjogdHJ1ZX0pCiAgICAgICAgfQogICAgICB9KQogICAgfSkKICAgIGlmICh0aGlzLm51bWJlck9mUmVhZHlTVkdzIDwgdGhpcy5zdGF0ZS5zdmdfZGlhZ3JhbXMubGVuZ3RoKSB7CiAgICAgIHRoaXMubnVtYmVyT2ZSZWFkeVNWR3MrKwogICAgICBlbGVtZW50Lm5hbWUgPQogICAgICAgIHRoaXMuc3ZnQ29tcG9uZW50cy5wdXNoKGVsZW1lbnQpCiAgICB9CiAgICBpZiAodGhpcy5udW1iZXJPZlJlYWR5U1ZHcyA9PT0gdGhpcy5zdGF0ZS5zdmdfZGlhZ3JhbXMubGVuZ3RoKSB7CiAgICAgIC8vIEFsbCBzdmdzIGFyZSByZWFkeS4gQ2FuIGJlIHBvdWxhdGVkIHdpdGggZGF0YQogICAgICB0aGlzLnVwZGF0ZUFmdGVyRmlyc3RSZW5kZXIoKQogICAgICB0aGlzLnN0YXRlLmFkZG9ucy5tYXAoKGFkZG9uKSA9PiB7CiAgICAgICAgdGhpcy5zZXRBZGRvbnMoW2FkZG9uXSkKICAgICAgfSkKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNWRyBmcm9tICdzdmcuanMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVsZW1lbnQgPSAkLmdyZXAoT2JqZWN0LmtleXModGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzKSwgKGspID0+IHsK</text>
+        <text encoding="base64">ICBEaWFsb2dUaXRsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkX2VxdWlwbWVudDogdGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzW2VsZW1lbnRbMF1dLmVxdWlwbWVudCwK</text>
+        <text encoding="base64">aW1wb3J0IFNWRyBkIiJQYFtgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0U3RhdGUgLSBnbG9iYWwnLCBnbG9iYWwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aGlzLnNldFN0YXRlKHt3aW5kb3dfaGVpZ2h0OiB3aW5kb3dIZWlnaHRBdXh9KQo=</text>
+        <text encoding="base64">ICAgICAgLy9wYXRoPXsnL3N0YXRpYy9pbWFnZXMvc3ZnJyArIHRoaXMucHJvcHMuZGlhZ3JhbVsndXJsJ119Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKiogVGhpcyB3aWxsIGJlIGNhbGxlZCB0aGUgZmlyc3QgdGltZSB0aGUgc3ZnIGlzIHJlbmRlcmVkIGluIG9yZGVyIHRvIHBvcHVsYXRlIGl0IHdpdGggZGF0YSAqLwogIHVwZGF0ZUFmdGVyRmlyc3RSZW5kZXIgPSAoKSA9PiB7CiAgICB0aGlzLnN0YXRlLnN2Z19lcXVpcG1lbnRzLm1hcCgoZXF1aXBtZW50KSA9PiB7CiAgICAgIGVxdWlwbWVudC5wcm9jZXNzZWRfZGF0YS5tYXAoKHByb2Nlc3NlZERhdGEpID0+IHsKICAgICAgICB0aGlzLnJlbmRlclN5bkVsZW1lbnQoewogICAgICAgICAgJ3Byb2Nlc3NlZF9kYXRhJzogcHJvY2Vzc2VkRGF0YS5pZCwKICAgICAgICAgICd2YWx1ZSc6IHByb2Nlc3NlZERhdGEudmFsdWUKICAgICAgICB9KQogICAgICB9KQogICAgfSkKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXRTdGF0ZSwgZm9yIG5vdywgb25seSBzZXJ2ZXMgdG8gcmUtcmVuZGVyIHRoZSBjb21wb25lbnQK</text>
+        <text encoding="base64">aW1wb3J0IGJsdWUgZnJvbSAnbWF0ZXJpYWwtdWkvY29sb3JzL2JsdWUnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtzZWxlY3RlZEZhY2lsaXRpZXM6IG9iaiwgc2VsZWN0ZWRGYWNpbGl0aWVzTmFtZTogbmFtZXN9KQo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGVsZW1lbnQgPSAkLmdyZXAoT2JqZWN0LmtleXModGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzKSwgKGspID0+IHsK</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkX2VxdWlwbWVudDogdGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzW2VsZW1lbnRbMF1dLmVxdWlwbWVudCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdGhpcy5zdGF0ZS5mYWNpbGl0eVN5bm9wdGljRGF0YVtmYWNpbGl0eS5mYWNpbGl0eV9faWRdID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxSZWFjdFNWR1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxSZWFjdFNWR1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>menu</entry>
-        <entry>selected</entry>
         <entry encoding="base64">XDxoYXNBbGxEYXRhXD4=</entry>
         <entry>apps</entry>
         <entry encoding="base64">XDxzeW5vcHRpY3NcPg==</entry>
@@ -317,6 +340,8 @@
         <entry encoding="base64">XDx1cGRhdGVBZnRlckZpcnN0UmVuZGVyXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVEYXNoYm9hcmREaW1lbnNpb25zXD4=</entry>
         <entry encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</entry>
+        <entry>SVG</entry>
+        <entry encoding="base64">XDxSZWFjdFNWR1w+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
