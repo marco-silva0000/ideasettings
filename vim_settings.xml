@@ -14,6 +14,9 @@
         <mark key="^" line="694" column="12" />
         <mark key="." line="694" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" timestamp="1523375065334">
+        <mark key="'" line="348" column="35" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" timestamp="1523265731553">
         <mark key="'" line="1994" column="5" />
         <mark key="[" line="3360" column="0" />
@@ -33,6 +36,11 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1523271415283">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" timestamp="1523031944686">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="8" column="22" />
@@ -40,16 +48,38 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" timestamp="1522945393572">
+        <mark key="'" line="302" column="44" />
+        <mark key="[" line="275" column="34" />
+        <mark key="]" line="275" column="34" />
+        <mark key="." line="275" column="34" />
+        <mark key="^" line="303" column="118" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/controllers/mainController.js" timestamp="1523376640501">
         <mark key="'" line="37" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/.eslintrc.json" timestamp="1523291022568">
+        <mark key="[" line="2" column="41" />
       </file>
       <file name="/models.py" timestamp="1525084687377">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="189" column="66" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/api.py" timestamp="1523375054772">
+        <mark key="'" line="608" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/utilities.py" timestamp="1523305057472">
+        <mark key="'" line="268" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1523378435113">
         <mark key="'" line="132" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1523305095942">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="42" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" timestamp="1522947438035">
         <mark key="'" line="8" column="0" />
@@ -59,49 +89,13 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/admin.py" timestamp="1525084744140">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="54" />
+        <mark key="]" line="2" column="54" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" timestamp="1523375065334">
-        <mark key="'" line="348" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1523271415283">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" timestamp="1522945393572">
-        <mark key="'" line="302" column="44" />
-        <mark key="[" line="275" column="34" />
-        <mark key="]" line="275" column="34" />
-        <mark key="." line="275" column="34" />
-        <mark key="^" line="303" column="118" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/.eslintrc.json" timestamp="1523291022568">
-        <mark key="[" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/api.py" timestamp="1523375054772">
-        <mark key="'" line="608" column="34" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/utilities.py" timestamp="1523305057472">
-        <mark key="'" line="268" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1523305095942">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="54" />
-        <mark key="." line="65" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_analysis/analyzes/models.py" timestamp="1523374953155">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="51" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1525084881479">
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="150" column="31" />
-        <mark key="." line="150" column="31" />
-        <mark key="^" line="150" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" timestamp="1523374207917">
         <mark key="'" line="356" column="12" />
