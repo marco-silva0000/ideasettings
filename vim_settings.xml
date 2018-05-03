@@ -126,13 +126,13 @@
         <mark key="^" line="20" column="69" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1525363650018">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1525363715459">
         <mark key="'" line="288" column="0" />
-        <mark key="[" line="225" column="19" />
+        <mark key="[" line="225" column="45" />
         <mark key="m" line="284" column="20" />
-        <mark key="]" line="225" column="36" />
-        <mark key="." line="225" column="36" />
-        <mark key="^" line="225" column="36" />
+        <mark key="]" line="221" column="49" />
+        <mark key="." line="225" column="47" />
+        <mark key="^" line="221" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" timestamp="1525345702945">
         <mark key="'" line="238" column="70" />
@@ -312,7 +312,7 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>EquipmentWriteAction</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
         <text>EquipmentDataType</text>
@@ -320,8 +320,9 @@
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgU3RyaW5nQWN0aW9uRWxlbWVudChtb2RlbHMuTW9kZWwpOgogICAgdGVybSA9IG1vZGVscy5Gb3JlaWduS2V5KEFjdGlvbikKICAgIGtleSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDApCiAgICBkYXRhID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCkKCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+      <register name="1" type="4">
+        <text>)
+        elif</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -341,31 +342,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eSA9IFRydWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm94eSA9IFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGV4dEFjdGlvbihBY3Rpb24pOgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsnZW1wbG95ZWVzX2xpc3QnOiBvYmouYXNfcHJveHkuZW1wbG95ZWVzX2xpc3QsCiAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJzogb2JqLmFzX3Byb3h5Lm5vdGlmaWNhdGlvbn0K</text>
+        <text encoding="base64">Y2xhc3MgVGV4dEFjdGlvbihBY3Rpb24pOgo=</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGV4dCc6IG9iai5hc19wcm94eS50ZXh0fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsnZW1wbG95ZWVzX2xpc3QnOiBvYmouYXNfcHJveHkuZW1wbG95ZWVzX2xpc3QsCiAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJzogb2JqLmFzX3Byb3h5Lm5vdGlmaWNhdGlvbn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsnZW1wbG95ZWVzX2xpc3QnOiBvYmouYXNfcHJveHkuZW1wbG95ZWVzX2xpc3QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGV4dCc6IG9iai5hc19wcm94eS50ZXh0fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
