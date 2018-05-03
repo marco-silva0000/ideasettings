@@ -63,7 +63,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/demoEvents.json" timestamp="1525366077757">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/demoEvents.json" timestamp="1525367768116">
         <mark key="[" line="184" column="21" />
         <mark key="]" line="184" column="34" />
       </file>
@@ -106,13 +106,13 @@
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1525363715459">
-        <mark key="'" line="288" column="0" />
-        <mark key="[" line="225" column="45" />
-        <mark key="m" line="284" column="20" />
-        <mark key="]" line="221" column="49" />
-        <mark key="." line="225" column="47" />
-        <mark key="^" line="221" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1525368669736">
+        <mark key="'" line="289" column="0" />
+        <mark key="[" line="294" column="111" />
+        <mark key="m" line="285" column="20" />
+        <mark key="]" line="295" column="17" />
+        <mark key="." line="295" column="17" />
+        <mark key="^" line="295" column="17" />
       </file>
       <file name="/Event.jsx" timestamp="1525342116849">
         <mark key="[" line="69" column="0" />
@@ -275,13 +275,13 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>Action</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb29sZWFuQWN0aW9uRWxlbWVudElubGluZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihDb25kaXRpb25UZXJtLCBDb25kaXRpb25UZXJtQWRtaW4pCg==</text>
+      <register name="0" type="4">
+        <text>Action</text>
       </register>
       <register name="1" type="4">
         <text>)
