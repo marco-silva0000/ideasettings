@@ -14,6 +14,12 @@
         <mark key="^" line="694" column="12" />
         <mark key="." line="694" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1525341288804">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="32" />
+        <mark key="." line="128" column="34" />
+        <mark key="^" line="128" column="34" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" timestamp="1523265731553">
         <mark key="'" line="1994" column="5" />
         <mark key="[" line="3360" column="0" />
@@ -62,13 +68,14 @@
         <mark key="]" line="2" column="54" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525280759499">
+      <file name="/Dummy.txt" timestamp="1525340864945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" timestamp="1523375065334">
         <mark key="'" line="348" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1523271415283">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1525341049068">
+        <mark key="'" line="41" column="31" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -118,30 +125,15 @@
         <mark key="^" line="197" column="64" />
         <mark key="." line="210" column="59" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1525341411934">
+        <mark key="'" line="42" column="41" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="45" column="62" />
+        <mark key="." line="27" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="11" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="150" column="39" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="160" column="79" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/.local/share/virtualenvs/fulgurit_analysis-T5HBrBMW/local/lib/python2.7/site-packages/fulgurit/utils/utilities.py" />
-      <jump line="249" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
-      <jump line="419" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="514" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="415" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="413" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="399" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="420" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="516" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="451" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="32" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
-      <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tasks.py" />
-      <jump line="85" column="70" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="68" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="71" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="17" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
-      <jump line="3283" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
-      <jump line="1994" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/i18n/resources-locale_pt-PT.js" />
-      <jump line="31" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="60" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="47" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
       <jump line="52" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
@@ -220,6 +212,28 @@
       <jump line="110" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" />
       <jump line="476" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
       <jump line="0" column="6" filename="/models.py" />
+      <jump line="41" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" />
+      <jump line="59" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="63" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="68" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="72" column="58" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="73" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="74" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="81" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="97" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="17" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="84" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="60" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="61" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="65" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="78" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="20" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="21" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="38" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="28" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="31" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="27" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="42" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -261,65 +275,57 @@
         <text>content_object</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</text>
+        <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYiBpbXBvcnQgYWRtaW4KCmZyb20gLm1vZGVscyBpbXBvcnQgRXZlbnQsIENvbmRpdGlvbiwgQ29uZGl0aW9uVGVybQoKYWRtaW4uc2l0ZS5yZWdpc3RlcihbRXZlbnQsIENvbmRpdGlvbiwgQ29uZGl0aW9uVGVybV0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtjbGFzc2VzfSA9IHRoaXMucHJvcHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVsZW1lbnQgPSAkLmdyZXAoT2JqZWN0LmtleXModGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzKSwgKGspID0+IHsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcudW5pdCAqIDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkX2VxdWlwbWVudDogdGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YV9pbmRleGVzW2VsZW1lbnRbMF1dLmVxdWlwbWVudCwK</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogdGhlbWUuc3BhY2luZy51bml0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXBlcjogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aGlzLnNldFN0YXRlKHt3aW5kb3dfaGVpZ2h0OiB3aW5kb3dIZWlnaHRBdXh9KQo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiogVGhpcyB3aWxsIGJlIGNhbGxlZCB0aGUgZmlyc3QgdGltZSB0aGUgc3ZnIGlzIHJlbmRlcmVkIGluIG9yZGVyIHRvIHBvcHVsYXRlIGl0IHdpdGggZGF0YSAqLwogIHVwZGF0ZUFmdGVyRmlyc3RSZW5kZXIgPSAoKSA9PiB7CiAgICB0aGlzLnN0YXRlLnN2Z19lcXVpcG1lbnRzLm1hcCgoZXF1aXBtZW50KSA9PiB7CiAgICAgIGVxdWlwbWVudC5wcm9jZXNzZWRfZGF0YS5tYXAoKHByb2Nlc3NlZERhdGEpID0+IHsKICAgICAgICB0aGlzLnJlbmRlclN5bkVsZW1lbnQoewogICAgICAgICAgJ3Byb2Nlc3NlZF9kYXRhJzogcHJvY2Vzc2VkRGF0YS5pZCwKICAgICAgICAgICd2YWx1ZSc6IHByb2Nlc3NlZERhdGEudmFsdWUKICAgICAgICB9KQogICAgICB9KQogICAgfSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogdGhlbWUuc3BhY2luZy51bml0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXRTdGF0ZSwgZm9yIG5vdywgb25seSBzZXJ2ZXMgdG8gcmUtcmVuZGVyIHRoZSBjb21wb25lbnQK</text>
+        <text encoding="base64">ICBtYXJnaW46IHsK</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtzZWxlY3RlZEZhY2lsaXRpZXM6IG9iaiwgc2VsZWN0ZWRGYWNpbGl0aWVzTmFtZTogbmFtZXN9KQo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogdGhlbWUuc3BhY2luZy51bml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxyb290XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>menu</entry>
-        <entry>selected</entry>
-        <entry encoding="base64">XDxoYXNBbGxEYXRhXD4=</entry>
-        <entry>apps</entry>
-        <entry encoding="base64">XDxzeW5vcHRpY3NcPg==</entry>
-        <entry encoding="base64">XDx3c191cmxcPg==</entry>
-        <entry encoding="base64">XDxXZWJzb2NrZXRcPg==</entry>
-        <entry>this</entry>
         <entry encoding="base64">XDxnZXRTdmdEYXRhQnlGYWNpbGl0eVw+</entry>
         <entry encoding="base64">XDxnZXRTdmdQcm9zc2Vzc2VkRGF0YUF1eEJ5RmFjaWxpdHlcPg==</entry>
         <entry>availableNames</entry>
@@ -332,6 +338,14 @@
         <entry encoding="base64">XDx1cGRhdGVBZnRlckZpcnN0UmVuZGVyXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVEYXNoYm9hcmREaW1lbnNpb25zXD4=</entry>
         <entry encoding="base64">XDxzZXRTVkdzRWxlbWVudHNSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxldmVudFw+</entry>
+        <entry encoding="base64">XDxjaGlwXD4=</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
+        <entry encoding="base64">XDxpY29uXD4=</entry>
+        <entry encoding="base64">XDxtYXJnaW5cPg==</entry>
+        <entry encoding="base64">XDxwYXBlclw+</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
