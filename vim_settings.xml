@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/api.py" timestamp="1525360979866">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1525360196527">
         <mark key="[" line="85" column="46" />
         <mark key="]" line="85" column="72" />
@@ -52,8 +57,12 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="/Django Console" timestamp="1525341865119">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1525362801570">
+        <mark key="'" line="79" column="57" />
+        <mark key="[" line="75" column="38" />
+        <mark key="]" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+        <mark key="^" line="76" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/admin.py" timestamp="1525084744140">
         <mark key="[" line="0" column="0" />
@@ -66,10 +75,21 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525360424754">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/demoEvents.json" timestamp="1525361134778">
+        <mark key="[" line="184" column="21" />
+        <mark key="]" line="184" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525360926516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" timestamp="1525362820632">
+        <mark key="'" line="158" column="6" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="^" line="302" column="0" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/dashboard/sideDrawer.jsx" timestamp="1525347769424">
         <mark key="[" line="313" column="12" />
@@ -102,9 +122,13 @@
         <mark key="^" line="20" column="69" />
         <mark key="." line="23" column="59" />
       </file>
-      <file name="/Event.jsx" timestamp="1525342116849">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1525362336975">
+        <mark key="'" line="248" column="6" />
+        <mark key="[" line="268" column="6" />
+        <mark key="]" line="268" column="25" />
+        <mark key="m" line="278" column="20" />
+        <mark key="." line="274" column="59" />
+        <mark key="^" line="278" column="87" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" timestamp="1525345702945">
         <mark key="'" line="238" column="70" />
@@ -119,6 +143,16 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
         <mark key="^" line="161" column="0" />
+      </file>
+      <file name="/admin.py" timestamp="1525084741819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1525362793866">
+        <mark key="[" line="452" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="^" line="453" column="0" />
+        <mark key="." line="453" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1523305325807">
         <mark key="'" line="197" column="29" />
@@ -136,38 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
-      <jump line="100" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
-      <jump line="53" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
-      <jump line="508" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="98" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="507" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="6" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="415" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="83" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
-      <jump line="20" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
-      <jump line="12" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
-      <jump line="84" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="410" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="426" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="100" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="202" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
-      <jump line="0" column="10" filename="/Dummy.txt" />
-      <jump line="260" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/utilities.py" />
-      <jump line="268" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/utilities.py" />
-      <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="204" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
-      <jump line="197" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="248" column="24" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="256" column="42" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="257" column="25" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="259" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="260" column="17" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="267" column="46" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="268" column="46" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
-      <jump line="269" column="46" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
       <jump line="270" column="46" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
       <jump line="281" column="29" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
       <jump line="288" column="20" filename="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fieldwork/models/report.py" />
@@ -236,6 +238,38 @@
       <jump line="58" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="59" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="0" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/.gitignore" />
+      <jump line="44" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="248" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="73" column="57" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="307" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="362" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="363" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="20" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="22" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="38" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="42" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="51" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="53" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="63" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="65" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="81" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="87" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="91" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="93" column="18" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="94" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="98" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="103" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="117" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="133" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="171" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="176" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="186" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="361" column="10" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="160" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="172" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
+      <jump line="158" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,85 +308,79 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>EquimentSim</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>EquipmentDataType</text>
       </register>
       <register name="0" type="4">
-        <text>{
-  &quot;parser&quot;: &quot;babel-eslint&quot;,
-  &quot;extends&quot;: [&quot;standard&quot;, &quot;standard-jsx&quot;],
-  &quot;env&quot;: {&quot;browser&quot;: true}
-}</text>
+        <text>EquipmentDataTypeSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmVzbGludHJjLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiBvYmouYXNfcHJveHkubm90aWZpY2F0aW8K</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="121" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{'employees_list': obj.as_proxy.employees_list,
+                    'value': obj.as_proxy.notification}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>{'employees_list': obj.as_proxy.employees_list,
+                    'text': obj.as_proxy.text}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnR5cGUgPT0gJycKICAgICAgICAKICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7fQo=</text>
+        <text encoding="base64">ICAgIGRhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaWQiOiIxMjEifQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW5kZXIgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAidW5pdCI6IiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>EquipmentDataType</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>EquipmentDataType</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>availableNames</entry>
-        <entry encoding="base64">XDxzdmdfZGlhZ3JhbXNfbmFtZXNcPg==</entry>
-        <entry encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</entry>
-        <entry encoding="base64">XDxsb2dfd2F0ZXJtYXJrXD4=</entry>
-        <entry encoding="base64">XDxsb2dfZXFfZGF0YXNcPg==</entry>
         <entry>save</entry>
         <entry>react</entry>
         <entry encoding="base64">XDx1cGRhdGVBZnRlckZpcnN0UmVuZGVyXD4=</entry>
@@ -368,6 +396,11 @@
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDxpc0VkaXRcPg==</entry>
         <entry>json</entry>
+        <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
+        <entry encoding="base64">XDxFcXVpcG1lbnRTaG9ydFNlcmlhbGl6ZXJcPg==</entry>
+        <entry>Equipment</entry>
+        <entry encoding="base64">XDxTaW1wbGVFcXVpcG1lbnRTZXJpYWxpemVyXD4=</entry>
+        <entry>EquipmentDataType</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
