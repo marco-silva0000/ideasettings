@@ -118,12 +118,12 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1525865991309">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1525874437858">
         <mark key="'" line="21" column="51" />
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="38" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="38" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="/admin.py" timestamp="1525084741819">
         <mark key="[" line="0" column="0" />
@@ -286,13 +286,13 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>org</text>
+        <text>condition_groups</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb29sZWFuQWN0aW9uRWxlbWVudElubGluZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGRqYW5nby5jb3JlLm1hbmFnZW1lbnQgaW1wb3J0IGNhbGxfY29tbWFuZAogICAgICAgIGNhbGxfY29tbWFuZCgibG9hZGRhdGEiLCAic3RhcnQuanNvbiIsIHZlcmJvc2l0eT0wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbmRpdGlvbl9ncm91cHMnOiBbXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmFjaWxpdHknOiBzZWxmLgo=</text>
@@ -383,6 +383,7 @@
         <entry>registers</entry>
         <entry>tabfirst</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
