@@ -10,8 +10,8 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1525961338747">
-        <mark key="'" line="822" column="26" />
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1525963510445">
+        <mark key="'" line="347" column="27" />
         <mark key="[" line="887" column="0" />
         <mark key="]" line="887" column="64" />
       </file>
@@ -53,8 +53,8 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1525950072739">
         <mark key="'" line="364" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1525961487902">
-        <mark key="'" line="47" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1525963533313">
+        <mark key="'" line="40" column="48" />
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="20" />
         <mark key="^" line="42" column="44" />
@@ -164,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="0" column="6" filename="/models.py" />
       <jump line="41" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" />
       <jump line="59" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
       <jump line="63" column="63" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
@@ -251,7 +249,6 @@
       <jump line="800" column="45" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="806" column="21" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="811" column="72" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="347" column="27" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="85" column="22" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="295" column="6" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" />
       <jump line="307" column="62" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" />
@@ -264,6 +261,9 @@
       <jump line="55" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="822" column="26" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="47" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="346" column="29" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="347" column="27" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="40" column="48" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
