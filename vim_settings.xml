@@ -49,12 +49,12 @@
         <mark key="[" line="166" column="6" />
         <mark key="]" line="166" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1525946493585">
-        <mark key="'" line="34" column="39" />
-        <mark key="[" line="71" column="37" />
-        <mark key="]" line="72" column="49" />
-        <mark key="." line="72" column="49" />
-        <mark key="^" line="72" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1525946663226">
+        <mark key="'" line="40" column="39" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="/Django Console" timestamp="1525341865119">
         <mark key="[" line="0" column="0" />
@@ -294,7 +294,7 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>serializers.SerializerMethodField()</text>
       </register>
       <register name="/" type="4">
         <text>manager</text>
@@ -303,7 +303,7 @@
         <text encoding="base64">ICAgIG9iamVjdHMgPSBDb25kaXRpb25NYW5hZ2VyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBzZXJpYWxpemVycy5KU09ORmllbGQod3JpdGVfb25seT1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -325,31 +325,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGF0YShzZWxmLCBvYmopOgogICAgICAgIGlmIG9iai50eXBlID09ICdFcXVpcG1lbnRMYXRlc3RWYWx1ZSc6CiAgICAgICAgICAgIHJldHVybiBFcXVpcG1lbnRMYXRlc3RWYWx1ZVNlcmlhbGl6ZXIob2JqLnZhbHVlKS5kYXRhCiAgICAgICAgZWxpZiBvYmoudHlwZSA9PSAndmFsdWUnOgogICAgICAgICAgICByZXR1cm4geyd2YWx1ZSc6IG9iai52YWx1ZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uZGl0aW9uCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBzZXJpYWxpemVycy5KU09ORmllbGQod3JpdGVfb25seT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZGl0aW9uVGVybS5vYmplY3RzLmNyZWF0ZShjb25kaXRpb249Y29uZGl0aW9uLCAqKnRlcm0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVybSBpbiB0ZXJtczoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uZGl0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZGl0aW9uVGVybS5vYmplY3RzLmNyZWF0ZShjb25kaXRpb249Y29uZGl0aW9uLCAqKnRlcm0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdGVybSBpbiB0ZXJtczoK</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXdfZXZlbnRfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJldmVudCI6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
