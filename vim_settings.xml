@@ -53,12 +53,12 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1525950072739">
         <mark key="'" line="364" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526296678796">
-        <mark key="'" line="43" column="24" />
-        <mark key="[" line="102" column="83" />
-        <mark key="]" line="103" column="37" />
-        <mark key="^" line="103" column="37" />
-        <mark key="." line="103" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526297968094">
+        <mark key="'" line="108" column="31" />
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+        <mark key="^" line="64" column="57" />
       </file>
       <file name="/Django Console" timestamp="1526028341428">
         <mark key="[" line="0" column="0" />
@@ -163,9 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
-      <jump line="84" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
-      <jump line="60" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
       <jump line="61" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
       <jump line="65" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
       <jump line="78" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
@@ -263,6 +260,9 @@
       <jump line="434" column="21" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="178" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="43" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="56" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="87" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="106" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,16 +301,16 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>condition_set</text>
       </register>
       <register name="/" type="4">
-        <text>to_internal</text>
+        <text encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgdmFsaWRhdGVkX2RhdGEpOgogICAgICAgIHByaW50KCd2YWxpZGF0ZWRfZGF0YSAlcycgJSB2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25zX2RhdGEgPSB2YWxpZGF0ZWRfZGF0YS5wb3AoJ2NvbmRpdGlvbl9zZXQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZGl0aW9uLm9iamVjdHMuY3JlYXRlKGV2ZW50PWV2ZW50LCAqKmNvbmRpdGlvbl9kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -332,46 +332,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29uZGl0aW9uc19kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29uZGl0aW9uX2RhdGEgaW4gY29uZGl0aW9uc19kYXRhOgo=</text>
+        <text encoding="base64">ICAgIGV2ZW50ID0gc2VyaWFsaXplcnMuUHJpbWFyeUtleVJlbGF0ZWRGaWVsZChyZWFkX29ubHk9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbmRpdGlvbl9lbGVtZW50cyA9IENvbmRpdGlvblRlcm1TZXJpYWxpemVyKHNvdXJjZT0nY29uZGl0aW9udGVybV9zZXQnLCBtYW55PVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEgJXMnICUgdmFsaWRhdGVkX2RhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgdmFsaWRhdGVkX2RhdGEpOgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IENvbmRpdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZQo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>to_internal</last-search>
+      <last-search encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</last-search>
       <last-offset />
-      <last-pattern>to_internal</last-pattern>
+      <last-pattern encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
         <entry encoding="base64">XDxpY29uXD4=</entry>
         <entry encoding="base64">XDxtYXJnaW5cPg==</entry>
@@ -391,6 +390,7 @@
         <entry>Pagi</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>to_internal</entry>
+        <entry encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
