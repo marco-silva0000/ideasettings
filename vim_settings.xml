@@ -46,11 +46,12 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1525950072739">
         <mark key="'" line="364" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526376518081">
-        <mark key="[" line="74" column="24" />
-        <mark key="]" line="74" column="3" />
-        <mark key="." line="74" column="3" />
-        <mark key="^" line="74" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526379689083">
+        <mark key="'" line="102" column="19" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="104" column="20" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="/Django Console" timestamp="1526373181702">
         <mark key="[" line="0" column="0" />
@@ -71,7 +72,7 @@
       <file name="/dummy.sql" timestamp="1526374758895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526377554819">
+      <file name="/Dummy.txt" timestamp="1526380189634">
         <mark key="i" line="0" column="13" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -115,11 +116,13 @@
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526377639268">
-        <mark key="[" line="24" column="0" />
-        <mark key="m" line="342" column="20" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526380172743">
+        <mark key="'" line="373" column="59" />
+        <mark key="[" line="373" column="72" />
+        <mark key="m" line="363" column="20" />
+        <mark key="]" line="373" column="75" />
+        <mark key="^" line="373" column="75" />
+        <mark key="." line="373" column="75" />
       </file>
       <file name="/Event.jsx" timestamp="1525342116849">
         <mark key="[" line="69" column="0" />
@@ -133,12 +136,11 @@
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526377337698">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526378661259">
         <mark key="'" line="116" column="34" />
-        <mark key="[" line="117" column="45" />
-        <mark key="]" line="117" column="45" />
-        <mark key="." line="117" column="45" />
-        <mark key="^" line="117" column="49" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="/admin.py" timestamp="1525084741819">
         <mark key="[" line="0" column="0" />
@@ -163,21 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
-      <jump line="42" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
-      <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="64" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="238" column="70" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" />
-      <jump line="68" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="61" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="72" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="62" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="77" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="131" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" />
-      <jump line="81" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="58" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="59" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="0" column="5" filename="$USER_HOME$/PycharmProjects/simoc-plus/.gitignore" />
       <jump line="44" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="248" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="307" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
@@ -263,6 +250,21 @@
       <jump line="23" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/api.py" />
       <jump line="165" column="34" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
       <jump line="116" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
+      <jump line="88" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="105" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="272" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="280" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="273" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="347" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="211" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="212" column="74" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="250" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="252" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="329" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="331" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="345" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
+      <jump line="102" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="373" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,16 +303,16 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>changes to model</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</text>
+        <text encoding="base64">XDxjb250ZW50X3R5cGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihsYXN0X2V2ZW50LmFjdGlvbnMpLCBsZW4oYWN0aW9ucykpCg==</text>
+      <register name="0" type="4">
+        <text>booleanactionelement_set</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X2NvbmRpdGlvbiA9IG1vZGVscy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -332,47 +334,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoY3JlYXRlX3JlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjcmVhdGVfcmVxdWVzdCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50X3R5cGUgPSBDb250ZW50VHlwZQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzX3Byb3h5Ll9nZW5lcmF0ZV9jaGlsZHJlbihkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIHJldHVybiAnY29uZGl0aW9uIG9mICVzIHdpdGggJWQgZWxlbWVudHMnICUgKHNlbGYuZXZlbnQsIHNlbGYuY29uZGl0aW9udGVybV9zZXQuY291bnQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGVmIF9fc3RyX18oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnR5cGUgPT0gJ0VxdWlwbWVudFdyaXRlJzoKICAgICAgICAgICAgcmV0dXJuIEVxdWlwbWVudFdyaXRlQWN0aW9uKGlkPXNlbGYuaWQpCiAgICAgICAgZWxpZiBzZWxmLnR5cGUgaW4gWydzbXMnLCAnZW1haWwnXToKICAgICAgICAgICAgcmV0dXJuIFRleHRBY3Rpb24oaWQ9c2VsZi5pZCkKICAgICAgICBlbGlmIHNlbGYudHlwZSA9PSAnbm90aWZpY2F0aW9uJzoKICAgICAgICAgICAgcmV0dXJuIE5vdGlmaWNhdGlvbkFjdGlvbihpZD1zZWxmLmlkKQogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="w" type="4">
         <text>processedDataIndexes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDb25kaXRpb25UZXJtLm9iamVjdHMuY3JlYXRlKGNvbmRpdGlvbj1jb25kaXRpb24sICoqdGVybSkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVybSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fdGVybXNfc2VyaWFsaXplci5zYXZlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</last-search>
+      <last-search encoding="base64">XDxjb250ZW50X3R5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZW50X3R5cGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
-        <entry encoding="base64">XDxpY29uXD4=</entry>
         <entry encoding="base64">XDxtYXJnaW5cPg==</entry>
         <entry encoding="base64">XDxwYXBlclw+</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
@@ -391,15 +391,17 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>to_internal</entry>
         <entry encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxFcXVpcG1lbnRXcml0ZUFjdGlvblw+</entry>
+        <entry encoding="base64">XDxjb250ZW50X3R5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
         <entry>wq</entry>
         <entry>registers</entry>
         <entry>tabfirst</entry>
-        <entry>q</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
