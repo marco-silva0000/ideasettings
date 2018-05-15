@@ -53,7 +53,13 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1525950072739">
         <mark key="'" line="364" column="25" />
       </file>
-      <file name="/Django Console" timestamp="1526028341428">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526373645009">
+        <mark key="[" line="51" column="76" />
+        <mark key="]" line="53" column="38" />
+        <mark key="^" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+      </file>
+      <file name="/Django Console" timestamp="1526373181702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/admin.py" timestamp="1525365923428">
@@ -111,13 +117,13 @@
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526308200569">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526373220440">
         <mark key="'" line="144" column="81" />
-        <mark key="[" line="204" column="86" />
+        <mark key="[" line="142" column="51" />
         <mark key="m" line="341" column="20" />
-        <mark key="]" line="203" column="46" />
-        <mark key="^" line="203" column="46" />
-        <mark key="." line="203" column="46" />
+        <mark key="]" line="142" column="54" />
+        <mark key="^" line="142" column="54" />
+        <mark key="." line="142" column="54" />
       </file>
       <file name="/Event.jsx" timestamp="1525342116849">
         <mark key="[" line="69" column="0" />
@@ -298,7 +304,7 @@
         <text>processedDataIndexes</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</text>
