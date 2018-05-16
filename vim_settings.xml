@@ -90,16 +90,16 @@
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526485551389">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526488019587">
         <mark key="a" line="71" column="4" />
         <mark key="c" line="207" column="8" />
         <mark key="t" line="207" column="8" />
         <mark key="'" line="127" column="31" />
-        <mark key="[" line="256" column="21" />
+        <mark key="[" line="76" column="0" />
         <mark key="m" line="75" column="18" />
-        <mark key="]" line="256" column="24" />
-        <mark key="^" line="256" column="24" />
-        <mark key="." line="256" column="24" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="72" column="71" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="/Event.jsx" timestamp="1525342116849">
         <mark key="[" line="69" column="0" />
@@ -268,49 +268,49 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>on</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
       </register>
-      <register name="0" type="4">
-        <text>delta_delay</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBhY3Rpb24uc2VuZCgpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignY291bGQgbm90IHNlbmQgYWN0aW9uICVzJyAlIGFjdGlvbikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbi5zZW5kKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZGl0aW9uX3Rlcm1fMSA9IEF1dG9GaXh0dXJlKENvbmRpdGlvblRlcm0sIGZpZWxkX3ZhbHVlcz17J2NvbmRpdGlvbic6IGNvbmRpdGlvbl90cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnb3BlcmF0aW9uJzogQ29uZGl0aW9uVGVybS5FUVVBTCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ190eXBlJzogJ1ZhbHVlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkuY3JlYXRlX29uZSgpCiAgICAgICAgICAgIGNvbmRpdGlvbl90ZXJtXzEuZ2VuZXJhdGVfY2hpbGRyZW4oeyd2YWx1ZSc6IDF9KQogICAgICAgICAgICBjb25kaXRpb25fdGVybV8yID0gQXV0b0ZpeHR1cmUoQ29uZGl0aW9uVGVybSwgZmllbGRfdmFsdWVzPXsnY29uZGl0aW9uJzogY29uZGl0aW9uX3RydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvcGVyYXRpb24nOiBDb25kaXRpb25UZXJtLk5PTkUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdfdHlwZSc6ICdWYWx1ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICduZXh0X3Rlcm0nOiBOb25lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5jcmVhdGVfb25lKCkKICAgICAgICAgICAgY29uZGl0aW9uX3Rlcm1fMi5nZW5lcmF0ZV9jaGlsZHJlbih7J3ZhbHVlJzogMX0pCiAgICAgICAgICAgIGNvbmRpdGlvbl90ZXJtXzEubmV4dF90ZXJtID0gY29uZGl0aW9uX3Rlcm1fMgogICAgICAgICAgICBjb25kaXRpb25fdGVybV8xLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2VuZF9vbl9hY3Rpb25zKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2VuZF9vZmZfYWN0aW9ucygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ25leHQgdGVybSAlcycgJSB0ZXJtLm5leHRfdGVybSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHJpZ2dlcl9zdGF0dXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luIGZpcnN0IGlmICVzJyAlIHRlcm0ub3BlcmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25zID0gc2VsZi5jb25kaXRpb25fc2V0LmFsbCgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Rlcm1fdmFsdWUgJXMnICUgdGVybV92YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Rlcm1zX3Jlc3VsdCAlcyBpbmRleDolZCcgJSAodGVybXNfcmVzdWx0LCB0ZXJtc19pbmRleCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
