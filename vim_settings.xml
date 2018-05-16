@@ -28,7 +28,7 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1525950072739">
         <mark key="'" line="364" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526480432578">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526481871606">
         <mark key="a" line="140" column="85" />
         <mark key="[" line="25" column="0" />
         <mark key="m" line="135" column="38" />
@@ -62,11 +62,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="37" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526477846296">
+      <file name="/Dummy.txt" timestamp="1526482031369">
         <mark key="i" line="0" column="13" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="63" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1526376498319">
@@ -88,7 +88,7 @@
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526480426614">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526481802757">
         <mark key="a" line="71" column="4" />
         <mark key="c" line="207" column="8" />
         <mark key="t" line="207" column="8" />
@@ -278,37 +278,37 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvJzogewo=</text>
+        <text encoding="base64">c2ltcGxlIGV2YWwgdGVzdCB3b3Jrcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdyZXF1ZXN0X2xvZ2dpbmcubWlkZGxld2FyZS5Mb2dnaW5nTWlkZGxld2FyZScsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICdtb2R1bGUnCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoRXF1aXBtZW50TGF0ZXN0VmFsdWVTZXJpYWxpemVyKGluc3RhbmNlLnZhbHVlKS5kYXRhKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZS52YWx1ZSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZS50eXBlKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGluc3RhbmNlKS4pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnaW4gZ2VuZXJpYyB0ZXJtIGRhdGEgc2VyaWFsemllcicpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGluc3RhbmNlKSkK</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvJzogewo=</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaW4gZ2VuZXJpYyB0ZXJtIGRhdGEgc2VyaWFsemllcicpCg==</text>
+        <text encoding="base64">ICAgICdyZXF1ZXN0X2xvZ2dpbmcubWlkZGxld2FyZS5Mb2dnaW5nTWlkZGxld2FyZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FzZGZhc2RmRXF1aXBtZW50TGF0ZXN0VmFsdWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICdtb2R1bGUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
