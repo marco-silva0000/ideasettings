@@ -10,8 +10,8 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="49" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1526295336450">
-        <mark key="'" line="434" column="21" />
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1526473089162">
+        <mark key="'" line="213" column="34" />
         <mark key="[" line="887" column="0" />
         <mark key="]" line="887" column="64" />
       </file>
@@ -46,15 +46,15 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1525950072739">
         <mark key="'" line="364" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526472974343">
-        <mark key="a" line="134" column="85" />
-        <mark key="'" line="80" column="36" />
-        <mark key="[" line="80" column="35" />
-        <mark key="m" line="129" column="38" />
-        <mark key="]" line="80" column="44" />
-        <mark key="n" line="195" column="15" />
-        <mark key="^" line="80" column="44" />
-        <mark key="." line="80" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1526473381731">
+        <mark key="a" line="138" column="85" />
+        <mark key="'" line="145" column="30" />
+        <mark key="[" line="169" column="31" />
+        <mark key="m" line="133" column="38" />
+        <mark key="]" line="169" column="31" />
+        <mark key="n" line="204" column="15" />
+        <mark key="." line="169" column="31" />
+        <mark key="^" line="166" column="21" />
       </file>
       <file name="/Django Console" timestamp="1526459564018">
         <mark key="[" line="0" column="0" />
@@ -75,11 +75,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="37" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526467381840">
+      <file name="/Dummy.txt" timestamp="1526473661747">
         <mark key="i" line="0" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="62" />
-        <mark key="." line="0" column="62" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
         <mark key="o" line="0" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/dashboard/sideDrawer.jsx" timestamp="1525347769424">
@@ -121,14 +121,14 @@
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526472817349">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1526473633542">
         <mark key="a" line="71" column="4" />
-        <mark key="'" line="75" column="26" />
-        <mark key="[" line="271" column="0" />
+        <mark key="'" line="59" column="39" />
+        <mark key="[" line="68" column="23" />
         <mark key="m" line="75" column="18" />
-        <mark key="]" line="271" column="0" />
-        <mark key="^" line="271" column="38" />
-        <mark key="." line="271" column="0" />
+        <mark key="]" line="68" column="26" />
+        <mark key="^" line="68" column="26" />
+        <mark key="." line="68" column="26" />
       </file>
       <file name="/Event.jsx" timestamp="1525342116849">
         <mark key="[" line="69" column="0" />
@@ -142,7 +142,7 @@
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526472862668">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526473481523">
         <mark key="'" line="171" column="86" />
         <mark key="[" line="173" column="65" />
         <mark key="]" line="175" column="38" />
@@ -165,9 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="93" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
-      <jump line="44" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/api.py" />
-      <jump line="58" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="123" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="34" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="27" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
@@ -264,7 +261,10 @@
       <jump line="164" column="96" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
       <jump line="171" column="86" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
       <jump line="79" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
-      <jump line="80" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="213" column="34" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="145" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="59" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -303,49 +303,50 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVybSA=</text>
+        <text>correct calculations for event is due with new schedules model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWNpbGl0eVNlcmlhbGl6ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb25kaXRpb25fdGVybV8xLmdlbmVyYXRlX2NoaWxkcmVuKHsndmFsdWUnOiAxfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCd0ZXJtIGlzIG5vbmUnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnb24gY29uZGl0aW9uIHRlcm0gY3JlYXRlJykK</text>
+      <register name="1" type="4">
+        <text>_
+            current</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZXZlbnQuaXNfdHJpZ2dlcmVkKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnOiBbeyd0eXBlJzogJ1ZhbHVlJywgJ2RhdGEnOiAxfV0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnOiBbeyd0eXBlJzogJ1ZhbHVlJywgJ2RhdGEnOiAxfV0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnb24gY29uZGl0aW9uIGNyZWF0ZScpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fc2VyaWFsaXplci5zYXZlKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fc2VyaWFsaXplci5zYXZlKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29uZGl0aW9uIHNhdmUgcmVzdWx0OiAlcycgJSBzYXZlX3Jlc3VsdCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29uZGl0aW9uX3Rlcm1zX3NhdmUgJXMnICUgY29uKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnOiAnVmFsdWUnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gY29uZGl0aW9uIHRlcm0gY3JlYXRlJykK</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5zdGFuY2VTZWxlY3RvcihFbXBsb3llZSksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZXZlbnQuaXNfdHJpZ2dlcmVkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnOiBbeyd0eXBlJzogJ1ZhbHVlJywgJ2RhdGEnOiAxfV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
