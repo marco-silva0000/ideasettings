@@ -120,12 +120,12 @@
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526554483381">
-        <mark key="'" line="255" column="17" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="12" />
-        <mark key="^" line="251" column="42" />
-        <mark key="." line="257" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526555375299">
+        <mark key="'" line="257" column="14" />
+        <mark key="[" line="257" column="12" />
+        <mark key="]" line="257" column="14" />
+        <mark key="^" line="257" column="14" />
+        <mark key="." line="257" column="14" />
       </file>
       <file name="/admin.py" timestamp="1525084741819">
         <mark key="[" line="0" column="0" />
@@ -137,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="106" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="65" column="18" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="72" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
@@ -237,6 +236,7 @@
       <jump line="555" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="17" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="15" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="257" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -275,49 +275,49 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>action.</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>EquipmentSh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEVNQUlMID0gJ2VtYWlsJwogICAgU01TID0gJ3NtcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX3NlbmRfZW1haWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24uX3NlbmRfZW1haWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWN0aW9uLnRleHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnRleHQgPSBNb2NrKHJldHVybl92YWx1ZT1mYWtlLm5hbWUoKSkK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24uX3NlbmRfZW1haWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRjaGVyLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnRleHQgPSBNb2NrKHJldHVybl92YWx1ZT1mYWtlLm5hbWUoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24uX3NlbmRfZW1haWwgPSBNb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXRjaGVyLnN0YXJ0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoTW9kZWxNb2NrLCBzZWxmKS5fZ2V0X2NoaWxkX21vY2soKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24uX3NlbmRfZW1haWwgPSBNb2NrKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuaWQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoTW9kZWxNb2NrLCBzZWxmKS5fZ2V0X2NoaWxkX21vY2soKiprd2FyZ3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuYW1lID09ICdwayc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuaWQK</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lID0ga3dhcmdzLmdldCgnbmFtZScsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lID09ICdwayc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2NoaWxkX21vY2soc2VsZiwgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lID0ga3dhcmdzLmdldCgnbmFtZScsICcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
