@@ -15,21 +15,21 @@
         <mark key="[" line="887" column="0" />
         <mark key="]" line="887" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1526560617400">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1526562906457">
         <mark key="'" line="107" column="12" />
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="107" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="39" />
         <mark key="." line="107" column="12" />
         <mark key="^" line="107" column="12" />
       </file>
       <file name="/Python Console" timestamp="1525883139241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1526560804332">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="111" column="16" />
-        <mark key="." line="94" column="46" />
-        <mark key="^" line="94" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1526562974364">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="14" column="102" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/serializers.py" timestamp="1525363099344">
         <mark key="[" line="166" column="6" />
@@ -70,10 +70,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/EditCancelSaveCardActionButtons.jsx" timestamp="1526560935215">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/EditCancelSaveCardActionButtons.jsx" timestamp="1526562926724">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/events_manager/models.py" timestamp="1526491249480">
         <mark key="[" line="102" column="0" />
@@ -98,6 +99,10 @@
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1526376510772">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="76" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/RaisedButtonList.jsx" timestamp="1526562227663">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/test.py" timestamp="1525865814083">
         <mark key="[" line="5" column="0" />
@@ -288,49 +293,49 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>EquipmentSh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdGhpcy5zdGF0ZS5pc1NjaGVkdWxlRWRpdAogICAgICAgICAgICAgICAgICAgID8gKAogICAgICAgICAgICAgICAgICAgICAgPEdyaWQgY29udGFpbmVyIHNwYWNpbmc9ezh9IGp1c3RpZnk9eydmbGV4LWVuZCd9PgogICAgICAgICAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVTY2hlZHVsZXModGhpcy5zdGF0ZS5zY2hlZHVsZXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7aXNTY2hlZHVsZUVkaXQ6IGZhbHNlfSkKICAgICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtpMThuLnQoJ2NvbW1vbjpDYW5jZWwnKX08L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGRhdGVFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtpc1NjaGVkdWxlRWRpdDogZmFsc2V9KQogICAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNhdmUgc2l6ZT0nbWVkaXVtJyAvPntpMThuLnQoJ2NvbW1vbjpTYXZlJyl9PC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgOiAoCiAgICAgICAgICAgICAgICAgICAgICA8R3JpZCBjb250YWluZXIgc3BhY2luZz17OH0ganVzdGlmeT17J2ZsZXgtZW5kJ30+CiAgICAgICAgICAgICAgICAgICAgICAgIDxHcmlkIGl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtpc1NjaGVkdWxlRWRpdDogdHJ1ZX0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Q3JlYXRlIHNpemU9J21lZGl1bScgLz57aTE4bi50KCdjb21tb246RWRpdCcpfTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGkxOG4gZnJvbSAnLi4vbG9jYWxpemF0aW9uL2kxOG4nCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXdFdmVudCA9IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50LCB7c2NoZWR1bGVzOiB7ICRzZXQ6IHNjaGVkdWxlc30gfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdGhpcy5zdGF0ZS5pc1NjaGVkdWxlRWRpdAogICAgICAgICAgICAgICAgICAgID8gKAogICAgICAgICAgICAgICAgICAgICAgPEdyaWQgY29udGFpbmVyIHNwYWNpbmc9ezh9IGp1c3RpZnk9eydmbGV4LWVuZCd9PgogICAgICAgICAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVTY2hlZHVsZXModGhpcy5zdGF0ZS5zY2hlZHVsZXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7aXNTY2hlZHVsZUVkaXQ6IGZhbHNlfSkKICAgICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtpMThuLnQoJ2NvbW1vbjpDYW5jZWwnKX08L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy51cGRhdGVFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtpc1NjaGVkdWxlRWRpdDogZmFsc2V9KQogICAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNhdmUgc2l6ZT0nbWVkaXVtJyAvPntpMThuLnQoJ2NvbW1vbjpTYXZlJyl9PC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgOiAoCiAgICAgICAgICAgICAgICAgICAgICA8R3JpZCBjb250YWluZXIgc3BhY2luZz17OH0ganVzdGlmeT17J2ZsZXgtZW5kJ30+CiAgICAgICAgICAgICAgICAgICAgICAgIDxHcmlkIGl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtpc1NjaGVkdWxlRWRpdDogdHJ1ZX0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Q3JlYXRlIHNpemU9J21lZGl1bScgLz57aTE4bi50KCdjb21tb246RWRpdCcpfTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1cGRhdGVTY2hlZHVsZXMgPSAoc2NoZWR1bGVzKSA9PiB7CiAgICBsZXQgbmV3RXZlbnQgPSB1cGRhdGUodGhpcy5zdGF0ZS5ldmVudCwge3NjaGVkdWxlczogeyAkc2V0OiBzY2hlZHVsZXN9IH0pCiAgICB0aGlzLnNldFN0YXRlKHsgZXZlbnQ6IG5ld0V2ZW50IH0pCiAgfQo=</text>
+        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbQoncmVhY3QnCmltcG9ydCBSZWFjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9fT4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaW4gX3NlbmQnKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVTY2hlZHVsZXModGhpcy5zdGF0ZS5zY2hlZHVsZXMpOwogICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7aXNTY2hlZHVsZUVkaXQ6IGZhbHNlfSkKICAgICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaW4gc2VuZCcpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWN0aW9uLnRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24uX3NlbmRfZW1haWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgIGxldCBuZXdFdmVudCA9IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50LCB7c2NoZWR1bGVzOiB7ICRzZXQ6IHNjaGVkdWxlc30gfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnRleHQgPSBNb2NrKHJldHVybl92YWx1ZT1mYWtlLm5hbWUoKSkK</text>
+        <text encoding="base64">ICB1cGRhdGVTY2hlZHVsZXMgPSAoc2NoZWR1bGVzKSA9PiB7CiAgICBsZXQgbmV3RXZlbnQgPSB1cGRhdGUodGhpcy5zdGF0ZS5ldmVudCwge3NjaGVkdWxlczogeyAkc2V0OiBzY2hlZHVsZXN9IH0pCiAgICB0aGlzLnNldFN0YXRlKHsgZXZlbnQ6IG5ld0V2ZW50IH0pCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

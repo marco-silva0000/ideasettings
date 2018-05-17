@@ -4,10 +4,6 @@
     <extensionMap>
       <mapping pattern="orgaizationService.js" type="JavaScript" />
       <mapping pattern="logActions.html" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="EditCancelSaveCardActionButtons.jsx" type="PLAIN_TEXT" />
-      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
-      <mapping pattern="backups" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
