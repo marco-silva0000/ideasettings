@@ -40,7 +40,7 @@
         <mark key="n" line="207" column="15" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1526459564018">
+      <file name="/Django Console" timestamp="1526641757506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" timestamp="1526575398142">
@@ -83,6 +83,10 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/settings.py" timestamp="1526641630135">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="115" column="1" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/events_manager/models.py" timestamp="1526491249480">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="108" column="49" />
@@ -97,6 +101,12 @@
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" timestamp="1526481514432">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/devSettings.py" timestamp="1526642022931">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/events_script.py" timestamp="1526491211949">
         <mark key="'" line="186" column="37" />
@@ -300,13 +310,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fulgurit_dev_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdFdmVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZUV2ZW50PXt0aGlzLnVwZGF0ZUV2ZW50fQo=</text>
+        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMucG9zdGdyZXNxbF9wc3ljb3BnMicsCiAgICAgICAgJ05BTUUnOiAnZGV2X2Z1bGd1cml0JywKICAgICAgICAnVVNFUic6ICdmdWxndXJpdF9kZXZfdXNlcicsCiAgICAgICAgJ1BBU1NXT1JEJzogJzFxMnczZTRyJywKICAgICAgICAnSE9TVCc6ICdsb2NhbGhvc3QnLAogICAgICAgICdQT1JUJzogJzU0MzInLAogICAgICAgICdBVE9NSUNfUkVRVUVTVFMnOiBUcnVlLAogICAgICAgICdURVNUJzogewogICAgICAgICAgIyB0aGlzIGdldHMgeW91IGluLW1lbW9yeSBzcWxpdGUgZm9yIHRlc3RzLCB3aGljaCBpcyBmYXN0CiAgICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5zcWxpdGUzJywKICAgICAgICB9CiAgICB9LAp9Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
