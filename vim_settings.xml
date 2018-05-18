@@ -91,18 +91,20 @@
         <mark key="[" line="102" column="0" />
         <mark key="]" line="108" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526635671872">
+      <file name="/Dummy.txt" timestamp="1526653226812">
+        <mark key="e" line="0" column="15" />
         <mark key="i" line="0" column="13" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="63" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/alerts/models.py" timestamp="1526653822932" />
       <file name="$USER_HOME$/PycharmProjects/fulgurit_fieldwork/fulgurit_fieldwork/settings.py" timestamp="1526481514432">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/devSettings.py" timestamp="1526642982200">
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/devSettings.py" timestamp="1526653807756">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -310,7 +312,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fulgurit_dev_user</text>
+        <text>SIM-1429-linode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdFdmVudFw+</text>
