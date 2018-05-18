@@ -123,6 +123,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1526654980413" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/test.py" timestamp="1525865814083">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="40" />
@@ -172,9 +173,15 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="84" column="58" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/static/images/svg/SantiagoCacem/silveiras.svg" timestamp="1526655091622">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="4860" column="18" />
+        <mark key="]" line="4860" column="23" />
+        <mark key="^" line="4860" column="23" />
+        <mark key="." line="4860" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="128" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="133" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="129" column="50" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
@@ -274,6 +281,7 @@
       <jump line="228" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="268" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="218" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
+      <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/static/images/svg/SantiagoCacem/silveiras.svg" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -315,7 +323,7 @@
         <text>SIM-1429-linode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdFdmVudFw+</text>
+        <text>filt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdmdWxndXJpdC5ldmVudHMnLAo=</text>
@@ -361,16 +369,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdFdmVudFw+</last-search>
+      <last-search>filt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdFdmVudFw+</last-pattern>
+      <last-pattern>filt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry>to_internal</entry>
         <entry encoding="base64">XDxDb25kaXRpb25TZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnRXcml0ZUFjdGlvblw+</entry>
         <entry encoding="base64">XDxjb250ZW50X3R5cGVcPg==</entry>
@@ -389,6 +395,8 @@
         <entry encoding="base64">XDxhY3Rpb25zXD4=</entry>
         <entry>newSche</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
+        <entry>filtro</entry>
+        <entry>filt</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
