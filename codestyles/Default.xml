@@ -1,6 +1,10 @@
 <code_scheme name="Default" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
