@@ -102,12 +102,13 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526916556186">
+      <file name="/Dummy.txt" timestamp="1526918255393">
         <mark key="e" line="0" column="15" />
         <mark key="i" line="0" column="13" />
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="52" />
         <mark key="o" line="0" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1526661539805">
@@ -116,6 +117,11 @@
         <mark key="]" line="59" column="59" />
         <mark key="." line="59" column="59" />
         <mark key="^" line="59" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/main.js" timestamp="1526917998036">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="156" column="43" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/api.py" timestamp="1526912865951">
         <mark key="[" line="1103" column="67" />
@@ -144,12 +150,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/controllers/adminController.js" timestamp="1526915172497">
         <mark key="'" line="45" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/templates/main.html" timestamp="1526914227223">
-        <mark key="[" line="72" column="30" />
-        <mark key="]" line="72" column="21" />
-        <mark key="^" line="72" column="21" />
-        <mark key="." line="72" column="21" />
       </file>
       <file name="/manage.py@simoc-plus" timestamp="1525365335694">
         <mark key="[" line="0" column="0" />
@@ -347,43 +347,43 @@
         <text encoding="base64">XDxpbnRlcnZhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJib3dlciI6ICIuL25vZGVfbW9kdWxlcy9ib3dlci9iaW4vYm93ZXIgaW5zdGFsbCAtLXZlcmJvc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVVcmw6ICcvc3RhdGljL21haW4vbWFpbi9wYXJ0aWFscy9ldmVudHNHbG9iYWwuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgYXBwcyB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcjogJ0V2ZW50c0NvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVVybDogJy9zdGF0aWMvbWFpbi9tYWluL3BhcnRpYWxzL2V2ZW50cy5odG1sJywKICAgICAgICAgICAgICAgICAgICAgICAgcmVsb2FkT25TZWFyY2g6IGZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgYXBwcy5pY29uIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgYXBwcyB9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZmEtMngge3thcHBzLmljb259fSI+PC9pPjwvaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgYXBwcy5pY29uIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idGV4dC1jZW50ZXIiPjxpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZmEtMngge3thcHBzLmljb259fSI+PC9pPjwvaDE+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idGV4dC1jZW50ZXIiPjxpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2gzPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWxlYWYiPjwvaT4mbmJzcDt7e3RvRGlzcH19Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2gzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
