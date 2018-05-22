@@ -107,7 +107,7 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526968162965">
+      <file name="/Dummy.txt" timestamp="1526970507621">
         <mark key="e" line="0" column="15" />
         <mark key="i" line="0" column="13" />
         <mark key="[" line="0" column="0" />
@@ -347,7 +347,7 @@
         <text>-beta</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcnZhbFw+</text>
+        <text>Pi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVVcmw6ICcvc3RhdGljL21haW4vbWFpbi9wYXJ0aWFscy9ldmVudHNHbG9iYWwuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZQo=</text>
@@ -393,17 +393,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcnZhbFw+</last-search>
+      <last-search>Pi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcnZhbFw+</last-pattern>
+      <last-pattern>Pi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>EquipmentSh</entry>
-        <entry encoding="base64">XDxzYXZlQWN0aW9uc1w+</entry>
-        <entry encoding="base64">XDxhY3Rpb25zXD4=</entry>
         <entry>newSche</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
         <entry>filtro</entry>
@@ -421,6 +418,9 @@
         <entry>event</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
+        <entry>lock</entry>
+        <entry>pip</entry>
+        <entry>Pi</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
