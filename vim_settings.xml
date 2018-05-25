@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/urls.py" timestamp="1526914153381">
         <mark key="'" line="7" column="45" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/tasks.py" timestamp="1527185333121" />
       <file name="/Python Console" timestamp="1525883139241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,10 +109,6 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/settings.py" timestamp="1526642940231">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="22" />
-      </file>
       <file name="/Dummy.txt" timestamp="1527027716140">
         <mark key="e" line="0" column="15" />
         <mark key="'" line="0" column="15" />
@@ -146,15 +143,14 @@
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1526661305397">
         <mark key="'" line="165" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/stories/data/demoEvents.json" timestamp="1526714175365">
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="71" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/devSettings.py" timestamp="1526653807756">
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/devSettings.py" timestamp="1527185276680">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/utils/conf.py" timestamp="1527185355004">
+        <mark key="'" line="117" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/controllers/alertsController.js" timestamp="1526915209681">
         <mark key="'" line="26" column="23" />
@@ -186,6 +182,7 @@
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/urls.py" timestamp="1526912803998">
         <mark key="'" line="38" column="64" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/settings.py" timestamp="1527185243782" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526555375299">
         <mark key="'" line="257" column="14" />
         <mark key="[" line="257" column="12" />
@@ -219,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
-      <jump line="67" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
       <jump line="68" column="69" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
       <jump line="69" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
       <jump line="70" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
@@ -319,6 +314,8 @@
       <jump line="26" column="23" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/controllers/alertsController.js" />
       <jump line="139" column="7" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/models.py" />
       <jump line="0" column="15" filename="/Dummy.txt" />
+      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/utils/conf.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/utils/conf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
