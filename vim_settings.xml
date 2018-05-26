@@ -38,6 +38,11 @@
         <mark key="^" line="81" column="28" />
         <mark key="." line="114" column="37" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" timestamp="1527250122175">
+        <mark key="'" line="419" column="11" />
+        <mark key="[" line="465" column="0" />
+        <mark key="]" line="465" column="85" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1526655970683">
         <mark key="[" line="322" column="32" />
         <mark key="]" line="322" column="32" />
@@ -49,11 +54,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/settings.py" timestamp="1527249609001">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/settings.py" timestamp="1527250598729">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="80" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/conditions/ConditionTermList.jsx" timestamp="1526716106768">
         <mark key="'" line="127" column="24" />
@@ -131,11 +134,20 @@
         <mark key="." line="1103" column="90" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-pOeXBuXb/lib/python2.7/site-packages/rest_framework/settings.py" timestamp="1527244800141" />
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/datalogger.py" timestamp="1527250228455">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="14" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/dist/bundle.js" timestamp="1526659826788">
         <mark key="'" line="168" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1526661305397">
         <mark key="'" line="165" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1527250185607">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/devSettings.py" timestamp="1527185276680">
         <mark key="[" line="40" column="0" />
@@ -153,6 +165,16 @@
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/controllers/alertsController.js" timestamp="1526915209681">
         <mark key="'" line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" timestamp="1527249923922">
+        <mark key="'" line="534" column="66" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/demo_settings.py" timestamp="1527251300206">
+        <mark key="'" line="12" column="84" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/controllers/adminController.js" timestamp="1526915172497">
         <mark key="'" line="45" column="17" />
       </file>
@@ -169,13 +191,12 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="284" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/dashboard/sideDrawer.jsx" timestamp="1526913271929">
-        <mark key="'" line="377" column="18" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/urls.py" timestamp="1526912803998">
         <mark key="'" line="38" column="64" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/settings.py" timestamp="1527250585187">
+        <mark key="[" line="36" column="71" />
+        <mark key="]" line="36" column="91" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1526555375299">
         <mark key="'" line="257" column="14" />
@@ -210,34 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="69" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
-      <jump line="69" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
-      <jump line="70" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/ScheduleList.jsx" />
-      <jump line="276" column="142" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="275" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="278" column="105" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="59" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="78" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="98" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="105" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="106" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="107" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="108" column="79" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="112" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="113" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="114" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="115" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="116" column="77" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="212" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="228" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="268" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="218" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/static/images/svg/SantiagoCacem/silveiras.svg" />
-      <jump line="4859" column="28" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/static/images/svg/SantiagoCacem/silveiras.svg" />
-      <jump line="4860" column="11" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/static/images/svg/SantiagoCacem/silveiras.svg" />
-      <jump line="4943" column="29" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/static/images/svg/SantiagoCacem/silveiras.svg" />
-      <jump line="184" column="34" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="73" column="30" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="266" column="22" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="188" column="16" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
@@ -310,6 +303,34 @@
       <jump line="0" column="15" filename="/Dummy.txt" />
       <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/utils/conf.py" />
       <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/utils/conf.py" />
+      <jump line="539" column="61" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="584" column="50" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="252" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="256" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="260" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="264" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="268" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="272" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="276" column="63" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="281" column="66" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="282" column="71" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="283" column="62" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="284" column="79" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="367" column="58" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="368" column="58" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="525" column="66" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="534" column="66" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/environmental_control/models.py" />
+      <jump line="13" column="37" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="103" column="39" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="104" column="40" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="302" column="73" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="303" column="32" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="404" column="11" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="412" column="11" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="419" column="11" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/apps/sprinklers/tasks.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/demo_settings.py" />
+      <jump line="4" column="84" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/demo_settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -348,64 +369,69 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>, signals</text>
+        <text>getattr(settings, 'WATCHDOG_LOOKBACK_TIME', 5)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduYWxzXD4=</text>
+        <text encoding="base64">XDxhcHBfc2V0dGluZ3NcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVVcmw6ICcvc3RhdGljL21haW4vbWFpbi9wYXJ0aWFscy9ldmVudHNHbG9iYWwuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZQo=</text>
+      <register name="0" type="4">
+        <text>WATCHDOG_LOOKBACK_TIME</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBAcGVyaW9kaWNfdGFzayhydW5fZXZlcnk9c2NoZWR1bGUocnVuX2V2ZXJ5PTE1LjAsICksIHF1ZXVlPSdtYWluX3NlcnZpY2VzJywgb3B0aW9ucz17J3F1ZXVlJzogJ21haW5fc2VydmljZXMnfSkK</text>
+        <text encoding="base64">V0FUQ0hET0dfTE9PS0JBQ0tfVElNRSA9IGdldGF0dHIoc2V0dGluZ3MsICdXQVRDSERPR19MT09LQkFDS19USU1FJywgNSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENoZWNrRXZlbnRzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgZm9yIG5ldyBldmVudHMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcC50YXNrKCkK</text>
+        <text encoding="base64">IyBzZXR0aW5ncy5weQpXQUlUX1RJTUVfRk9SX0lSUklHQVRJT05fRU5EID0gMTUKV0FJVF9USU1FX0ZPUl9JUlJJR0FUSU9OX0VORF9QRVJfR1JPVVAgPSA1CldBSVRfVElNRV9GT1JfSVJSSUdBVElPTl9HUk9VUF9TVEFSVCA9IDIKV0FUQ0hET0dfTE9PS0JBQ0tfVElNRSA9IDMKU1BFRURfSFlTVEVSRVNJUyA9IDIuNQpBTkdMRV9IWVNURVJFU0lTID0gMTUKTUlOSU1VTV9BQ1RVQVRJT05fQ0hBTkdFID0gNQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGV2ZW50c19jaGVjaygpOgo=</text>
+        <text encoding="base64">ZGphbmdvLnNldHVwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBldmVudHNfc2NyaXB0IGltcG9ydCBDaGVja0V2ZW50cwo=</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1vZGVscywgc2lnbmFscwo=</text>
+      <register name="7" type="8">
+        <text>'
+'
+'
+'
+'
+'
+'</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcjogJ0V2ZW50c0NvbnRyb2xsZXInLAogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVVybDogJy9zdGF0aWMvbWFpbi9tYWluL3BhcnRpYWxzL2V2ZW50cy5odG1sJywKICAgICAgICAgICAgICAgICAgICAgICAgcmVsb2FkT25TZWFyY2g6IGZhbHNlCg==</text>
+        <text encoding="base64">V0FUQ0hET0dfTE9PS0JBQ0tfVElNRSA9IDMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgYXBwcyB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAnV0FJVF9USU1FX0ZPUl9JUlJJR0FUSU9OX0VORCc6IDE1LAogICAgICAgICdXQUlUX1RJTUVfRk9SX0lSUklHQVRJT05fRU5EX1BFUl9HUk9VUCc6IDUsCiAgICAgICAgJ1dBSVRfVElNRV9GT1JfSVJSSUdBVElPTl9HUk9VUF9TVEFSVCc6IDIsCiAgICAgICAgJ1dBVENIRE9HX0xPT0tCQUNLX1RJTUUnOiAzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaWduYWxzXD4=</last-search>
+      <last-search encoding="base64">XDxhcHBfc2V0dGluZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduYWxzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBfc2V0dGluZ3NcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
         <entry>filtro</entry>
         <entry>filt</entry>
         <entry>filter</entry>
@@ -425,6 +451,7 @@
         <entry>pip</entry>
         <entry>Pi</entry>
         <entry encoding="base64">XDxzaWduYWxzXD4=</entry>
+        <entry encoding="base64">XDxhcHBfc2V0dGluZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
