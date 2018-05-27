@@ -33,13 +33,6 @@
         <mark key="." line="229" column="26" />
         <mark key="^" line="229" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python-taiga/taiga/client.py" timestamp="1527419332037">
-        <mark key="'" line="70" column="28" />
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="93" column="25" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/synoptic/components/SVGEquipmentDetailLanding.jsx" timestamp="1526657431378">
         <mark key="[" line="52" column="34" />
         <mark key="]" line="52" column="45" />
@@ -182,9 +175,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python-taiga/tests/test_user_stories.py" timestamp="1527418537553">
-        <mark key="'" line="41" column="20" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/models.py" timestamp="1527024738195">
         <mark key="'" line="139" column="7" />
         <mark key="[" line="6" column="28" />
@@ -241,9 +231,7 @@
         <mark key="^" line="45" column="137" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/python-taiga/tests/test_projects.py" timestamp="1527407266003">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="457" column="55" />
+        <mark key="]" line="461" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticTabs.jsx" timestamp="1524156649825">
         <mark key="[" line="131" column="38" />
@@ -307,10 +295,10 @@
         <mark key="^" line="254" column="5" />
         <mark key="." line="254" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" timestamp="1527419201673">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="403" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" timestamp="1527420879218">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="58" />
         <mark key="." line="308" column="18" />
         <mark key="^" line="308" column="18" />
       </file>
@@ -405,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="98" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="105" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
@@ -505,6 +492,7 @@
       <jump line="1" column="25" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_epics.py" />
       <jump line="283" column="40" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="123" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -549,7 +537,7 @@
         <text>Epic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhc3NpZ25lZF90bzogYXNzaWduZWQgdG8gb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIGJhY2tsb2dfb3JkZXI6IGJhY2tsb2cgb3JkZXIgb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIGJsb2NrZWRfbm90ZTogYmxvY2tlZCBub3RlIG9mIHRoZSA6Y2xhc3M6YFVzZXJTdG9yeWAKICAgIDpwYXJhbSB2ZXJzaW9uOiB2ZXJzaW9uIG9mIHRoZSA6Y2xhc3M6YFVzZXJTdG9yeWAKICAgIDpwYXJhbSBjbGllbnRfcmVxdWlyZW1lbnQ6IGNsaWVudCByZXF1aXJlbWVudCBvZiB0aGUgOmNsYXNzOmBVc2VyU3RvcnlgCiAgICA6cGFyYW0gZGVzY3JpcHRpb246IGRlc2NyaXB0aW9uIG9mIHRoZSA6Y2xhc3M6YFVzZXJTdG9yeWAKICAgIDpwYXJhbSBpc19ibG9ja2VkOiBpcyBibG9ja2VkIG9mIHRoZSA6Y2xhc3M6YFVzZXJTdG9yeWAKICAgIDpwYXJhbSBrYW5iYW5fb3JkZXI6IGthbmJhbiBvcmRlciBvZiB0aGUgOmNsYXNzOmBVc2VyU3RvcnlgCiAgICA6cGFyYW0gbWlsZXN0b25lOiBtaWxlc3RvbmUgb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIHBvaW50czogcG9pbnRzIG9mIHRoZSA6Y2xhc3M6YFVzZXJTdG9yeWAKICAgIDpwYXJhbSBwcm9qZWN0OiBwcm9qZWN0IG9mIHRoZSA6Y2xhc3M6YFVzZXJTdG9yeWAKICAgIDpwYXJhbSBzcHJpbnRfb3JkZXI6IHNwcmludCBvcmRlciBvZiB0aGUgOmNsYXNzOmBVc2VyU3RvcnlgCiAgICA6cGFyYW0gc3RhdHVzOiBzdGF0dXMgb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIHN1YmplY3Q6IHN1YmplY3Qgb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIHRhZ3M6IHRhZ3Mgb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIHRlYW1fcmVxdWlyZW1lbnQ6IHRlYW0gcmVxdWlyZW1lbnQgb2YgdGhlIDpjbGFzczpgVXNlclN0b3J5YAogICAgOnBhcmFtIHdhdGNoZXJzOiB3YXRjaGVycyBvZiB0aGUgOmNsYXNzOmBVc2VyU3RvcnlgCiAgICAiIiIK</text>
+        <text encoding="base64">ICAgIGFsbG93ZWRfcGFyYW1zID0gWyduYW1lJywgJ2NvbG9yJywgJ29yZGVyJywgJ3Byb2plY3QnXQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
