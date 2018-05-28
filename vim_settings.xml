@@ -302,13 +302,13 @@
         <mark key="^" line="254" column="5" />
         <mark key="." line="254" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" timestamp="1527423986129">
+      <file name="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" timestamp="1527425800341">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="362" column="28" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
         <mark key="m" line="1088" column="0" />
-        <mark key="." line="358" column="0" />
-        <mark key="^" line="330" column="3" />
+        <mark key="." line="355" column="0" />
+        <mark key="^" line="356" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/simoc/settings.py" timestamp="1526642940231">
         <mark key="[" line="47" column="0" />
@@ -539,19 +539,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Epics</text>
+        <text>'created_date'</text>
       </register>
       <register name="/" type="4">
         <text>Epic</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnbmFtZScsICdkZXNjcmlwdGlvbicsICdjcmVhdGlvbl90ZW1wbGF0ZScsCiAgICAgICAgJ2lzX2JhY2tsb2dfYWN0aXZhdGVkJywgJ2lzX2lzc3Vlc19hY3RpdmF0ZWQnLAogICAgICAgICdpc19rYW5iYW5fYWN0aXZhdGVkJywgJ2lzX3ByaXZhdGUnLCAnaXNfd2lraV9hY3RpdmF0ZWQnLAogICAgICAgICd2aWRlb2NvbmZlcmVuY2VzJywgJ3ZpZGVvY29uZmVyZW5jZXNfc2FsdCcsICd0b3RhbF9taWxlc3RvbmVzJywKICAgICAgICAndG90YWxfc3RvcnlfcG9pbnRzJwo=</text>
+      <register name="0" type="4">
+        <text>assigned_to</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -586,31 +586,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0YWlnYS5tb2RlbHMgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkcyBFcGljU3RhdHVzIGFuZCBFcGljU3RhdHVzZXMgTW9kZWxzCg==</text>
+        <text encoding="base64">ZnJvbSB0YWlnYS5tb2RlbHMgaW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdHRhY2goc2VsZiwgYXR0YWNoZWRfZmlsZSwgKiphdHRycyk6Cg==</text>
+        <text encoding="base64">YWRkcyBFcGljU3RhdHVzIGFuZCBFcGljU3RhdHVzZXMgTW9kZWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhdHRhY2goc2VsZiwgYXR0YWNoZWRfZmlsZSwgKiphdHRycyk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3JlcXVlc3RtYWtlcl9nZXQucmV0dXJuX3ZhbHVlID0gTW9ja1Jlc3BvbnNlKDIwMCwKICAgICAgICAgICAgY3JlYXRlX21vY2tfanNvbigndGVzdHMvcmVzb3VyY2VzL3Rhc2tzX2xpc3Rfc3VjY2Vzcy5qc29uJykpCiAgICAgICAgcm0gPSBSZXF1ZXN0TWFrZXIoJy9hcGkvdjEnLCAnZmFrZWhvc3QnLCAnZmFrZXRva2VuJykKICAgICAgICB1c2Vyc3RvcnkgPSBVc2VyU3Rvcnkocm0sIGlkPTEsIHByb2plY3Q9MSkKICAgICAgICB0YXNrcyA9IHVzZXJzdG9yeS5saXN0X3Rhc2tzKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbih0YXNrcyksIDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xpc3RfdGFza3Moc2VsZiwgbW9ja19yZXF1ZXN0bWFrZXJfZ2V0KToK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3JlcXVlc3RtYWtlcl9nZXQucmV0dXJuX3ZhbHVlID0gTW9ja1Jlc3BvbnNlKDIwMCwKICAgICAgICAgICAgY3JlYXRlX21vY2tfanNvbigndGVzdHMvcmVzb3VyY2VzL3Rhc2tzX2xpc3Rfc3VjY2Vzcy5qc29uJykpCiAgICAgICAgcm0gPSBSZXF1ZXN0TWFrZXIoJy9hcGkvdjEnLCAnZmFrZWhvc3QnLCAnZmFrZXRva2VuJykKICAgICAgICB1c2Vyc3RvcnkgPSBVc2VyU3Rvcnkocm0sIGlkPTEsIHByb2plY3Q9MSkKICAgICAgICB0YXNrcyA9IHVzZXJzdG9yeS5saXN0X3Rhc2tzKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbih0YXNrcyksIDIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgndGFpZ2EucmVxdWVzdG1ha2VyLlJlcXVlc3RNYWtlci5nZXQnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xpc3RfdGFza3Moc2VsZiwgbW9ja19yZXF1ZXN0bWFrZXJfZ2V0KToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgndGFpZ2EucmVxdWVzdG1ha2VyLlJlcXVlc3RNYWtlci5nZXQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
