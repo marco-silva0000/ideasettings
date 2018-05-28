@@ -287,12 +287,11 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1526576210583">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1527498655017">
         <mark key="'" line="268" column="32" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="228" column="27" />
-        <mark key="." line="229" column="0" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/controllers/mainController.js" timestamp="1526915227606">
         <mark key="'" line="20" column="23" />
@@ -550,7 +549,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy59Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -585,31 +584,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0YWlnYS5tb2RlbHMgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkcyBFcGljU3RhdHVzIGFuZCBFcGljU3RhdHVzZXMgTW9kZWxzCg==</text>
+        <text encoding="base64">ZnJvbSB0YWlnYS5tb2RlbHMgaW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdHRhY2goc2VsZiwgYXR0YWNoZWRfZmlsZSwgKiphdHRycyk6Cg==</text>
+        <text encoding="base64">YWRkcyBFcGljU3RhdHVzIGFuZCBFcGljU3RhdHVzZXMgTW9kZWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhdHRhY2goc2VsZiwgYXR0YWNoZWRfZmlsZSwgKiphdHRycyk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3JlcXVlc3RtYWtlcl9nZXQucmV0dXJuX3ZhbHVlID0gTW9ja1Jlc3BvbnNlKDIwMCwKICAgICAgICAgICAgY3JlYXRlX21vY2tfanNvbigndGVzdHMvcmVzb3VyY2VzL3Rhc2tzX2xpc3Rfc3VjY2Vzcy5qc29uJykpCiAgICAgICAgcm0gPSBSZXF1ZXN0TWFrZXIoJy9hcGkvdjEnLCAnZmFrZWhvc3QnLCAnZmFrZXRva2VuJykKICAgICAgICB1c2Vyc3RvcnkgPSBVc2VyU3Rvcnkocm0sIGlkPTEsIHByb2plY3Q9MSkKICAgICAgICB0YXNrcyA9IHVzZXJzdG9yeS5saXN0X3Rhc2tzKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbih0YXNrcyksIDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xpc3RfdGFza3Moc2VsZiwgbW9ja19yZXF1ZXN0bWFrZXJfZ2V0KToK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX3JlcXVlc3RtYWtlcl9nZXQucmV0dXJuX3ZhbHVlID0gTW9ja1Jlc3BvbnNlKDIwMCwKICAgICAgICAgICAgY3JlYXRlX21vY2tfanNvbigndGVzdHMvcmVzb3VyY2VzL3Rhc2tzX2xpc3Rfc3VjY2Vzcy5qc29uJykpCiAgICAgICAgcm0gPSBSZXF1ZXN0TWFrZXIoJy9hcGkvdjEnLCAnZmFrZWhvc3QnLCAnZmFrZXRva2VuJykKICAgICAgICB1c2Vyc3RvcnkgPSBVc2VyU3Rvcnkocm0sIGlkPTEsIHByb2plY3Q9MSkKICAgICAgICB0YXNrcyA9IHVzZXJzdG9yeS5saXN0X3Rhc2tzKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbih0YXNrcyksIDIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgndGFpZ2EucmVxdWVzdG1ha2VyLlJlcXVlc3RNYWtlci5nZXQnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xpc3RfdGFza3Moc2VsZiwgbW9ja19yZXF1ZXN0bWFrZXJfZ2V0KToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
