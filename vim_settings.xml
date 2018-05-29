@@ -149,11 +149,11 @@
         <mark key="." line="77" column="4" />
         <mark key="^" line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/django_podcasting_network/podcasts/models.py" timestamp="1527626192790">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/django_podcasting_network/podcasts/models.py" timestamp="1527627430405">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1527507319652">
         <mark key="[" line="66" column="24" />
@@ -306,19 +306,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>summary</text>
+        <text>notes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1bW1hcnkgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9NDAwMCwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIG5vdGVzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTQwMDAsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -353,31 +353,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uLy4uLy4uLy4uL2Z1bGd1cml0X3JlZ2FudGVzL2Zyb250ZW5kL3NyYy9pcnJpZ2F0b3JzL2xhbmRpbmdQYWdlLmpzeCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgQnVpbGRpbmdMaXN0fSBmcm9tICdmdWxndXJpdC1yZWdhbnRlcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2FudGVzTGFuZGluZ1BhZ2UgZnJvbSAnZnVsZ3VyaXQtcmVnYW50ZXMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG9wZXJhdGlvbikpCg==</text>
+        <text encoding="base64">ICAgIGF1dGhvciA9IHN1bW1hcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcGVyYXRpb24pCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnb3BlcmF0aW9uJykK</text>
+        <text encoding="base64">aW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uLy4uLy4uLy4uL2Z1bGd1cml0X3JlZ2FudGVzL2Zyb250ZW5kL3NyYy9pcnJpZ2F0b3JzL2xhbmRpbmdQYWdlLmpzeCcK</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgQnVpbGRpbmdMaXN0fSBmcm9tICdmdWxndXJpdC1yZWdhbnRlcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICB2YWx1ZSA9IGRhdGFbJ3ZhbHVlJ10K</text>
+        <text encoding="base64">aW1wb3J0IFJlZ2FudGVzTGFuZGluZ1BhZ2UgZnJvbSAnZnVsZ3VyaXQtcmVnYW50ZXMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
