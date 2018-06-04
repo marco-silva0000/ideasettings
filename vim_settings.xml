@@ -92,8 +92,11 @@
         <mark key="." line="397" column="15" />
         <mark key="^" line="389" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1528109120269">
-        <mark key="'" line="185" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1528124516336">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="253" column="8" />
+        <mark key="]" line="253" column="9" />
+        <mark key="." line="253" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1527496257226">
         <mark key="[" line="85" column="0" />
@@ -220,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_epics.py" />
-      <jump line="273" column="20" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="313" column="5" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="416" column="13" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="58" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_projects.py" />
@@ -320,6 +321,8 @@
       <jump line="91" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="121" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="165" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="10" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -361,7 +364,7 @@
         <text>o skip PUT when adding new event</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3BcPg==</text>
+        <text encoding="base64">XDxBZGRJY29uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdjcmVhdGVkIEV2ZW50VGFzayAlcyBvZiBldmVudCAlcycgJSAodGFzaywgZXZlbnQpKQo=</text>
@@ -438,9 +441,9 @@ removed dependency on broken timezone migration</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3BcPg==</last-search>
+      <last-search encoding="base64">XDxBZGRJY29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3BcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBZGRJY29uXD4=</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -448,8 +451,6 @@ removed dependency on broken timezone migration</text>
     </search>
     <history>
       <history-search>
-        <entry>lock</entry>
-        <entry>pip</entry>
         <entry>Pi</entry>
         <entry encoding="base64">XDxzaWduYWxzXD4=</entry>
         <entry encoding="base64">XDxhcHBfc2V0dGluZ3NcPg==</entry>
@@ -468,6 +469,8 @@ removed dependency on broken timezone migration</text>
         <entry>update_or_crea</entry>
         <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxwb3BcPg==</entry>
+        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
+        <entry encoding="base64">XDxBZGRJY29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
