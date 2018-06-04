@@ -87,6 +87,12 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="75" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/Pipfile" timestamp="1528113999816">
+        <mark key="'" line="90" column="19" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/admin.py" timestamp="1527504475267">
         <mark key="[" line="70" column="37" />
         <mark key="]" line="70" column="51" />
@@ -172,6 +178,11 @@
         <mark key="^" line="66" column="29" />
         <mark key="." line="66" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1528113953414">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="43" column="42" />
+        <mark key="." line="43" column="39" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/React-Web/package.json" timestamp="1526734926570">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -179,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="10" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/App.jsx" />
       <jump line="5" column="10" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/App.jsx" />
       <jump line="2" column="38" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/HeaderComponent/Navbar.jsx" />
       <jump line="65" column="26" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/HeaderComponent/Navbar.jsx" />
@@ -279,10 +289,11 @@
       <jump line="277" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="185" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="115" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
+      <jump line="91" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/Pipfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>put</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bXlzcWwtcHl0aG9uID0gIj09MS4yLjUiCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -320,7 +331,7 @@
         <text>put</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcXVpcG1lbnRMaXN0XD4=</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vdGVzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTQwMDAsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
@@ -329,7 +340,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlzcWwtcHl0aG9uID0gIj09MS4yLjUiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,10 +375,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2F2ZUV2ZW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2F2ZUV2ZW50KCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -379,25 +390,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dGhvciA9IHN1bW1hcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgIGF1dGhvciA9IHN1bW1hcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uLy4uLy4uLy4uL2Z1bGd1cml0X3JlZ2FudGVzL2Zyb250ZW5kL3NyYy9pcnJpZ2F0b3JzL2xhbmRpbmdQYWdlLmpzeCcK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcXVpcG1lbnRMaXN0XD4=</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcXVpcG1lbnRMaXN0XD4=</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -405,7 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>5000</entry>
         <entry>event</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
@@ -425,6 +435,7 @@
         <entry encoding="base64">XDxlcXVpcG1lbnRzXD4=</entry>
         <entry>devices</entry>
         <entry encoding="base64">XDxlcXVpcG1lbnRMaXN0XD4=</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
