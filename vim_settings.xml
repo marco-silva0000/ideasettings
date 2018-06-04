@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1528109271298">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1528113122426">
+        <mark key="'" line="115" column="17" />
         <mark key="[" line="114" column="48" />
         <mark key="]" line="114" column="73" />
         <mark key="." line="114" column="73" />
@@ -98,10 +99,10 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527527923659">
+      <file name="/Dummy.txt" timestamp="1528112545374">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/main.js" timestamp="1526917998036">
         <mark key="[" line="155" column="0" />
@@ -277,11 +278,11 @@
       <jump line="1337" column="8" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/api.py" />
       <jump line="277" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="185" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="115" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
+      <jump line="115" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>put</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -316,7 +317,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>notes</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRMaXN0XD4=</text>
