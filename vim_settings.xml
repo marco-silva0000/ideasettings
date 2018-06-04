@@ -87,6 +87,11 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="75" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/Pipfile" timestamp="1528117731128">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/admin.py" timestamp="1527504475267">
         <mark key="[" line="70" column="37" />
         <mark key="]" line="70" column="51" />
@@ -292,10 +297,8 @@
       <jump line="91" column="19" filename="$USER_HOME$/PycharmProjects/simoc-plus/Pipfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix migration file of changes made in master
-
-removed dependency on broken timezone migration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXBkYXRlID0gIioiCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -341,10 +344,8 @@ removed dependency on broken timezone migration</text>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>fix migration file of changes made in master
-
-removed dependency on broken timezone migration</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXBkYXRlID0gIioiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -378,17 +379,19 @@ removed dependency on broken timezone migration</text>
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bXlzcWwtcHl0aG9uID0gIj09MS4yLjUiCg==</text>
+      <register name="2" type="4">
+        <text>fix migration file of changes made in master
+
+removed dependency on broken timezone migration</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlzcWwtcHl0aG9uID0gIj09MS4yLjUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2F2ZUV2ZW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2F2ZUV2ZW50KCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -403,7 +406,7 @@ removed dependency on broken timezone migration</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dGhvciA9IHN1bW1hcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
