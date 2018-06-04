@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1528109271298">
+        <mark key="[" line="114" column="48" />
+        <mark key="]" line="114" column="73" />
+        <mark key="." line="114" column="73" />
+        <mark key="^" line="114" column="73" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/package.json" timestamp="1526915756156">
         <mark key="[" line="45" column="137" />
         <mark key="]" line="45" column="137" />
@@ -70,6 +76,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1528109120269">
+        <mark key="'" line="185" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1527496257226">
         <mark key="[" line="85" column="0" />
@@ -169,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/conditions/ConditionTerm.jsx" />
-      <jump line="3" column="10" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/App.jsx" />
-      <jump line="2" column="8" filename="$USER_HOME$/PycharmProjects/React-Web/src/index.jsx" />
       <jump line="4" column="10" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/App.jsx" />
       <jump line="5" column="10" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/App.jsx" />
       <jump line="2" column="38" filename="$USER_HOME$/PycharmProjects/React-Web/src/Components/HeaderComponent/Navbar.jsx" />
@@ -269,10 +275,13 @@
       <jump line="169" column="45" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="1067" column="15" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/api.py" />
       <jump line="1337" column="8" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/api.py" />
+      <jump line="277" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="185" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="115" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gQ29udGVudFR5cGUub2JqZWN0cy5nZXRfZm9yX21vZGVsKHR5cGUoZGV2aWNlKSkKICAgICAgICAgICAgb2xkX2NvbmZpZyA9IChEZXZpY2VTZXJpYWxpemVyKERldmljZS5vYmplY3RzLmdldChpZD1waykpKS5kYXRhCiAgICAgICAgICAgIG5ld19jb25maWcgPSBzZXJpYWxpemVkX2RldmljZXMudmFsaWRhdGVkX2RhdGEK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -354,7 +363,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2F2ZUV2ZW50KCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,22 +372,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dGhvciA9IHN1bW1hcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uLy4uLy4uLy4uL2Z1bGd1cml0X3JlZ2FudGVzL2Zyb250ZW5kL3NyYy9pcnJpZ2F0b3JzL2xhbmRpbmdQYWdlLmpzeCcK</text>
+        <text encoding="base64">ICAgIGF1dGhvciA9IHN1bW1hcnkK</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYW5kaW5nUGFnZSwgQnVpbGRpbmdMaXN0fSBmcm9tICdmdWxndXJpdC1yZWdhbnRlcycK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlZ2FudGVzTGFuZGluZ1BhZ2UgZnJvbSAnZnVsZ3VyaXQtcmVnYW50ZXMnCg==</text>
+        <text encoding="base64">aW1wb3J0IExhbmRpbmdQYWdlIGZyb20gJy4uLy4uLy4uLy4uL2Z1bGd1cml0X3JlZ2FudGVzL2Zyb250ZW5kL3NyYy9pcnJpZ2F0b3JzL2xhbmRpbmdQYWdlLmpzeCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
