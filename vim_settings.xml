@@ -100,6 +100,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/lib/python2.7/site-packages/metering/migrations/0001_initial.py" timestamp="1528373622365">
+        <mark key="'" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/SVGEquipmentDetailLanding.jsx" timestamp="1524155523806">
         <mark key="[" line="72" column="51" />
         <mark key="]" line="72" column="53" />
@@ -152,6 +155,9 @@
         <mark key="]" line="114" column="73" />
         <mark key="." line="114" column="73" />
         <mark key="^" line="114" column="73" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" timestamp="1528373688679">
+        <mark key="'" line="573" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/package.json" timestamp="1526915756156">
         <mark key="[" line="45" column="137" />
@@ -248,11 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="13" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_projects.py" />
-      <jump line="141" column="22" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_epics.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_epics.py" />
-      <jump line="542" column="8" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_epics.py" />
       <jump line="41" column="20" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_user_stories.py" />
       <jump line="225" column="13" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/client.py" />
       <jump line="68" column="28" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/client.py" />
@@ -348,6 +349,11 @@
       <jump line="10" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="3" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" />
+      <jump line="9" column="20" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/lib/python2.7/site-packages/metering/migrations/0001_initial.py" />
+      <jump line="833" column="37" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" />
+      <jump line="979" column="8" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" />
+      <jump line="1026" column="53" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" />
+      <jump line="573" column="36" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -389,7 +395,7 @@
         <text>N</text>
       </register>
       <register name="/" type="4">
-        <text>my</text>
+        <text encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdmdWxndXJpdC5jb21fbWFuYWdlcicsCg==</text>
@@ -471,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>my</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</last-search>
       <last-offset />
-      <last-pattern>my</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -481,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWduYWxzXD4=</entry>
         <entry encoding="base64">XDxhcHBfc2V0dGluZ3NcPg==</entry>
         <entry>UserStory</entry>
         <entry>user_story</entry>
@@ -501,6 +506,7 @@
         <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxBZGRJY29uXD4=</entry>
         <entry>my</entry>
+        <entry encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
