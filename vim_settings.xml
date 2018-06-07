@@ -220,10 +220,10 @@
         <mark key="]" line="17" column="59" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528120210787">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1528388753895">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_regantes/irrigators/models.py" timestamp="1527516128953">
         <mark key="[" line="11" column="0" />
@@ -357,7 +357,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>192.168.60.9</text>
+        <text>fixes Celery tasks creation/deletion on event save</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -392,7 +392,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.60.9</text>
+        <text>fixes Celery tasks creation/deletion on event save</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</text>
