@@ -33,6 +33,11 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/fixtures/start.json" timestamp="1528363572951">
+        <mark key="[" line="168" column="7" />
+        <mark key="]" line="168" column="9" />
+        <mark key="." line="168" column="9" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/version.json" timestamp="1526968151375">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="24" />
@@ -55,11 +60,21 @@
         <mark key="]" line="157" column="9" />
         <mark key="." line="157" column="9" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/controllers/mainController.js" timestamp="1528363897364">
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="346" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1526655970683">
         <mark key="[" line="322" column="32" />
         <mark key="]" line="322" column="32" />
         <mark key="." line="322" column="32" />
         <mark key="^" line="322" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/settings.py" timestamp="1528363523651">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/tasks/tasks.py" timestamp="1527027532947">
         <mark key="[" line="36" column="0" />
@@ -305,8 +320,8 @@
       <jump line="11" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o skip PUT when adding new event</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXBwcykK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -353,7 +368,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXBkYXRlID0gIioiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXBwcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -387,34 +402,34 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>fix migration file of changes made in master
-
-removed dependency on broken timezone migration</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2hBcHBzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXlzcWwtcHl0aG9uID0gIj09MS4yLjUiCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdhbmFseXplcycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2F2ZUV2ZW50KCkK</text>
+        <text encoding="base64">ICAgICdzZW5zb3JpbmcnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwc19pbl9nbG9iYWwgPSBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlID0gIioiCg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>fix migration file of changes made in master
+
+removed dependency on broken timezone migration</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlzcWwtcHl0aG9uID0gIj09MS4yLjUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
