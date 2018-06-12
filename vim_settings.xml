@@ -66,12 +66,14 @@
         <mark key="^" line="70" column="51" />
         <mark key="." line="70" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1528726658303" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/EditCancelSaveCardActionButtons.jsx" timestamp="1526562926724">
         <mark key="[" line="40" column="35" />
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" timestamp="1528805039937">
+        <mark key="'" line="206" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/app/main/main/main.js" timestamp="1526917998036">
         <mark key="[" line="155" column="0" />
@@ -113,6 +115,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationDetail.jsx" timestamp="1528804737245">
+        <mark key="'" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1527527507361">
         <mark key="[" line="19" column="0" />
@@ -204,10 +209,11 @@
         <mark key="]" line="157" column="9" />
         <mark key="." line="157" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1528458364114">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1528805975762">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+        <mark key="^" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/settings.py" timestamp="1528363523651">
         <mark key="[" line="4" column="0" />
@@ -249,7 +255,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="89" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/partials/abmira.html" timestamp="1528726626254" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" timestamp="1528726597370">
         <mark key="'" line="179" column="55" />
         <mark key="[" line="178" column="0" />
@@ -272,15 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="25" filename="$USER_HOME$/PycharmProjects/python-taiga/tests/test_epics.py" />
-      <jump line="283" column="40" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="74" column="21" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/client.py" />
-      <jump line="410" column="4" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="493" column="32" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="543" column="32" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
-      <jump line="579" column="32" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="631" column="32" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="690" column="32" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
       <jump line="775" column="32" filename="$USER_HOME$/PycharmProjects/python-taiga/taiga/models/models.py" />
@@ -372,10 +368,19 @@
       <jump line="179" column="65" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
       <jump line="40" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="179" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" />
+      <jump line="49" column="15" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationDetail.jsx" />
+      <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationDetail.jsx" />
+      <jump line="13" column="32" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
+      <jump line="26" column="8" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
+      <jump line="89" column="69" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
+      <jump line="90" column="58" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
+      <jump line="204" column="72" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
+      <jump line="205" column="64" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
+      <jump line="206" column="66" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#ABM-45&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvcHJvcC10eXBlcyI6ICJ+MTUuNS54IiwKICAgICJAdHlwZXMvcmVhY3QiOiAifjE2LngiLAogICAgIkB0eXBlcy9yZWFjdC1kb20iOiAifjE2LngiLAogICAgImNsYXNzbmFtZXMiOiAifjIueCIsCiAgICAiY3NzLWxvYWRlciI6ICJ+MC4yOC43IiwKICAgICJpMThuZXh0IjogIn4xMC4yLjEiLAogICAgImkxOG5leHQtYnJvd3Nlci1sYW5ndWFnZWRldGVjdG9yIjogIn4yLjEuMCIsCiAgICAibGVhZmxldCI6ICJ+MS4zLjEiLAogICAgImxlYWZsZXQtZHJhdyI6ICJ+MS4wLjIiLAogICAgIm1hdGVyaWFsLWRlc2lnbi1pY29ucyI6ICJ+My4wLjEiLAogICAgIm1hdGVyaWFsLXVpIjogIjEuMC4wLWJldGEuMzEiLAogICAgIm1hdGVyaWFsLXVpLWljb25zIjogIl4xLjAuMC1iZXRhLjE3IiwKICAgICJtYXRlcmlhbC11aS1waWNrZXJzIjogIjEuMC4wLWJldGEuMTQiLAogICAgIm1vbWVudCI6ICJ+Mi4yMC4xIiwKICAgICJub2RlLXNhc3MiOiAifjQuNi4xIiwKICAgICJwcm9wLXR5cGVzIjogIn4xNS42LjAiLAogICAgInJlYWN0IjogIjE2LjIuMCIsCiAgICAicmVhY3QtYWRkb25zLXVwZGF0ZSI6ICJ+MTUuNi4yIiwKICAgICJyZWFjdC1jb29raWVzIjogIn4wLjEuMCIsCiAgICAicmVhY3QtZG9tIjogIjE2LjEuMSIsCiAgICAicmVhY3QtZXJyb3ItYm91bmRhcnkiOiAifjEuMi4xIiwKICAgICJyZWFjdC1pMThuZXh0IjogIn43LjIuMCIsCiAgICAicmVhY3QtbGVhZmxldCI6ICJ+MS44LjIiLAogICAgInJlYWN0LWxlYWZsZXQtZHJhdyI6ICJ+MC4xOC4wIiwKICAgICJyZWFjdC1zZWxlY3QiOiAiXjEuMi4xIiwKICAgICJyZWNvbXBvc2UiOiAiXjAuMjYueCIK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -410,19 +415,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>#ABM-45&quot;</text>
+        <text>2.5&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>abm</text>
+        <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2hlbignL2FibWlyYS8nLCB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBsYXRlVXJsOiAnL3N0YXRpYy9tYWluL21haW4vcGFydGlhbHMvYWJtaXJhLmh0bWwnLAogICAgICAgICAgICAgICAgICAgICAgICByZWxvYWRPblNlYXJjaDogZmFsc2UKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC53aGVuKCcvb3JnYW5pemF0aW9ucy86b3JnYW5pemF0aW9uSWQvOmZhY2lsaXR5SWQvYWJtaXJhLycsIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVVcmw6ICcvc3RhdGljL21haW4vbWFpbi9wYXJ0aWFscy9hYm1pcmEuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZQogICAgICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcHJvcC10eXBlcyI6ICJ+MTUuNS54IiwKICAgICJAdHlwZXMvcmVhY3QiOiAifjE2LngiLAogICAgIkB0eXBlcy9yZWFjdC1kb20iOiAifjE2LngiLAogICAgImNsYXNzbmFtZXMiOiAifjIueCIsCiAgICAiY3NzLWxvYWRlciI6ICJ+MC4yOC43IiwKICAgICJpMThuZXh0IjogIn4xMC4yLjEiLAogICAgImkxOG5leHQtYnJvd3Nlci1sYW5ndWFnZWRldGVjdG9yIjogIn4yLjEuMCIsCiAgICAibGVhZmxldCI6ICJ+MS4zLjEiLAogICAgImxlYWZsZXQtZHJhdyI6ICJ+MS4wLjIiLAogICAgIm1hdGVyaWFsLWRlc2lnbi1pY29ucyI6ICJ+My4wLjEiLAogICAgIm1hdGVyaWFsLXVpIjogIjEuMC4wLWJldGEuMzEiLAogICAgIm1hdGVyaWFsLXVpLWljb25zIjogIl4xLjAuMC1iZXRhLjE3IiwKICAgICJtYXRlcmlhbC11aS1waWNrZXJzIjogIjEuMC4wLWJldGEuMTQiLAogICAgIm1vbWVudCI6ICJ+Mi4yMC4xIiwKICAgICJub2RlLXNhc3MiOiAifjQuNi4xIiwKICAgICJwcm9wLXR5cGVzIjogIn4xNS42LjAiLAogICAgInJlYWN0IjogIjE2LjIuMCIsCiAgICAicmVhY3QtYWRkb25zLXVwZGF0ZSI6ICJ+MTUuNi4yIiwKICAgICJyZWFjdC1jb29raWVzIjogIn4wLjEuMCIsCiAgICAicmVhY3QtZG9tIjogIjE2LjEuMSIsCiAgICAicmVhY3QtZXJyb3ItYm91bmRhcnkiOiAifjEuMi4xIiwKICAgICJyZWFjdC1pMThuZXh0IjogIn43LjIuMCIsCiAgICAicmVhY3QtbGVhZmxldCI6ICJ+MS44LjIiLAogICAgInJlYWN0LWxlYWZsZXQtZHJhdyI6ICJ+MC4xOC4wIiwKICAgICJyZWFjdC1zZWxlY3QiOiAiXjEuMi4xIiwKICAgICJyZWNvbXBvc2UiOiAiXjAuMjYueCIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC53aGVuKCcvb3JnYW5pemF0aW9ucy86b3JnYW5pemF0aW9uSWQvOmZhY2lsaXR5SWQvYWJtaXJhLycsIHsKICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVVcmw6ICcvc3RhdGljL21haW4vbWFpbi9wYXJ0aWFscy9hYm1pcmEuaHRtbCcsCiAgICAgICAgICAgICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZQogICAgICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICJhY29ybi1nbG9iYWxzIjogIl40LngiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -457,47 +462,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1maWVsZHdvcmtzIjogImdpdCtzc2g6Ly9naXRAODkuMTE1LjIzOC42MjoxMDkyMi9zaW1vYy9mdWxndXJpdF9maWVsZHdvcmsuZ2l0IiwKICAgICJyZWdhbnRlcyI6ICJnaXQrc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMuZ2l0IiwK</text>
+        <text encoding="base64">ICAgICJjb25uZWN0IjogIl4zLjYuNSIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'abmira',
-        'USER': 'local_db_user',
-        'PASSWORD': '1q2w3e4r',
-        'PORT': '5432',
-        'HOST': 'localhost',
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJqc2RvbSI6ICJeMTEuNS4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXBwcykK</text>
+        <text encoding="base64">ICAgICJsZWFmbGV0LWdlb21ldHJ5dXRpbCI6ICJeMC44LjEiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2hBcHBzJykK</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1zZWFyY2gtYmFyIjogIl4wLjQuMiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICJtZXRyby1idW5kbGVyIjogIl4wLjIyLjEiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdhbmFseXplcycsCg==</text>
+        <text encoding="base64">ICAgICJuZ3JlYWN0IjogIl4wLjUuMSIsCg==</text>
       </register>
       <register name="w" type="4">
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdzZW5zb3JpbmcnLAo=</text>
+        <text encoding="base64">ICAgICJucG0iOiAiXjUuNS4xIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwc19pbl9nbG9iYWwgPSBbCg==</text>
+        <text encoding="base64">ICAgICJyYy1zbGlkZXIiOiAiXjguNS4wIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>abm</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>abm</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -505,8 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserStory</entry>
-        <entry>user_story</entry>
         <entry>UserStories</entry>
         <entry>attach</entry>
         <entry>Project</entry>
@@ -525,6 +521,8 @@
         <entry>my</entry>
         <entry encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</entry>
         <entry>abm</entry>
+        <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
@@ -542,8 +540,8 @@
         <entry>%s/Project/Epic/g</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
