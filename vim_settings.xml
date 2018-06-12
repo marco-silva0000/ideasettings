@@ -13,6 +13,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="45" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/babel.config.js" timestamp="1528812505142">
+        <mark key="[" line="1" column="76" />
+        <mark key="]" line="1" column="79" />
+        <mark key="^" line="1" column="79" />
+        <mark key="." line="1" column="79" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/fixtures/start.json" timestamp="1528363572951">
         <mark key="[" line="168" column="7" />
         <mark key="]" line="168" column="9" />
@@ -152,11 +158,11 @@
         <mark key="." line="77" column="4" />
         <mark key="^" line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/webpack.config.js" timestamp="1528811265314">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/webpack.config.js" timestamp="1528813185465">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="34" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/django_podcasting_network/podcasts/models.py" timestamp="1527627430405">
         <mark key="[" line="45" column="4" />
@@ -220,12 +226,6 @@
         <mark key="[" line="157" column="7" />
         <mark key="]" line="157" column="9" />
         <mark key="." line="157" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1528811359042">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="58" column="34" />
-        <mark key="." line="58" column="34" />
-        <mark key="^" line="58" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/settings.py" timestamp="1528363523651">
         <mark key="[" line="4" column="0" />
@@ -400,8 +400,8 @@
       <jump line="206" column="66" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7.1.2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwcmVzZXRzOiBbJ0BiYWJlbC9wcmVzZXQtZW52JywgJ0BiYWJlbC9yZWFjdCddLAogICAgICAgICAgcGx1Z2luczogW3JlcXVpcmUoJ0BiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcycpXQogICAgICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -442,7 +442,7 @@
         <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4wLjAtYmV0YS40MiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwcmVzZXRzOiBbJ0BiYWJlbC9wcmVzZXQtZW52JywgJ0BiYWJlbC9yZWFjdCddLAogICAgICAgICAgcGx1Z2luczogW3JlcXVpcmUoJ0BiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcycpXQogICAgICAgIH0K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -510,7 +510,7 @@
         <text encoding="base64">Ly8gIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -563,6 +563,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
