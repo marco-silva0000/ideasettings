@@ -87,6 +87,10 @@
         <mark key="." line="77" column="4" />
         <mark key="^" line="77" column="4" />
       </file>
+      <file name="/BuildingDetail.jsx" timestamp="1528879281444">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="45" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/django_podcasting_network/podcasts/models.py" timestamp="1527627430405">
         <mark key="[" line="45" column="4" />
         <mark key="]" line="45" column="4" />
@@ -97,6 +101,10 @@
         <mark key="[" line="18" column="57" />
         <mark key="]" line="18" column="57" />
         <mark key="." line="18" column="57" />
+      </file>
+      <file name="/package.json" timestamp="1528880812289">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1528886200683">
         <mark key="[" line="20" column="8" />
@@ -173,12 +181,12 @@
         <mark key="]" line="68" column="22" />
         <mark key="." line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528899759817">
-        <mark key="'" line="311" column="6" />
-        <mark key="[" line="307" column="21" />
-        <mark key="]" line="307" column="23" />
-        <mark key="." line="307" column="23" />
-        <mark key="^" line="307" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528900961238">
+        <mark key="'" line="312" column="6" />
+        <mark key="[" line="287" column="81" />
+        <mark key="]" line="288" column="41" />
+        <mark key="." line="288" column="41" />
+        <mark key="^" line="288" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528890271498">
         <mark key="[" line="9" column="41" />
@@ -207,6 +215,13 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" timestamp="1528902142704">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+        <mark key="^" line="17" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/registrationBuilding.jsx" timestamp="1528883018820">
         <mark key="[" line="13" column="55" />
@@ -254,6 +269,10 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/RaisedButtonList.jsx" timestamp="1528901056435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1528890415306">
         <mark key="[" line="26" column="79" />
@@ -337,7 +356,7 @@
         <mark key="]" line="17" column="59" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528888153352">
+      <file name="/Dummy.txt" timestamp="1528900974259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -391,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="21" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
-      <jump line="76" column="50" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="77" column="22" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="125" column="30" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/models.py" />
       <jump line="163" column="19" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/events/serializers.py" />
@@ -491,13 +508,15 @@
       <jump line="120" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="129" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="145" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" />
+      <jump line="14" column="7" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="4">
-        <text>updatedList</text>
+        <text>props</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -526,40 +545,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>response)</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9taXNlXD4=</text>
+        <text encoding="base64">XDxoZWFkZXJLZXlzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>updatedList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsZXQgaGVhZGVyRGlzcGxheUZpZWxkID0gcHJvcHMuaGVhZGVyRGlzcGxheUZpZWxkCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgaGVhZGVyS2V5cyA9IHByb3BzLmRhdGEua2V5cygpCg==</text>
       </register>
       <register name="q" type="4">
         <text>0f[f{xf}x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IExpc3QgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0xpc3QnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8R3JpZCBpdGVtPgo=</text>
+        <text encoding="base64">ICByZW5kZXIgKCkgewogICAgcmV0dXJuICgKICAgICAgPEdyaWQgY29udGFpbmVyIHNwYWNpbmc9ezB9PgogICAgICAgIHt0aGlzLnByb3BzLmJ1dHRvbnMubWFwKChidXR0b24sIGluZGV4KSA9PiB0aGlzLnJlbmRlckJ1dHRvbihidXR0b24sIHRoaXMucHJvcHMub25DbGljaywgdGhpcy5wcm9wcy5pZCwgaW5kZXgpKX0KICAgICAgPC9HcmlkPgogICAgKQogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2VxdWlwbWVudExpc3Q6IHVwZGF0ZWRMaXN0fSkK</text>
+        <text encoding="base64">ICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RoaXMuc2VsZWN0T3BlcmF0aW9uKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtidXR0b24ubGFiZWx9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -579,19 +598,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PXsnY29udGFpbmVkJ30gY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnVmFsdWUnID8gJ3ByaW1hcnknOicnfT48L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxXaWR0aD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xNi40LjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IGhhbmRsZUNsaWNrKGJ1dHRvbi5tZXRob2QsIGlkKX0gcmFpc2VkIGNvbG9yPXtidXR0b24uY29sb3J9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9taXNlXD4=</last-search>
+      <last-search encoding="base64">XDxoZWFkZXJLZXlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9taXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoZWFkZXJLZXlzXD4=</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
         <entry encoding="base64">XDxfZ2V0X2RlcGVuZGVuY2llc19mb3JfZm9yZWlnbl9rZXlcPg==</entry>
         <entry>abm</entry>
         <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
@@ -619,6 +637,7 @@
         <entry encoding="base64">XDxyZWZyZXNoRXF1aXBtZW50TGlzdFw+</entry>
         <entry encoding="base64">XDxQcm9taXNzZVw+</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
+        <entry encoding="base64">XDxoZWFkZXJLZXlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
