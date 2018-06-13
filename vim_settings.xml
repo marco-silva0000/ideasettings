@@ -59,6 +59,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="71" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/cropDetails.jsx" timestamp="1528878503673">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1528386244834">
         <mark key="'" line="4" column="29" />
         <mark key="[" line="7" column="13" />
@@ -177,11 +183,11 @@
         <mark key="." line="66" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1528113122426">
-        <mark key="'" line="115" column="17" />
-        <mark key="[" line="114" column="48" />
-        <mark key="]" line="114" column="73" />
-        <mark key="." line="114" column="73" />
-        <mark key="^" line="114" column="73" />
+        <mark key="'" line="118" column="17" />
+        <mark key="[" line="117" column="48" />
+        <mark key="]" line="117" column="73" />
+        <mark key="." line="117" column="73" />
+        <mark key="^" line="117" column="73" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" timestamp="1528373688679">
         <mark key="'" line="573" column="36" />
@@ -203,12 +209,10 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1528810781588">
-        <mark key="'" line="40" column="59" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="49" />
-        <mark key="." line="45" column="24" />
-        <mark key="^" line="45" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1528878186802">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="41" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/version.json" timestamp="1526968151375">
         <mark key="[" line="1" column="21" />
@@ -226,10 +230,11 @@
         <mark key="]" line="157" column="9" />
         <mark key="." line="157" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1528819323733">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1528878595181">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="61" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/settings.py" timestamp="1528363523651">
         <mark key="[" line="4" column="0" />
@@ -246,17 +251,13 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1528822617600">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1528364421350">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="59" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528819325775">
+      <file name="/Dummy.txt" timestamp="1528878706250">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -280,13 +281,6 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/.eslintrc.json" timestamp="1528809044755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" timestamp="1528726597370">
-        <mark key="'" line="179" column="55" />
-        <mark key="[" line="178" column="0" />
-        <mark key="m" line="106" column="80" />
-        <mark key="]" line="185" column="20" />
-        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1528113953414">
         <mark key="[" line="43" column="39" />
@@ -411,7 +405,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text>c</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -446,19 +440,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwcmVzZXRzOiBbJ0BiYWJlbC9wcmVzZXQtZW52JywgJ0BiYWJlbC9yZWFjdCddLAogICAgICAgICAgcGx1Z2luczogW3JlcXVpcmUoJ0BiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcycpXQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1waWNrZXJzIjogIl4xLjAuMC1yYy45IiwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyBQZWVyRGVwc0V4dGVybmFsc1BsdWdpbigpLAo=</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1waWNrZXJzIjogIjEuMC4wLXJjLngiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -493,19 +487,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgUGVlckRlcHNFeHRlcm5hbHNQbHVnaW4gPSByZXF1aXJlKCdwZWVyLWRlcHMtZXh0ZXJuYWxzLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1waWNrZXJzIjogIjEuMC4wLXJjLjciLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleHRlcm5hbHM6IFtub2RlRXh0ZXJuYWxzKCldLAo=</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1pY29ucyI6ICJeMS4wLjAtYmV0YS4xNyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJpMThuZXh0IjogIn4yLjEuMCIsCg==</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aSI6ICJeMC4yMC4xIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJsZWFmbGV0IjogIl4xLjMuMSIsCg==</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1pY29ucyI6ICJeMS4wLjAtYmV0YS4xNyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aSI6ICIxLjAuMC1iZXRhLjQyIiwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -514,10 +508,10 @@
         <text>weekdays</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgInBhcnNlciI6ICJiYWJlbC1lc2xpbnQiLAogICAiZXh0ZW5kcyI6IFsic3RhbmRhcmQiLCAic3RhbmRhcmQtanN4Il0K</text>
+        <text encoding="base64">ICAgICJtYXRlcmlhbC11aS1pY29ucyI6ICJeMS4wLjAtYmV0YS54IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAbWF0ZXJpYWwtdWkvY29yZSI6ICJeMS54IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
