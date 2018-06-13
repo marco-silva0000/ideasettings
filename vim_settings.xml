@@ -159,9 +159,9 @@
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/webpack.config.js" timestamp="1528880520242">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/webpack.config.js" timestamp="1528886170266">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="8" />
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="29" />
       </file>
@@ -199,7 +199,7 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1528880914301">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1528886337296">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="20" />
         <mark key="^" line="24" column="20" />
@@ -219,6 +219,12 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1528886200683">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/fulgurit/organizations/fixtures/start.json" timestamp="1527526729387">
         <mark key="[" line="157" column="7" />
@@ -253,7 +259,7 @@
         <mark key="." line="6" column="57" />
         <mark key="^" line="6" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528884945155">
+      <file name="/Dummy.txt" timestamp="1528886864395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -419,7 +425,7 @@
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZ3VpZGU9e2ZhbHNlfQo=</text>
+        <text encoding="base64">YWRkcyBhYm0gcm91dGVzIG9uIGFuZ3VsYXIK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -448,19 +454,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>use: {</text>
       </register>
       <register name="/" type="4">
         <text>mask</text>
       </register>
-      <register name="0" type="4">
-        <text>BuildingLandingPage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwcmVzZXRzOiBbJ0BiYWJlbC9wcmVzZXQtZW52JywgJ0BiYWJlbC9yZWFjdCddLAogICAgICAgICAgcGx1Z2luczogW3JlcXVpcmUoJ0BiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcycpXQogICAgICAgIH0K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZ3VpZGU9e2ZhbHNlfQo=</text>
+        <text encoding="base64">YWRkcyBhYm0gcm91dGVzIG9uIGFuZ3VsYXIK</text>
       </register>
       <register name="q" type="4">
         <text>0f[f{xf}x</text>
@@ -469,19 +475,19 @@
         <text encoding="base64">ICAgICAgZ3VpZGU9e2ZhbHNlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWFza0NoYXI9e251bGx9Cg==</text>
+        <text encoding="base64">ICAgICAgZ3VpZGU9e2ZhbHNlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gbWFzaz17Wy9cZC8sIC9cZC8sIC9cZC8sIC9cZC8sICctJywgL1xkLywgL1xkLywgL1xkL119Cg==</text>
+        <text encoding="base64">ICAgICAgbWFza0NoYXI9e251bGx9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENhcmRBY3Rpb25zIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0NhcmRBY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgICAgLy8gbWFzaz17Wy9cZC8sIC9cZC8sIC9cZC8sIC9cZC8sICctJywgL1xkLywgL1xkLywgL1xkL119Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENhcmRIZWFkZXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ2FyZEhlYWRlcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENhcmRBY3Rpb25zIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0NhcmRBY3Rpb25zJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Hcm91cCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9Gb3JtR3JvdXAnCg==</text>
+        <text encoding="base64">aW1wb3J0IENhcmRIZWFkZXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ2FyZEhlYWRlcic7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -501,10 +507,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdyZWFjdC1hZGRvbnMtdXBkYXRlJwo=</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1Hcm91cCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9Gb3JtR3JvdXAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlVGFibGUgfSBmcm9tICcuL2J1aWxkaW5nTGlzdC5qc3gnCg==</text>
+        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdyZWFjdC1hZGRvbnMtdXBkYXRlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
