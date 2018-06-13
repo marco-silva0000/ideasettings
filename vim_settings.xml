@@ -34,13 +34,6 @@
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1528889408453">
-        <mark key="'" line="29" column="20" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/FilterList.jsx" timestamp="1528890383102">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="41" />
@@ -172,12 +165,11 @@
         <mark key="]" line="68" column="22" />
         <mark key="." line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528895652556">
-        <mark key="'" line="428" column="27" />
-        <mark key="[" line="427" column="27" />
-        <mark key="]" line="421" column="27" />
-        <mark key="." line="421" column="27" />
-        <mark key="^" line="421" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528897644977">
+        <mark key="'" line="323" column="25" />
+        <mark key="[" line="474" column="0" />
+        <mark key="]" line="474" column="19" />
+        <mark key="." line="474" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528890271498">
         <mark key="[" line="9" column="41" />
@@ -390,12 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="15" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
-      <jump line="90" column="29" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
-      <jump line="91" column="19" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
-      <jump line="309" column="38" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="134" column="6" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="127" column="13" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
       <jump line="139" column="17" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
       <jump line="60" column="27" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
       <jump line="63" column="55" filename="$USER_HOME$/PycharmProjects/pegasus/simoc-plus/frontend/appES6/src/events/actions/EquipmentWriteAction.jsx" />
@@ -490,13 +476,19 @@
       <jump line="107" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/localization/locales/pt-pt/common.json" />
       <jump line="62" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/localization/locales/pt-pt/common.json" />
       <jump line="63" column="3" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/localization/locales/pt-pt/common.json" />
+      <jump line="336" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="442" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="435" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="468" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="285" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="323" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VmFsb3IgZGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -525,40 +517,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VmFsb3IgZGUg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Value</text>
+        <text encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>EquipmentLatestValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PXsnY29udGFpbmVkJ30gY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnVmFsdWUnID8gJ3ByaW1hcnknOicnfT48L0J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>0f[f{xf}x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xNi40LjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8R3JpZCBpdGVtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QiOiAiXjE2LjQuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2VxdWlwbWVudExpc3Q6IHVwZGF0ZWRMaXN0fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcHJvcC10eXBlcyI6ICJeMTUuNS4yIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMuc2VsZWN0T3BlcmF0aW9uKCl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRm9ybUNvbnRyb2xMYWJlbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PXsnY29udGFpbmVkJ30gY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnVmFsdWUnID8gJ3ByaW1hcnknOicnfT48L0J1dHRvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENoZWNrYm94IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0NoZWNrYm94L0NoZWNrYm94Jwo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xNi40LjAiLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -578,19 +570,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Hcm91cCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9Gb3JtR3JvdXAnOwo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QiOiAiXjE2LjQuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1MYWJlbCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9Gb3JtTGFiZWwnOwo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcHJvcC10eXBlcyI6ICJeMTUuNS4yIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Value</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>Value</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxwb3BcPg==</entry>
         <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxBZGRJY29uXD4=</entry>
@@ -618,6 +609,7 @@
         <entry encoding="base64">XDxNYXNrZWRJbnB1dFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVUeXBlXD4=</entry>
         <entry>Value</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
@@ -636,8 +628,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
