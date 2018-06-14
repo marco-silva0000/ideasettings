@@ -27,12 +27,12 @@
         <mark key="]" line="168" column="9" />
         <mark key="." line="168" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528978169497">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528978871205">
         <mark key="'" line="312" column="6" />
-        <mark key="[" line="729" column="34" />
-        <mark key="]" line="729" column="34" />
-        <mark key="." line="729" column="4" />
-        <mark key="^" line="729" column="3" />
+        <mark key="[" line="730" column="8" />
+        <mark key="]" line="730" column="7" />
+        <mark key="^" line="730" column="7" />
+        <mark key="." line="730" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528976804528">
         <mark key="'" line="104" column="22" />
@@ -233,9 +233,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/eventUtils.js" timestamp="1528975907564">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/eventUtils.js" timestamp="1528978807305">
+        <mark key="[" line="91" column="16" />
+        <mark key="]" line="91" column="38" />
         <mark key="." line="108" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1528969319478">
@@ -425,8 +425,8 @@
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.state.selectedFacilities.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBmYWNpbGl0eUlkcyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRGYWNpbGl0aWVzLm1hcChmYWMgPT4gZmFjLmlkKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -455,40 +455,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhVmFsdWVGaWVsZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>this.state.selectedFacilities.</text>
+        <text>getEquipmentsByFacility</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGxldCBmYWNpbGl0eUlkcyA9IHRoaXMucHJvcHMuc2VsZWN0ZWRGYWNpbGl0aWVzLm1hcChmYWMgPT4gZmFjLmlkKQo=</text>
       </register>
       <register name="q" type="4">
         <text>0f[f{xf}x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmYWNpbGl0eUlkcy5tYXAoKGZhY2lkKT0+ewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgcHJvbWlzc2VMaXN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgbmV3T2JqZWN0ID0gY3VycmVudCB8fCB7fQo=</text>
+        <text encoding="base64">ICBmYWNpbGl0eUlkcy5tYXAoKGZhY2lkKT0+ewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,10 +508,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVwZGF0ZUZhY2lsaXR5RXF1aXBtZW50cyAoZmFjaWxpdHlJZHMsIGN1cnJlbnQpIHsK</text>
+        <text encoding="base64">ICBsZXQgcHJvbWlzc2VMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGVkTGlzdCcsIHVwZGF0ZWRMaXN0KQo=</text>
+        <text encoding="base64">ICBsZXQgbmV3T2JqZWN0ID0gY3VycmVudCB8fCB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
