@@ -27,12 +27,12 @@
         <mark key="]" line="168" column="9" />
         <mark key="." line="168" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528976950275">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1528978169497">
         <mark key="'" line="312" column="6" />
-        <mark key="[" line="726" column="0" />
-        <mark key="]" line="311" column="8" />
-        <mark key="." line="288" column="41" />
-        <mark key="^" line="288" column="41" />
+        <mark key="[" line="729" column="34" />
+        <mark key="]" line="729" column="34" />
+        <mark key="." line="729" column="4" />
+        <mark key="^" line="729" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528976804528">
         <mark key="'" line="104" column="22" />
@@ -425,8 +425,8 @@
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>this.state.selectedFacilities.</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -460,8 +460,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhVmFsdWVGaWVsZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmV0Y2goJy9tYWluL2VxdWlwbWVudHMvYXBpL2VxdWlwbWVudHMtYnktZmFjaWxpdHkvJyArIGZhY2lsaXR5LmlkICsgJy8/Zm9ybWF0PWpzb24nLCB7CiAgICAgICAgICBjcmVkZW50aWFsczogJ3NhbWUtb3JpZ2luJywKICAgICAgICAgIG1ldGhvZDogJ2dldCcsCiAgICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAgICdYLUNTUkZUb2tlbic6IGNvb2tpZS5sb2FkKCdjc3JmdG9rZW4nKQogICAgICAgICAgfQogICAgICAgIH0pLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZygncmVzcG9uc2UnLCByZXNwb25zZSkKICAgICAgICAgIHJldHVybiByZXNwb25zZS5qc29uKCkKICAgICAgICB9KS50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3BvbnNlLmpzb24nLCByZXNwb25zZSkKICAgICAgICAgIHVwZGF0ZWRMaXN0ID0gdXBkYXRlZExpc3QuY29uY2F0KHJlc3BvbnNlKQogICAgICAgICAgY29uc29sZS5sb2coJ3VwZGF0ZWRMaXN0JywgdXBkYXRlZExpc3QpCiAgICAgICAgfSkKICAgICAgfSkpCg==</text>
+      <register name="0" type="4">
+        <text>this.state.selectedFacilities.</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
