@@ -67,10 +67,10 @@
         <mark key="." line="40" column="8" />
         <mark key="^" line="40" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1528889408453">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1529073238324">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="17" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
@@ -176,12 +176,12 @@
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1529070400746">
-        <mark key="'" line="305" column="28" />
-        <mark key="[" line="136" column="9" />
-        <mark key="]" line="136" column="34" />
-        <mark key="." line="136" column="9" />
-        <mark key="^" line="125" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1529072918969">
+        <mark key="'" line="307" column="28" />
+        <mark key="[" line="127" column="26" />
+        <mark key="]" line="127" column="33" />
+        <mark key="." line="127" column="33" />
+        <mark key="^" line="127" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/EmailAction.jsx" timestamp="1528890436688">
         <mark key="[" line="2" column="0" />
@@ -248,7 +248,7 @@
         <mark key="." line="105" column="31" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528969319478">
+      <file name="/Dummy.txt" timestamp="1529071231230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -442,8 +442,8 @@
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>refreshFacilities</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGVnYXN1cyA9IHsKICAgICdFTkdJTkUnOiAnZGphbmdvLmRiLmJhY2tlbmRzLnBvc3RncmVzcWxfcHN5Y29wZzInLAogICAgJ05BTUUnOiAnc2ltb2NwbHVzJywKICAgICdVU0VSJzogJ3NpbW9jcGx1c191c2VyJywKICAgICdQQVNTV09SRCc6ICcxcTJ3M2U0cicsCiAgICAnUE9SVCc6ICcxMzU0NCcsCiAgICAnSE9TVCc6ICdwZWdhc3VzLmZ1bGd1cml0LmV1JywKfQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -472,13 +472,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>refreshFacilities</text>
+        <text>newFacilities</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWNpbGl0aWVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>refreshSelectedFacilities</text>
+        <text />
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
