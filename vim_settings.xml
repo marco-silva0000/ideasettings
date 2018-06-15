@@ -26,12 +26,12 @@
         <mark key="]" line="168" column="9" />
         <mark key="." line="168" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1529077060422">
-        <mark key="'" line="344" column="28" />
-        <mark key="[" line="366" column="29" />
-        <mark key="]" line="366" column="29" />
-        <mark key="^" line="359" column="51" />
-        <mark key="." line="366" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1529079166980">
+        <mark key="'" line="353" column="49" />
+        <mark key="[" line="353" column="48" />
+        <mark key="]" line="353" column="48" />
+        <mark key="." line="353" column="48" />
+        <mark key="^" line="353" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528998405283">
         <mark key="'" line="92" column="27" />
@@ -148,9 +148,9 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1529076946932">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1529079121833">
         <mark key="'" line="7" column="42" />
-        <mark key="[" line="7" column="28" />
+        <mark key="[" line="60" column="41" />
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="49" />
@@ -337,12 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1026" column="53" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" />
-      <jump line="573" column="36" filename="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/migrations/autodetector.py" />
-      <jump line="48" column="84" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
-      <jump line="174" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
-      <jump line="175" column="65" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
-      <jump line="178" column="70" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
       <jump line="179" column="65" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit-frontend/app/main/main/main.js" />
       <jump line="40" column="59" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="179" column="55" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/main.js" />
@@ -437,13 +431,19 @@
       <jump line="345" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="348" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="344" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="263" column="70" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="343" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="351" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="359" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="365" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="353" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="4">
-        <text>selectedDevice</text>
+        <text>}</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -472,40 +472,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>selectedDevice</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>nextP</text>
+        <text>selectedEq</text>
       </register>
-      <register name="0" type="4">
-        <text>selectedEquipment</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0TGFiZWwgaHRtbEZvcj0nZXF1aXBtZW50Jz57aTE4bi50KCdjb21tb246RGF0YScpfTwvSW5wdXRMYWJlbD4K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPElucHV0TGFiZWwgaHRtbEZvcj0nZGV2aWNlJz57aTE4bi50KCdjb21tb246RXF1aXBtZW50Jyl9PC9JbnB1dExhYmVsPgogICAgICAgICAgICA8U2VsZWN0CiAgICAgICAgICAgICAgZnVsbFdpZHRoCiAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuc2VsZWN0ZWREZXZpY2UubmFtZX0KICAgICAgICAgICAgICByZW5kZXJWYWx1ZT17KCkgPT4gKDxkaXY+e3RoaXMuc3RhdGUuc2VsZWN0ZWREZXZpY2UubmFtZX08L2Rpdj4pfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnc2VsZWN0ZWREZXZpY2UnKX0KICAgICAgICAgICAgICBpbnB1dD17PElucHV0IGlkPSdkZXZpY2UnIC8+fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge3RoaXMuc3RhdGUuZXF1aXBtZW50TGlzdC5tYXAoKGRldmljZSkgPT4gKAogICAgICAgICAgICAgICAgPE1lbnVJdGVtIGtleT17ZGV2aWNlLmlkfSB2YWx1ZT17ZGV2aWNlfT57ZGV2aWNlLm5hbWV9PC9NZW51SXRlbT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0TGFiZWwgaHRtbEZvcj0nZXF1aXBtZW50Jz57aTE4bi50KCdjb21tb246RXF1aXBtZW50Jyl9PC9JbnB1dExhYmVsPgo=</text>
       </register>
       <register name="q" type="4">
         <text>0f[f{xf}x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbiBoYW5kbGUgc2VsZWN0ZWQgZXZlbnQnKQogICAgY29uc29sZS5sb2coYSkKICAgIGNvbnNvbGUubG9nKGIpCiAgICBjb25zb2xlLmxvZyhjKQogICAgY29uc29sZS5sb2coZCkKICAgIGNvbnNvbGUubG9nKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0TGFiZWwgaHRtbEZvcj0nZGV2aWNlJz57aTE4bi50KCdjb21tb246RXF1aXBtZW50Jyl9PC9JbnB1dExhYmVsPgogICAgICAgICAgICA8U2VsZWN0CiAgICAgICAgICAgICAgZnVsbFdpZHRoCiAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuc2VsZWN0ZWREZXZpY2UubmFtZX0KICAgICAgICAgICAgICByZW5kZXJWYWx1ZT17KCkgPT4gKDxkaXY+e3RoaXMuc3RhdGUuc2VsZWN0ZWREZXZpY2UubmFtZX08L2Rpdj4pfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnc2VsZWN0ZWREZXZpY2UnKX0KICAgICAgICAgICAgICBpbnB1dD17PElucHV0IGlkPSdkZXZpY2UnIC8+fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge3RoaXMuc3RhdGUuZXF1aXBtZW50TGlzdC5tYXAoKGRldmljZSkgPT4gKAogICAgICAgICAgICAgICAgPE1lbnVJdGVtIGtleT17ZGV2aWNlLmlkfSB2YWx1ZT17ZGV2aWNlfT57ZGV2aWNlLm5hbWV9PC9NZW51SXRlbT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbiBoYW5kbGUgc2VsZWN0ZWQgZXZlbnQnKQogICAgY29uc29sZS5sb2coYSkKICAgIGNvbnNvbGUubG9nKGIpCiAgICBjb25zb2xlLmxvZyhjKQogICAgY29uc29sZS5sb2coZCkKICAgIGNvbnNvbGUubG9nKGUpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrb25kb3Igb24gdXBkYXRlIGZhYyBkYXRhIGluZGV4JywgZmFjaWxpdHlJbmRleCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrb25kb3Igb24gdXBkYXRlIGZhYyBkYXRhJywgZmFjaWxpdHlJZCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrb25kb3Igb24gdXBkYXRlIGZhYyBkYXRhIGluZGV4JywgZmFjaWxpdHlJbmRleCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZUZhY2lsaXR5RXF1aXBtZW50cwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrb25kb3Igb24gdXBkYXRlIGZhYyBkYXRhJywgZmFjaWxpdHlJZCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -525,19 +525,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZUZhY2lsaXR5RXF1aXBtZW50cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nextP</last-search>
+      <last-search>selectedEq</last-search>
       <last-offset />
-      <last-pattern>nextP</last-pattern>
+      <last-pattern>selectedEq</last-pattern>
       <last-replace>Epic</last-replace>
       <last-substitute>Project</last-substitute>
       <last-dir>1</last-dir>
@@ -545,8 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
-        <entry>mask</entry>
         <entry encoding="base64">XDxTZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxNYXNrZWRJbnB1dFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVUeXBlXD4=</entry>
@@ -565,6 +563,8 @@
         <entry>updateFaci</entry>
         <entry encoding="base64">XDxmYWNpbGl0aWVzXD4=</entry>
         <entry>nextP</entry>
+        <entry>disabled</entry>
+        <entry>selectedEq</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
