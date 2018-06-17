@@ -163,6 +163,12 @@
         <mark key="]" line="18" column="57" />
         <mark key="." line="18" column="57" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" timestamp="1529242624789">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/NotificationAction.jsx" timestamp="1528890463133">
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="51" />
@@ -310,9 +316,9 @@
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1528113953414">
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529242256776">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="13" />
         <mark key="." line="43" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/React-Web/package.json" timestamp="1526734926570">
@@ -445,7 +451,7 @@
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>_send_email</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -474,40 +480,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>_send_email</text>
       </register>
       <register name="/" type="4">
         <text>model = EquipmentData</text>
       </register>
-      <register name="0" type="4">
-        <text>model = EquipmentData</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCgpmcm9tIGF1dG9maXh0dXJlIGltcG9ydCBBdXRvRml4dHVyZQpmcm9tIGF1dG9maXh0dXJlLmdlbmVyYXRvcnMgaW1wb3J0IEluc3RhbmNlU2VsZWN0b3IKZnJvbSBkamFuZ28uY29yZS5tYW5hZ2VtZW50IGltcG9ydCBjYWxsX2NvbW1hbmQKZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgVGVzdENhc2UKZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCmZyb20gZmFrZXIgaW1wb3J0IEZha2VyCmZyb20gbW9jayBpbXBvcnQgTW9jaywgcGF0Y2gsIG1vY2sKZnJvbSByZXN0X2ZyYW1ld29yay50ZXN0IGltcG9ydCBBUElDbGllbnQKZnJvbSBmdWxndXJpdC5ldmVudHMubW9kZWxzIGltcG9ydCBFdmVudCwgQ29uZGl0aW9uLCBDb25kaXRpb25UZXJtLCBUZXh0QWN0aW9uLCBBY3Rpb24KCmZyb20gZnVsZ3VyaXQub3JnYW5pemF0aW9ucy5tb2RlbHMgaW1wb3J0IEVtcGxveWVlUGVybWlzc2lvbnMsIEVtcGxveWVlLCBBcHBzCmZyb20gZnVsZ3VyaXQub3JnYW5pemF0aW9ucy5zZXJpYWxpemVycyBpbXBvcnQgRmFjaWxpdHlTZXJpYWxpemVyCgpmYWtlID0gRmFrZXIoKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc2VsZi5uYW1lID0gJ0VxdWlwbWVudERhdGFXcml0ZUFjdGlvbicKICAgICAgICBzdXBlcihFcXVpcG1lbnREYXRhV3JpdGVBY3Rpb24sIHNlbGYpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>EquipmentDataWriteAction</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGFycmFuZ2UKICAgICAgICAjIHdpdGggcGF0Y2goJ2Z1bGd1cml0LmV2ZW50cy5tb2RlbHMuVGV4dEFjdGlvbi5fc2VuZF9lbWFpbCcpIGFzIF9zZW5kX2VtYWlsLCBwYXRjaCgnZnVsZ3VyaXQuZXZlbnRzLm1vZGVscy5UZXh0QWN0aW9uLnRleHQnKSBhcyB0ZXh0LCBwYXRjaCgnZnVsZ3VyaXQuZXZlbnRzLm1vZGVscy5UZXh0QWN0aW9uLl9zZW5kX3NtcycpIGFzIF9zZW5kX3NtczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGFyZ3M6CiAgICAgICAgICAgICAgICBpZiAndGFyZ2V0X2lkJyBub3QgaW4ga3dhcmdzOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ21ldGhvZCAlcyByZXF1aXJlcyBcJ3RhcmdldF9pZFwnIGt3YXJnJyAlIG1ldGhvZCkKICAgICAgICAgICAgICAgIGlmICd0YXJnZXRfdmFsdWUnIG5vdCBpbiBrd2FyZ3M6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignbWV0aG9kICVzIHJlcXVpcmVzIFwndGFyZ2V0X2lkXCcga3dhcmcnICUgbWV0aG9kKQogICAgICAgICAgICAgICAgYXJncyA9IChrd2FyZ3MuZ2V0KCd0YXJnZXRfaWQnKSwga3dhcmdzLmdldCgndGFyZ2V0X3ZhbHVlJykpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignbWV0aG9kICVzIG5vdCBzdXBvcnRlZCcgJSBtZXRob2QpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgQVZBSUxBQkxFX01FVEhPRFMgPSB7J3NldF9yZW1vdGUnLCAnc2V0X2xvY2FsJywgJ3NldF9hdXRvJywgJ3JlbW90ZV9zdGFydCcsICdyZW1vdGVfc3RvcCd9Cg==</text>
+        <text encoding="base64">ZnJvbSBhdXRvZml4dHVyZS5nZW5lcmF0b3JzIGltcG9ydCBJbnN0YW5jZVNlbGVjdG9yCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -527,10 +533,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFMTE9XRURfRVFVSVBNRU5UX1RZUEVTID0gYXBwX3NldHRpbmdzLkFDVElPTl9FTkFCTEVfRElTQUJMRURfQUxMT1dFRF9FUVVJUE1FTlRfVFlQRVMK</text>
+        <text encoding="base64">ZnJvbSBhdXRvZml4dHVyZS5nZW5lcmF0b3JzIGltcG9ydCBJbnN0YW5jZVNlbGVjdG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhdXRvZml4dHVyZSBpbXBvcnQgQXV0b0ZpeHR1cmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
