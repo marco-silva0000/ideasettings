@@ -101,6 +101,12 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="131" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/EquipmentDataWriteAction.json" timestamp="1529337121567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1529061776231">
         <mark key="'" line="300" column="11" />
         <mark key="[" line="288" column="44" />
@@ -114,12 +120,12 @@
         <mark key="." line="105" column="31" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529272603718">
-        <mark key="'" line="73" column="66" />
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="60" column="3" />
-        <mark key="^" line="60" column="3" />
-        <mark key="." line="60" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529337834302">
+        <mark key="'" line="14" column="42" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1529317451617">
         <mark key="[" line="0" column="2" />
@@ -151,6 +157,19 @@
         <mark key="]" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" timestamp="1529337481255">
+        <mark key="[" line="6" column="81" />
+        <mark key="]" line="6" column="84" />
+        <mark key="^" line="6" column="84" />
+        <mark key="." line="6" column="84" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1529337521995">
+        <mark key="'" line="175" column="110" />
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="175" column="57" />
+        <mark key="." line="52" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1529075608988">
         <mark key="'" line="113" column="22" />
         <mark key="[" line="44" column="44" />
@@ -163,23 +182,15 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="43" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529324759559">
-        <mark key="'" line="804" column="43" />
-        <mark key="[" line="797" column="18" />
-        <mark key="]" line="797" column="42" />
-        <mark key="^" line="829" column="41" />
-        <mark key="." line="797" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529336992714">
+        <mark key="'" line="651" column="28" />
+        <mark key="[" line="651" column="27" />
+        <mark key="]" line="651" column="27" />
+        <mark key="^" line="648" column="7" />
+        <mark key="." line="651" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="39" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
-      <jump line="760" column="62" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
-      <jump line="65" column="23" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingBody.jsx" />
-      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingBody.jsx" />
-      <jump line="6" column="9" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
-      <jump line="6" column="7" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildingList.jsx" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildingList.jsx" />
       <jump line="21" column="44" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
       <jump line="34" column="36" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
       <jump line="304" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
@@ -272,13 +283,21 @@
       <jump line="256" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
       <jump line="19" column="31" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
       <jump line="804" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="651" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
+      <jump line="174" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" />
+      <jump line="52" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" />
+      <jump line="175" column="110" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" />
+      <jump line="66" column="11" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
+      <jump line="89" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
+      <jump line="14" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Typography</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -307,40 +326,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Typography</text>
       </register>
       <register name="/" type="4">
-        <text>RemoteControlAction</text>
+        <text encoding="base64">XDxUeXBvZ3JhcGh5XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>EquipmentDataWriteAction</text>
+        <text>Typography</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuYWRkKCdFcXVpcG1lbnRBY3Rpb25MaXN0JywgKCkgPT4gPFN5bm9wdGljTGFuZFBhZ2UgZGlhZ3JhbXM9e1tkaWFncmFtXX0gc2hvd19kaWFncmFtcz17WydsYWJlbCddfSAvPikK</text>
+        <text encoding="base64">aW1wb3J0IHtFeHBhbnNpb25QYW5lbCwgRXhwYW5zaW9uUGFuZWxEZXRhaWxzLCBFeHBhbnNpb25QYW5lbFN1bW1hcnksIFR5cG9ncmFwaHl9IGZyb20gJ21hdGVyaWFsLXVpJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcigsIEFjdGlvbkFkbWluKQo=</text>
+        <text encoding="base64">aW1wb3J0IFJhaXNlZEJ1dHRvbkxpc3QgZnJvbSAnLi4vLi4vLi4vcmV1c2FibGVfY29tcG9uZW50cy9SYWlzZWRCdXR0b25MaXN0LmpzeCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3ZhbHVlID0gc2VsZi5yZW1vdGVfbW9kZV9jaGFuZ2VyX2VxX2RhdGEucmVhZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZW5hYmxlX2Rpc2FibGVfZXFfZGF0YS5yZWFkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgREFUQUJBU0VTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyc6IERlY2ltYWwoJzUyLjEyJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBfc2VuZF9lbWFpbC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
+        <text encoding="base64">ICAuYWRkKCdFcXVpcG1lbnRBY3Rpb25MaXN0JywgKCkgPT4gPFN5bm9wdGljTGFuZFBhZ2UgZGlhZ3JhbXM9e1tkaWFncmFtXX0gc2hvd19kaWFncmFtcz17WydsYWJlbCddfSAvPikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -360,19 +379,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBfc2VuZF9lbWFpbC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcigsIEFjdGlvbkFkbWluKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAjIGFzc2VydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RemoteControlAction</last-search>
+      <last-search encoding="base64">XDxUeXBvZ3JhcGh5XD4=</last-search>
       <last-offset />
-      <last-pattern>RemoteControlAction</last-pattern>
+      <last-pattern encoding="base64">XDxUeXBvZ3JhcGh5XD4=</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -380,8 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxyZWZyZXNoRXF1aXBtZW50TGlzdFw+</entry>
         <entry encoding="base64">XDxQcm9taXNzZVw+</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJLZXlzXD4=</entry>
@@ -400,6 +417,8 @@
         <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
         <entry>model = EquipmentData</entry>
         <entry>RemoteControlAction</entry>
+        <entry>Typ</entry>
+        <entry encoding="base64">XDxUeXBvZ3JhcGh5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
