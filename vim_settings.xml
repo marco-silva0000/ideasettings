@@ -43,12 +43,12 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1529316418993">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1529324892867">
         <mark key="'" line="35" column="20" />
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="33" column="14" />
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="4" />
         <mark key="^" line="33" column="6" />
-        <mark key="." line="33" column="10" />
+        <mark key="." line="59" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" timestamp="1528882991143">
         <mark key="'" line="206" column="66" />
@@ -151,12 +151,11 @@
         <mark key="]" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1528997119527">
-        <mark key="'" line="112" column="24" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="169" column="21" />
-        <mark key="^" line="166" column="30" />
-        <mark key="." line="166" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1529324593265">
+        <mark key="[" line="173" column="27" />
+        <mark key="]" line="173" column="55" />
+        <mark key="." line="173" column="55" />
+        <mark key="^" line="173" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1529075608988">
         <mark key="'" line="113" column="22" />
@@ -170,12 +169,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="43" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529322675369">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529324759559">
         <mark key="'" line="804" column="43" />
-        <mark key="[" line="800" column="32" />
-        <mark key="]" line="800" column="55" />
+        <mark key="[" line="797" column="18" />
+        <mark key="]" line="797" column="42" />
         <mark key="^" line="829" column="41" />
-        <mark key="." line="829" column="41" />
+        <mark key="." line="797" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -285,7 +284,7 @@
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ResetAlarmAction</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -314,37 +313,37 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>ResetAlarmAction</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>RemoteControlAction</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihSZXNldEFsYXJtQWN0aW9uLCBBY3Rpb25BZG1pbikK</text>
+      <register name="0" type="4">
+        <text>EquipmentDataWriteAction</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcigsIEFjdGlvbkFkbWluKQo=</text>
+        <text encoding="base64">ICAuYWRkKCdFcXVpcG1lbnRBY3Rpb25MaXN0JywgKCkgPT4gPFN5bm9wdGljTGFuZFBhZ2UgZGlhZ3JhbXM9e1tkaWFncmFtXX0gc2hvd19kaWFncmFtcz17WydsYWJlbCddfSAvPikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcigsIEFjdGlvbkFkbWluKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgREFUQUJBU0VTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyc6IERlY2ltYWwoJzUyLjEyJykK</text>
+        <text encoding="base64">cHJpbnQgREFUQUJBU0VTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBfc2VuZF9lbWFpbC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJyc6IERlY2ltYWwoJzUyLjEyJykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjICAgICBfc2VuZF9lbWFpbC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
@@ -367,10 +366,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAjIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBfc2VuZF9lbWFpbC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzbXNfYWN0aW9uLl9zZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAjIGFzc2VydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
