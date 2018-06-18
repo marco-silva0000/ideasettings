@@ -60,10 +60,10 @@
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" timestamp="1529076368179">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" timestamp="1529270987723">
         <mark key="'" line="18" column="29" />
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="32" column="45" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="36" column="30" />
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
@@ -239,12 +239,12 @@
         <mark key="." line="105" column="31" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529270642106">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="62" column="55" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529272603718">
+        <mark key="'" line="73" column="66" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="60" column="3" />
+        <mark key="^" line="60" column="3" />
+        <mark key="." line="60" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1529079958051">
         <mark key="[" line="0" column="0" />
@@ -330,10 +330,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529239487717">
-        <mark key="'" line="825" column="20" />
-        <mark key="[" line="825" column="66" />
-        <mark key="]" line="826" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529271830108">
+        <mark key="'" line="256" column="20" />
+        <mark key="[" line="810" column="25" />
+        <mark key="]" line="810" column="48" />
         <mark key="^" line="826" column="20" />
         <mark key="." line="826" column="20" />
       </file>
@@ -349,9 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="66" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationSteps/autoCompleteSelect.jsx" />
-      <jump line="12" column="20" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/newRegistrationDialog.jsx" />
-      <jump line="35" column="47" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/newRegistrationDialog.jsx" />
       <jump line="36" column="41" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/newRegistrationDialog.jsx" />
       <jump line="6" column="47" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
       <jump line="5" column="39" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" />
@@ -449,13 +446,16 @@
       <jump line="160" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
       <jump line="187" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" />
       <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
+      <jump line="2" column="65" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
+      <jump line="73" column="66" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
+      <jump line="256" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPiA6ICcnfQo=</text>
+        <text encoding="base64">ICByZW5kZXIgKCkgewo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -484,40 +484,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>RemoteControl</text>
+        <text>writabl</text>
       </register>
       <register name="/" type="4">
         <text>RemoteControlAction</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCgpmcm9tIGF1dG9maXh0dXJlIGltcG9ydCBBdXRvRml4dHVyZQpmcm9tIGF1dG9maXh0dXJlLmdlbmVyYXRvcnMgaW1wb3J0IEluc3RhbmNlU2VsZWN0b3IKZnJvbSBkamFuZ28uY29yZS5tYW5hZ2VtZW50IGltcG9ydCBjYWxsX2NvbW1hbmQKZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgVGVzdENhc2UKZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCmZyb20gZmFrZXIgaW1wb3J0IEZha2VyCmZyb20gbW9jayBpbXBvcnQgTW9jaywgcGF0Y2gsIG1vY2sKZnJvbSByZXN0X2ZyYW1ld29yay50ZXN0IGltcG9ydCBBUElDbGllbnQKZnJvbSBmdWxndXJpdC5ldmVudHMubW9kZWxzIGltcG9ydCBFdmVudCwgQ29uZGl0aW9uLCBDb25kaXRpb25UZXJtLCBUZXh0QWN0aW9uLCBBY3Rpb24KCmZyb20gZnVsZ3VyaXQub3JnYW5pemF0aW9ucy5tb2RlbHMgaW1wb3J0IEVtcGxveWVlUGVybWlzc2lvbnMsIEVtcGxveWVlLCBBcHBzCmZyb20gZnVsZ3VyaXQub3JnYW5pemF0aW9ucy5zZXJpYWxpemVycyBpbXBvcnQgRmFjaWxpdHlTZXJpYWxpemVyCgpmYWtlID0gRmFrZXIoKQo=</text>
+      <register name="0" type="4">
+        <text>writable_equipment_datas</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPiA6ICcnfQo=</text>
+        <text encoding="base64">ICByZW5kZXIgKCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text>EquipmentDataWriteAction</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KX0gLz4K</text>
+        <text encoding="base64">ICAgIC8vIH0gOiB7bGFiZWw6IGkxOG4udCgnc3RvcCcpLCBtZXRob2Q6ICdyZW1vdGVfc3RvcCcsIGNvbG9yOiAncHJpbWFyeSd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7cmVxdWVzdFNuYWNrQmFyT3BlbjogdHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgIC8vICAgY29sb3I6ICdkZWZhdWx0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zbmFja2Jhck1lc3NhZ2UgPSBpMThuLnQoJ2NvbW1vbjpDb21tYW5kIFN1Y2Nlc3MnKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgbWV0aG9kOiAncmVtb3RlX3N0YXJ0JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsobWV0aG9kLCBpZCkgPT4gdGhpcy5wcm9wcy5vbkNsaWNrKG1ldGhvZCwgaWQpLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIC8vICAgbGFiZWw6IGkxOG4udCgnc3RhcnQnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8UmFpc2VkQnV0dG9uTGlzdCBpZD17dGhpcy5wcm9wcy5lcXVpcG1lbnRBY3Rpb24uaWR9IGJ1dHRvbnM9e2FjdGlvbkJ1dHRvbnN9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGxldCBhY3Rpb25CdXR0b24gPSB0aGlzLnByb3BzLmVxdWlwbWVudEFjdGlvbi5leHRyYV9wcm9wZXJ0aWVzLnN0YXJ0X3N0b3Bfc3RhdHVzID09PSAwID8gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucHJvcHMuZXF1aXBtZW50QWN0aW9uLmV4dHJhX3Byb3BlcnRpZXMucmVtb3RlX21vZGVfc3RhdHVzID09PSAxID8gPEdyaWQgaXRlbT4K</text>
+        <text encoding="base64">ICAgIC8vIH1dCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -537,13 +537,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgY29sb3I6ICdkZWZhdWx0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFycmFuZ2UKICAgICAgICAjIHdpdGggcGF0Y2goJ2Z1bGd1cml0LmV2ZW50cy5tb2RlbHMuVGV4dEFjdGlvbi5fc2VuZF9lbWFpbCcpIGFzIF9zZW5kX2VtYWlsLCBwYXRjaCgnZnVsZ3VyaXQuZXZlbnRzLm1vZGVscy5UZXh0QWN0aW9uLnRleHQnKSBhcyB0ZXh0LCBwYXRjaCgnZnVsZ3VyaXQuZXZlbnRzLm1vZGVscy5UZXh0QWN0aW9uLl9zZW5kX3NtcycpIGFzIF9zZW5kX3NtczoK</text>
+        <text encoding="base64">ICAgIC8vICAgbWV0aG9kOiAncmVzZXRfb3BlcmF0aW9uJywK</text>
       </register>
       <register name=":" type="4">
-        <text>s/RemoteControlAction/EquipmentDataWriteAction/gg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -596,8 +596,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
