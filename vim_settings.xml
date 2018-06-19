@@ -59,12 +59,12 @@
         <mark key="^" line="335" column="14" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1529324892867">
-        <mark key="'" line="35" column="20" />
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="4" />
-        <mark key="^" line="33" column="6" />
-        <mark key="." line="59" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1529398208981">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/urls.py" timestamp="1529344960006">
         <mark key="'" line="13" column="103" />
@@ -75,14 +75,14 @@
         <mark key="." line="105" column="31" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529360037185">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529398456937">
         <mark key="'" line="103" column="45" />
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="81" column="45" />
-        <mark key="^" line="81" column="45" />
-        <mark key="." line="81" column="45" />
+        <mark key="[" line="94" column="59" />
+        <mark key="]" line="94" column="80" />
+        <mark key="^" line="94" column="80" />
+        <mark key="." line="94" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529394972948">
+      <file name="/Dummy.txt" timestamp="1529398634577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -94,12 +94,12 @@
         <mark key="^" line="188" column="22" />
         <mark key="." line="188" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" timestamp="1529359109887">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" timestamp="1529398123018">
         <mark key="'" line="12" column="47" />
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="46" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="46" />
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="35" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1529358536629">
         <mark key="'" line="246" column="88" />
@@ -108,7 +108,7 @@
         <mark key="^" line="246" column="88" />
         <mark key="." line="246" column="88" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/SVGEquipmentDetailLanding.jsx" timestamp="1529345182546">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/SVGEquipmentDetailLanding.jsx" timestamp="1529398159966">
         <mark key="'" line="85" column="48" />
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="36" />
@@ -141,6 +141,9 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1529397602901">
+        <mark key="'" line="202" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1529075608988">
         <mark key="'" line="113" column="22" />
         <mark key="[" line="44" column="44" />
@@ -159,11 +162,11 @@
         <mark key="]" line="851" column="0" />
         <mark key="." line="851" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529396758352" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529397418345">
+        <mark key="'" line="173" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
-      <jump line="120" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="129" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="145" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="8" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" />
@@ -262,6 +265,8 @@
       <jump line="53" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
       <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
       <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" />
+      <jump line="173" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
+      <jump line="202" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
