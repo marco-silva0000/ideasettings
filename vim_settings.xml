@@ -212,8 +212,8 @@
         <mark key="]" line="300" column="39" />
         <mark key="." line="851" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529419053871">
-        <mark key="'" line="170" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529426047805">
+        <mark key="'" line="74" column="35" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="19" />
         <mark key="." line="170" column="0" />
@@ -223,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="273" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="581" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="803" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
@@ -323,6 +322,7 @@
       <jump line="9" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="5" column="56" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
       <jump line="65" column="30" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
+      <jump line="74" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -361,7 +361,7 @@
         <text>removes angular files from repo</text>
       </register>
       <register name="/" type="4">
-        <text>isAdm</text>
+        <text>task</text>
       </register>
       <register name="0" type="4">
         <text>buildings</text>
@@ -421,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isAdm</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern>isAdm</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedEq</entry>
         <entry>Action</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
         <entry>model = EquipmentData</entry>
@@ -451,6 +450,7 @@
         <entry encoding="base64">XDxidWlsZGluZ3NcPg==</entry>
         <entry>picker</entry>
         <entry>isAdm</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
