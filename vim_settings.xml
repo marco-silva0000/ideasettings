@@ -122,6 +122,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/api.py" timestamp="1529396073919">
+        <mark key="[" line="615" column="42" />
+        <mark key="]" line="615" column="47" />
+        <mark key="." line="615" column="47" />
+        <mark key="^" line="615" column="47" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1529076264617">
         <mark key="[" line="107" column="15" />
         <mark key="]" line="107" column="15" />
@@ -148,6 +154,12 @@
         <mark key="." line="129" column="43" />
         <mark key="^" line="129" column="43" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529396609109">
+        <mark key="[" line="851" column="0" />
+        <mark key="]" line="851" column="0" />
+        <mark key="." line="851" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529396758352" />
     </filemarks>
     <jumps>
       <jump line="110" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
@@ -256,7 +268,7 @@
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFlvdSBjYW4gc2V0IDA6IERpc2FibGVkLCAxOiBFbmFibGVkLCBhbmQgcmVhZCBjdXJyZW50IHN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gX3dyaXRlIG9mIEVxdWlwbWVudERhdGFXcml0ZUFjdGlvbiB0YXJnZXRfaWQ6JXMgdGFyZ2V0X3ZhbHVlOiVzJyAlICh0YXJnZXRfaWQsIHRhcmdldF92YWx1ZSkpCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -285,40 +297,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>have 2 states - Enabled and Disabled. TODO UPDATE THIS</text>
+        <text>kwargs</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGVyZWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gd3JpdGUgb2YgRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIGt3YXJnczolcycgJSBrd2FyZ3MpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFlvdSBjYW4gc2V0IDA6IERpc2FibGVkLCAxOiBFbmFibGVkLCBhbmQgcmVhZCBjdXJyZW50IHN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gX3dyaXRlIG9mIEVxdWlwbWVudERhdGFXcml0ZUFjdGlvbiB0YXJnZXRfaWQ6JXMgdGFyZ2V0X3ZhbHVlOiVzJyAlICh0YXJnZXRfaWQsIHRhcmdldF92YWx1ZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gd3JpdGUgb2YgRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIGt3YXJnczolcycgJSBrd2FyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkucmV0dXJuX3ZhbHVlID0gRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gd3JpdGUgb2YgRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIGFyZ3M6JXMnICUgYXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkuYXNzZXJ0X2NhbGxlZF9vbmNlKHMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIGt3YXJnczolcycgJSBrd2FyZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYWN0aW9uICVzJyAlIGFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIGFyZ3M6JXMnICUgYXJncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X29iamVjdC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIG1ldGhvZDolcycgJSBtZXRob2QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5zdGF0dXNfY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIHJ1bicpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -338,10 +350,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBkamFuZ28uZGIubW9kZWxzLmZpZWxkcy5yZWxhdGVkX2Rlc2NyaXB0b3JzIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnb24gd3JpdGUgbWV0aG9kOiVzJyAlIG1ldGhvZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGVyZWUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
