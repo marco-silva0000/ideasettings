@@ -29,13 +29,6 @@
         <mark key="." line="229" column="26" />
         <mark key="^" line="229" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1529079166980">
-        <mark key="'" line="353" column="49" />
-        <mark key="[" line="353" column="48" />
-        <mark key="]" line="353" column="48" />
-        <mark key="." line="353" column="48" />
-        <mark key="^" line="353" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528998405283">
         <mark key="'" line="92" column="27" />
         <mark key="[" line="98" column="59" />
@@ -44,6 +37,9 @@
         <mark key="^" line="98" column="48" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/simoc-plus-XGZukjQK/local/lib/python2.7/site-packages/django/db/models/fields/related_descriptors.py" timestamp="1529361967349" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" timestamp="1529388763207">
+        <mark key="'" line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/EquipmentDataWriteAction.json" timestamp="1529358643386">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -62,13 +58,6 @@
         <mark key="]" line="335" column="0" />
         <mark key="^" line="335" column="14" />
         <mark key="." line="335" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" timestamp="1529270987723">
-        <mark key="'" line="18" column="29" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="32" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1529324892867">
         <mark key="'" line="35" column="20" />
@@ -93,7 +82,7 @@
         <mark key="^" line="81" column="45" />
         <mark key="." line="81" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529386247979">
+      <file name="/Dummy.txt" timestamp="1529388517204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -113,11 +102,11 @@
         <mark key="." line="31" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/index.stories.js" timestamp="1529358536629">
-        <mark key="'" line="175" column="88" />
-        <mark key="[" line="175" column="59" />
-        <mark key="]" line="175" column="88" />
-        <mark key="^" line="175" column="88" />
-        <mark key="." line="175" column="88" />
+        <mark key="'" line="246" column="88" />
+        <mark key="[" line="246" column="59" />
+        <mark key="]" line="246" column="88" />
+        <mark key="^" line="246" column="88" />
+        <mark key="." line="246" column="88" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/SVGEquipmentDetailLanding.jsx" timestamp="1529345182546">
         <mark key="'" line="85" column="48" />
@@ -133,12 +122,6 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/api.py" timestamp="1529362808445">
-        <mark key="[" line="621" column="0" />
-        <mark key="]" line="621" column="0" />
-        <mark key="." line="621" column="0" />
-        <mark key="^" line="621" column="55" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1529076264617">
         <mark key="[" line="107" column="15" />
         <mark key="]" line="107" column="15" />
@@ -147,7 +130,7 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1529079121833">
         <mark key="'" line="7" column="42" />
-        <mark key="[" line="60" column="41" />
+        <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="49" />
@@ -165,21 +148,8 @@
         <mark key="." line="129" column="43" />
         <mark key="^" line="129" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529242256776">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="43" column="39" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1529386439950">
-        <mark key="'" line="651" column="28" />
-        <mark key="[" line="813" column="0" />
-        <mark key="]" line="813" column="0" />
-        <mark key="^" line="812" column="16" />
-        <mark key="." line="813" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="110" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="120" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="129" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
@@ -279,6 +249,7 @@
       <jump line="12" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
       <jump line="53" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
       <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
+      <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
