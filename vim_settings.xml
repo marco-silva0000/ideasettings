@@ -22,6 +22,9 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="131" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1529399720328">
+        <mark key="'" line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1528969894982">
         <mark key="'" line="145" column="9" />
         <mark key="[" line="229" column="26" />
@@ -134,6 +137,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="107" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529398933176" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1529079121833">
         <mark key="'" line="7" column="42" />
         <mark key="[" line="7" column="41" />
@@ -167,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="145" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="8" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" />
       <jump line="14" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderList.jsx" />
@@ -267,6 +270,7 @@
       <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" />
       <jump line="173" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="202" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
+      <jump line="20" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -305,7 +309,7 @@
         <text>kwargs</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text encoding="base64">XDxzdmdXc09uTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnb24gd3JpdGUgb2YgRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uIGt3YXJnczolcycgJSBrd2FyZ3MpCg==</text>
@@ -365,9 +369,9 @@
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search encoding="base64">XDxzdmdXc09uTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
+      <last-pattern encoding="base64">XDxzdmdXc09uTWVzc2FnZVw+</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fac</entry>
         <entry>selectedFac</entry>
         <entry>Pine</entry>
         <entry>asd</entry>
@@ -395,6 +398,7 @@
         <entry>class</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>put</entry>
+        <entry encoding="base64">XDxzdmdXc09uTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
