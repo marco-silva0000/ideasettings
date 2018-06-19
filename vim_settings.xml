@@ -25,6 +25,7 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1529406515801">
         <mark key="'" line="20" column="2" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1529436062657" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" timestamp="1529421567401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1310" />
@@ -59,6 +60,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/static/css/styles.css" timestamp="1529435800417">
+        <mark key="'" line="532" column="0" />
+        <mark key="[" line="548" column="13" />
+        <mark key="]" line="548" column="15" />
+        <mark key="." line="548" column="15" />
+        <mark key="^" line="548" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1529420695954">
         <mark key="'" line="300" column="17" />
@@ -106,7 +114,7 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="/EventSchedulePicker.jsx" timestamp="1529423764589" />
-      <file name="/Dummy.txt" timestamp="1529423968298">
+      <file name="/Dummy.txt" timestamp="1529435815777">
         <mark key="s" line="0" column="30" />
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -223,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="581" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="803" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="256" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
@@ -323,13 +330,14 @@
       <jump line="5" column="56" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
       <jump line="65" column="30" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
       <jump line="74" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
+      <jump line="532" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/static/css/styles.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
       <register name="&quot;" type="4">
-        <text>removes angular files from repo</text>
+        <text>1400</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -358,10 +366,10 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>removes angular files from repo</text>
+        <text>1400</text>
       </register>
       <register name="/" type="4">
-        <text>task</text>
+        <text>select</text>
       </register>
       <register name="0" type="4">
         <text>buildings</text>
@@ -421,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>task</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>task</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Action</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
         <entry>model = EquipmentData</entry>
         <entry>RemoteControlAction</entry>
@@ -451,6 +458,7 @@
         <entry>picker</entry>
         <entry>isAdm</entry>
         <entry>task</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
