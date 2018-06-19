@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" timestamp="1529362188842">
-        <mark key="'" line="21" column="31" />
-        <mark key="[" line="57" column="104" />
-        <mark key="]" line="57" column="117" />
-        <mark key="." line="57" column="117" />
-        <mark key="^" line="57" column="117" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" timestamp="1529363108208">
+        <mark key="'" line="54" column="41" />
+        <mark key="[" line="61" column="40" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/services/RemoteControlAPIService.jsx" timestamp="1529344728756">
         <mark key="[" line="10" column="49" />
@@ -134,11 +133,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/api.py" timestamp="1529361717236">
-        <mark key="[" line="615" column="38" />
-        <mark key="]" line="615" column="40" />
-        <mark key="." line="615" column="40" />
-        <mark key="^" line="615" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/api.py" timestamp="1529362808445">
+        <mark key="[" line="621" column="0" />
+        <mark key="]" line="621" column="0" />
+        <mark key="." line="621" column="0" />
+        <mark key="^" line="621" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1529076264617">
         <mark key="[" line="107" column="15" />
@@ -180,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="287" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="308" column="6" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="110" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="120" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" />
@@ -280,13 +277,15 @@
       <jump line="0" column="18902" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/synoptic_eta_cano_equipments.json" />
       <jump line="2" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/synoptic_eta_cano_equipments.json" />
       <jump line="12" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
+      <jump line="53" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
+      <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBkamFuZ28uZGIubW9kZWxzLmZpZWxkcy5yZWxhdGVkX2Rlc2NyaXB0b3JzIGltcG9ydCAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWV0aG9kPSdydW4nLCA=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -315,40 +314,40 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>DoesNotExist</text>
+        <text encoding="base64">bWV0aG9kPSdydW4nLCA=</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGVyZWUnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBkamFuZ28uZGIubW9kZWxzLmZpZWxkcy5yZWxhdGVkX2Rlc2NyaXB0b3JzIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkucmV0dXJuX3ZhbHVlID0gRXF1aXBtZW50RGF0YVdyaXRlQWN0aW9uKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5tZXRob2QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkuYXNzZXJ0X2NhbGxlZF9vbmNlKHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNfcHJveHkuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYWN0aW9uICVzJyAlIGFjdGlvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0X29iamVjdC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5zdGF0dXNfY29kZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGF0YTogZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBkamFuZ28uZGIubW9kZWxzLmZpZWxkcy5yZWxhdGVkX2Rlc2NyaXB0b3JzIGltcG9ydCAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -368,10 +367,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5fX2RpY3RfXykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aGlzLnNldFN0YXRlKHsgcG9zaXRpb246IDEgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC5tZXRob2QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
