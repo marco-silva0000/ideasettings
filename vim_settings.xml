@@ -15,6 +15,11 @@
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" timestamp="1529488692884">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1529344703745">
         <mark key="'" line="120" column="59" />
         <mark key="[" line="181" column="0" />
@@ -53,10 +58,10 @@
         <mark key="'" line="9" column="40" />
         <mark key="[" line="39" column="72" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1529485731438">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1529487814313">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="82" column="36" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" timestamp="1529388763207">
         <mark key="'" line="12" column="26" />
@@ -136,6 +141,11 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventsList.jsx" timestamp="1529420465967">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="58" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/gtc/water_management/UtilityList.jsx" timestamp="1529488673661">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" timestamp="1529398123018">
         <mark key="'" line="12" column="47" />
@@ -339,8 +349,8 @@
       <register name="a" type="4">
         <text>from '@material-ui/core/</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1400</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRm9ybUNvbnRyb2xMYWJlbCc7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -369,40 +379,86 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>1400</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>maserm</text>
       </register>
       <register name="0" type="4">
-        <text>buildings</text>
+        <text>Pape</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1cGRhdGVGYWNpbGl0eT17dGhpcy5wcm9wcy51cGRhdGVGYWNpbGl0eX0K</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRm9ybUNvbnRyb2xMYWJlbCc7Cg==</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="36" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IFBhcGUgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvUGFwZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkNsaWNrJykKICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCiAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKQo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGZ1bGd1cml0LnV0aWxzIGltcG9ydCBjb25mCiAgICAgICAgaWYgY29uZi5mdWxndXJpdF9zZXR0aW5ncy5ERUJVR19XSVRIT1VUX1BMQzoK</text>
+        <text encoding="base64">fSBmcm9tICdtYXRlcmlhbC11aScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb25mLmZ1bGd1cml0X3NldHRpbmdzLkRFQlVHX1dJVEhPVVRfUExDOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -422,10 +478,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1cGRhdGVGYWNpbGl0eT17dGhpcy5wcm9wcy51cGRhdGVGYWNpbGl0eX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXR0aW5ncy5ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
