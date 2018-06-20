@@ -124,7 +124,7 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529485734469">
+      <file name="/Dummy.txt" timestamp="1529489197150">
         <mark key="s" line="0" column="30" />
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -382,7 +382,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>maserm</text>
+        <text>Client</text>
       </register>
       <register name="0" type="4">
         <text>Pape</text>
@@ -488,9 +488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maserm</last-search>
+      <last-search>Client</last-search>
       <last-offset />
-      <last-pattern>maserm</last-pattern>
+      <last-pattern>Client</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model = EquipmentData</entry>
         <entry>RemoteControlAction</entry>
         <entry>Typ</entry>
         <entry encoding="base64">XDxUeXBvZ3JhcGh5XD4=</entry>
@@ -518,6 +517,7 @@
         <entry>task</entry>
         <entry>select</entry>
         <entry>maserm</entry>
+        <entry>Client</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
