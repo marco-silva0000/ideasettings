@@ -25,7 +25,7 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1529406515801">
         <mark key="'" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1529436062657" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1529485377408" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/node_modules/fulgurit-regantes/frontend/dist/RegantesLandingPage.js" timestamp="1529421567401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1310" />
@@ -49,8 +49,14 @@
         <mark key="." line="98" column="59" />
         <mark key="^" line="98" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1529422024146">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1529485879906">
         <mark key="'" line="9" column="40" />
+        <mark key="[" line="39" column="72" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1529485731438">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" timestamp="1529388763207">
         <mark key="'" line="12" column="26" />
@@ -113,8 +119,7 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/EventSchedulePicker.jsx" timestamp="1529423764589" />
-      <file name="/Dummy.txt" timestamp="1529435815777">
+      <file name="/Dummy.txt" timestamp="1529485734469">
         <mark key="s" line="0" column="30" />
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -158,7 +163,6 @@
         <mark key="." line="31" column="36" />
         <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" timestamp="1529419311675" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/synoptic_eta_cano_equipments.json" timestamp="1529358787690">
         <mark key="'" line="2" column="2" />
         <mark key="[" line="0" column="44" />
@@ -178,8 +182,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="/BuildingDetail.jsx" timestamp="1529422709567" />
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1529423475742">
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1529485647994">
         <mark key="[" line="64" column="31" />
         <mark key="]" line="64" column="38" />
         <mark key="^" line="64" column="38" />
@@ -192,8 +195,8 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1529397602901">
-        <mark key="'" line="202" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1529485869880">
+        <mark key="'" line="573" column="98" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1529075608988">
         <mark key="'" line="113" column="22" />
@@ -231,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="581" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="803" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="256" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="729" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
@@ -331,6 +333,7 @@
       <jump line="65" column="30" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
       <jump line="74" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="532" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/static/css/styles.css" />
+      <jump line="573" column="98" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -369,7 +372,7 @@
         <text>1400</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>maserm</text>
       </register>
       <register name="0" type="4">
         <text>buildings</text>
@@ -429,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>maserm</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>maserm</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -439,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFcXVpcG1lbnREYXRhXD4=</entry>
         <entry>model = EquipmentData</entry>
         <entry>RemoteControlAction</entry>
         <entry>Typ</entry>
@@ -459,6 +461,7 @@
         <entry>isAdm</entry>
         <entry>task</entry>
         <entry>select</entry>
+        <entry>maserm</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
