@@ -117,12 +117,12 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529574705927">
+      <file name="/Dummy.txt" timestamp="1529593648873">
         <mark key="s" line="0" column="30" />
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/serializers.py" timestamp="1529239713009">
         <mark key="'" line="187" column="24" />
@@ -353,7 +353,7 @@
         <text>test_event_gt_equipment</text>
       </register>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>adds missing migration files</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -382,7 +382,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>adds missing migration files</text>
       </register>
       <register name="/" type="4">
         <text>latest</text>
