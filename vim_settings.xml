@@ -37,6 +37,9 @@
         <mark key="." line="229" column="26" />
         <mark key="^" line="229" column="26" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" timestamp="1529592405382">
+        <mark key="'" line="11" column="84" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1529418550456">
         <mark key="'" line="402" column="36" />
       </file>
@@ -147,6 +150,12 @@
         <mark key="^" line="246" column="88" />
         <mark key="." line="246" column="88" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" timestamp="1529593236612">
+        <mark key="'" line="465" column="15" />
+        <mark key="[" line="466" column="79" />
+        <mark key="]" line="466" column="79" />
+        <mark key="." line="466" column="79" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingDetail.jsx" timestamp="1529423327452">
         <mark key="[" line="502" column="7" />
         <mark key="]" line="502" column="7" />
@@ -214,6 +223,9 @@
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="53" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" timestamp="1529592451953">
+        <mark key="'" line="754" column="39" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/admin.py" timestamp="1529323234204">
         <mark key="[" line="129" column="20" />
         <mark key="]" line="129" column="43" />
@@ -223,29 +235,18 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" timestamp="1529582830903">
         <mark key="'" line="643" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529590706600">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529592002494">
         <mark key="'" line="192" column="28" />
         <mark key="[" line="370" column="37" />
-        <mark key="]" line="370" column="35" />
-        <mark key="^" line="370" column="35" />
-        <mark key="." line="370" column="35" />
+        <mark key="]" line="375" column="11" />
+        <mark key="^" line="375" column="11" />
+        <mark key="." line="375" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="200" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="295" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" />
-      <jump line="257" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="767" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="345" column="44" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="348" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="344" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="263" column="70" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="343" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="351" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="359" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="365" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="353" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
@@ -335,13 +336,24 @@
       <jump line="643" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" />
       <jump line="41" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/models.py" />
       <jump line="45" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/models.py" />
+      <jump line="348" column="41" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="11" column="84" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" />
+      <jump line="754" column="39" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
+      <jump line="492" column="44" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="462" column="48" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="466" column="47" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="467" column="76" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="301" column="30" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="307" column="27" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="454" column="12" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
+      <jump line="465" column="15" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>test_event_gt_equipment</text>
       </register>
       <register name="&quot;" type="4">
-        <text>revert select style change of z index</text>
+        <text>id</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -370,10 +382,10 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>revert select style change of z index</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsY3VsYXRlZF9ncm91cF9zdGF0dXNcPg==</text>
+        <text>latest</text>
       </register>
       <register name="0" type="4">
         <text>trigger_status</text>
@@ -479,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsY3VsYXRlZF9ncm91cF9zdGF0dXNcPg==</last-search>
+      <last-search>latest</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsY3VsYXRlZF9ncm91cF9zdGF0dXNcPg==</last-pattern>
+      <last-pattern>latest</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -489,8 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUeXBvZ3JhcGh5XD4=</entry>
-        <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
         <entry encoding="base64">XDxDaGVja0ljb25cPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxpZFw+</entry>
@@ -509,6 +519,8 @@
         <entry>Client</entry>
         <entry>generate</entry>
         <entry encoding="base64">XDxfY2FsY3VsYXRlZF9ncm91cF9zdGF0dXNcPg==</entry>
+        <entry>fact</entry>
+        <entry>latest</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
