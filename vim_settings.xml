@@ -75,7 +75,7 @@
         <mark key="." line="548" column="15" />
         <mark key="^" line="548" column="15" />
       </file>
-      <file name="/Django Console" timestamp="1529571487002">
+      <file name="/Django Console" timestamp="1529598332537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1529504913216">
@@ -235,9 +235,9 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" timestamp="1529582830903">
         <mark key="'" line="643" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529592002494">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529598511410">
         <mark key="'" line="192" column="28" />
-        <mark key="[" line="370" column="37" />
+        <mark key="[" line="374" column="13" />
         <mark key="]" line="375" column="11" />
         <mark key="^" line="375" column="11" />
         <mark key="." line="375" column="11" />
@@ -353,7 +353,7 @@
         <text>test_event_gt_equipment</text>
       </register>
       <register name="&quot;" type="4">
-        <text>adds missing migration files</text>
+        <text>cenas</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -382,19 +382,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>adds missing migration files</text>
+        <text>cenas</text>
       </register>
       <register name="/" type="4">
         <text>latest</text>
       </register>
-      <register name="0" type="4">
-        <text>trigger_status</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsX2NvbW1hbmQoImxvYWRkYXRhIiwgInN0YXJ0Lmpzb24iLCB2ZXJib3NpdHk9MCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBldmVudC5ldmFsKCkKICAgICAgICBwcm9jZXNzZWRfZGF0YS52YWx1ZSA9IDMKICAgICAgICBwcm9jZXNzZWRfZGF0YS5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -446,22 +446,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBmdWxndXJpdC5lcXVpcG1lbnRzLm1vZGVscyBpbXBvcnQgUHJvY2Vzc2VkRGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBldmVudC5ldmFsKCkKICAgICAgICBwcm9jZXNzZWRfZGF0YS52YWx1ZSA9IDMKICAgICAgICBwcm9jZXNzZWRfZGF0YS5zYXZlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBmdWxndXJpdC5lcXVpcG1lbnRzLm1vZGVscyBpbXBvcnQgUHJvY2Vzc2VkRGF0YQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2NvbmRpdGlvbl90cnVlLmRlbGF5ICVzICVzJyAlIChjb25kaXRpb25fdHJ1ZS5kZWxheSwgY29uZGl0aW9uX3RydWUuZGVsYXllZF9hdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRm9ybUNvbnRyb2xMYWJlbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2NvbmRpdGlvbl90cnVlLmRlbGF5ICVzICVzJyAlIChjb25kaXRpb25fdHJ1ZS5kZWxheSwgY29uZGl0aW9uX3RydWUuZGVsYXllZF9hdCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFBhcGUgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvUGFwZScK</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRm9ybUNvbnRyb2xMYWJlbCc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -481,10 +481,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nCg==</text>
+        <text encoding="base64">aW1wb3J0IFBhcGUgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvUGFwZScK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
