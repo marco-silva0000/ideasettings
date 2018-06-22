@@ -190,12 +190,12 @@
         <mark key="^" line="64" column="38" />
         <mark key="." line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529658586237">
-        <mark key="'" line="353" column="17" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="12" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="59" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529659999955">
+        <mark key="'" line="358" column="17" />
+        <mark key="[" line="198" column="31" />
+        <mark key="]" line="198" column="31" />
+        <mark key="." line="198" column="31" />
+        <mark key="^" line="198" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1529079121833">
         <mark key="'" line="7" column="42" />
@@ -232,13 +232,13 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" timestamp="1529582830903">
         <mark key="'" line="643" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529658706102">
-        <mark key="'" line="469" column="31" />
-        <mark key="[" line="466" column="30" />
-        <mark key="m" line="452" column="8" />
-        <mark key="]" line="466" column="31" />
-        <mark key="^" line="412" column="47" />
-        <mark key="." line="466" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529660184734">
+        <mark key="'" line="479" column="31" />
+        <mark key="[" line="426" column="79" />
+        <mark key="m" line="453" column="8" />
+        <mark key="]" line="427" column="29" />
+        <mark key="^" line="427" column="29" />
+        <mark key="." line="427" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
@@ -1379,8 +1379,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X2RhdGUgPSBzY2hlZHVsZS5faXNfZHVlX2RhdGUobm93ICsgdGltZWRlbHRhKGRheXM9MSkpCiAgICAgICAgbmV4dF90aW1lID0gc2NoZWR1bGUuX2lzX2R1ZV90aW1lKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQogICAgICAgIG5leHRfZGF5ID0gc2NoZWR1bGUuX2lzX2R1ZV9kYXlzKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1409,19 +1409,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>latest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X2RhdGUgPSBzY2hlZHVsZS5faXNfZHVlX2RhdGUobm93ICsgdGltZWRlbHRhKGRheXM9MSkpCiAgICAgICAgbmV4dF90aW1lID0gc2NoZWR1bGUuX2lzX2R1ZV90aW1lKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQogICAgICAgIG5leHRfZGF5ID0gc2NoZWR1bGUuX2lzX2R1ZV9kYXlzKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZXRpbWUud2Vla2RheSgpKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuaXNfZGF5Ym91bmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5fV0VFS0RBWVNbZGF0ZXRpbWUud2Vla2RheSgpXVswOjNdLnRpdGxlKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1460,22 +1460,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuaXNfdGltZWJvdW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX2RheWJvdW5kOgogICAgICAgICAgICBwcmludChzZWxmLl9XRUVLREFZU1tkYXRldGltZS53ZWVrZGF5KCldWzA6M10udGl0bGUoKV8pCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuaXNfZGF0ZWJvdW5kKQo=</text>
+      <register name="3" type="8">
+        <text>True
+True
+True
+True</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuaXNfZGF5Ym91bmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2RheSA9IHNjaGVkdWxlLl9pc19kdWVfZGF5cyhub3cgLSB0aW1lZGVsdGEoZGF5cz0yKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuaXNfdGltZWJvdW5kKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2XzEyaF9kYXkgPSBzY2hlZHVsZS5faXNfZHVlX2RheXMobm93KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuaXNfZGF0ZWJvdW5kKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2RhdGUgPSBzY2hlZHVsZS4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1495,10 +1498,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2NoZWR1bGUuX2lzX2R1ZV9kYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShzY2hlZHVsZS5faXNfZHVlX3RpbWUpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNjaGVkdWxlLl9pc19kdWVfZGF5cykK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X2RheSA9IHNjaGVkdWxlLl9pc19kdWVfZGF5cyhub3cgLSB0aW1lZGVsdGEoZGF5cz0yKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZS5pc19kdWUK</text>
+        <text encoding="base64">ICAgICAgICBwcmV2XzEyaF9kYXkgPSBzY2hlZHVsZS5faXNfZHVlX2RheXMobm93KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
