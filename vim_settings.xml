@@ -232,13 +232,13 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" timestamp="1529582830903">
         <mark key="'" line="643" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529600694622">
-        <mark key="'" line="460" column="31" />
-        <mark key="[" line="457" column="19" />
-        <mark key="m" line="443" column="8" />
-        <mark key="]" line="457" column="19" />
-        <mark key="^" line="446" column="23" />
-        <mark key="." line="457" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529657103689">
+        <mark key="'" line="469" column="31" />
+        <mark key="[" line="466" column="30" />
+        <mark key="m" line="452" column="8" />
+        <mark key="]" line="466" column="31" />
+        <mark key="^" line="412" column="47" />
+        <mark key="." line="466" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
@@ -1379,8 +1379,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0X2RhdGUgPSBzY2hlZHVsZS5faXNfZHVlX2RhdGUobm93ICsgdGltZWRlbHRhKGRheXM9MSkpCiAgICAgICAgbmV4dF90aW1lID0gc2NoZWR1bGUuX2lzX2R1ZV90aW1lKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQogICAgICAgIG5leHRfZGF5ID0gc2NoZWR1bGUuX2lzX2R1ZV9kYXlzKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1414,8 +1414,8 @@
       <register name="/" type="4">
         <text>latest</text>
       </register>
-      <register name="0" type="4">
-        <text>next_day</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0X2RhdGUgPSBzY2hlZHVsZS5faXNfZHVlX2RhdGUobm93ICsgdGltZWRlbHRhKGRheXM9MSkpCiAgICAgICAgbmV4dF90aW1lID0gc2NoZWR1bGUuX2lzX2R1ZV90aW1lKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQogICAgICAgIG5leHRfZGF5ID0gc2NoZWR1bGUuX2lzX2R1ZV9kYXlzKG5vdyArIHRpbWVkZWx0YShkYXlzPTEpKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
