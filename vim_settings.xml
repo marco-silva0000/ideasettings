@@ -73,6 +73,9 @@
       <file name="/Django Console" timestamp="1529934134233">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" timestamp="1529939769820">
+        <mark key="'" line="427" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitignore" timestamp="1529420114403">
         <mark key="'" line="31" column="2" />
         <mark key="[" line="29" column="0" />
@@ -151,8 +154,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1529939322177">
-        <mark key="'" line="178" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1529939714062">
+        <mark key="'" line="80" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1529939810201">
+        <mark key="'" line="96" column="30" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
@@ -193,24 +199,18 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529934090316">
-        <mark key="'" line="209" column="34" />
-        <mark key="[" line="208" column="20" />
-        <mark key="]" line="208" column="39" />
-        <mark key="." line="208" column="20" />
-        <mark key="^" line="208" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529940042917">
+        <mark key="'" line="205" column="71" />
+        <mark key="[" line="203" column="28" />
+        <mark key="]" line="203" column="35" />
+        <mark key="." line="203" column="35" />
+        <mark key="^" line="203" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
-      <jump line="202" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
-      <jump line="20" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
-      <jump line="385" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="82" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
-      <jump line="402" column="36" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="47" column="95" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" />
       <jump line="172" column="22" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="300" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" />
@@ -302,9 +302,15 @@
       <jump line="207" column="18" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="42" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/tasks/tasks.py" />
       <jump line="196" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
-      <jump line="209" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="131" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="178" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="407" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
+      <jump line="209" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
+      <jump line="80" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="437" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
+      <jump line="427" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
+      <jump line="96" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="205" column="71" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1339,8 +1345,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1ldGVyID0gQXV0b0ZpeHR1cmUoTWV0ZXIsIGZpZWxkX3ZhbHVlcz17J2VxdWlwbWVudCc6IHNlbGYuZXF1aXBtZW50fSwgZm9sbG93X2ZrPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX2ZrPVRydWUpLmNyZWF0ZV9vbmUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;plc&quot;</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1369,10 +1375,10 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.exclude(word__isnull=True).exclude(word__lt=0)</text>
+        <text>&quot;plc&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXRlclw+</text>
+        <text>willraise</text>
       </register>
       <register name="0" type="4">
         <text>equipments_data_set</text>
@@ -1465,9 +1471,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXRlclw+</last-search>
+      <last-search>willraise</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXRlclw+</last-pattern>
+      <last-pattern>willraise</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,7 +1481,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZGluZ3NcPg==</entry>
         <entry>picker</entry>
         <entry>isAdm</entry>
         <entry>task</entry>
@@ -1495,6 +1500,7 @@
         <entry encoding="base64">XDxsb2dnYWJsZV9lcXVpcG1lbnRfZGF0YXNcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxtZXRlclw+</entry>
+        <entry>willraise</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
