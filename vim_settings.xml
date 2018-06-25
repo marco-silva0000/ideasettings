@@ -161,11 +161,12 @@
         <mark key="." line="89" column="37" />
         <mark key="^" line="89" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1529939810201">
-        <mark key="'" line="96" column="30" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1529944294051">
+        <mark key="'" line="97" column="30" />
+        <mark key="[" line="98" column="76" />
+        <mark key="]" line="98" column="57" />
+        <mark key="." line="98" column="82" />
+        <mark key="^" line="98" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529921205529">
         <mark key="'" line="207" column="18" />
@@ -196,17 +197,17 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" timestamp="1529582830903">
         <mark key="'" line="643" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529919146435">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1529944227460">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="200" column="0" />
         <mark key="m" line="469" column="8" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529943699146">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1529944166635">
         <mark key="'" line="234" column="32" />
-        <mark key="[" line="204" column="51" />
-        <mark key="]" line="204" column="51" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="74" />
         <mark key="^" line="204" column="28" />
         <mark key="." line="204" column="52" />
       </file>
@@ -1350,7 +1351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>skip</text>
+        <text>mock</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1379,13 +1380,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>skip</text>
+        <text>mock</text>
       </register>
       <register name="/" type="4">
         <text>willraise</text>
       </register>
-      <register name="0" type="4">
-        <text>save=save, force_save=force_save, skip=skip</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBmdWxndXJpdC5jb21fbWFuYWdlci51dGlsaXRpZXMgaW1wb3J0IG1vZGJ1c19sb2dfZXFfZGF0YXMK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
