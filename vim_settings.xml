@@ -193,8 +193,8 @@
         <mark key="^" line="64" column="38" />
         <mark key="." line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529919465435">
-        <mark key="'" line="436" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529921205529">
+        <mark key="'" line="207" column="18" />
         <mark key="[" line="138" column="27" />
         <mark key="]" line="138" column="27" />
         <mark key="." line="138" column="27" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18902" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/synoptic_eta_cano_equipments.json" />
       <jump line="2" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/synoptic_eta_cano_equipments.json" />
       <jump line="12" column="47" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
       <jump line="53" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/tests.py" />
@@ -346,6 +345,7 @@
       <jump line="157" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="158" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
       <jump line="156" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" />
+      <jump line="207" column="18" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1413,7 +1413,7 @@
         <text>, **kwargs</text>
       </register>
       <register name="/" type="4">
-        <text>checked</text>
+        <text>not active(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kZWxzLnNpZ25hbHMucG9zdF9zYXZlLmNvbm5lY3QobWFuYWdlX2V2ZW50X3Rhc2ssIHNlbmRlcj1FdmVudCwgd2Vhaz1GYWxzZSkK</text>
@@ -1506,9 +1506,9 @@
       </register>
     </registers>
     <search>
-      <last-search>checked</last-search>
+      <last-search>not active(</last-search>
       <last-offset />
-      <last-pattern>checked</last-pattern>
+      <last-pattern>not active(</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1516,7 +1516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TextField</entry>
         <entry>refresh</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry encoding="base64">XDxub2RlX21vZHVsZXNcPg==</entry>
@@ -1536,6 +1535,7 @@
         <entry>dias</entry>
         <entry>print</entry>
         <entry>checked</entry>
+        <entry>not active(</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
