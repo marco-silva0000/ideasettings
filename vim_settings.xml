@@ -151,9 +151,8 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="/tasks.py" timestamp="1529933886643" />
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1529934107857" />
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1529934380548">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1529936299482">
+        <mark key="'" line="178" column="24" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
@@ -171,7 +170,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1529493625883">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1529936310534">
         <mark key="'" line="573" column="98" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1529075608988">
@@ -206,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" />
       <jump line="173" column="27" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="202" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
       <jump line="20" column="2" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
@@ -306,6 +304,7 @@
       <jump line="196" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="209" column="34" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="131" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="178" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
