@@ -137,19 +137,19 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530007685334">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530009740234">
         <mark key="'" line="83" column="42" />
         <mark key="[" line="77" column="18" />
         <mark key="]" line="78" column="14" />
         <mark key="." line="78" column="14" />
         <mark key="^" line="78" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530007897584">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530009693978">
         <mark key="'" line="77" column="49" />
-        <mark key="[" line="134" column="49" />
-        <mark key="]" line="134" column="48" />
-        <mark key="." line="134" column="48" />
-        <mark key="^" line="134" column="48" />
+        <mark key="[" line="144" column="34" />
+        <mark key="]" line="144" column="38" />
+        <mark key="." line="144" column="38" />
+        <mark key="^" line="144" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529921205529">
         <mark key="'" line="207" column="18" />
@@ -1338,7 +1338,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>latest_inst_measurement</text>
+        <text>timestamp</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1367,13 +1367,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>latest_inst_measurement</text>
+        <text>timestamp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHNlbGYuZXF1aXBtZW50X2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZG9udF9za2lwX3RpbWVzdGFtcCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
