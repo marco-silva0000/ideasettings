@@ -137,18 +137,18 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530006187197">
-        <mark key="'" line="80" column="42" />
-        <mark key="[" line="93" column="25" />
-        <mark key="]" line="93" column="36" />
-        <mark key="." line="93" column="36" />
-        <mark key="^" line="93" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530007233863">
+        <mark key="'" line="83" column="42" />
+        <mark key="[" line="77" column="18" />
+        <mark key="]" line="78" column="14" />
+        <mark key="." line="78" column="14" />
+        <mark key="^" line="78" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530006233268">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530006242856">
         <mark key="'" line="122" column="26" />
-        <mark key="[" line="108" column="38" />
-        <mark key="]" line="108" column="39" />
-        <mark key="." line="108" column="39" />
+        <mark key="[" line="107" column="38" />
+        <mark key="]" line="107" column="47" />
+        <mark key="." line="107" column="38" />
         <mark key="^" line="119" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529921205529">
@@ -1333,8 +1333,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>utilities</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1363,19 +1363,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>plc_controller</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>utilities</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZGlkIG5vdCBzYXZlIGJlY2F1c2UgZHVwbGljYXRlJykK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVsa19yZWFkX2VxdWlwbWVudF9kYXRhc19tb2NrLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1414,22 +1414,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz1weXR6LnV0YykgICMgVE9ETyBjaGVjayBpZiBjb252ZXJ0IHRvIGZhYyB0aW1lem9uZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVsa19yZWFkX2VxdWlwbWVudF9kYXRhc19tb2NrLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RidXNfbG9nX2VxX2RhdGFzX21vY2suYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1449,10 +1449,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHBhdGNoKCdmdWxndXJpdC5jb21fbWFuYWdlci51dGlsaXRpZXMubW9kYnVzX2xvZ19lcV9kYXRhcycpIGFzIG1vZGJ1c19sb2dfZXFfZGF0YXNfbW9jazoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdF9sb2dfd2l0aG91dF9zYXZlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
