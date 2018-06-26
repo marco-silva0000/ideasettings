@@ -144,15 +144,15 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530014274231">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530022633984">
         <mark key="'" line="18" column="38" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530014324366">
-        <mark key="'" line="80" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530022572074">
+        <mark key="'" line="80" column="54" />
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -194,7 +194,7 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1530007866031">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1530022574324">
         <mark key="[" line="292" column="4" />
         <mark key="]" line="292" column="26" />
       </file>
@@ -309,7 +309,7 @@
       <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="18" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="138" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="80" column="48" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1344,8 +1344,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>'dt'</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1374,7 +1374,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>value + 0.2</text>
+        <text>'dt'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</text>
