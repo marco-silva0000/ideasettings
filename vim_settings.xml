@@ -137,19 +137,19 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530007233863">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530007685334">
         <mark key="'" line="83" column="42" />
         <mark key="[" line="77" column="18" />
         <mark key="]" line="78" column="14" />
         <mark key="." line="78" column="14" />
         <mark key="^" line="78" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530006242856">
-        <mark key="'" line="122" column="26" />
-        <mark key="[" line="107" column="38" />
-        <mark key="]" line="107" column="47" />
-        <mark key="." line="107" column="38" />
-        <mark key="^" line="119" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530007897584">
+        <mark key="'" line="77" column="49" />
+        <mark key="[" line="134" column="49" />
+        <mark key="]" line="134" column="48" />
+        <mark key="." line="134" column="48" />
+        <mark key="^" line="134" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529921205529">
         <mark key="'" line="207" column="18" />
@@ -186,6 +186,10 @@
         <mark key="m" line="469" column="8" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/models.py" timestamp="1530007866031">
+        <mark key="[" line="292" column="4" />
+        <mark key="]" line="292" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" timestamp="1530005897771">
         <mark key="'" line="235" column="24" />
@@ -289,7 +293,6 @@
       <jump line="66" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="72" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="75" column="67" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="77" column="14" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="78" column="75" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="84" column="89" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="85" column="95" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
@@ -299,6 +302,7 @@
       <jump line="122" column="26" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="235" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="80" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
+      <jump line="77" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1333,8 +1337,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
+      <register name="&quot;" type="4">
+        <text>latest_inst_measurement</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1363,19 +1367,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>latest_inst_measurement</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZGlkIG5vdCBzYXZlIGJlY2F1c2UgZHVwbGljYXRlJykK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHNlbGYuZXF1aXBtZW50X2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdF9sb2dfc2F2ZV9hc3luYycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1414,19 +1418,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz1weXR6LnV0YykgICMgVE9ETyBjaGVjayBpZiBjb252ZXJ0IHRvIGZhYyB0aW1lem9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVsa19yZWFkX2VxdWlwbWVudF9kYXRhc19tb2NrLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz1weXR6LnV0YykgICMgVE9ETyBjaGVjayBpZiBjb252ZXJ0IHRvIGZhYyB0aW1lem9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVsa19yZWFkX2VxdWlwbWVudF9kYXRhc19tb2NrLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
@@ -1449,7 +1453,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
