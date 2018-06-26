@@ -137,12 +137,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530009740234">
-        <mark key="'" line="83" column="42" />
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="78" column="14" />
-        <mark key="." line="78" column="14" />
-        <mark key="^" line="78" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530010401525">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530009693978">
         <mark key="'" line="77" column="49" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
       <jump line="5" column="56" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
       <jump line="65" column="30" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" />
       <jump line="74" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
@@ -303,6 +302,7 @@
       <jump line="235" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="80" column="42" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="77" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1337,8 +1337,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>timestamp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1367,10 +1367,10 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>timestamp</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoZG9udF9za2lwX3RpbWVzdGFtcCkK</text>
@@ -1379,7 +1379,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdF9sb2dfc2F2ZV9hc3luYycpCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1418,22 +1418,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBJbnN0YW50RGF0YWxvZ0hpc3RvcnkuRG9lc05vdEV4aXN0OgogICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz1weXR6LnV0YykgICMgVE9ETyBjaGVjayBpZiBjb252ZXJ0IHRvIGZhYyB0aW1lem9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdF9sb2dfc2F2ZV9hc3luYycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVsa19yZWFkX2VxdWlwbWVudF9kYXRhc19tb2NrLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCB0aW1lc3RhbXA6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXpvbmUubm93KCkKICAgIGlmIHRpbWVzdGFtcC50emluZm8gaXMgbm90IE5vbmUgYW5kIHRpbWVzdGFtcC50emluZm8udXRjb2Zmc2V0KHRpbWVzdGFtcCkgaXMgbm90IE5vbmU6CiAgICAgICAgdGltZXN0YW1wID0gdGltZXN0YW1wLnJlcGxhY2UodHppbmZvPXB5dHoudXRjKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1453,19 +1453,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz1weXR6LnV0YykgICMgVE9ETyBjaGVjayBpZiBjb252ZXJ0IHRvIGZhYyB0aW1lem9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1473,7 +1473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isAdm</entry>
         <entry>task</entry>
         <entry>select</entry>
         <entry>maserm</entry>
@@ -1493,6 +1492,7 @@
         <entry encoding="base64">XDxtZXRlclw+</entry>
         <entry>willraise</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
