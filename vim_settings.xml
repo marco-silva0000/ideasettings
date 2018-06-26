@@ -144,19 +144,19 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530022633984">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" timestamp="1530026883684">
         <mark key="'" line="18" column="38" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="41" />
-        <mark key="." line="42" column="41" />
-        <mark key="^" line="42" column="41" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="47" />
+        <mark key="." line="40" column="47" />
+        <mark key="^" line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530022572074">
-        <mark key="'" line="80" column="54" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="164" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" timestamp="1530027155312">
+        <mark key="'" line="175" column="25" />
+        <mark key="[" line="168" column="67" />
+        <mark key="]" line="169" column="39" />
+        <mark key="." line="169" column="39" />
+        <mark key="^" line="169" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" timestamp="1529921205529">
         <mark key="'" line="207" column="18" />
@@ -210,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/static/css/styles.css" />
-      <jump line="573" column="98" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
       <jump line="134" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="351" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
       <jump line="235" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
@@ -310,6 +308,8 @@
       <jump line="18" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="138" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="174" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="175" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1345,7 +1345,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'dt'</text>
+        <text>2</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1374,19 +1374,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'dt'</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbmUgPSBjb252ZXJ0X3ZhbHVlKHNlbGYuZXF1aXBtZW50X2RhdGEsIDEpCiAgICAgICAgdHdvID0gY29udmVydF92YWx1ZShzZWxmLmVxdWlwbWVudF9kYXRhLCAyKQogICAgICAgIHR3b19hbmRfaGFsZiA9IGNvbnZlcnRfdmFsdWUoc2VsZi5lcXVpcG1lbnRfZGF0YSwgMi41KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHRlbl9vbmUsIDAuNSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHRlbl90d28sIDEpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCh0ZW5fdHdvX2FuZF9oYWxmLCAyLjUvMikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXdfb25lID0gY29udmVydF92YWx1ZShzZWxmLmVxdWlwbWVudF9kYXRhLCAxMCkKICAgICAgICBuZXdfdHdvID0gY29udmVydF92YWx1ZShzZWxmLmVxdWlwbWVudF9kYXRhLCAyMCkKICAgICAgICBuZXdfdHdvX2FuZF9oYWxmID0gY29udmVydF92YWx1ZShzZWxmLmVxdWlwbWVudF9kYXRhLCAyNTApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1428,19 +1428,19 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAgPSBzZWxmLmVxdWlwbWVudF9kYXRhLnRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2Z1bmN0aW9uX21vY2sucmV0dXJuX3ZhbHVlID0gdmFsdWUgKyAxCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAgPSBzZWxmLmVxdWlwbWVudF9kYXRhLnRpbWVzdGFtcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2Z1bmN0aW9uX21vY2sucmV0dXJuX3ZhbHVlID0gdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2Z1bmN0aW9uX21vY2sucmV0dXJuX3ZhbHVlID0gdmFsdWUgKyAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXZhbHVlLCB0aW1lc3RhbXA9dGltZXN0YW1wKQo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2Z1bmN0aW9uX21vY2sucmV0dXJuX3ZhbHVlID0gdmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50RGF0YWxvZ0hpc3Rvcnkub2JqZWN0cy5nZXRfb3JfY3JlYXRlKHByb2Nlc3NlZF9kYXRhPXNlbGYuZXF1aXBtZW50X2RhdGEucHJvY2Vzc2VkZGF0YV9zZXQuZmlyc3QoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXZhbHVlLCB0aW1lc3RhbXA9dGltZXN0YW1wKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1460,10 +1460,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHBhdGNoKCdmdWxndXJpdC5lcXVpcG1lbnRzLm1vZGVscy5Qcm9jZXNzZWREYXRhLnNhdmVfZnVuY3Rpb24nKSBhcyBzYXZlX2Z1bmN0aW9uX21vY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50RGF0YWxvZ0hpc3Rvcnkub2JqZWN0cy5nZXRfb3JfY3JlYXRlKHByb2Nlc3NlZF9kYXRhPXNlbGYuZXF1aXBtZW50X2RhdGEucHJvY2Vzc2VkZGF0YV9zZXQuZmlyc3QoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHBhdGNoKCdmdWxndXJpdC5lcXVpcG1lbnRzLm1vZGVscy5Qcm9jZXNzZWREYXRhLnNhdmVfZnVuY3Rpb24nKSBhcyBzYXZlX2Z1bmN0aW9uX21vY2s6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
