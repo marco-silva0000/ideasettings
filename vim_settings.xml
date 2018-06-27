@@ -13,11 +13,11 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="131" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/tasks.py" timestamp="1530114057970">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/tasks.py" timestamp="1530116793042">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="26" column="83" />
+        <mark key="^" line="26" column="83" />
+        <mark key="." line="26" column="83" />
       </file>
       <file name="/Python Console" timestamp="1530027957548">
         <mark key="[" line="0" column="0" />
@@ -122,11 +122,12 @@
         <mark key="^" line="188" column="22" />
         <mark key="." line="188" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" timestamp="1530114684060">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" timestamp="1530117417985">
+        <mark key="'" line="38" column="53" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" timestamp="1529398123018">
         <mark key="'" line="12" column="47" />
@@ -228,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/models.py" />
-      <jump line="235" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
-      <jump line="250" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
-      <jump line="192" column="28" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
       <jump line="643" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" />
       <jump line="41" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/models.py" />
       <jump line="45" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/models.py" />
@@ -328,6 +325,10 @@
       <jump line="174" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="175" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="155" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
+      <jump line="12" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
+      <jump line="2" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
+      <jump line="20" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
+      <jump line="31" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1362,8 +1363,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IGFwcAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAjIFRPRE8=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1392,10 +1393,10 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>['5minutes', '12hours', '7days', '90days', 'infinite']</text>
+        <text encoding="base64">ICAjIFRPRE8=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2NrXD4=</text>
+        <text encoding="base64">XDxtZXRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBzaW1vYy5jZWxlcnkgaW1wb3J0IGFwcAo=</text>
@@ -1465,9 +1466,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb2NrXD4=</last-search>
+      <last-search encoding="base64">XDxtZXRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2NrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZXRlclw+</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,7 +1476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
         <entry>maserm</entry>
         <entry>Client</entry>
         <entry>generate</entry>
@@ -1490,11 +1490,12 @@
         <entry>not active(</entry>
         <entry encoding="base64">XDxsb2dnYWJsZV9lcXVpcG1lbnRfZGF0YXNcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxtZXRlclw+</entry>
         <entry>willraise</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</entry>
         <entry encoding="base64">XDxNb2NrXD4=</entry>
+        <entry encoding="base64">XDxNZXRlclw+</entry>
+        <entry encoding="base64">XDxtZXRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
