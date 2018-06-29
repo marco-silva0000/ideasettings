@@ -69,8 +69,11 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="/Django Console" timestamp="1530202451626">
-        <mark key="[" line="0" column="0" />
+      <file name="/Django Console" timestamp="1530266405320">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/timers/tasks.py" timestamp="1530113966991">
         <mark key="[" line="10" column="0" />
@@ -103,12 +106,12 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530264512775">
-        <mark key="'" line="73" column="24" />
-        <mark key="[" line="68" column="33" />
-        <mark key="]" line="68" column="33" />
-        <mark key="^" line="68" column="33" />
-        <mark key="." line="68" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530266318263">
+        <mark key="'" line="87" column="24" />
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="85" column="74" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/conf.py" timestamp="1530011079273">
         <mark key="[" line="29" column="40" />
@@ -1365,7 +1368,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text>cisco-poc</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1394,19 +1397,19 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>cisco-poc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>grant_type='client_credentials'</text>
+        <text>query_params_constructor</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZW5ld190b2tlbic6IHJlbmV3X3Rva2VufQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSAnPycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1436,31 +1439,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0geydjbGllbnRfaWQnOiBjbGllbnRfaWQsICdncmFudF90eXBlJzogZ3JhbnRfdHlwZSwgJ2NsaWVudF9zZWNyZXQnOiBjbGllbnRfc2VjcmV0LAo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSBxdWVyeV9wYXJhbXNfY29uc3RydWN0b3IoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigndmFsaWRpdHlfcGVyaW9kIFwnJXNcJyBtdXN0IGJlIG9uZSBvZiAlcycgJSAodmFsaWRpdHlfcGVyaW9kLCBWQUxJRElUWV9QRVJJT0RTKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlfcGFyYW1zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2YWxpZGl0eV9wZXJpb2Qgbm90IGluIFZBTElESVRZX1BFUklPRFM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZXZpY2VfRVVJOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZW5ld190b2tlbic6IHJlbmV3X3Rva2VufQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0geydjbGllbnRfaWQnOiBjbGllbnRfaWQsICdncmFudF90eXBlJzogZ3JhbnRfdHlwZSwgJ2NsaWVudF9zZWNyZXQnOiBjbGllbnRfc2VjcmV0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBncmFudF90eXBlID0gJ2NsaWVudF9jcmVkZW50aWFscycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigndmFsaWRpdHlfcGVyaW9kIFwnJXNcJyBtdXN0IGJlIG9uZSBvZiAlcycgJSAodmFsaWRpdHlfcGVyaW9kLCBWQUxJRElUWV9QRVJJT0RTKSkK</text>
       </register>
       <register name="w" type="4">
         <text>gladiator</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncmFudF90eXBlID0gJ2NsaWVudF9jcmVkZW50aWFscycK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2YWxpZGl0eV9wZXJpb2Qgbm90IGluIFZBTElESVRZX1BFUklPRFM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
