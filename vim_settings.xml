@@ -229,15 +229,15 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530290061076">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530291749039">
         <mark key="a" line="41" column="69" />
         <mark key="'" line="40" column="23" />
         <mark key="y" line="26" column="23" />
         <mark key="z" line="26" column="122" />
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="11" />
-        <mark key="^" line="49" column="11" />
-        <mark key="." line="49" column="11" />
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="8" />
+        <mark key="^" line="50" column="41" />
+        <mark key="." line="57" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
@@ -1379,7 +1379,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>return</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1408,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>return</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1437,40 +1437,14 @@
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
           <key char="108" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
