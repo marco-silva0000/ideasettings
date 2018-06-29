@@ -19,7 +19,7 @@
         <mark key="^" line="26" column="83" />
         <mark key="." line="26" column="83" />
       </file>
-      <file name="/Python Console" timestamp="1530272884395">
+      <file name="/Python Console" timestamp="1530284432976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1528969894982">
@@ -69,8 +69,11 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="/Django Console" timestamp="1530272875326">
+      <file name="/Django Console" timestamp="1530287000390">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/timers/tasks.py" timestamp="1530113966991">
         <mark key="[" line="10" column="0" />
@@ -103,12 +106,12 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530273478181">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="113" column="19" />
-        <mark key="]" line="113" column="24" />
-        <mark key="^" line="113" column="24" />
-        <mark key="." line="113" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530286614278">
+        <mark key="'" line="120" column="23" />
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="26" />
+        <mark key="." line="115" column="26" />
+        <mark key="^" line="115" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/conf.py" timestamp="1530011079273">
         <mark key="[" line="29" column="40" />
@@ -225,25 +228,21 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530270481504">
-        <mark key="'" line="16" column="4" />
-        <mark key="y" line="16" column="23" />
-        <mark key="z" line="16" column="122" />
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="6" />
-        <mark key="m" line="17" column="7" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530285990425">
+        <mark key="'" line="22" column="29" />
+        <mark key="y" line="26" column="23" />
+        <mark key="z" line="26" column="122" />
+        <mark key="[" line="22" column="52" />
+        <mark key="m" line="27" column="7" />
+        <mark key="]" line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="22" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="84" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" />
-      <jump line="754" column="39" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
-      <jump line="492" column="44" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
-      <jump line="462" column="48" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="466" column="47" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="467" column="76" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="301" column="30" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
@@ -340,6 +339,10 @@
       <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="16" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
+      <jump line="108" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
+      <jump line="116" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
+      <jump line="115" column="23" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
+      <jump line="22" column="29" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1375,7 +1378,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Token</text>
+        <text>_</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1404,10 +1407,10 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Token</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXRlclw+</text>
+        <text encoding="base64">XDxxdWVyeV9wYXJhbXNfY29uc3RydWN0b3JcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1417,13 +1420,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRva2VuLmZyb21fanNvbihqc29uLmxvYWRzKHJlc3BvbnNlLmNvbnRlbnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignYXV0aCBtYW1hZG8nKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBbRGV2aWNlLmZyb21fanNvbihqc29uX29iamVjdCkgZm9yIGpzb25fb2JqZWN0IGluIGpzb24ubG9hZHMocmVzcG9uc2UuY29udGVudCldCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLnJlcXVlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1462,37 +1465,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogJ0JlYXJlciAnICsgc2VsZi5jbGllbnQua2V5fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ldHdvcmtfYWRkcmVzcyA9IG5ldHdvcmtfYWRkcmVzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9ICc/Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZmVyZW5jZSA9IHJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSBxdWVyeV9wYXJhbXNfY29uc3RydWN0b3IoKipxdWVyeV9wYXJhbXNfZGljdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV1aSA9IGV1aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLnJlcXVlc3QK</text>
       </register>
       <register name="w" type="4">
         <text>gladiator</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fa2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXRlclw+</last-search>
+      <last-search encoding="base64">XDxxdWVyeV9wYXJhbXNfY29uc3RydWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeV9wYXJhbXNfY29uc3RydWN0b3JcPg==</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1500,7 +1503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maserm</entry>
         <entry>Client</entry>
         <entry>generate</entry>
         <entry encoding="base64">XDxfY2FsY3VsYXRlZF9ncm91cF9zdGF0dXNcPg==</entry>
@@ -1520,6 +1522,7 @@
         <entry encoding="base64">XDxNb2NrXD4=</entry>
         <entry encoding="base64">XDxNZXRlclw+</entry>
         <entry encoding="base64">XDxtZXRlclw+</entry>
+        <entry encoding="base64">XDxxdWVyeV9wYXJhbXNfY29uc3RydWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
