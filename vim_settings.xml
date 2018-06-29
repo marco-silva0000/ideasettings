@@ -103,12 +103,12 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530273237089">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530273478181">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="93" column="58" />
-        <mark key="]" line="93" column="54" />
-        <mark key="." line="93" column="54" />
-        <mark key="^" line="93" column="54" />
+        <mark key="[" line="113" column="19" />
+        <mark key="]" line="113" column="24" />
+        <mark key="^" line="113" column="24" />
+        <mark key="." line="113" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/conf.py" timestamp="1530011079273">
         <mark key="[" line="29" column="40" />
@@ -1375,7 +1375,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text>Token</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1404,7 +1404,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>Token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRlclw+</text>
@@ -1416,14 +1416,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>jti</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRva2VuLmZyb21fanNvbihqc29uLmxvYWRzKHJlc3BvbnNlLmNvbnRlbnQpKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ldHdvcmtfYWRkcmVzcyA9IG5ldHdvcmtfYWRkcmVzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLnJlcXVlc3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1459,31 +1459,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZmVyZW5jZSA9IHJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV1aSA9IGV1aQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ldHdvcmtfYWRkcmVzcyA9IG5ldHdvcmtfYWRkcmVzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fa2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZmVyZW5jZSA9IHJlZmVyZW5jZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5rZXk6CiAgICAgICAgICAgIHNlbGYuYXV0aC5nZW5lcmF0ZV90b2tlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV1aSA9IGV1aQo=</text>
       </register>
       <register name="w" type="4">
         <text>gladiator</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRva2VuID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fa2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
