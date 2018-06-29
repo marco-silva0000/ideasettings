@@ -101,12 +101,12 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530269984833">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530271597937">
         <mark key="'" line="74" column="0" />
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="63" />
-        <mark key="." line="74" column="63" />
-        <mark key="^" line="74" column="63" />
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/utils/conf.py" timestamp="1530011079273">
         <mark key="[" line="29" column="40" />
@@ -223,19 +223,21 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530270075654">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="16" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530270481504">
+        <mark key="'" line="16" column="4" />
+        <mark key="y" line="16" column="23" />
+        <mark key="z" line="16" column="122" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="m" line="17" column="7" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="18" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="46" filename="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/models.py" />
-      <jump line="348" column="41" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
       <jump line="11" column="84" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" />
       <jump line="754" column="39" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="492" column="44" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/serializers.py" />
@@ -334,6 +336,8 @@
       <jump line="31" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="39" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
       <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
+      <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1369,7 +1373,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>eui</text>
+        <text>key</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1398,73 +1402,86 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>eui</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgRGV2aWNlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGV1aT1Ob25lLCByZWZlcmVuY2U9Tm9uZSwgbmFtZT1Ob25lLCBuZXR3b3JrX2FkZHJlc3M9Tm9uZSk6CiAgICAgICAgc2VsZi5ldWkgPSBldWkKICAgICAgICBzZWxmLnJlZmVyZW5jZSA9IHJlZmVyZW5jZQogICAgICAgIHNlbGYubmFtZSA9IG5hbWUKICAgICAgICBzZWxmLm5ldHdvcmtfYWRkcmVzcyA9IG5ldHdvcmtfYWRkcmVzcwoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fanNvbihjbHMsIGpzb25fYm9keSk6CiAgICAgICAgcmV0dXJuIGNscyhldWk9anNvbl9ib2R5WydFVUknXSwgcmVmZXJlbmNlPWpzb25fYm9keVsncmVmJ10sIG5hbWU9anNvbl9ib2R5WyduYW1lJ10sIG5ldHdvcmtfYWRkcmVzcz1qc29uX2JvZHlbJ25ldHdvcmtBZGRyZXNzJ10pCg==</text>
+      <register name="o" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="0" type="4">
+        <text>jti</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ldHdvcmtfYWRkcmVzcyA9IG5ldHdvcmtfYWRkcmVzcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="114" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="77" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
           <key char="108" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fa2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5rZXk6CiAgICAgICAgICAgIHNlbGYuYXV0aC5nZW5lcmF0ZV90b2tlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZmVyZW5jZSA9IHJlZmVyZW5jZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRva2VuID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV1aSA9IGV1aQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSAnPycK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fa2V5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSBxdWVyeV9wYXJhbXNfY29uc3RydWN0b3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5rZXk6CiAgICAgICAgICAgIHNlbGYuYXV0aC5nZW5lcmF0ZV90b2tlbigpCg==</text>
       </register>
       <register name="w" type="4">
         <text>gladiator</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlfcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRva2VuID0gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZXZpY2VfRVVJOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
