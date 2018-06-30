@@ -69,11 +69,12 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="/Django Console" timestamp="1530287000390">
+      <file name="/Django Console" timestamp="1530291973180">
+        <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="23" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/timers/tasks.py" timestamp="1530113966991">
         <mark key="[" line="10" column="0" />
@@ -229,15 +230,15 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530291749039">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530292986583">
         <mark key="a" line="41" column="69" />
         <mark key="'" line="40" column="23" />
         <mark key="y" line="26" column="23" />
         <mark key="z" line="26" column="122" />
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="8" />
-        <mark key="^" line="50" column="41" />
-        <mark key="." line="57" column="8" />
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="52" column="80" />
+        <mark key="." line="52" column="80" />
+        <mark key="^" line="52" column="80" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
@@ -1379,7 +1380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>6</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1409,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>6</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1433,7 +1434,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1448,22 +1449,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWRfdm9sdGFnZSA9IHJlYWRfdm9sdGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWRfdm9sdGFnZSA9IHJlYWRfdm9sdGFnZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogJ0JlYXJlciAnICsgc2VsZi5jbGllbnQua2V5fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogJ0JlYXJlciAnICsgc2VsZi5jbGllbnQua2V5fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9ICc/Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1893,10 +1894,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSBxdWVyeV9wYXJhbXNfY29uc3RydWN0b3IoKipxdWVyeV9wYXJhbXNfZGljdCkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9ICc/Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLnJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9wYXJhbXMgPSBxdWVyeV9wYXJhbXNfY29uc3RydWN0b3IoKipxdWVyeV9wYXJhbXNfZGljdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
