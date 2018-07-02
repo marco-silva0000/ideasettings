@@ -69,11 +69,11 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="/Django Console" timestamp="1530521023317">
+      <file name="/Django Console" timestamp="1530523586629">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="6" column="23" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/timers/tasks.py" timestamp="1530113966991">
@@ -229,14 +229,15 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530521246147">
-        <mark key="a" line="41" column="69" />
-        <mark key="'" line="40" column="23" />
-        <mark key="y" line="26" column="23" />
-        <mark key="z" line="26" column="122" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530525229390">
+        <mark key="a" line="42" column="69" />
+        <mark key="'" line="41" column="23" />
+        <mark key="y" line="27" column="23" />
+        <mark key="z" line="27" column="122" />
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
@@ -1377,8 +1378,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1407,7 +1408,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>?</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1425,8 +1426,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlYWRfdGVtcCA9IHJlYWRfdGVtcAo=</text>
+      <register name="0" type="4">
+        <text>config_high_threshold</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
