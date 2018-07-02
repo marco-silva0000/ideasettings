@@ -72,6 +72,12 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
+      <file name="/Django Console" timestamp="1530551125448">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/timers/tasks.py" timestamp="1530113966991">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="28" />
@@ -221,7 +227,7 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530548455987">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530551393762">
         <mark key="a" line="93" column="8" />
         <mark key="'" line="111" column="35" />
         <mark key="y" line="29" column="23" />
@@ -1371,7 +1377,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n_reads</text>
+        <text>payload=0x0201</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1400,7 +1406,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>n_reads</text>
+        <text>payload=0x0201</text>
       </register>
       <register name="m" type="4">
         <keys>
