@@ -72,7 +72,7 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="/Django Console" timestamp="1530531645199">
+      <file name="/Django Console" timestamp="1530538551349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/timers/tasks.py" timestamp="1530113966991">
@@ -224,15 +224,15 @@
         <mark key="^" line="235" column="24" />
         <mark key="." line="235" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530532030127">
-        <mark key="a" line="42" column="69" />
-        <mark key="'" line="75" column="37" />
-        <mark key="y" line="27" column="23" />
-        <mark key="z" line="27" column="122" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="59" column="24" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1530538967090">
+        <mark key="a" line="44" column="69" />
+        <mark key="'" line="77" column="37" />
+        <mark key="y" line="29" column="23" />
+        <mark key="z" line="29" column="122" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
         <mark key="'" line="65" column="30" />
@@ -1373,8 +1373,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJzF7NTpifTF7NDpifXszOmJ9ezI6Yn17MTpifXswOmJ9Jy5mb3JtYXQobW9kZV9oaWdoX3RocmVzaG9sZCwgbW9kZV9oaWdoX2hpc3QsIG1vZGVfbG93X3RocmVzaG9sZCwgbW9kZV9sb3dfaGlzdCwgbW9kZV9wZXJpb2RpYywgbW9kZV9hbmFsb2dfc2lnbmFsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>assert()</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1403,7 +1403,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>assert()</text>
       </register>
       <register name="m" type="4">
         <keys>
