@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1529406515801">
-        <mark key="'" line="20" column="2" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1529344703745">
         <mark key="'" line="120" column="59" />
         <mark key="[" line="181" column="0" />
@@ -32,21 +29,12 @@
       <file name="/a.dummy" timestamp="1530529350320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" timestamp="1529592405382">
-        <mark key="'" line="11" column="84" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1529418550456">
-        <mark key="'" line="402" column="36" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventBody.jsx" timestamp="1528998405283">
         <mark key="'" line="92" column="27" />
         <mark key="[" line="98" column="59" />
         <mark key="]" line="98" column="59" />
         <mark key="." line="98" column="59" />
         <mark key="^" line="98" column="48" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/models.py" timestamp="1529583567351">
-        <mark key="'" line="45" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tasks.py" timestamp="1529668059571">
         <mark key="'" line="14" column="23" />
@@ -62,9 +50,6 @@
         <mark key="." line="548" column="15" />
         <mark key="^" line="548" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/serializers.py" timestamp="1529919229809">
-        <mark key="'" line="156" column="41" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/tasks/tasks.py" timestamp="1530090610178">
         <mark key="'" line="42" column="41" />
         <mark key="[" line="36" column="21" />
@@ -79,9 +64,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" timestamp="1530005980877">
-        <mark key="'" line="427" column="16" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitignore" timestamp="1529420114403">
         <mark key="'" line="31" column="2" />
         <mark key="[" line="29" column="0" />
@@ -95,9 +77,6 @@
         <mark key="]" line="31" column="17" />
         <mark key="^" line="50" column="33" />
         <mark key="." line="31" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/urls.py" timestamp="1529344960006">
-        <mark key="'" line="13" column="103" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/equipments/components/EquipmentActions/EquipmentDataWriteAction.jsx" timestamp="1529419150584">
         <mark key="'" line="44" column="95" />
@@ -197,8 +176,8 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1530114381019">
-        <mark key="'" line="570" column="98" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1530702652604">
+        <mark key="'" line="200" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1529075608988">
         <mark key="'" line="113" column="22" />
@@ -206,12 +185,6 @@
         <mark key="]" line="44" column="44" />
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="53" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" timestamp="1529592451953">
-        <mark key="'" line="754" column="39" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/views.py" timestamp="1529582830903">
-        <mark key="'" line="643" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/test.py" timestamp="1530530787834">
         <mark key="[" line="13" column="0" />
@@ -240,12 +213,8 @@
         <mark key="^" line="143" column="15" />
         <mark key="." line="143" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/BuildingLandingPage.jsx" timestamp="1529423464158">
-        <mark key="'" line="65" column="30" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
       <jump line="442" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
       <jump line="463" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
       <jump line="443" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" />
@@ -345,6 +314,7 @@
       <jump line="120" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="122" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="139" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
+      <jump line="200" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
