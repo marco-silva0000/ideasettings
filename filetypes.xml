@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="orgaizationService.js" type="JavaScript" />
       <mapping pattern="logActions.html" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
