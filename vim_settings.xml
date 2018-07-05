@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" timestamp="1530790872779">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" timestamp="1530792126812">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/Event.jsx" timestamp="1529344703745">
         <mark key="'" line="120" column="59" />
@@ -1365,8 +1366,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSAuL3BhY2thZ2UuanNvbiAvY29kZS9wYWNrYWdlLmpzb24K</text>
+      <register name="&quot;" type="4">
+        <text>bower install</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1395,7 +1396,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>bower</text>
+        <text>bower install</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1414,13 +1415,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSAuL2Jvd2VyLmpzb24gL2NvZGUvYm93ZXIuanNvbgo=</text>
+        <text encoding="base64">UlVOIGJvd2VyIGluc3RhbGwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSAuL3BhY2thZ2UuanNvbiAvY29kZS9wYWNrYWdlLmpzb24K</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1467,22 +1468,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZ3MiCg==</text>
+        <text encoding="base64">Q09QWSAuL2Jvd2VyLmpzb24gL2NvZGUvYm93ZXIuanNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAiNjM3OTo2Mzc5Igo=</text>
+        <text encoding="base64">Q09QWSAuL3BhY2thZ2UuanNvbiAvY29kZS9wYWNrYWdlLmpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdFTkdJTkUnOiAnZGphbmdvLmNvbnRyaWIuZ2lzLmRiLmJhY2tlbmRzLnBvc3RnaXMnLAo=</text>
+        <text encoding="base64">ICAgIGFyZ3MiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLSAiNjM3OTo2Mzc5Igo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1912,10 +1913,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICdFTkdJTkUnOiAnZGphbmdvLmNvbnRyaWIuZ2lzLmRiLmJhY2tlbmRzLnBvc3RnaXMnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
