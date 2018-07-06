@@ -179,12 +179,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" timestamp="1530866219098">
-        <mark key="'" line="276" column="37" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="276" column="42" />
-        <mark key="." line="275" column="0" />
-        <mark key="^" line="262" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" timestamp="1530866983637">
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="^" line="259" column="41" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/stories/data/synoptic_eta_cano_equipments.json" timestamp="1529358787690">
         <mark key="'" line="2" column="2" />
@@ -258,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/tasks/tasks.py" />
-      <jump line="196" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="131" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="178" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="407" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
@@ -351,13 +349,15 @@
       <jump line="271" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="282" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="186" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
-      <jump line="212" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="237" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="238" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="262" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="263" column="39" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="275" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="276" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
+      <jump line="213" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
+      <jump line="212" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1393,7 +1393,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzcmM6IFsndGVtcGxhdGVzL21haW5fb3JpZy5odG1sJ10sCiAgICAgICAgICAgICAgZGVzdDogWyd0ZW1wbGF0ZXMvbWFpbi5odG1sJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJ3cml0ZTogdHJ1ZSwK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1431,7 +1431,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>html</text>
+        <text encoding="base64">XDxvdmVyd3JpdGVcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1447,7 +1447,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYzogWyd0ZW1wbGF0ZXMvbWFpbi5odG1sJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJ3cml0ZTogdHJ1ZSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1494,22 +1494,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAvY29kZS9mcm9udGVuZC9hcHBFUzYvbm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJ3cml0ZTogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJ3cml0ZTogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2b2x1bWVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJ3cml0ZTogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYzogWyd0ZW1wbGF0ZXMvbWFpbi5odG1sJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvY29kZS9mcm9udGVuZC9hcHBFUzYvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmd1bGFyOgo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1939,19 +1939,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dm9sdW1lczoK</text>
+        <text encoding="base64">ICB2b2x1bWVzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGljOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>html</last-search>
+      <last-search encoding="base64">XDxvdmVyd3JpdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>html</last-pattern>
+      <last-pattern encoding="base64">XDxvdmVyd3JpdGVcPg==</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1959,7 +1959,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWlsZGluZ0xpc3RcPg==</entry>
         <entry encoding="base64">XDxSZXBvcnRzTGFuZGluZ1BhZ2VcPg==</entry>
         <entry>dias</entry>
         <entry>print</entry>
@@ -1979,6 +1978,7 @@
         <entry encoding="base64">XDxqcXVlcnlcPg==</entry>
         <entry>vol</entry>
         <entry>html</entry>
+        <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
