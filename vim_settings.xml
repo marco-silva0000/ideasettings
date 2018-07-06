@@ -60,12 +60,12 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530809250477">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530865399697">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/static/css/styles.css" timestamp="1529435800417">
         <mark key="'" line="532" column="0" />
@@ -1386,7 +1386,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>frontend/</text>
+        <text>vendor</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1415,7 +1415,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>frontend/</text>
+        <text>vendor</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1434,7 +1434,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V09SS0RJUiAvCg==</text>
+        <text encoding="base64">ICBhbmd1bGFyLXZlbmRvcjoK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
