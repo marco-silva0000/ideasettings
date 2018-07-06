@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" timestamp="1530801148791">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" timestamp="1530873860481">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="11" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
@@ -60,10 +61,10 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530868494847">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530873811574">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="19" />
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="45" />
       </file>
@@ -111,7 +112,6 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/views.py" timestamp="1530808166518" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530288298403">
         <mark key="'" line="120" column="23" />
         <mark key="[" line="115" column="24" />
@@ -258,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="13" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="178" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="407" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
       <jump line="209" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="437" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
       <jump line="427" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
@@ -358,6 +355,9 @@
       <jump line="213" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="187" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="212" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
+      <jump line="15" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1393,7 +1393,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJ3cml0ZTogdHJ1ZSwK</text>
+        <text encoding="base64">RlJPTSBub2RlCgpXT1JLRElSIC8KClJVTiBucG0gaW5zdGFsbCAtZyBib3dlciBncnVudC1jbGkgJiYgXAogICAgZWNobyAneyAiYWxsb3dfcm9vdCI6IHRydWUgfScgPiAvcm9vdC8uYm93ZXJyYwoKQ09QWSAuL3BhY2thZ2UuanNvbiAvY29kZS9wYWNrYWdlLmpzb24KCldPUktESVIgL2NvZGUKUlVOIHlhcm4gaW5zdGFsbApXT1JLRElSIC8KCkNPUFkgLi9ib3dlci5qc29uIC9jb2RlL2Jvd2VyLmpzb24KQ09QWSAuL0dydW50ZmlsZS5qcyAvY29kZS9HcnVudGZpbGUuanMKCldPUktESVIgL2NvZGUKUlVOIGJvd2VyIGluc3RhbGwKCldPUktESVIgLwpDT1BZIC4gL2NvZGUvCldPUktESVIgL2NvZGUKUlVOIG5wbSBydW4gYnVpbGQKQ01EIFsiYmFzaCJdCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1441,7 +1441,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzcmM6IFsndGVtcGxhdGVzL21haW5fb3JpZy5odG1sJ10sCiAgICAgICAgICAgICAgZGVzdDogWyd0ZW1wbGF0ZXMvbWFpbi5odG1sJ10K</text>
+        <text encoding="base64">RlJPTSBub2RlCgpXT1JLRElSIC8KClJVTiBucG0gaW5zdGFsbCAtZyBib3dlciBncnVudC1jbGkgJiYgXAogICAgZWNobyAneyAiYWxsb3dfcm9vdCI6IHRydWUgfScgPiAvcm9vdC8uYm93ZXJyYwoKQ09QWSAuL3BhY2thZ2UuanNvbiAvY29kZS9wYWNrYWdlLmpzb24KCldPUktESVIgL2NvZGUKUlVOIHlhcm4gaW5zdGFsbApXT1JLRElSIC8KCkNPUFkgLi9ib3dlci5qc29uIC9jb2RlL2Jvd2VyLmpzb24KQ09QWSAuL0dydW50ZmlsZS5qcyAvY29kZS9HcnVudGZpbGUuanMKCldPUktESVIgL2NvZGUKUlVOIGJvd2VyIGluc3RhbGwKCldPUktESVIgLwpDT1BZIC4gL2NvZGUvCldPUktESVIgL2NvZGUKUlVOIG5wbSBydW4gYnVpbGQKQ01EIFsiYmFzaCJdCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
