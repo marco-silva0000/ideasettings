@@ -61,11 +61,12 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530884987643">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530886554760">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/static/css/styles.css" timestamp="1529435800417">
         <mark key="'" line="532" column="0" />
@@ -257,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
-      <jump line="437" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
-      <jump line="427" column="16" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/plc_controller.py" />
       <jump line="96" column="30" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="205" column="71" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="227" column="62" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
@@ -357,6 +355,9 @@
       <jump line="15" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" />
+      <jump line="17" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
+      <jump line="30" column="45" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
+      <jump line="40" column="10" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1430,7 +1431,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdmVyd3JpdGVcPg==</text>
+        <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1948,9 +1949,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdmVyd3JpdGVcPg==</last-search>
+      <last-search encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdmVyd3JpdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1958,7 +1959,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXBvcnRzTGFuZGluZ1BhZ2VcPg==</entry>
         <entry>dias</entry>
         <entry>print</entry>
         <entry>checked</entry>
@@ -1978,6 +1978,7 @@
         <entry>vol</entry>
         <entry>html</entry>
         <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
