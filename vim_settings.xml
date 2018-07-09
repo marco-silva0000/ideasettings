@@ -35,6 +35,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1531155636095">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530892797547">
         <mark key="'" line="42" column="10" />
         <mark key="[" line="30" column="0" />
@@ -59,13 +64,17 @@
         <mark key="." line="115" column="26" />
         <mark key="^" line="115" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531148946935">
+      <file name="/Dummy.txt" timestamp="1531155638576">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1531150430192">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1531155017750">
+        <mark key="'" line="123" column="3" />
+        <mark key="[" line="75" column="39" />
+        <mark key="]" line="75" column="40" />
+        <mark key="." line="75" column="40" />
+        <mark key="^" line="75" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/CreateTableBuilding.jsx" timestamp="1531130541963">
         <mark key="[" line="137" column="84" />
@@ -88,15 +97,8 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" timestamp="1530808115169">
         <mark key="'" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientDetail.jsx" timestamp="1531152991083">
-        <mark key="[" line="211" column="67" />
-        <mark key="]" line="211" column="74" />
-        <mark key="." line="211" column="74" />
-        <mark key="^" line="211" column="74" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="49" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="18" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="138" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
@@ -196,6 +198,7 @@
       <jump line="401" column="21" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="781" column="25" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="316" column="89" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" />
+      <jump line="123" column="3" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1231,7 +1234,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>common</text>
+        <text>refactors building components to building directory</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1260,7 +1263,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>refactors building components to building directory</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1269,7 +1272,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>common</text>
+        <text encoding="base64">XDxBY3RpdmVcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1279,7 +1282,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>i18n.t('irrigators:Edit Areas')</text>
+        <text>ções</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1363,9 +1366,9 @@
       </register>
     </registers>
     <search>
-      <last-search>common</last-search>
+      <last-search encoding="base64">XDxBY3RpdmVcPg==</last-search>
       <last-offset />
-      <last-pattern>common</last-pattern>
+      <last-pattern encoding="base64">XDxBY3RpdmVcPg==</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1373,7 +1376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>checked</entry>
         <entry>not active(</entry>
         <entry encoding="base64">XDxsb2dnYWJsZV9lcXVpcG1lbnRfZGF0YXNcPg==</entry>
@@ -1393,6 +1395,7 @@
         <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
         <entry>common</entry>
+        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
