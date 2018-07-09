@@ -17,7 +17,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531130784630">
+      <file name="/Dummy.txt" timestamp="1531148946935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1530801210563">
@@ -46,6 +46,10 @@
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1531149209949">
+        <mark key="'" line="31" column="60" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/stories/index.stories.js" timestamp="1531148844299" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1531129100289">
         <mark key="'" line="5" column="45" />
       </file>
@@ -68,6 +72,9 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1530702652604">
         <mark key="'" line="200" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1531149129522">
+        <mark key="'" line="766" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" timestamp="1530808115169">
         <mark key="'" line="12" column="20" />
       </file>
@@ -79,8 +86,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="21" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="233" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/models.py" />
       <jump line="107" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="61" column="33" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="62" column="35" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
@@ -179,6 +184,8 @@
       <jump line="10" column="49" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" />
       <jump line="5" column="45" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" />
       <jump line="46" column="44" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientDetail.jsx" />
+      <jump line="766" column="20" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="31" column="60" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
