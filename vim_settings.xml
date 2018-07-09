@@ -20,7 +20,6 @@
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/stories/index.stories.js" timestamp="1531148844299" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/common.json" timestamp="1531150401413">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -45,7 +44,7 @@
         <mark key="." line="502" column="42" />
         <mark key="^" line="509" column="95" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1531156602026">
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1531157785701">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
@@ -58,9 +57,11 @@
         <mark key="." line="115" column="26" />
         <mark key="^" line="115" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531155638576">
+      <file name="/Dummy.txt" timestamp="1531157923920">
+        <mark key="a" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="m" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1531155017750">
@@ -1235,7 +1236,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>build</text>
+        <text>docker</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1264,7 +1265,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>docker</text>
       </register>
       <register name="m" type="4">
         <keys>
