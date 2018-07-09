@@ -15,19 +15,10 @@
         <mark key="]" line="45" column="14" />
         <mark key="." line="45" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1530529734750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1530529350320">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientList.jsx" timestamp="1531129131968">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1531149209949">
-        <mark key="'" line="31" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/stories/index.stories.js" timestamp="1531148844299" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/common.json" timestamp="1531150401413">
@@ -47,15 +38,18 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1530868093288">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1531151591077">
         <mark key="'" line="781" column="25" />
         <mark key="[" line="502" column="33" />
         <mark key="]" line="502" column="33" />
         <mark key="." line="502" column="42" />
         <mark key="^" line="509" column="95" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1531156602026">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530892772121">
         <mark key="'" line="120" column="23" />
@@ -84,6 +78,13 @@
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1531129100289">
         <mark key="'" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/.dockerignore" timestamp="1531156966841">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1530702652604">
         <mark key="'" line="200" column="25" />
       </file>
@@ -99,7 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="18" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
       <jump line="138" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
@@ -199,6 +199,7 @@
       <jump line="781" column="25" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="316" column="89" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" />
       <jump line="123" column="3" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" />
+      <jump line="9" column="3" filename="$USER_HOME$/PycharmProjects/regantes/frontend/.dockerignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1234,7 +1235,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>refactors building components to building directory</text>
+        <text>build</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1263,7 +1264,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>refactors building components to building directory</text>
+        <text>build</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1288,7 +1289,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBydW4gYnVpbGQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1335,31 +1336,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiR3JvdW5kc2tlZXBlciI6ICJDYW50b25laXJvIiwK</text>
+        <text encoding="base64">V09SS0RJUiAvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiQ29uc3VtcHRpb24iOiAiQ29uc3VtbyIsCg==</text>
+        <text encoding="base64">V09SS0RJUiAvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiRGVjbGFyZWQgQXJlYSI6ICLDgXJlYSBEZWNsYXJhZGEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiQWN0aXZlIFJlZ2lzdHJpZXMiOiAiUmVnaXN0b3MgQXRpdm9zIiwK</text>
+        <text encoding="base64">UlVOIGJvd2VyIGluc3RhbGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiRG9taW5hdGVkIjogIkRvbWluYWRhIiwK</text>
+        <text encoding="base64">V09SS0RJUiAvY29kZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiUmVnaXN0ZXJlZCI6ICJSZWdpc3RyYWRhIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiQ29uc3RydWN0aW9uIENvZGUiOiAiQ8OzZGlnbyBkZSBPYnJhIiwK</text>
+        <text encoding="base64">V09SS0RJUiAvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiUmVnaXN0cmF0aW9uIENvZGUiOiAiQ8OzZGlnbyBkZSBSZWdpc3RvIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
