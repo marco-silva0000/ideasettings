@@ -126,11 +126,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531241613377">
+      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531242610073">
         <mark key="[" line="44" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="]" line="44" column="2" />
+        <mark key="." line="44" column="2" />
+        <mark key="^" line="44" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531221614605">
         <mark key="[" line="12" column="16" />
@@ -1287,7 +1287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>ENTRYPOINT</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1316,7 +1316,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ENTRYPOINT</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1341,7 +1341,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">anNvbi5sb2FkcygnJylbJ3ZlcnNpb24nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1388,31 +1388,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ImM0OTkyNTYiID0ge3BhdGggPSAiL3Byb2plY3RzL2NvcmUiLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IjQxNzE3MWUiID0ge3BhdGggPSAiLi4vc2ltb2MtcGx1cy8iLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
+        <text encoding="base64">RU5WIFBZVEhPTiA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVJHIFBZVEhPTgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">anNvbi5sb2FkcygnJylbJ3ZlcnNpb24nXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVsZ3VyaXQtbWFpbiA9IHtnaXQgPSAic3NoOi8vZ2l0QDg5LjExNS4yMzguNjI6MTA5MjIvc2ltb2Mvc2ltb2MtcGx1cy5naXQifQo=</text>
+        <text encoding="base64">ImM0OTkyNTYiID0ge3BhdGggPSAiL3Byb2plY3RzL2NvcmUiLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVsZ3VyaXQtY3JvcHMgPSB7Z2l0ID0gInNzaDovL2dpdEA4OS4xMTUuMjM4LjYyOjEwOTIyL3NpbW9jL2Z1bGd1cml0X2Nyb3BzLmdpdCJ9CmZ1bGd1cml0LXNlbnNvcmluZyA9IHtnaXQgPSAic3NoOi8vZ2l0QDg5LjExNS4yMzguNjI6MTA5MjIvc2ltb2MvZnVsZ3VyaXRfc2Vuc29yaW5nLmdpdCJ9Cg==</text>
+        <text encoding="base64">IjQxNzE3MWUiID0ge3BhdGggPSAiLi4vc2ltb2MtcGx1cy8iLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQ6IC9zdGF0aWMvdmVuZG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2U6IGFuZ3VsYXItdmVuZG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
