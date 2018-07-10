@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530892772121">
-        <mark key="'" line="120" column="23" />
-        <mark key="[" line="115" column="24" />
-        <mark key="]" line="115" column="26" />
-        <mark key="." line="115" column="26" />
-        <mark key="^" line="115" column="26" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Dockerfile" timestamp="1530873860481">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -17,17 +10,88 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1530801210563">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/urls.py" timestamp="1531222882919">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientList.jsx" timestamp="1531129131968">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/Pipfile" timestamp="1531223744645">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/common.json" timestamp="1531150401413">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1531155636095">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.html" timestamp="1531222753977">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530892797547">
+        <mark key="'" line="42" column="10" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531220160542" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1531151591077">
+        <mark key="'" line="781" column="25" />
+        <mark key="[" line="502" column="33" />
+        <mark key="]" line="502" column="33" />
+        <mark key="." line="502" column="42" />
+        <mark key="^" line="509" column="95" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1531157785701">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" timestamp="1531224522983">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/views.py" timestamp="1531222853238">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" timestamp="1530892772121">
+        <mark key="'" line="120" column="23" />
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="26" />
+        <mark key="." line="115" column="26" />
+        <mark key="^" line="115" column="26" />
+      </file>
       <file name="/Dummy.txt" timestamp="1531217930329">
         <mark key="a" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="m" line="0" column="5" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1530801210563">
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="45" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1531155017750">
         <mark key="'" line="123" column="3" />
@@ -45,19 +109,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="56" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientList.jsx" timestamp="1531129131968">
-        <mark key="[" line="32" column="50" />
-        <mark key="]" line="32" column="50" />
-        <mark key="." line="32" column="50" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/Pipfile" timestamp="1531220026872" />
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1531129100289">
-        <mark key="'" line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/common.json" timestamp="1531150401413">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitlab-ci.yml" timestamp="1531223348152">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/.dockerignore" timestamp="1531156966841">
         <mark key="'" line="9" column="3" />
@@ -66,40 +122,22 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/package.json" timestamp="1531155636095">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/.dockerignore" timestamp="1531221466872">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" timestamp="1530892797547">
-        <mark key="'" line="42" column="10" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="15" />
-        <mark key="^" line="30" column="5" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531222097586">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="7" />
+        <mark key="^" line="38" column="10" />
+        <mark key="." line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531220160542" />
-      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531220189361">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="24" column="58" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1531151591077">
-        <mark key="'" line="781" column="25" />
-        <mark key="[" line="502" column="33" />
-        <mark key="]" line="502" column="33" />
-        <mark key="." line="502" column="42" />
-        <mark key="^" line="509" column="95" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1530702652604">
-        <mark key="'" line="200" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1531157785701">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531221614605">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" timestamp="1531151677844">
         <mark key="'" line="273" column="89" />
@@ -108,14 +146,13 @@
         <mark key="." line="273" column="50" />
         <mark key="^" line="273" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" timestamp="1530808115169">
-        <mark key="'" line="12" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" timestamp="1531222835202">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/utilities.py" />
-      <jump line="138" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="174" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="175" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
       <jump line="155" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
@@ -169,7 +206,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
       <jump line="12" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
       <jump line="22" column="4" filename="$USER_HOME$/PycharmProjects/simoc-plus/docker-compose.yml" />
-      <jump line="12" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" />
       <jump line="226" column="43" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="235" column="40" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
       <jump line="259" column="38" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/Gruntfile.js" />
@@ -213,6 +249,10 @@
       <jump line="316" column="89" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" />
       <jump line="123" column="3" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/irrigators.json" />
       <jump line="9" column="3" filename="$USER_HOME$/PycharmProjects/regantes/frontend/.dockerignore" />
+      <jump line="12" column="15" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" />
+      <jump line="7" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" />
+      <jump line="14" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" />
+      <jump line="1" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1247,8 +1287,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1277,7 +1317,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>crops</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1286,7 +1326,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBY3RpdmVcPg==</text>
+        <text encoding="base64">XDxSb290Vmlld1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1296,13 +1336,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyB0aGlzIGlzIG91ciBmaXJzdCBidWlsZCBzdGFnZSwgaXQgd2lsbCBub3QgcGVyc2lzdCBpbiB0aGUgZmluYWwgaW1hZ2UKRlJPTSB1YnVudHUgYXMgaW50ZXJtZWRpYXRlCgojIGluc3RhbGwgZ2l0ClJVTiBhcHQtZ2V0IHVwZGF0ZQpSVU4gYXB0LWdldCBpbnN0YWxsIC15IGdpdAoKIyBhZGQgY3JlZGVudGlhbHMgb24gYnVpbGQKIyBBUkcgU1NIX1BSSVZBVEVfS0VZCiMgQVJHIFNTSF9QVUJMSUNfS0VZClJVTiBta2RpciAvcm9vdC8uc3NoLwpBUkcgU1NIX1BSSVZBVEVfS0VZCkFSRyBTU0hfUFVCTElDX0tFWQpSVU4gZWNobyAiJHtTU0hfUFJJVkFURV9LRVl9IiA+IC9yb290Ly5zc2gvaWRfcnNhClJVTiBlY2hvICIke1NTSF9QVUJMSUNfS0VZfSIgPiAvcm9vdC8uc3NoL2lkX3JzYS5wdWIKUlVOIGNobW9kIDYwMCAvcm9vdC8uc3NoL2lkX3JzYQpSVU4gY2htb2QgNjAwIC9yb290Ly5zc2gvaWRfcnNhLnB1YgoKIyBtYWtlIHN1cmUgeW91ciBkb21haW4gaXMgYWNjZXB0ZWQKUlVOIHRvdWNoIC9yb290Ly5zc2gva25vd25faG9zdHMKUlVOIHNzaC1rZXlzY2FuIGdpdGxhYi5jb20gPj4gL3Jvb3QvLnNzaC9rbm93bl9ob3N0cwoKV09SS0RJUiAvcHJvamVjdHMKUlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvY3JvcHMuZ2l0ClJVTiBnaXQgY2xvbmUgLS12ZXJib3NlIHNzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L3NlbnNvcmluZy5naXQKUlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvZmllbGR3b3JrLmdpdApSVU4gZ2l0IGNsb25lIC0tdmVyYm9zZSBzc2g6Ly9naXRAZ2l0bGFiLmNvbS9mdWxndXJpdC9hbmFseXNpcy5naXQKUlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMuZ2l0ClJVTiBnaXQgY2xvbmUgLS12ZXJib3NlIHNzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L21ldGVyaW5nLmdpdApSVU4gZ2l0IGNsb25lIC0tdmVyYm9zZSBzc2g6Ly9naXRAZ2l0bGFiLmNvbS9mdWxndXJpdC9ndGMuZ2l0CldPUktESVIgLwoKRlJPTSBweXRob246Mi43CkVOViBQWVRIT05CVUZGRVJFRCAxCiMgY29weSB0aGUgcmVwb3NpdG9yeSBmb3JtIHRoZSBwcmV2aW91cyBpbWFnZQpDT1BZIC0tZnJvbT1pbnRlcm1lZGlhdGUgL3Byb2plY3RzIC9wcm9qZWN0cwoKUlVOIG1rZGlyIC1wIC92YXIvbG9nL2Z1bGd1cml0LwpSVU4gdG91Y2ggL3Zhci9sb2cvZnVsZ3VyaXQvZGVidWcubG9nClJVTiB0b3VjaCAvdmFyL2xvZy9mdWxndXJpdC9wbGMubG9nCgpSVU4gYXB0LWdldCB1cGRhdGUgXAogICYmIGFwdC1nZXQgaW5zdGFsbCAteSBsaWJtZW1jYWNoZWQtZGV2CgpSVU4gcGlwIGluc3RhbGwgcGlwZW52CkNPUFkgLi9QaXBmaWxlIC9jb2RlL1BpcGZpbGUKQ09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sKV09SS0RJUiAvY29kZQpSVU4gcGlwZW52IGluc3RhbGwKCldPUktESVIgLwpDT1BZIC4gL2NvZGUvCldPUktESVIgL2NvZGUKCmV4cG9zZSA4MDAwCgojIENNRCBbInB5dGhvbiIsICJtYW5hZ2UucHkiLCAicnVuc2VydmVyIl0K</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYy5iYXNlIGltcG9ydCBUZW1wbGF0ZVZpZXcK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">anNvbi5sb2FkcygnJylbJ3ZlcnNpb24nXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1349,40 +1389,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgbGlibWVtY2FjaGVkLWRldgo=</text>
+        <text encoding="base64">ImM0OTkyNTYiID0ge3BhdGggPSAiL3Byb2plY3RzL2NvcmUiLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIFwK</text>
+        <text encoding="base64">IjQxNzE3MWUiID0ge3BhdGggPSAiLi4vc2ltb2MtcGx1cy8iLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHRvdWNoIC92YXIvbG9nL2Z1bGd1cml0L3BsYy5sb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHRvdWNoIC92YXIvbG9nL2Z1bGd1cml0L2RlYnVnLmxvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC92YXIvbG9nL2Z1bGd1cml0Lwo=</text>
+        <text encoding="base64">ZnVsZ3VyaXQtbWFpbiA9IHtnaXQgPSAic3NoOi8vZ2l0QDg5LjExNS4yMzguNjI6MTA5MjIvc2ltb2Mvc2ltb2MtcGx1cy5naXQifQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvZ3RjLmdpdAo=</text>
+        <text encoding="base64">ZnVsZ3VyaXQtY3JvcHMgPSB7Z2l0ID0gInNzaDovL2dpdEA4OS4xMTUuMjM4LjYyOjEwOTIyL3NpbW9jL2Z1bGd1cml0X2Nyb3BzLmdpdCJ9CmZ1bGd1cml0LXNlbnNvcmluZyA9IHtnaXQgPSAic3NoOi8vZ2l0QDg5LjExNS4yMzguNjI6MTA5MjIvc2ltb2MvZnVsZ3VyaXRfc2Vuc29yaW5nLmdpdCJ9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvbWV0ZXJpbmcuZ2l0Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQ6IC9zdGF0aWMvdmVuZG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMuZ2l0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2U6IGFuZ3VsYXItdmVuZG9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBY3RpdmVcPg==</last-search>
+      <last-search encoding="base64">XDxSb290Vmlld1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBY3RpdmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSb290Vmlld1w+</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1390,7 +1430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checked</entry>
         <entry>not active(</entry>
         <entry encoding="base64">XDxsb2dnYWJsZV9lcXVpcG1lbnRfZGF0YXNcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -1410,6 +1449,7 @@
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
         <entry>common</entry>
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
+        <entry encoding="base64">XDxSb290Vmlld1w+</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
