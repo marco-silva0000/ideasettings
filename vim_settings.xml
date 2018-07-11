@@ -132,7 +132,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531317397763">
+      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531319719137">
         <mark key="[" line="37" column="67" />
         <mark key="]" line="37" column="69" />
         <mark key="^" line="37" column="69" />
@@ -155,6 +155,12 @@
         <mark key="'" line="7" column="41" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531319769216">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="136" />
+        <mark key="^" line="1" column="136" />
+        <mark key="." line="1" column="136" />
       </file>
     </filemarks>
     <jumps>
@@ -1421,7 +1427,7 @@
         <text encoding="base64">ICAgICdkZWZhdWx0Jzogewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1472,10 +1478,10 @@
         <entry>%s/Project/Epic/g</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
