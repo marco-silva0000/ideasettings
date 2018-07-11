@@ -144,11 +144,11 @@
         <mark key="^" line="37" column="69" />
         <mark key="." line="37" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531321912628">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="33" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531322951612">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531321996329">
         <mark key="[" line="0" column="0" />
@@ -1311,11 +1311,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>export SSH_PRIVATE_KEY=&quot;$( cat ~/.ssh/id_rsa )&quot; 
-export SSH_PUBLIC_KEY=&quot;$( cat ~/.ssh/id_rsa.pub )&quot;
-docker-compose up $@
-unset SSH_PRIVATE_KEY
-unset SSH_PUBLIC_KEY</text>
+        <text>angular</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1344,7 +1340,7 @@ unset SSH_PUBLIC_KEY</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>angular</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1373,7 +1369,7 @@ unset SSH_PUBLIC_KEY</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1420,31 +1416,31 @@ unset SSH_PUBLIC_KEY</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcvdmFyL3d3dy9zdGF0aWMvJywK</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSB0ZW1wbGF0ZTovY29kZS90ZW1wbGF0ZXMK</text>
+        <text encoding="base64">ICAgICcvdmFyL3d3dy9zdGF0aWMvJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmd1bGFyLW91dHB1dDoK</text>
+        <text encoding="base64">ICAgICAgLSB0ZW1wbGF0ZTovY29kZS90ZW1wbGF0ZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmd1bGFyLXZlbmRvcjoK</text>
+        <text encoding="base64">ICBhbmd1bGFyLW91dHB1dDoK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhbmd1bGFyLXZlbmRvcjoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnUE9SVCc6ICc1NDMyJwo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
