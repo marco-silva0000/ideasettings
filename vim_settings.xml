@@ -41,7 +41,7 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.html" timestamp="1531222753977">
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.html" timestamp="1531302881190">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
@@ -128,11 +128,10 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/build/lib.linux-x86_64-2.7/apps/sprinklers/tasks.py" timestamp="1531244124338" />
-      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531300608998">
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="32" column="53" />
-        <mark key="." line="32" column="53" />
-        <mark key="^" line="32" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531304081501">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531221614605">
         <mark key="[" line="12" column="16" />
@@ -1289,7 +1288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>intermediate</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1318,7 +1317,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>intermediate</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1337,7 +1336,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHRvdWNoIGRldi9kZWJ1Zy5sb2cK</text>
+        <text encoding="base64">Q09QWSAtLWZyb209aW50ZXJtZWRpYXRlIC9wcm9qZWN0cyAvcHJvamVjdHMK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1390,22 +1389,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209aW50ZXJtZWRpYXRlIC9wcm9qZWN0cyAvcHJvamVjdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTiA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVJHIFBZVEhPTgo=</text>
+        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgZ2RhbC1iaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">anNvbi5sb2FkcygnJylbJ3ZlcnNpb24nXQo=</text>
+        <text encoding="base64">c3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgcHBhOnVidW50dWdpcy11bnN0YWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ImM0OTkyNTYiID0ge3BhdGggPSAiL3Byb2plY3RzL2NvcmUiLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
+        <text encoding="base64">UlVOIHN1ZG8gYXB0LWdldCBpbnN0YWxsIGJpbnV0aWxzIGxpYnByb2otZGV2IGdkYWwtYmluCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IjQxNzE3MWUiID0ge3BhdGggPSAiLi4vc2ltb2MtcGx1cy8iLCBlZGl0YWJsZSA9IHRydWV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1414,7 +1413,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFBZVEhPTiA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
