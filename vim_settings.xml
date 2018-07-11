@@ -43,12 +43,17 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531328342728">
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531328497145">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="90" column="17" />
-        <mark key="]" line="90" column="17" />
-        <mark key="^" line="90" column="23" />
+        <mark key="]" line="90" column="23" />
+        <mark key="^" line="89" column="16" />
         <mark key="." line="90" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/webpack.config.js" timestamp="1531328567493">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="/Django Console" timestamp="1531325252652">
         <mark key="[" line="0" column="0" />
@@ -139,7 +144,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531328200298">
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531329140770">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="20" column="25" />
         <mark key="^" line="20" column="25" />
@@ -1306,7 +1311,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1335,7 +1340,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1344,7 +1349,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>front</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1438,9 +1443,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>front</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>front</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1448,9 +1453,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnYWJsZV9lcXVpcG1lbnRfZGF0YXNcPg==</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry>willraise</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</entry>
         <entry encoding="base64">XDxNb2NrXD4=</entry>
@@ -1468,6 +1470,9 @@
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxSb290Vmlld1w+</entry>
         <entry>static</entry>
+        <entry>frontend</entry>
+        <entry>frotn</entry>
+        <entry>front</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
