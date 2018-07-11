@@ -43,12 +43,12 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531328109100">
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531328342728">
         <mark key="'" line="38" column="20" />
-        <mark key="[" line="151" column="33" />
-        <mark key="]" line="151" column="41" />
-        <mark key="^" line="151" column="41" />
-        <mark key="." line="151" column="41" />
+        <mark key="[" line="90" column="17" />
+        <mark key="]" line="90" column="17" />
+        <mark key="^" line="90" column="23" />
+        <mark key="." line="90" column="17" />
       </file>
       <file name="/Django Console" timestamp="1531325252652">
         <mark key="[" line="0" column="0" />
@@ -127,17 +127,23 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1531328283350">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531328020508">
         <mark key="[" line="51" column="35" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531325201473">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531328200298">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531323909238">
         <mark key="[" line="3" column="0" />
@@ -1300,7 +1306,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>post</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1329,7 +1335,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>post</text>
       </register>
       <register name="m" type="4">
         <keys>
