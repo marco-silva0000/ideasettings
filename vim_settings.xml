@@ -15,11 +15,11 @@
         <mark key="]" line="45" column="14" />
         <mark key="." line="45" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/urls.py" timestamp="1531222882919">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/urls.py" timestamp="1531321763626">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientList.jsx" timestamp="1531129131968">
         <mark key="[" line="32" column="50" />
@@ -54,11 +54,12 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531318377714">
-        <mark key="[" line="89" column="17" />
-        <mark key="]" line="89" column="23" />
-        <mark key="." line="89" column="23" />
-        <mark key="^" line="89" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531321748361">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="141" column="36" />
+        <mark key="]" line="141" column="45" />
+        <mark key="." line="141" column="45" />
+        <mark key="^" line="141" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1531151591077">
         <mark key="'" line="781" column="25" />
@@ -132,17 +133,21 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/run-compose.sh" timestamp="1531321963705">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531319719137">
         <mark key="[" line="37" column="67" />
         <mark key="]" line="37" column="69" />
         <mark key="^" line="37" column="69" />
         <mark key="." line="37" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531221614605">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531321912628">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="33" column="34" />
+        <mark key="." line="33" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" timestamp="1531151677844">
         <mark key="'" line="273" column="89" />
@@ -164,10 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="175" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="155" column="25" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_devices/tests.py" />
-      <jump line="12" column="32" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="2" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="20" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="31" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
@@ -264,6 +265,10 @@
       <jump line="7" column="41" filename="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" />
       <jump line="14" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" />
       <jump line="1" column="9" filename="$USER_HOME$/PycharmProjects/simoc-plus/setup.py" />
+      <jump line="80" column="45" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
+      <jump line="136" column="47" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
+      <jump line="138" column="15" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
+      <jump line="38" column="20" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1299,7 +1304,11 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>abmira</text>
+        <text>export SSH_PRIVATE_KEY=&quot;$( cat ~/.ssh/id_rsa )&quot; 
+export SSH_PUBLIC_KEY=&quot;$( cat ~/.ssh/id_rsa.pub )&quot;
+docker-compose up $@
+unset SSH_PRIVATE_KEY
+unset SSH_PUBLIC_KEY</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1328,7 +1337,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>abmira</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1337,7 +1346,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSb290Vmlld1w+</text>
+        <text>static</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1346,14 +1355,18 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209ZWNhcnJhcmEvcHl0aG9uLWdkYWwgL3Vzci9saWIvcGtnY29uZmlnL2dkYWwqIC91c3IvbGliL3BrZ2NvbmZpZy8K</text>
+      <register name="0" type="4">
+        <text>export SSH_PRIVATE_KEY=&quot;$( cat ~/.ssh/id_rsa )&quot; 
+export SSH_PUBLIC_KEY=&quot;$( cat ~/.ssh/id_rsa.pub )&quot;
+docker-compose up $@
+unset SSH_PRIVATE_KEY
+unset SSH_PUBLIC_KEY</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1400,40 +1413,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnUE9SVCc6ICc1NDMyJwo=</text>
+        <text encoding="base64">ICAgICcvdmFyL3d3dy9zdGF0aWMvJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnSE9TVCc6ICdsb2NhbGhvc3QnLAo=</text>
+        <text encoding="base64">ICAgICAgLSB0ZW1wbGF0ZTovY29kZS90ZW1wbGF0ZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnUEFTU1dPUkQnOiAnMXEydzNlNHInLAo=</text>
+        <text encoding="base64">ICBhbmd1bGFyLW91dHB1dDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnVVNFUic6ICdzaW1vY3BsdXNfdXNlcicsCg==</text>
+        <text encoding="base64">ICBhbmd1bGFyLXZlbmRvcjoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnTkFNRSc6ICdsaW5vZGUnLAo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsX3BzeWNvcGcyJywK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdkZWZhdWx0Jzogewo=</text>
+        <text encoding="base64">ICAgICAgICAnUE9SVCc6ICc1NDMyJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSb290Vmlld1w+</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSb290Vmlld1w+</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1441,7 +1454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>not active(</entry>
         <entry encoding="base64">XDxsb2dnYWJsZV9lcXVpcG1lbnRfZGF0YXNcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>willraise</entry>
@@ -1461,6 +1473,7 @@
         <entry>common</entry>
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxSb290Vmlld1w+</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
@@ -1480,8 +1493,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
