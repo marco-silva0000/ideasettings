@@ -85,7 +85,6 @@
         <mark key="." line="115" column="26" />
         <mark key="^" line="115" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/apps/sprinklers/tasks.py" timestamp="1531297459533" />
       <file name="/Dummy.txt" timestamp="1531217930329">
         <mark key="a" line="0" column="5" />
         <mark key="[" line="0" column="0" />
@@ -127,12 +126,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/build/lib.linux-x86_64-2.7/apps/sprinklers/tasks.py" timestamp="1531244124338" />
-      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531310883500">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="32" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531317397763">
+        <mark key="[" line="37" column="67" />
+        <mark key="]" line="37" column="69" />
+        <mark key="^" line="37" column="69" />
+        <mark key="." line="37" column="69" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531221614605">
         <mark key="[" line="12" column="16" />
@@ -1288,8 +1286,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ecarrara/python-gdal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09QWSAtLWZyb209Z2VvZGF0YS9nZGFsIC91c3IvaW5jbHVkZS9nZGFsKiAvdXNyL2luY2x1ZGUvCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1343,7 +1341,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209Z2VvZGF0YS9nZGFsIC91c3IvaW5jbHVkZS9nZGFsKiAvdXNyL2luY2x1ZGUvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1390,31 +1388,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209aW50ZXJtZWRpYXRlIC9wcm9qZWN0cyAvcHJvamVjdHMK</text>
+        <text encoding="base64">Q09QWSAtLWZyb209Z2VvZGF0YS9nZGFsIC91c3Ivc2hhcmUvZ2RhbCAvdXNyL3NoYXJlL2dkYWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209aW50ZXJtZWRpYXRlIC9wcm9qZWN0cyAvcHJvamVjdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgZ2RhbC1iaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgcHBhOnVidW50dWdpcy11bnN0YWJsZQo=</text>
+        <text encoding="base64">Q09QWSAtLWZyb209aW50ZXJtZWRpYXRlIC9wcm9qZWN0cyAvcHJvamVjdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHN1ZG8gYXB0LWdldCBpbnN0YWxsIGJpbnV0aWxzIGxpYnByb2otZGV2IGdkYWwtYmluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgZ2RhbC1iaW4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgcHBhOnVidW50dWdpcy11bnN0YWJsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTiA9IAo=</text>
+        <text encoding="base64">UlVOIHN1ZG8gYXB0LWdldCBpbnN0YWxsIGJpbnV0aWxzIGxpYnByb2otZGV2IGdkYWwtYmluCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
