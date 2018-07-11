@@ -144,17 +144,17 @@
         <mark key="^" line="37" column="69" />
         <mark key="." line="37" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531322951612">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="15" />
-        <mark key="^" line="39" column="15" />
-        <mark key="." line="39" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531324596891">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531321996329">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531323909238">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" timestamp="1531151677844">
         <mark key="'" line="273" column="89" />
@@ -168,11 +168,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531319769216">
+      <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531323889399">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="136" />
+        <mark key="]" line="0" column="58" />
         <mark key="^" line="1" column="136" />
-        <mark key="." line="1" column="136" />
+        <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -1311,7 +1311,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>angular</text>
+        <text>-frontend</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1340,7 +1340,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>angular</text>
+        <text>-frontend</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1358,18 +1358,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>export SSH_PRIVATE_KEY=&quot;$( cat ~/.ssh/id_rsa )&quot; 
-export SSH_PUBLIC_KEY=&quot;$( cat ~/.ssh/id_rsa.pub )&quot;
-docker-compose up $@
-unset SSH_PRIVATE_KEY
-unset SSH_PUBLIC_KEY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiByZWdhbnRlcy1mcm9udGVuZDokQlJBTkNICg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0iJCggY2F0IH4vLnNzaC9pZF9yc2EucHViICkiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1416,31 +1412,31 @@ unset SSH_PUBLIC_KEY</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICcvdmFyL3d3dy9zdGF0aWMvJywK</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSB0ZW1wbGF0ZTovY29kZS90ZW1wbGF0ZXMK</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmd1bGFyLW91dHB1dDoK</text>
+        <text encoding="base64">ICAgICcvdmFyL3d3dy9zdGF0aWMvJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmd1bGFyLXZlbmRvcjoK</text>
+        <text encoding="base64">ICAgICAgLSB0ZW1wbGF0ZTovY29kZS90ZW1wbGF0ZXMK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhbmd1bGFyLW91dHB1dDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICBhbmd1bGFyLXZlbmRvcjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
