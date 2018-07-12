@@ -15,6 +15,11 @@
         <mark key="]" line="45" column="14" />
         <mark key="." line="45" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/urls.py" timestamp="1531389352290">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientList.jsx" timestamp="1531129131968">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="32" column="50" />
@@ -43,12 +48,12 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531328497145">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="90" column="17" />
-        <mark key="]" line="90" column="23" />
-        <mark key="^" line="89" column="16" />
-        <mark key="." line="90" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531389332749">
+        <mark key="'" line="91" column="28" />
+        <mark key="[" line="66" column="41" />
+        <mark key="]" line="66" column="49" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="66" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/webpack.config.js" timestamp="1531328567493">
         <mark key="[" line="13" column="35" />
@@ -143,11 +148,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531388223966">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531390249517">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="24" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531323909238">
         <mark key="[" line="3" column="0" />
@@ -162,6 +167,12 @@
         <mark key="." line="273" column="50" />
         <mark key="^" line="273" column="50" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/templates/index.html" timestamp="1531389513481">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" timestamp="1531222835202">
         <mark key="'" line="7" column="41" />
         <mark key="[" line="12" column="0" />
@@ -175,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="20" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="31" column="53" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
       <jump line="39" column="24" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/client.py" />
@@ -275,6 +285,7 @@
       <jump line="136" column="47" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
       <jump line="138" column="15" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
       <jump line="38" column="20" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
+      <jump line="91" column="28" filename="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1348,7 +1359,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>front</text>
+        <text>TEMP</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1358,7 +1369,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC92YXIvbG9nL2Z1bGd1cml0LwpSVU4gdG91Y2ggL3Zhci9sb2cvZnVsZ3VyaXQvZGVidWcubG9nClJVTiB0b3VjaCAvdmFyL2xvZy9mdWxndXJpdC9wbGMubG9nCg==</text>
+        <text encoding="base64">ICAgICAgLSAuOi9jb2RlCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1442,9 +1453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>front</last-search>
+      <last-search>TEMP</last-search>
       <last-offset />
-      <last-pattern>front</last-pattern>
+      <last-pattern>TEMP</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1452,7 +1463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</entry>
         <entry encoding="base64">XDxNb2NrXD4=</entry>
         <entry encoding="base64">XDxNZXRlclw+</entry>
@@ -1472,6 +1482,7 @@
         <entry>frontend</entry>
         <entry>frotn</entry>
         <entry>front</entry>
+        <entry>TEMP</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
