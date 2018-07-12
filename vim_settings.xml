@@ -48,12 +48,12 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531389332749">
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531391191270">
         <mark key="'" line="91" column="28" />
-        <mark key="[" line="66" column="41" />
-        <mark key="]" line="66" column="49" />
-        <mark key="^" line="66" column="49" />
-        <mark key="." line="66" column="49" />
+        <mark key="[" line="141" column="37" />
+        <mark key="]" line="141" column="46" />
+        <mark key="^" line="141" column="46" />
+        <mark key="." line="141" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/webpack.config.js" timestamp="1531328567493">
         <mark key="[" line="13" column="35" />
@@ -136,11 +136,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1531388018368">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1531391121684">
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531328020508">
         <mark key="[" line="51" column="35" />
@@ -148,11 +148,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531390249517">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="9" />
-        <mark key="." line="24" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531391357932">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531323909238">
         <mark key="[" line="3" column="0" />
@@ -1321,7 +1321,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>templates</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1350,7 +1350,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>templates</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1369,13 +1369,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAuOi9jb2RlCg==</text>
+        <text encoding="base64">ICAgICJzdG9yeWJvb2siOiAic3RhcnQtc3Rvcnlib29rIC1zIC4vbm9kZV9tb2R1bGVzIC1wIDYwMDYiLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIGRldgpSVU4gdG91Y2ggL2NvZGUvZGV2L2RlYnVnLmxvZwpSVU4gdG91Y2ggL2NvZGUvZGV2L3BsYy5sb2cKUlVOIHRvdWNoIC9jb2RlL2Rldi9pbmZvLmxvZwo=</text>
+        <text encoding="base64">ICAgICJidWlsZC1zdG9yeWJvb2siOiAiYnVpbGQtc3Rvcnlib29rIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1422,31 +1422,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZW5kOgo=</text>
+        <text encoding="base64">UlVOIG1rZGlyIGRldgpSVU4gdG91Y2ggL2NvZGUvZGV2L2RlYnVnLmxvZwpSVU4gdG91Y2ggL2NvZGUvZGV2L3BsYy5sb2cKUlVOIHRvdWNoIC9jb2RlL2Rldi9pbmZvLmxvZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBiYWNrZW5kOi46L2NvZGUK</text>
+        <text encoding="base64">ICBiYWNrZW5kOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0iJCggY2F0IH4vLnNzaC9pZF9yc2EucHViICkiCg==</text>
+        <text encoding="base64">ICAgICAgLSBiYWNrZW5kOi46L2NvZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0iJCggY2F0IH4vLnNzaC9pZF9yc2EucHViICkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICcvdmFyL3d3dy9zdGF0aWMvJywK</text>
+        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
