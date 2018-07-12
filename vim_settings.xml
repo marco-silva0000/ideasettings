@@ -48,12 +48,12 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531391191270">
+      <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1531392665701">
         <mark key="'" line="91" column="28" />
-        <mark key="[" line="141" column="37" />
-        <mark key="]" line="141" column="46" />
-        <mark key="^" line="141" column="46" />
-        <mark key="." line="141" column="46" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="140" column="53" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/webpack.config.js" timestamp="1531328567493">
         <mark key="[" line="13" column="35" />
@@ -148,11 +148,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531391357932">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="37" />
-        <mark key="^" line="36" column="37" />
-        <mark key="." line="36" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531392740501">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockercompose.sh" timestamp="1531323909238">
         <mark key="[" line="3" column="0" />
@@ -1320,8 +1320,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>templates</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9zLnBhdGguam9pbihCQVNFX0RJUiwgImZyb250ZW5kL2Rpc3QiKSwK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1350,7 +1350,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>templates</text>
+        <text>dist</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1359,7 +1359,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>TEMP</text>
+        <text>fort</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1368,14 +1368,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdG9yeWJvb2siOiAic3RhcnQtc3Rvcnlib29rIC1zIC4vbm9kZV9tb2R1bGVzIC1wIDYwMDYiLAo=</text>
+      <register name="0" type="4">
+        <text>static_dev</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1zdG9yeWJvb2siOiAiYnVpbGQtc3Rvcnlib29rIgo=</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguam9pbihCQVNFX0RJUiwgImZyb250ZW5kL2Rpc3QiKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1422,40 +1422,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIGRldgpSVU4gdG91Y2ggL2NvZGUvZGV2L2RlYnVnLmxvZwpSVU4gdG91Y2ggL2NvZGUvZGV2L3BsYy5sb2cKUlVOIHRvdWNoIC9jb2RlL2Rldi9pbmZvLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgLSAuL2Zyb3RuZW5kL3N0YXRpY19kZXY6L2NvZGUvZnJvbnRlbmQvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZW5kOgo=</text>
+        <text encoding="base64">ICAgICJidWlsZC1zdG9yeWJvb2siOiAiYnVpbGQtc3Rvcnlib29rIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBiYWNrZW5kOi46L2NvZGUK</text>
+        <text encoding="base64">UlVOIG1rZGlyIGRldgpSVU4gdG91Y2ggL2NvZGUvZGV2L2RlYnVnLmxvZwpSVU4gdG91Y2ggL2NvZGUvZGV2L3BsYy5sb2cKUlVOIHRvdWNoIC9jb2RlL2Rldi9pbmZvLmxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0iJCggY2F0IH4vLnNzaC9pZF9yc2EucHViICkiCg==</text>
+        <text encoding="base64">ICBiYWNrZW5kOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBiYWNrZW5kOi46L2NvZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0iJCggY2F0IH4vLnNzaC9pZF9yc2EucHViICkiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLW91dHB1dDovY29kZS9mcm9udGVuZC9zdGF0aWMvb3V0cHV0OnJvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBhbmd1bGFyLXRlbXBsYXRlczovY29kZS9mcm9udGVuZC9hcHAvdGVtcGxhdGVzOnJvCg==</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TEMP</last-search>
+      <last-search>fort</last-search>
       <last-offset />
-      <last-pattern>TEMP</last-pattern>
+      <last-pattern>fort</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1463,7 +1463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc19kdXBsaWNhdGVcPg==</entry>
         <entry encoding="base64">XDxNb2NrXD4=</entry>
         <entry encoding="base64">XDxNZXRlclw+</entry>
         <entry encoding="base64">XDxtZXRlclw+</entry>
@@ -1483,6 +1482,7 @@
         <entry>frotn</entry>
         <entry>front</entry>
         <entry>TEMP</entry>
+        <entry>fort</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
