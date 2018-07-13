@@ -114,6 +114,12 @@
         <mark key="." line="75" column="40" />
         <mark key="^" line="75" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531496471370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/CreateTableBuilding.jsx" timestamp="1531130541963">
         <mark key="[" line="137" column="84" />
         <mark key="]" line="137" column="84" />
@@ -122,6 +128,12 @@
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/Dockerfile" timestamp="1531219657159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="56" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1531496267714">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+        <mark key="^" line="0" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitlab-ci.yml" timestamp="1531223348152">
         <mark key="[" line="150" column="0" />
@@ -193,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="1" column="62" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/test.py" />
       <jump line="84" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
@@ -293,6 +304,7 @@
       <jump line="8" column="128" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/partials/meteringHistory.html" />
       <jump line="17" column="118" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" />
       <jump line="440" column="37" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1327,8 +1339,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>transitive-bullshit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1357,7 +1369,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>transitive-bullshit</text>
+        <text>y</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1376,13 +1388,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>static_dev</text>
+        <text>AutoCompleteSelec</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguam9pbihCQVNFX0RJUiwgImZyb250ZW5kL2Rpc3QiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1429,31 +1441,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2Zyb3RuZW5kL3N0YXRpY19kZXY6L2NvZGUvZnJvbnRlbmQvCg==</text>
+        <text encoding="base64">LyoqCiAqIEBjbGFzcyBFeGFtcGxlQ29tcG9uZW50CiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1zdG9yeWJvb2siOiAiYnVpbGQtc3Rvcnlib29rIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIGRldgpSVU4gdG91Y2ggL2NvZGUvZGV2L2RlYnVnLmxvZwpSVU4gdG91Y2ggL2NvZGUvZGV2L3BsYy5sb2cKUlVOIHRvdWNoIC9jb2RlL2Rldi9pbmZvLmxvZwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgRXhhbXBsZUNvbXBvbmVudCBleHRlbmRzIENvbXBvbmVudCB7CiAgc3RhdGljIHByb3BUeXBlcyA9IHsKICAgIHRleHQ6IFByb3BUeXBlcy5zdHJpbmcKICB9CgogIHJlbmRlcigpIHsKICAgIGNvbnN0IHsKICAgICAgdGV4dAogICAgfSA9IHRoaXMucHJvcHMKCiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnRlc3R9PgogICAgICAgIEV4YW1wbGUgQ29tcG9uZW50OiB7dGV4dH0KICAgICAgPC9kaXY+CiAgICApCiAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZW5kOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBiYWNrZW5kOi46L2NvZGUK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3N0eWxlcy5jc3MnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0iJCggY2F0IH4vLnNzaC9pZF9yc2EucHViICkiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
