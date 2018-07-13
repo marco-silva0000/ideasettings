@@ -20,6 +20,9 @@
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" timestamp="1531492211198">
+        <mark key="'" line="17" column="118" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/locales/pt-pt/common.json" timestamp="1531150401413">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -160,6 +163,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" timestamp="1531492244180">
+        <mark key="'" line="440" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" timestamp="1531151677844">
         <mark key="'" line="273" column="89" />
         <mark key="[" line="273" column="81" />
@@ -179,11 +185,6 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/urls.py" timestamp="1531222835202">
-        <mark key="'" line="7" column="41" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="35" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531326042655">
         <mark key="[" line="1" column="137" />
         <mark key="]" line="1" column="143" />
@@ -192,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="51" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/lora_controller.py" />
-      <jump line="65" column="102" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="74" column="37" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="1" column="62" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/test.py" />
       <jump line="84" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
@@ -292,6 +291,8 @@
       <jump line="6" column="68" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/partials/meteringHistory.html" />
       <jump line="7" column="121" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/partials/meteringHistory.html" />
       <jump line="8" column="128" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/partials/meteringHistory.html" />
+      <jump line="17" column="118" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" />
+      <jump line="440" column="37" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
