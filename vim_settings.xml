@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" timestamp="1531492211198">
         <mark key="'" line="17" column="118" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1532339081172">
+        <mark key="[" line="40" column="66" />
+        <mark key="]" line="40" column="67" />
+        <mark key="." line="40" column="66" />
+        <mark key="^" line="40" column="89" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="1" column="135" />
         <mark key="]" line="1" column="143" />
@@ -54,10 +60,10 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="39" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531758861831">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
+      <file name="/Dummy.txt" timestamp="1531763284838">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/main/main/partials/meteringHistory.html" timestamp="1531492011802">
@@ -113,7 +119,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1531753683780" />
       <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" timestamp="1531493672413">
         <mark key="'" line="440" column="37" />
       </file>
@@ -1272,7 +1277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DatePicker</text>
+        <text>t</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1301,7 +1306,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>DatePicker</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1320,7 +1325,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gJy4vRGF0ZVBpY2tlcldyYXBwZXInOwo=</text>
+        <text encoding="base64">ICAgICJmdWxndXJpdC1yZWdhbnRlcyI6ICJnaXQrc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMuZ2l0IzAuMC43IiwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
