@@ -6,7 +6,8 @@
       <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" timestamp="1531492211198">
         <mark key="'" line="17" column="118" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1532339081172">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1532344159262">
+        <mark key="'" line="40" column="17" />
         <mark key="[" line="40" column="66" />
         <mark key="]" line="40" column="67" />
         <mark key="." line="40" column="66" />
@@ -140,6 +141,12 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532344003945">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+        <mark key="^" line="27" column="51" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531326042655">
         <mark key="[" line="1" column="137" />
         <mark key="]" line="1" column="143" />
@@ -148,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="62" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/test.py" />
       <jump line="84" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="101" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
@@ -248,6 +254,7 @@
       <jump line="17" column="118" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/urls.py" />
       <jump line="440" column="37" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" />
+      <jump line="40" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1283,7 +1290,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>../reusable_components/AutoCompleteSelect.jsx</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1312,7 +1319,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>../reusable_components/AutoCompleteSelect.jsx</text>
       </register>
       <register name="m" type="4">
         <keys>
