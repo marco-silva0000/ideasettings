@@ -125,6 +125,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1532445858118">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" timestamp="1531493672413">
         <mark key="'" line="440" column="37" />
       </file>
@@ -140,7 +145,6 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/events/tests.py" timestamp="1532363587528" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="27" column="51" />
@@ -1289,8 +1293,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSB+Ly5kb2NrZXJfdmlydHVhbGVudnM6L3Jvb3QvLmxvY2FsL3NoYXJlL3ZpcnR1YWxlbnZzCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1319,7 +1323,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1338,13 +1342,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1yZWdhbnRlcyI6ICJnaXQrc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMuZ2l0IzAuMC43IiwK</text>
+        <text encoding="base64">ICAgICAgLSAuOi9jb2RlCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSB+Ly5kb2NrZXJfdmlydHVhbGVudnM6L3Jvb3QvLmxvY2FsL3NoYXJlL3ZpcnR1YWxlbnZzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1391,31 +1395,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBjbGFzcyBFeGFtcGxlQ29tcG9uZW50CiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBjbGFzcyBFeGFtcGxlQ29tcG9uZW50CiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgRXhhbXBsZUNvbXBvbmVudCBleHRlbmRzIENvbXBvbmVudCB7CiAgc3RhdGljIHByb3BUeXBlcyA9IHsKICAgIHRleHQ6IFByb3BUeXBlcy5zdHJpbmcKICB9CgogIHJlbmRlcigpIHsKICAgIGNvbnN0IHsKICAgICAgdGV4dAogICAgfSA9IHRoaXMucHJvcHMKCiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnRlc3R9PgogICAgICAgIEV4YW1wbGUgQ29tcG9uZW50OiB7dGV4dH0KICAgICAgPC9kaXY+CiAgICApCiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgRXhhbXBsZUNvbXBvbmVudCBleHRlbmRzIENvbXBvbmVudCB7CiAgc3RhdGljIHByb3BUeXBlcyA9IHsKICAgIHRleHQ6IFByb3BUeXBlcy5zdHJpbmcKICB9CgogIHJlbmRlcigpIHsKICAgIGNvbnN0IHsKICAgICAgdGV4dAogICAgfSA9IHRoaXMucHJvcHMKCiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnRlc3R9PgogICAgICAgIEV4YW1wbGUgQ29tcG9uZW50OiB7dGV4dH0KICAgICAgPC9kaXY+CiAgICApCiAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3N0eWxlcy5jc3MnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3N0eWxlcy5jc3MnCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
