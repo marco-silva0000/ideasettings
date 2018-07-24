@@ -3,18 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/models.py" timestamp="1532453821598">
+        <mark key="'" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/urls.py" timestamp="1532449197504">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="15" />
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1532344159262">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="40" column="66" />
-        <mark key="]" line="40" column="67" />
-        <mark key="." line="40" column="66" />
-        <mark key="^" line="40" column="89" />
       </file>
       <file name="/manage.py@regantes" timestamp="1532448618019">
         <mark key="[" line="0" column="0" />
@@ -37,13 +33,22 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingList.jsx" timestamp="1532453532515">
+        <mark key="'" line="107" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
         <mark key="]" line="66" column="0" />
         <mark key="^" line="66" column="53" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingLandingPage.jsx" timestamp="1532447332958" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingLandingPage.jsx" timestamp="1532453374324">
+        <mark key="'" line="78" column="17" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="31" />
+      </file>
       <file name="/Django Console" timestamp="1532448841726">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,6 +90,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="58" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="12" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531497160476">
         <mark key="[" line="0" column="67" />
@@ -136,14 +147,15 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/api.py" timestamp="1532449673804">
+      <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/api.py" timestamp="1532453574085">
+        <mark key="'" line="56" column="33" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1532450281605">
-        <mark key="[" line="48" column="81" />
-        <mark key="]" line="48" column="87" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1532453133522">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="89" />
         <mark key="^" line="48" column="87" />
         <mark key="." line="48" column="87" />
       </file>
@@ -173,10 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
-      <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
-      <jump line="101" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
-      <jump line="103" column="12" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="90" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="91" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
       <jump line="92" column="8" filename="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/com_manager/ThingParkDXAPI/models.py" />
@@ -273,6 +281,10 @@
       <jump line="440" column="37" filename="$USER_HOME$/PycharmProjects/fulgurit_metering/metering/api.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" />
       <jump line="40" column="17" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
+      <jump line="78" column="17" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingLandingPage.jsx" />
+      <jump line="107" column="32" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingList.jsx" />
+      <jump line="56" column="33" filename="$USER_HOME$/PycharmProjects/regantes/irrigators/api.py" />
+      <jump line="13" column="17" filename="$USER_HOME$/PycharmProjects/regantes/irrigators/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1308,7 +1320,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>docker_postgres</text>
+        <text>name</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1337,7 +1349,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>docker_postgres</text>
+        <text>name</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1346,7 +1358,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93RXhwb3J0XD4=</text>
+        <text>BuildingList.props</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1356,13 +1368,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICBmZXRjaEJ1aWxkaW5ncyA9ICgpID0+IHsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1409,19 +1421,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdURVNUIFBPUy1GRVRDSCcpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSB+Ly5kb2NrZXJfdmlydHVhbGVudnM6L3Jvb3QvLmxvY2FsL3NoYXJlL3ZpcnR1YWxlbnZzCg==</text>
+        <text encoding="base64">ICAgIGdldEIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHJlc3BvbnNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEBjbGFzcyBFeGFtcGxlQ29tcG9uZW50CiAqLwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdURVNUIFBPUy1GRVRDSCcpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1430,7 +1442,7 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgRXhhbXBsZUNvbXBvbmVudCBleHRlbmRzIENvbXBvbmVudCB7CiAgc3RhdGljIHByb3BUeXBlcyA9IHsKICAgIHRleHQ6IFByb3BUeXBlcy5zdHJpbmcKICB9CgogIHJlbmRlcigpIHsKICAgIGNvbnN0IHsKICAgICAgdGV4dAogICAgfSA9IHRoaXMucHJvcHMKCiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnRlc3R9PgogICAgICAgIEV4YW1wbGUgQ29tcG9uZW50OiB7dGV4dH0KICAgICAgPC9kaXY+CiAgICApCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgLSB+Ly5kb2NrZXJfdmlydHVhbGVudnM6L3Jvb3QvLmxvY2FsL3NoYXJlL3ZpcnR1YWxlbnZzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1440,9 +1452,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93RXhwb3J0XD4=</last-search>
+      <last-search>BuildingList.props</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93RXhwb3J0XD4=</last-pattern>
+      <last-pattern>BuildingList.props</last-pattern>
       <last-replace>EquipmentDataWriteAction</last-replace>
       <last-substitute>RemoteControlAction</last-substitute>
       <last-dir>1</last-dir>
@@ -1450,7 +1462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXRlclw+</entry>
         <entry encoding="base64">XDxxdWVyeV9wYXJhbXNfY29uc3RydWN0b3JcPg==</entry>
         <entry encoding="base64">XDxmb3JtYXRfc3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
@@ -1470,6 +1481,7 @@
         <entry>fort</entry>
         <entry>export</entry>
         <entry encoding="base64">XDxzaG93RXhwb3J0XD4=</entry>
+        <entry>BuildingList.props</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber=rnu</entry>
