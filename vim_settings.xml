@@ -104,7 +104,6 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/.gitignore" timestamp="1532450918143" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitlab-ci.yml" timestamp="1531223348152">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="3" column="10" />
@@ -117,19 +116,17 @@
         <mark key="." line="0" column="66" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/docker-compose.yml" timestamp="1532448944100" />
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1532447404713" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1532446973774">
         <mark key="[" line="10" column="54" />
         <mark key="]" line="10" column="54" />
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532516572495">
-        <mark key="[" line="60" column="79" />
-        <mark key="]" line="60" column="79" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="15" />
         <mark key="^" line="60" column="79" />
-        <mark key="." line="60" column="79" />
+        <mark key="." line="54" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531328020508">
         <mark key="[" line="51" column="35" />
@@ -1321,7 +1318,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>icarus.fulgurit.eu</text>
+        <text>/home/gmestre/fulgurit_regantes/</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1350,7 +1347,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>icarus.fulgurit.eu</text>
+        <text>/home/gmestre/fulgurit_regantes/</text>
       </register>
       <register name="m" type="4">
         <keys>
