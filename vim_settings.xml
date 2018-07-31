@@ -86,10 +86,10 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533048121280">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="/Dummy.txt" timestamp="1533049341729">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
@@ -167,6 +167,12 @@
         <mark key="]" line="31" column="2" />
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registrationMap.jsx" timestamp="1533049230187">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="15" column="55" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/templates/index.html" timestamp="1531389513481">
         <mark key="[" line="7" column="13" />
@@ -1328,8 +1334,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>backend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGVzdCBob29rCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1358,7 +1364,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>backend</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1383,7 +1389,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCBob29rCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1430,28 +1436,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVHlwb2dyYXBoeScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldEIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdURVNUIFBPUy1GRVRDSCcpCg==</text>
+        <text encoding="base64">ICAgIGdldEIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHJlc3BvbnNlKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSB+Ly5kb2NrZXJfdmlydHVhbGVudnM6L3Jvb3QvLmxvY2FsL3NoYXJlL3ZpcnR1YWxlbnZzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdURVNUIFBPUy1GRVRDSCcpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
