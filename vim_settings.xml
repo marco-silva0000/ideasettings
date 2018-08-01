@@ -149,11 +149,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533124145847">
-        <mark key="[" line="78" column="15" />
-        <mark key="]" line="78" column="16" />
-        <mark key="." line="78" column="16" />
-        <mark key="^" line="78" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533124272573">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -211,11 +211,11 @@
         <mark key="." line="27" column="51" />
         <mark key="^" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533124002425">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="8" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533125589919">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531326042655">
         <mark key="[" line="1" column="137" />
@@ -1359,8 +1359,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>build-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pLAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1389,7 +1389,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>build-</text>
+        <text>globals</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1414,7 +1414,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1461,31 +1461,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAncmVhY3QtZG9tJzogJ1JlYWN0RE9NJywK</text>
+        <text encoding="base64">ICAgICAgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzogSlNPTi5zdHJpbmdpZnkoJ2RldmVsb3BtZW50JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGxhY2Uoewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbW9kdWxlczogdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEIK</text>
+        <text encoding="base64">ICAgIHBvc3Rjc3Moewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Ly8gICAgImJ1aWxkIjogIndlYnBhY2sgLS1tb2RlIHByb2R1Y3Rpb24iLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdURVNUIFBPUy1GRVRDSCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAncmVhY3QtZG9tJzogJ1JlYWN0RE9NJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
