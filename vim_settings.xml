@@ -9,7 +9,6 @@
         <mark key="." line="45" column="48" />
         <mark key="^" line="44" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/app/package.json" timestamp="1533226440508" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" timestamp="1533225894225">
         <mark key="'" line="25230" column="17" />
       </file>
@@ -18,7 +17,6 @@
         <mark key="]" line="66" column="23" />
         <mark key="." line="66" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1533226424829" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/newRegistrationDialog.jsx" timestamp="1533225625838">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="23" />
@@ -54,12 +52,12 @@
         <mark key="]" line="48" column="39" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533226711365">
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533228199255">
         <mark key="'" line="31" column="52" />
         <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="52" />
-        <mark key="^" line="16" column="27" />
+        <mark key="]" line="31" column="53" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/RegisterLandingPage.jsx" timestamp="1533225644438">
         <mark key="[" line="39" column="18" />
@@ -72,7 +70,6 @@
         <mark key="]" line="59" column="19" />
         <mark key="." line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/index.js" timestamp="1533226679890" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533224924582">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="32" />
@@ -92,8 +89,8 @@
       <jump line="31" column="52" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBleGFtcGxlQ2xpZW50cyA9IGltcG9ydCgoJy4uLy4uLy4uL3N0b3JpZXMvZGF0YS9leGFtcGxlQ2xpZW50cy5qc29uJykpCiAgICByZXR1cm4gZXhhbXBsZUNsaWVudHNbMV0ucmVnaXN0cmllcwo=</text>
+      <register name="0" type="4">
+        <text>IrrigatorsLandingPage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
