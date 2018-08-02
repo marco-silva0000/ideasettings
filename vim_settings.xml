@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" timestamp="1533221605450">
-        <mark key="'" line="6" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" timestamp="1533224730646">
+        <mark key="'" line="26614" column="2" />
       </file>
       <file name="/Django Console" timestamp="1533197890811">
         <mark key="[" line="0" column="0" />
@@ -12,46 +12,54 @@
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1533221696984">
         <mark key="^" line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533222103260">
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="10" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533224924582">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
     </filemarks>
     <jumps>
       <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
+      <jump line="25276" column="6" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
+      <jump line="26488" column="6" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
+      <jump line="26614" column="2" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>'../../../stories/data/exampleClients.json'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAqIGFzIGJ1aWxkaW5ncyBmcm9tICcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicK</text>
+        <text encoding="base64">ICAgICAganNvbih7cHJlZmVyQ29uc3Q6IHRydWUsfSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>node_modules</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAganNvbih7cHJlZmVyQ29uc3Q6IHRydWUsfSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCAqIGFzIGJ1aWxkaW5ncyBmcm9tICcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>node_modules</text>
+        <text encoding="base64">ICBpbmNsdWRlOiAnc3Rvcmllcy8qKics</text>
       </register>
       <register name="/" type="4">
-        <text>exampleClients</text>
+        <text>example</text>
       </register>
     </registers>
     <search>
-      <last-search>exampleClients</last-search>
+      <last-search>example</last-search>
       <last-offset />
-      <last-pattern>exampleClients</last-pattern>
+      <last-pattern>example</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>exampleClients</entry>
+        <entry encoding="base64">XDxzdWdnZXN0aW9uc1w+</entry>
+        <entry>example</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
