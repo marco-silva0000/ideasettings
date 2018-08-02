@@ -3,14 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" timestamp="1533219916083" />
       <file name="/Django Console" timestamp="1533197890811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533219166966">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="58" />
-        <mark key="." line="39" column="58" />
-        <mark key="^" line="39" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533220727552">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="48" />
+        <mark key="^" line="39" column="48" />
       </file>
     </filemarks>
     <jumps />
@@ -19,13 +20,13 @@
         <text encoding="base64">aW1wb3J0IGNvbW1vbmpzIGZyb20gJ3JvbGx1cC1wbHVnaW4tY29tbW9uanMnCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>commonjs</text>
+        <text>node_modules</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>commonjs</text>
+        <text>node_modules</text>
       </register>
     </registers>
     <search>
@@ -36,6 +37,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
