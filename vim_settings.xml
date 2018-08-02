@@ -3,21 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" timestamp="1533219916083" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" timestamp="1533221605450">
+        <mark key="'" line="6" column="39" />
+      </file>
       <file name="/Django Console" timestamp="1533197890811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533220727552">
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="48" />
-        <mark key="." line="39" column="48" />
-        <mark key="^" line="39" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1533221696984">
+        <mark key="^" line="44" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533222103260">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+        <mark key="^" line="36" column="10" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
+    </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbW1vbmpzIGZyb20gJ3JvbGx1cC1wbHVnaW4tY29tbW9uanMnCg==</text>
+      <register name="0" type="4">
+        <text>'../../../stories/data/exampleClients.json'</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCAqIGFzIGJ1aWxkaW5ncyBmcm9tICcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicK</text>
       </register>
       <register name="&quot;" type="4">
         <text>node_modules</text>
@@ -28,16 +38,25 @@
       <register name="-" type="4">
         <text>node_modules</text>
       </register>
+      <register name="/" type="4">
+        <text>exampleClients</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>exampleClients</last-search>
+      <last-offset />
+      <last-pattern>exampleClients</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>exampleClients</entry>
+      </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>2614</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
