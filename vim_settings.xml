@@ -37,16 +37,16 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1533226093666">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/simoc/devSettings.py" timestamp="1533226093666">
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1533229362212">
         <mark key="[" line="14" column="52" />
@@ -149,17 +149,17 @@
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="51" />
-        <mark key="." line="27" column="51" />
-        <mark key="^" line="27" column="51" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533224924582">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="32" />
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+        <mark key="^" line="27" column="51" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage/index.jsx" timestamp="1533136752207">
         <mark key="[" line="0" column="39" />
@@ -217,12 +217,6 @@
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533285569368">
         <mark key="'" line="35" column="52" />
         <mark key="[" line="17" column="7" />
@@ -230,14 +224,22 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0006_equipmentdatawriteaction.py" timestamp="1532342092665">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533285748180">
+      <file name="/Dummy.txt" timestamp="1533286728523">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
@@ -1327,7 +1329,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>IrrigatorsLandingPage</text>
+        <text>maste</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1356,7 +1358,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>IrrigatorsLandingPage</text>
+        <text>maste</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1451,11 +1453,11 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiQGJhYmVsL3RyYW5zZm9ybS1jbGFzcy1wcm9wZXJ0aWVzIiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiQGJhYmVsL3RyYW5zZm9ybS1yZWFjdC1qc3giLAo=</text>
-      </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAiQGJhYmVsL3RyYW5zZm9ybS1yZWFjdC1qc3giLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1470,46 +1472,13 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqcXVlcnlcPg==</entry>
-        <entry>vol</entry>
-        <entry>html</entry>
-        <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
-        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
-        <entry>common</entry>
-        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
-        <entry encoding="base64">XDxSb290Vmlld1w+</entry>
-        <entry>static</entry>
-        <entry>frontend</entry>
-        <entry>frotn</entry>
-        <entry>front</entry>
-        <entry>TEMP</entry>
-        <entry>fort</entry>
-        <entry>export</entry>
-        <entry encoding="base64">XDxzaG93RXhwb3J0XD4=</entry>
-        <entry>prop</entry>
-        <entry>update</entry>
-        <entry>class</entry>
-        <entry>text</entry>
+        <entry>exampleClients</entry>
+        <entry encoding="base64">XDxzdWdnZXN0aW9uc1w+</entry>
+        <entry>example</entry>
+        <entry>getBuilding</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumber=rnu</entry>
-        <entry>registers</entry>
-        <entry>tabfirst</entry>
-        <entry>e</entry>
-        <entry>tabprev</entry>
-        <entry>NERDTreeTabsToggle</entry>
-        <entry>s/UserStory/Epic/g</entry>
-        <entry>s/UserStory/Epic/</entry>
-        <entry>s/UserStory/Epic/gg</entry>
-        <entry>%s/UserStory/Epic/g</entry>
-        <entry>%s/user_story/epic/g</entry>
-        <entry>%s/UserStories/Epics/g</entry>
-        <entry>%s/Project/Epic/g</entry>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
-        <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5X</entry>
+        <entry>2614</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -1517,6 +1486,9 @@
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
@@ -1537,9 +1509,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
