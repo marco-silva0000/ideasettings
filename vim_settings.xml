@@ -53,12 +53,11 @@
         <mark key="]" line="48" column="39" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533230095467">
-        <mark key="'" line="35" column="52" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="19" />
-        <mark key="^" line="21" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533285339094">
+        <mark key="'" line="31" column="52" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/RegisterLandingPage.jsx" timestamp="1533225644438">
         <mark key="[" line="39" column="18" />
@@ -90,8 +89,8 @@
       <jump line="31" column="52" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IrrigatorsLandingPage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>IrrigatorsLandingPage</text>
@@ -103,28 +102,34 @@
         <text encoding="base64">Y29uc29sZS5sb2coSXJyaWdhdG9yc0xhbmRpbmdQYWdlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUJ1aWxkaW5ncy5qc29uJykK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coSXJyaWdhdG9yc0xhbmRpbmdQYWdlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50cyA9IHJlcXVpcmUoJy4uLy4uLy4uL3N0b3JpZXMvZGF0YS9leGFtcGxlQ2xpZW50cy5qc29uJykK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2hlcmVlZWUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAganNvbih7cHJlZmVyQ29uc3Q6IHRydWUsfSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAqIGFzIGJ1aWxkaW5ncyBmcm9tICcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUJ1aWxkaW5ncy5qc29uJykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY2xpZW50cyA9IHJlcXVpcmUoJy4uLy4uLy4uL3N0b3JpZXMvZGF0YS9leGFtcGxlQ2xpZW50cy5qc29uJykK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
