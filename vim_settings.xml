@@ -100,6 +100,12 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1533229362212">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/organizations/views.py" timestamp="1531222853238">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="50" />
@@ -145,17 +151,15 @@
         <mark key="." line="0" column="66" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="/BuildingLandingPage.jsx" timestamp="1533143460872" />
       <file name="/run-compose.sh" timestamp="1531321963705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533208476595">
-        <mark key="'" line="80" column="35" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533229888049">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -175,18 +179,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/docker-compose.yml" timestamp="1532450834097">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/api.py" timestamp="1532453574085">
         <mark key="'" line="56" column="33" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/babel.config.js" timestamp="1533146718753" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1532515869948">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="48" column="89" />
@@ -214,8 +212,8 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/index.js" timestamp="1533136719963">
-        <mark key="[" line="0" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/index.js" timestamp="1533229341171">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="74" />
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="74" />
@@ -226,11 +224,11 @@
         <mark key="." line="27" column="51" />
         <mark key="^" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533208467621">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/rollup.config.js" timestamp="1533229402853">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage/index.jsx" timestamp="1533136752207">
         <mark key="[" line="0" column="39" />
@@ -1381,7 +1379,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>module</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1410,7 +1408,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>module</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1429,7 +1427,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10ZXh0LW1hc2siOiAiXjUuNC4xIgo=</text>
+        <text encoding="base64">ICAibW9kdWxlIjogIi4vZGlzdC9idW5kbGUuanMiLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1561,8 +1559,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5X</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
