@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/node_modules/@material-ui/core/package.json" timestamp="1533229794559" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/i18n.js" timestamp="1533225760869">
         <mark key="[" line="45" column="43" />
         <mark key="]" line="45" column="43" />
@@ -52,12 +53,12 @@
         <mark key="]" line="48" column="39" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533228199255">
-        <mark key="'" line="31" column="52" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="17" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" timestamp="1533230095467">
+        <mark key="'" line="35" column="52" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+        <mark key="^" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/RegisterLandingPage.jsx" timestamp="1533225644438">
         <mark key="[" line="39" column="18" />
@@ -89,28 +90,37 @@
       <jump line="31" column="52" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" />
     </jumps>
     <registers>
-      <register name="0" type="4">
+      <register name="&quot;" type="4">
         <text>IrrigatorsLandingPage</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
+      <register name="-" type="4">
+        <text>IrrigatorsLandingPage</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>LandingPage</text>
+      <register name="/" type="4">
+        <text>getBuilding</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coSXJyaWdhdG9yc0xhbmRpbmdQYWdlKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAudmFsdWUoJ1JlZ2FudGVzTGFuZExpc3QnLCBCdWlsZGluZ0xpc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUJ1aWxkaW5ncy5qc29uJykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50cyA9IHJlcXVpcmUoJy4uLy4uLy4uL3N0b3JpZXMvZGF0YS9leGFtcGxlQ2xpZW50cy5qc29uJykK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUJ1aWxkaW5ncy5qc29uJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY2xpZW50cyA9IHJlcXVpcmUoJy4uLy4uLy4uL3N0b3JpZXMvZGF0YS9leGFtcGxlQ2xpZW50cy5qc29uJykK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAganNvbih7cHJlZmVyQ29uc3Q6IHRydWUsfSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1aXJlKCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpWzFdLnJlZ2lzdHJpZXMK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAganNvbih7cHJlZmVyQ29uc3Q6IHRydWUsfSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGltcG9ydCAqIGFzIGJ1aWxkaW5ncyBmcm9tICcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicK</text>
       </register>
       <register name="y" type="2">
@@ -118,12 +128,6 @@
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>LandingPage</text>
-      </register>
-      <register name="/" type="4">
-        <text>getBuilding</text>
       </register>
     </registers>
     <search>
@@ -141,8 +145,8 @@
         <entry>getBuilding</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>2614</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
