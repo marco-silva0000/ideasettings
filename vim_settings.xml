@@ -57,6 +57,11 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" timestamp="1533552477882">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531497160476">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="70" />
@@ -213,6 +218,7 @@
         <mark key="." line="39" column="61" />
         <mark key="^" line="39" column="59" />
       </file>
+      <file name="/package.json" timestamp="1533552389097" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1533310971212">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="38" column="11" />
@@ -264,7 +270,7 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533295837652">
+      <file name="/Dummy.txt" timestamp="1533552446465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -287,6 +293,7 @@
         <mark key="." line="0" column="66" />
         <mark key="^" line="0" column="37" />
       </file>
+      <file name="/irrigators.json" timestamp="1533552369309" />
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
         <mark key="]" line="54" column="15" />
@@ -306,6 +313,12 @@
         <mark key="]" line="60" column="2" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="58" column="88" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
+        <mark key="[" line="152" column="28" />
+        <mark key="]" line="154" column="37" />
+        <mark key="^" line="154" column="37" />
+        <mark key="." line="154" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -1358,8 +1371,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1413,7 +1426,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1460,31 +1473,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0RmlsdGVyZWRDcm9wcyh0aGlzLnN0YXRlLnNlbGVjdGVkQ2F0ZWdvcmllcykK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsdWdpbnM6IFtyZXF1aXJlKCdAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMnKV0K</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0RmlsdGVyZWRDcm9wcyh0aGlzLnN0YXRlLnNlbGVjdGVkQ2F0ZWdvcmllcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsdWdpbnM6IFtyZXF1aXJlKCdAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMnKV0K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
