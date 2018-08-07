@@ -45,7 +45,7 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1533653637235">
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1533654970008">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -91,9 +91,10 @@
         <mark key="[" line="74" column="22" />
         <mark key="." line="74" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1533654164146">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="20" column="51" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1533654763011">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
@@ -1389,7 +1390,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9yb290Ly5zc2gvCkFSRyBTU0hfUFJJVkFURV9LRVkKQVJHIFNTSF9QVUJMSUNfS0VZClJVTiBlY2hvICIke1NTSF9QUklWQVRFX0tFWX0iID4gL3Jvb3QvLnNzaC9pZF9yc2EKUlVOIGVjaG8gIiR7U1NIX1BVQkxJQ19LRVl9IiA+IC9yb290Ly5zc2gvaWRfcnNhLnB1YgpSVU4gY2htb2QgNjAwIC9yb290Ly5zc2gvaWRfcnNhClJVTiBjaG1vZCA2MDAgL3Jvb3QvLnNzaC9pZF9yc2EucHViCgojIG1ha2Ugc3VyZSB5b3VyIGRvbWFpbiBpcyBhY2NlcHRlZApSVU4gdG91Y2ggL3Jvb3QvLnNzaC9rbm93bl9ob3N0cwpSVU4gc3NoLWtleXNjYW4gZ2l0bGFiLmNvbSA+PiAvcm9vdC8uc3NoL2tub3duX2hvc3RzCg==</text>
+        <text encoding="base64">Q09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1443,7 +1444,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvCg==</text>
+        <text encoding="base64">Q09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1490,31 +1491,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
