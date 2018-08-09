@@ -148,6 +148,11 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="59" column="4" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1533830725735">
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="0" />
+        <mark key="." line="284" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/clientUtils.js" timestamp="1533295663187">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="25" />
@@ -221,19 +226,6 @@
         <mark key="]" line="32" column="15" />
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1533569368631">
-        <mark key="'" line="41" column="17" />
-        <mark key="[" line="40" column="90" />
-        <mark key="]" line="40" column="96" />
-        <mark key="." line="40" column="96" />
-        <mark key="^" line="40" column="96" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1533310971212">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="11" />
-        <mark key="^" line="25" column="56" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
@@ -314,14 +306,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/RegisterLandingPage.jsx" timestamp="1533295463676">
-        <mark key="'" line="58" column="6" />
-        <mark key="j" line="57" column="21" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="60" column="2" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="58" column="88" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
@@ -1390,8 +1374,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>docker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgie30ge30ge30iLmZvcm1hdChtYXBwaW5nW3NlbnNvcl9kYXRhXSwgZmxvYXQoZXF1aXBfZGF0YVtzZW5zb3JfZGF0YV0pLCB0aW1lX3BvaW50KSkK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1445,7 +1429,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgie30ge30ge30iLmZvcm1hdChtYXBwaW5nW3NlbnNvcl9kYXRhXSwgZmxvYXQoZXF1aXBfZGF0YVtzZW5zb3JfZGF0YV0pLCB0aW1lX3BvaW50KSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1492,22 +1476,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZnJvbSB7fSB0byB7fSIuZm9ybWF0KHN0YXJ0X2RhdGUuc3RyZnRpbWUoJyVzJyksIGVuZF9kYXRlLnN0cmZ0aW1lKCclcycpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">Q09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1516,7 +1500,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
