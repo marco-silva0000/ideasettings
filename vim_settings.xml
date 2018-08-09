@@ -21,7 +21,7 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1533567792607">
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1533833138152">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
@@ -70,7 +70,6 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/Dockerfile" timestamp="1533831772321" />
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531497160476">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="70" />
@@ -228,6 +227,13 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1533833150112">
+        <mark key="'" line="83" column="20" />
+        <mark key="[" line="83" column="53" />
+        <mark key="]" line="83" column="52" />
+        <mark key="." line="83" column="52" />
+        <mark key="^" line="83" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
         <mark key="]" line="2" column="143" />
@@ -347,6 +353,7 @@
       <jump line="68" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
       <jump line="21" column="51" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/cropsUtils.js" />
       <jump line="157" column="20" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
+      <jump line="83" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1382,7 +1389,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>regantes</text>
+        <text>-</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1411,7 +1418,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>regantes</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <keys>
