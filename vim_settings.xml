@@ -70,6 +70,7 @@
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/Dockerfile" timestamp="1533831772321" />
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531497160476">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="70" />
@@ -232,6 +233,12 @@
         <mark key="]" line="2" column="143" />
         <mark key="^" line="2" column="143" />
         <mark key="." line="2" column="143" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/docker-compose.yml" timestamp="1533831795590">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage/LandingPage.jsx" timestamp="1533146417217">
         <mark key="[" line="1" column="20" />
@@ -1374,8 +1381,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgie30ge30ge30iLmZvcm1hdChtYXBwaW5nW3NlbnNvcl9kYXRhXSwgZmxvYXQoZXF1aXBfZGF0YVtzZW5zb3JfZGF0YV0pLCB0aW1lX3BvaW50KSkK</text>
+      <register name="&quot;" type="4">
+        <text>regantes</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1404,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>docker</text>
+        <text>regantes</text>
       </register>
       <register name="m" type="4">
         <keys>
