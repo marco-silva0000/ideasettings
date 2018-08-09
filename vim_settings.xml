@@ -45,11 +45,11 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1533830294470">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1533833243871">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
@@ -1382,7 +1382,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>regantes</text>
+        <text>/var/www/static</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1411,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>regantes</text>
+        <text>/var/www/static</text>
       </register>
       <register name="m" type="4">
         <keys>
