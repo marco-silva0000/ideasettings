@@ -9,7 +9,12 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534761590403" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="25" />
@@ -28,10 +33,11 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1534495444203">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1534763884856">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="44" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -76,6 +82,12 @@
         <mark key="]" line="52" column="14" />
         <mark key="." line="52" column="14" />
         <mark key="^" line="52" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531497160476">
         <mark key="[" line="0" column="67" />
@@ -151,10 +163,6 @@
         <mark key="^" line="48" column="87" />
         <mark key="." line="48" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegisterLandingPage.jsx" timestamp="1533307020471">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="59" column="4" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1533830725735">
         <mark key="[" line="284" column="0" />
         <mark key="]" line="284" column="0" />
@@ -190,13 +198,13 @@
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" timestamp="1533554563442">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" timestamp="1534763859032">
         <mark key="'" line="68" column="13" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="24" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="16" column="56" />
         <mark key="n" line="84" column="19" />
-        <mark key="." line="64" column="24" />
-        <mark key="^" line="64" column="24" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
         <mark key="[" line="27" column="32" />
@@ -241,6 +249,7 @@
         <mark key="." line="83" column="52" />
         <mark key="^" line="83" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/index.es.js" timestamp="1534763844073" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
         <mark key="]" line="2" column="143" />
@@ -1401,8 +1410,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJmdWxndXJpdC1yZXVzYWJsZS1jb21wb25lbnRzIjogIjAuMC4zIiwK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1431,7 +1440,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>/node_modules</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1450,7 +1459,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9yb290Ly5zc2gvCkFSRyBTU0hfUFJJVkFURV9LRVkKQVJHIFNTSF9QVUJMSUNfS0VZClJVTiBlY2hvICIke1NTSF9QUklWQVRFX0tFWX0iID4gL3Jvb3QvLnNzaC9pZF9yc2EKUlVOIGVjaG8gIiR7U1NIX1BVQkxJQ19LRVl9IiA+IC9yb290Ly5zc2gvaWRfcnNhLnB1YgpSVU4gY2htb2QgNjAwIC9yb290Ly5zc2gvaWRfcnNhClJVTiBjaG1vZCA2MDAgL3Jvb3QvLnNzaC9pZF9yc2EucHViCgojIG1ha2Ugc3VyZSB5b3VyIGRvbWFpbiBpcyBhY2NlcHRlZApSVU4gdG91Y2ggL3Jvb3QvLnNzaC9rbm93bl9ob3N0cwpSVU4gc3NoLWtleXNjYW4gZ2l0bGFiLmNvbSA+PiAvcm9vdC8uc3NoL2tub3duX2hvc3RzCg==</text>
+        <text encoding="base64">ICAgICJmdWxndXJpdC1yZXVzYWJsZS1jb21wb25lbnRzIjogIjAuMC4zIiwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1583,9 +1592,9 @@
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>2622</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
