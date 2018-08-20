@@ -33,10 +33,10 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1534763884856">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="44" />
-        <mark key="." line="10" column="53" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1534764327799">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
         <mark key="^" line="10" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
@@ -198,12 +198,12 @@
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" timestamp="1534763859032">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" timestamp="1534764488088">
         <mark key="'" line="68" column="13" />
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="16" column="56" />
+        <mark key="[" line="17" column="71" />
+        <mark key="]" line="17" column="71" />
         <mark key="n" line="84" column="19" />
-        <mark key="." line="16" column="56" />
+        <mark key="." line="17" column="71" />
         <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
@@ -1410,8 +1410,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1yZXVzYWJsZS1jb21wb25lbnRzIjogIjAuMC4zIiwK</text>
+      <register name="&quot;" type="4">
+        <text>/CreatableAutoCompleteSelect</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1440,7 +1440,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>/node_modules</text>
+        <text>/CreatableAutoCompleteSelect</text>
       </register>
       <register name="m" type="4">
         <keys>
