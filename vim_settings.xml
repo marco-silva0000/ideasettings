@@ -165,6 +165,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="/Pipfile" timestamp="1535389707377">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="54" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1532515869948">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="48" column="89" />
@@ -250,10 +254,10 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1535385110796">
-        <mark key="[" line="118" column="66" />
-        <mark key="]" line="118" column="82" />
-        <mark key="." line="118" column="82" />
+      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1535389885168">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
         <mark key="^" line="118" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
@@ -378,11 +382,11 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535387266740">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="52" />
-        <mark key="^" line="42" column="52" />
-        <mark key="." line="42" column="52" />
+      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535390035646">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -1475,8 +1479,14 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/simoc</text>
+      <register name="&quot;" type="8">
+        <text>git clone --verbose ssh://git@gitlab.com/fulgurit/crops.git
+git clone --verbose ssh://git@gitlab.com/fulgurit/sensoring.git
+git clone --verbose ssh://git@gitlab.com/fulgurit/fieldwork.git
+git clone --verbose ssh://git@gitlab.com/fulgurit/analysis.git
+git clone --verbose ssh://git@gitlab.com/fulgurit/regantes/regantes-backend.git
+git clone --verbose ssh://git@gitlab.com/fulgurit/metering.git
+git clone --verbose ssh://git@gitlab.com/fulgurit/gtc.git</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1505,7 +1515,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>/simoc</text>
+        <text>install</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1524,13 +1534,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJib3dlciI6ICIuL25vZGVfbW9kdWxlcy9ib3dlci9iaW4vYm93ZXIgaW5zdGFsbCAtLXZlcmJvc2UiLAo=</text>
+        <text encoding="base64">UlVOIHBpcGVudiBpbnN0YWxsCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHlhcm4gcnVuIGJvd2VyIGNvcHkK</text>
+        <text encoding="base64">UlVOIHBpcGVudiBsb2NrIC0tcHJlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1572,31 +1582,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJib3dlciI6ICIuL25vZGVfbW9kdWxlcy9ib3dlci9iaW4vYm93ZXIgaW5zdGFsbCAtLXZlcmJvc2UiLAo=</text>
+        <text encoding="base64">ZnVsZ3VyaXQtc2Vuc29yaW5nID0ge2dpdCA9ICJzc2g6Ly9naXRAZ2l0bGFiLmNvbS9mdWxndXJpdC9zZW5zb3JpbmcuZ2l0In0KZnVsZ3VyaXQtY3JvcHMgPSB7Z2l0ID0gInNzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L2Nyb3BzLmdpdCJ9CmZ1bGd1cml0LW1ldGVyaW5nID0ge2dpdCA9ICJzc2g6Ly9naXRAZ2l0bGFiLmNvbS9mdWxndXJpdC9tZXRlcmluZy5naXQifQpmdWxndXJpdC1yZWdhbnRlcyA9IHtnaXQgPSAic3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMvcmVnYW50ZXMtYmFja2VuZC5naXQifQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvYXBwLwo=</text>
+        <text encoding="base64">UlVOIHlhcm4gcnVuIGJvd2VyIGNvcHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgICJib3dlciI6ICIuL25vZGVfbW9kdWxlcy9ib3dlci9iaW4vYm93ZXIgaW5zdGFsbCAtLXZlcmJvc2UiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvYXBwLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEF1dGhSb3V0ZXIob2JqZWN0KToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgie30ge30ge30iLmZvcm1hdChtYXBwaW5nW3NlbnNvcl9kYXRhXSwgZmxvYXQoZXF1aXBfZGF0YVtzZW5zb3JfZGF0YV0pLCB0aW1lX3BvaW50KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZnJvbSB7fSB0byB7fSIuZm9ybWF0KHN0YXJ0X2RhdGUuc3RyZnRpbWUoJyVzJyksIGVuZF9kYXRlLnN0cmZ0aW1lKCclcycpKSkK</text>
+        <text encoding="base64">ICAgIGNsYXNzIEF1dGhSb3V0ZXIob2JqZWN0KToK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
