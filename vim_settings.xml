@@ -15,7 +15,6 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1534870350631" />
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="25" />
@@ -52,6 +51,9 @@
         <mark key="]" line="46" column="41" />
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1534871008964">
+        <mark key="'" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1532435805412">
         <mark key="[" line="15" column="30" />
@@ -119,12 +121,12 @@
         <mark key="." line="56" column="66" />
         <mark key="^" line="56" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1534870489632">
-        <mark key="'" line="68" column="35" />
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="34" />
-        <mark key="." line="66" column="34" />
-        <mark key="^" line="66" column="34" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1534870939338">
+        <mark key="'" line="69" column="35" />
+        <mark key="[" line="104" column="24" />
+        <mark key="]" line="104" column="51" />
+        <mark key="." line="104" column="24" />
+        <mark key="^" line="101" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1533312580274">
         <mark key="[" line="23" column="22" />
@@ -306,7 +308,7 @@
         <mark key="." line="45" column="40" />
         <mark key="^" line="45" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533576514135">
+      <file name="/Dummy.txt" timestamp="1535368576357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -329,12 +331,12 @@
         <mark key="." line="0" column="66" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" timestamp="1534870275678">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" timestamp="1534871059149">
         <mark key="'" line="18" column="35" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="38" />
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -388,6 +390,10 @@
       <jump line="4" column="46" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="66" column="23" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="68" column="35" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="41" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="1" column="57" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1423,7 +1429,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Land</text>
+        <text>fixes api calls and json imports</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1452,7 +1458,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Land</text>
+        <text>fixes api calls and json imports</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1471,7 +1477,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTGFuZFZpZXdTZXQodmlld3NldHMuTW9kZWxWaWV3U2V0KToKICAgIHBhZ2luYXRpb25fY2xhc3MgPSBSZXN1bHRzUGFnaW5hdGlvbgoKICAgIHF1ZXJ5c2V0ID0gTGFuZC5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gTGFuZFNlcmlhbGl6ZXIKCiAgICBzZWFyY2hfcGFyYW0gPSBvcGVuYXBpLlBhcmFtZXRlcignc2VhcmNoJywgb3BlbmFwaS5JTl9RVUVSWSwgZGVzY3JpcHRpb249IlN0cmluZyB0byBiZSBzZWFyY2ggaW4gbmFtZSwgb3duZXIsICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZnJlZ3Vlc2lhLCBjb25jZWxobywgYXJ0aWNsZSBhbmQgc2VjdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPW9wZW5hcGkuVFlQRV9TVFJJTkcpCiAgICBvcmRlckJ5X3BhcmFtID0gb3BlbmFwaS5QYXJhbWV0ZXIoJ29yZGVyQnknLCBvcGVuYXBpLklOX1FVRVJZLCBkZXNjcmlwdGlvbj0iRmllbGQgdG8gb3JkZXIgdGhlIHF1ZXJ5IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkF2YWlsYWJsZSBPcHRpb246IFsnbmFtZScsICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICInb3duZXJfX25hbWUnLCAnZnJlZ3Vlc2lhJywiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJ2NvbmNlbGhvJywgJ2FydGljbGUnLCAnc2VjdGlvbiddIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPW9wZW5hcGkuVFlQRV9TVFJJTkcpCiAgICBvcmRlcl9wYXJhbSA9IG9wZW5hcGkuUGFyYW1ldGVyKCdvcmRlcicsIG9wZW5hcGkuSU5fUVVFUlksIGRlc2NyaXB0aW9uPSJGaWVsZCB0byBzZXQgcXVleXIgb3JkZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkF2YWlsYWJsZSBPcHRpb246IFsnZGVzYycsJ2FzYyddIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT1vcGVuYXBpLlRZUEVfU1RSSU5HKQoKICAgIEBzd2FnZ2VyX2F1dG9fc2NoZW1hKG1ldGhvZD0nZ2V0JywgbWFudWFsX3BhcmFtZXRlcnM9W3NlYXJjaF9wYXJhbSwgb3JkZXJCeV9wYXJhbSwgb3JkZXJfcGFyYW1dKQogICAgQGxpc3Rfcm91dGUoKQogICAgZGVmIHNoZWxsKHNlbGYsIHJlcXVlc3QpOgogICAgICAgIGxhbmRzID0gc2VsZi5xdWVyeXNldAogICAgICAgIGlmICdzZWFyY2gnIGluIHJlcXVlc3QucXVlcnlfcGFyYW1zIGFuZCBsZW4ocmVxdWVzdC5xdWVyeV9wYXJhbXNbJ3NlYXJjaCddKSA+IDI6CiAgICAgICAgICAgIHNlYXJjaCA9IHJlcXVlc3QucXVlcnlfcGFyYW1zWydzZWFyY2gnXQogICAgICAgICAgICBsYW5kcyA9IGxhbmRzLmZpbHRlcihRKG5hbWVfX2ljb250YWlucz1zZWFyY2gpIHwgUShvd25lcl9fbmFtZV9faWNvbnRhaW5zPXNlYXJjaCkgfAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBRKGZyZWd1ZXNpYV9faWNvbnRhaW5zPXNlYXJjaCkgfCBRKGNvbmNlbGhvX19pY29udGFpbnM9c2VhcmNoKSB8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFEoYXJ0aWNsZV9faWNvbnRhaW5zPXNlYXJjaCkgfCBRKHNlY3Rpb25fX2ljb250YWlucz1zZWFyY2gpKQoKICAgICAgICBpZiAnb3JkZXJCeScgaW4gcmVxdWVzdC5xdWVyeV9wYXJhbXMgYW5kIHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlckJ5J10gaW4gWyduYW1lJywgJ293bmVyX19uYW1lJywgJ2ZyZWd1ZXNpYScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29uY2VsaG8nLCAnYXJ0aWNsZScsICdzZWN0aW9uJ106CiAgICAgICAgICAgIGlmICdvcmRlcicgaW4gcmVxdWVzdC5xdWVyeV9wYXJhbXMgYW5kIHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlciddID09ICdkZXNjJzoKICAgICAgICAgICAgICAgIGxhbmRzID0gbGFuZHMub3JkZXJfYnkoJy0nICsgcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ29yZGVyQnknXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxhbmRzID0gbGFuZHMub3JkZXJfYnkocmVxdWVzdC5xdWVyeV9wYXJhbXNbJ29yZGVyQnknXSkKCiAgICAgICAgcGFnZSA9IHNlbGYucGFnaW5hdGVfcXVlcnlzZXQobGFuZHMpCiAgICAgICAgaWYgcGFnZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VyaWFsaXplciA9IExhbmRTaGVsbFNlcmlhbGl6ZXIocGFnZSwgbWFueT1UcnVlKQogICAgICAgICAgICByZXR1cm4gc2VsZi5nZXRfcGFnaW5hdGVkX3Jlc3BvbnNlKHNlcmlhbGl6ZXIuZGF0YSkKCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKExhbmRTaGVsbFNlcmlhbGl6ZXIoc2VsZi5xdWVyeXNldCwgbWFueT1UcnVlKS5kYXRhLCBzdGF0dXM9c3RhdHVzLkhUVFBfMjAwX09LKQo=</text>
+        <text encoding="base64">Y2xhc3MgTGFuZFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBMYW5kCiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgoKY2xhc3MgTGFuZFNoZWxsU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgogICAgIyBvd25lciA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChzb3VyY2U9J293bmVyLnBvc3RhbF9jb2RlJykKICAgIG93bmVyID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkCgoKICAgIGRlZiBnZXRfb3duZXIoc2VsZiwgb2JqKToKICAgICAgICBwcmludCBvYmoKICAgICAgICBpZiBvYmoub3duZXI6CiAgICAgICAgICAgIHByaW50IG9iai5vd25lcgogICAgICAgICAgICBwcmludCBvYmoub3duZXIuX19kaWN0X18KICAgICAgICAgICAgcmV0dXJuIG9iai5vd25lci5uYW1lCiAgICAgICAgcmV0dXJuICdubyBvd25lciBhc3NpZ25lZCcKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gTGFuZAogICAgICAgIGZpZWxkcyA9IFsnaWQnLCAnbmFtZScsICdhcnRpY2xlJywgJ3NlY3Rpb24nLCAnY29uY2VsaG8nLCAnZnJlZ3Vlc2lhJywgJ293bmVyJ10K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
