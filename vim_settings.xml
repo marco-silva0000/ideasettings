@@ -238,11 +238,11 @@
         <mark key="^" line="1" column="136" />
         <mark key="." line="1" column="143" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/app/Dockerfile" timestamp="1535374603203">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/Projects/core/frontend/app/Dockerfile" timestamp="1535379729927">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/i18n.js" timestamp="1533225760869">
         <mark key="[" line="45" column="43" />
@@ -369,10 +369,11 @@
         <mark key="^" line="58" column="7" />
         <mark key="." line="58" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535374380694">
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="48" />
-        <mark key="." line="45" column="48" />
+      <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535379433529">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -1465,8 +1466,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvYXBwLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0tZm9yY2U=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1495,7 +1496,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>regantes-frontend</text>
+        <text encoding="base64">IC0tZm9yY2U=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1513,8 +1514,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>dev_fulgurit</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJidWlsZCI6ICIuL25vZGVfbW9kdWxlcy9ncnVudC1jbGkvYmluL2dydW50IC0tZm9yY2UiLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
