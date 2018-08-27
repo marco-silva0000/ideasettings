@@ -45,6 +45,12 @@
         <mark key="^" line="66" column="53" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/routing.py" timestamp="1535369267022">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1533295283585">
         <mark key="'" line="23" column="29" />
         <mark key="[" line="46" column="18" />
@@ -269,6 +275,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1535369319294">
+        <mark key="[" line="117" column="29" />
+        <mark key="]" line="117" column="36" />
+        <mark key="." line="117" column="36" />
+        <mark key="^" line="117" column="36" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingLandingPage.jsx" timestamp="1533295236736">
         <mark key="'" line="56" column="13" />
         <mark key="[" line="56" column="38" />
@@ -308,7 +320,7 @@
         <mark key="." line="45" column="40" />
         <mark key="^" line="45" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535368576357">
+      <file name="/Dummy.txt" timestamp="1535368799942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -337,6 +349,12 @@
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535369461416">
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -1428,8 +1446,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fixes api calls and json imports</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1458,7 +1476,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fixes api calls and json imports</text>
+        <text>auth</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1477,13 +1495,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTGFuZFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBMYW5kCiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgoKY2xhc3MgTGFuZFNoZWxsU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgogICAgIyBvd25lciA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChzb3VyY2U9J293bmVyLnBvc3RhbF9jb2RlJykKICAgIG93bmVyID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkCgoKICAgIGRlZiBnZXRfb3duZXIoc2VsZiwgb2JqKToKICAgICAgICBwcmludCBvYmoKICAgICAgICBpZiBvYmoub3duZXI6CiAgICAgICAgICAgIHByaW50IG9iai5vd25lcgogICAgICAgICAgICBwcmludCBvYmoub3duZXIuX19kaWN0X18KICAgICAgICAgICAgcmV0dXJuIG9iai5vd25lci5uYW1lCiAgICAgICAgcmV0dXJuICdubyBvd25lciBhc3NpZ25lZCcKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gTGFuZAogICAgICAgIGZpZWxkcyA9IFsnaWQnLCAnbmFtZScsICdhcnRpY2xlJywgJ3NlY3Rpb24nLCAnY29uY2VsaG8nLCAnZnJlZ3Vlc2lhJywgJ293bmVyJ10K</text>
+        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5wb3N0Z3Jlc3FsX3BzeWNvcGcyJywKICAgICAgICAnTkFNRSc6ICdkZXZfZnVsZ3VyaXQnLAogICAgICAgICdVU0VSJzogJ2Z1bGd1cml0X2Rldl91c2VyJywKICAgICAgICAnUEFTU1dPUkQnOiAnMXEydzNlNHInLAogICAgICAgICdIT1NUJzogJ2xvY2FsaG9zdCcsCiAgICAgICAgJ1BPUlQnOiAnNTQzMicsCiAgICAgICAgJ0FUT01JQ19SRVFVRVNUUyc6IFRydWUsCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgie30ge30ge30iLmZvcm1hdChtYXBwaW5nW3NlbnNvcl9kYXRhXSwgZmxvYXQoZXF1aXBfZGF0YVtzZW5zb3JfZGF0YV0pLCB0aW1lX3BvaW50KSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1530,31 +1548,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZnJvbSB7fSB0byB7fSIuZm9ybWF0KHN0YXJ0X2RhdGUuc3RyZnRpbWUoJyVzJyksIGVuZF9kYXRlLnN0cmZ0aW1lKCclcycpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sK</text>
+        <text encoding="base64">ICAgIGNsYXNzIEF1dGhSb3V0ZXIob2JqZWN0KToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgie30ge30ge30iLmZvcm1hdChtYXBwaW5nW3NlbnNvcl9kYXRhXSwgZmxvYXQoZXF1aXBfZGF0YVtzZW5zb3JfZGF0YV0pLCB0aW1lX3BvaW50KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZnJvbSB7fSB0byB7fSIuZm9ybWF0KHN0YXJ0X2RhdGUuc3RyZnRpbWUoJyVzJyksIGVuZF9kYXRlLnN0cmZ0aW1lKCclcycpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
+        <text encoding="base64">Q09QWSAuL1BpcGZpbGUubG9jayAvY29kZS9QaXBmaWxlLmxvY2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogZnJvbnRlbmQvCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2F0ZWdvcmllcyByZXNwb25zZSBsaXN0JywgcmVzcG9uc2VMaXN0KQo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9CdXR0b24vQnV0dG9uJwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1608,10 +1626,10 @@
         <entry>%s/Project/Epic/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>q</entry>
         <entry>2622</entry>
+        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
