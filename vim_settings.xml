@@ -15,11 +15,12 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" timestamp="1535474350441">
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" timestamp="1535475895375">
         <mark key="'" line="80" column="37" />
-        <mark key="[" line="106" column="42" />
-        <mark key="]" line="106" column="43" />
-        <mark key="." line="106" column="43" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="187" />
+        <mark key="." line="107" column="53" />
+        <mark key="^" line="107" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
@@ -122,11 +123,6 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1533654763011">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
         <mark key="]" line="56" column="66" />
@@ -180,11 +176,6 @@
         <mark key="]" line="48" column="89" />
         <mark key="^" line="48" column="87" />
         <mark key="." line="48" column="87" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1533830725735">
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/clientUtils.js" timestamp="1533295663187">
         <mark key="[" line="3" column="16" />
@@ -333,7 +324,7 @@
         <mark key="." line="45" column="40" />
         <mark key="^" line="45" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535469167533">
+      <file name="/Dummy.txt" timestamp="1535476447005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -369,11 +360,11 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/loggers/gladiator_v2.py" timestamp="1535474294977">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="15" />
-        <mark key="^" line="47" column="39" />
-        <mark key="." line="49" column="15" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/loggers/gladiator_v2.py" timestamp="1535476327897">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="187" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535469909223">
         <mark key="[" line="83" column="14" />
@@ -387,10 +378,12 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1535469707148">
+      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1535476407191">
         <mark key="'" line="34" column="47" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="36" />
+        <mark key="[" line="562" column="55" />
+        <mark key="]" line="562" column="56" />
+        <mark key="." line="562" column="56" />
+        <mark key="^" line="560" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535455144876">
         <mark key="'" line="51" column="9" />
@@ -1496,8 +1489,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFsYXJtcywgYmluKDgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYmF0dGVyeV9sZXZlbCwgMzY2OCAvIDEwMDAuMCkK</text>
+      <register name="&quot;" type="4">
+        <text>WIP</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1526,7 +1519,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>180</text>
+        <text>WIP</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1535,7 +1528,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</text>
+        <text>v2</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1545,13 +1538,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1lc3NhZ2VfdHlwZSwgNCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIG1vdGVfbW9kZWwgPT0gJ0xvcmEgQXJhZCBHbGFkaWF0b3IgdjEnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlY29kZV9sb3JhX2dsYWRpYXRvcl92MShwYXlsb2FkLCB0aW1lc3RhbXAsIHZhcl9uYW1lKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFsYXJtcywgYmluKDgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYmF0dGVyeV9sZXZlbCwgMzY2OCAvIDEwMDAuMCkK</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlX3R5cGUsIGN1cnJlbnRfcmVhZCwgZmFjdG9yLCB0aW1lX2Zyb21fbGFzdF9yZWFkLCB0aW1lX2JldHdlZW5fcmVhZHMsIGxvZ19yZWFkLCBhbGFybXMsIGJhdHRlcnlfbGV2ZWwgPSBkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZChwYXlsb2FkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1592,32 +1585,32 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bWVzc2FnZV90eXBlLCBjdXJyZW50X3JlYWQsIGZhY3RvciwgdGltZV9mcm9tX2xhc3RfcmVhZCwgdGltZV9iZXR3ZWVuX3JlYWRzLCBsb2dfcmVhZCwgYWxhcm1zLCBiYXR0ZXJ5X2xldmVsIFwKICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvZ19yZWFkLCBbMTAsIDEwLCAxMCwgMTBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFsYXJtcywgYmluKDgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYmF0dGVyeV9sZXZlbCwgMzY2OCAvIDEwMDAuMCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ19yZWFkID0gW2xpdHRsZV9lbmRfMl9iaWdfZW5kX3N0cmluZ19pbl9pbnRfb3V0X2NvbnZlcnRlcihwYXlsb2FkWzMyICsgaTozMiArIGkgKyA4XSkgZm9yIGkgaW4gcmFuZ2UoMSwgMzIsIDgpXQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">bWVzc2FnZV90eXBlLCBjdXJyZW50X3JlYWQsIGZhY3RvciwgdGltZV9mcm9tX2xhc3RfcmVhZCwgdGltZV9iZXR3ZWVuX3JlYWRzLCBsb2dfcmVhZCwgYWxhcm1zLCBiYXR0ZXJ5X2xldmVsIFwKICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG1lc3NhZ2VfdHlwZSA9PSAyOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGxvZ19yZWFkID0gW2xpdHRsZV9lbmRfMl9iaWdfZW5kX3N0cmluZ19pbl9pbnRfb3V0X2NvbnZlcnRlcihwYXlsb2FkWzMyICsgaTozMiArIGkgKyA4XSkgZm9yIGkgaW4gcmFuZ2UoMSwgMzIsIDgpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsaWYgbWVzc2FnZV90eXBlID09IDE6Cg==</text>
+        <text encoding="base64">ICAgIGlmIG1lc3NhZ2VfdHlwZSA9PSAyOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhdHRlcnlfbGV2ZWwgPSBsaXR0bGVfZW5kXzJfYmlnX2VuZF9zdHJpbmdfaW5faW50X291dF9jb252ZXJ0ZXIocGF5bG9hZFs1Njo2MF0pIC8gMTAwMC4wCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsYXJtcyA9IGJpbihpbnQocGF5bG9hZFs1Mjo1Nl0sIDE2KSkK</text>
+        <text encoding="base64">ICAgIGVsaWYgbWVzc2FnZV90eXBlID09IDE6Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1627,15 +1620,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</last-search>
+      <last-search>v2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</last-pattern>
+      <last-pattern>v2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxSb290Vmlld1w+</entry>
         <entry>static</entry>
         <entry>frontend</entry>
@@ -1655,6 +1647,7 @@
         <entry>regantes</entry>
         <entry encoding="base64">XDxsaXR0bGVfZW5kXzJfYmlnX2VuZF9zdHJpbmdfaW5faW50X291dF9jb252ZXJ0ZXJcPg==</entry>
         <entry encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</entry>
+        <entry>v2</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
