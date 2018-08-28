@@ -352,6 +352,12 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1535450564102">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1531496267714">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -383,11 +389,12 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535391359751">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="23" />
-        <mark key="^" line="44" column="23" />
-        <mark key="." line="44" column="23" />
+      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535450429862">
+        <mark key="'" line="51" column="9" />
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="52" column="9" />
+        <mark key="^" line="52" column="9" />
+        <mark key="." line="51" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -448,6 +455,7 @@
       <jump line="6" column="9" filename="$USER_HOME$/Projects/core/docker-compose.yml" />
       <jump line="110" column="20" filename="$USER_HOME$/Projects/core/Pipfile" />
       <jump line="10" column="31" filename="$USER_HOME$/Projects/core/Pipfile" />
+      <jump line="51" column="9" filename="$USER_HOME$/Projects/core/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1482,8 +1490,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkYjE6CiAgICBpbWFnZTogcG9zdGdyZXMKICAgIGVudmlyb25tZW50OgogICAgICBQT1NUR1JFU19EQjogZGV2X2Z1bGd1cml0CiAgICAgIFBPU1RHUkVTX1VTRVI6IGZ1bGd1cml0X2Rldl91c2VyCiAgICAgIFBTT1RHUkVTX1BBU1NXT1JEOiAxcTJ3M2U0cgo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1512,7 +1520,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>un</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1531,7 +1539,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHBpcGVudiBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICBkYjE6CiAgICBpbWFnZTogcG9zdGdyZXMKICAgIGVudmlyb25tZW50OgogICAgICBQT1NUR1JFU19EQjogZGV2X2Z1bGd1cml0CiAgICAgIFBPU1RHUkVTX1VTRVI6IGZ1bGd1cml0X2Rldl91c2VyCiAgICAgIFBTT1RHUkVTX1BBU1NXT1JEOiAxcTJ3M2U0cgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
