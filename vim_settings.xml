@@ -352,11 +352,11 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1535453789886">
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="47" column="11" />
-        <mark key="." line="47" column="11" />
-        <mark key="^" line="36" column="129" />
+      <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1535455820783">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1531496267714">
         <mark key="[" line="0" column="46" />
@@ -389,7 +389,7 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535450429862">
+      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1535455144876">
         <mark key="'" line="51" column="9" />
         <mark key="[" line="51" column="9" />
         <mark key="]" line="52" column="9" />
@@ -1490,8 +1490,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBkYjEK</text>
+      <register name="&quot;" type="4">
+        <text>postgres</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1520,7 +1520,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>postgres</text>
       </register>
       <register name="m" type="4">
         <keys>
