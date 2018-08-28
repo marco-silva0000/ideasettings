@@ -254,11 +254,12 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1535390861275">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="118" column="82" />
+      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1535449230954">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
@@ -445,6 +446,8 @@
       <jump line="62" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="1" column="57" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="6" column="9" filename="$USER_HOME$/Projects/core/docker-compose.yml" />
+      <jump line="110" column="20" filename="$USER_HOME$/Projects/core/Pipfile" />
+      <jump line="10" column="31" filename="$USER_HOME$/Projects/core/Pipfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1518,7 +1521,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>\u</text>
+        <text>regantes</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1610,15 +1613,14 @@
       </register>
     </registers>
     <search>
-      <last-search>\u</last-search>
+      <last-search>regantes</last-search>
       <last-offset />
-      <last-pattern>\u</last-pattern>
+      <last-pattern>regantes</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
         <entry>common</entry>
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
@@ -1638,6 +1640,7 @@
         <entry encoding="base64">XDxjcm9wc1w+</entry>
         <entry encoding="base64">XDxSZWdpc3RyYXRpb25cPg==</entry>
         <entry>\u</entry>
+        <entry>regantes</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
