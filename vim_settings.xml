@@ -61,6 +61,7 @@
         <mark key="." line="2" column="147" />
         <mark key="^" line="2" column="147" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/utils/conf.py" timestamp="1535557795501" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1533295283585">
         <mark key="'" line="23" column="29" />
         <mark key="[" line="46" column="18" />
@@ -312,6 +313,9 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" timestamp="1535557829725">
+        <mark key="'" line="71" column="44" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -390,8 +394,8 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1535476407191">
-        <mark key="'" line="34" column="47" />
+      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1535557706852">
+        <mark key="'" line="429" column="31" />
         <mark key="[" line="562" column="55" />
         <mark key="]" line="562" column="56" />
         <mark key="." line="562" column="56" />
@@ -474,6 +478,8 @@
       <jump line="145" column="50" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/core/Pipfile" />
       <jump line="119" column="4" filename="$USER_HOME$/Projects/core/Pipfile" />
+      <jump line="429" column="31" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="71" column="44" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1662,7 +1668,7 @@ pycrypto = &quot;*&quot;
         </keys>
       </register>
       <register name="/" type="4">
-        <text>yasg</text>
+        <text encoding="base64">XDxURU1QRklMRVNfRElSRUNUT1JZX0lOX0RBVEFMT0dHRVJcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1869,15 +1875,14 @@ pycrypto = &quot;*&quot;
       </register>
     </registers>
     <search>
-      <last-search>yasg</last-search>
+      <last-search encoding="base64">XDxURU1QRklMRVNfRElSRUNUT1JZX0lOX0RBVEFMT0dHRVJcPg==</last-search>
       <last-offset />
-      <last-pattern>yasg</last-pattern>
+      <last-pattern encoding="base64">XDxURU1QRklMRVNfRElSRUNUT1JZX0lOX0RBVEFMT0dHRVJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>static</entry>
         <entry>frontend</entry>
         <entry>frotn</entry>
         <entry>front</entry>
@@ -1897,6 +1902,7 @@ pycrypto = &quot;*&quot;
         <entry encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</entry>
         <entry>v2</entry>
         <entry>yasg</entry>
+        <entry encoding="base64">XDxURU1QRklMRVNfRElSRUNUT1JZX0lOX0RBVEFMT0dHRVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
