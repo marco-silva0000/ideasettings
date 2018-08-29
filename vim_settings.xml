@@ -9,6 +9,9 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1535538551168">
+        <mark key="'" line="145" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="36" />
@@ -92,7 +95,7 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/urls.py" timestamp="1535534344793" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/urls.py" timestamp="1535537308410" />
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" timestamp="1533556983644">
         <mark key="'" line="157" column="20" />
         <mark key="[" line="52" column="11" />
@@ -183,6 +186,13 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="22" column="54" />
         <mark key="^" line="22" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" timestamp="1535538691042">
+        <mark key="'" line="459" column="48" />
+        <mark key="[" line="491" column="15" />
+        <mark key="]" line="491" column="21" />
+        <mark key="^" line="491" column="21" />
+        <mark key="." line="491" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/templates/index.html" timestamp="1531389513481">
         <mark key="[" line="7" column="13" />
@@ -285,8 +295,12 @@
       <file name="/Django Console" timestamp="1535473627038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1535534337933">
-        <mark key="'" line="19" column="62" />
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1535539153843">
+        <mark key="'" line="34" column="62" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1534761625860">
         <mark key="[" line="27" column="29" />
@@ -294,6 +308,7 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" timestamp="1535538562642" />
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -362,11 +377,11 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535469909223">
-        <mark key="[" line="83" column="14" />
-        <mark key="]" line="83" column="14" />
-        <mark key="^" line="83" column="14" />
-        <mark key="." line="83" column="14" />
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535539224484">
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="35" />
+        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535384047107">
         <mark key="[" line="49" column="19" />
@@ -453,6 +468,9 @@
       <jump line="80" column="37" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
       <jump line="53" column="64" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
       <jump line="19" column="62" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
+      <jump line="459" column="48" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="168" column="28" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
+      <jump line="145" column="50" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1488,7 +1506,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>WIP</text>
+        <text>_replica</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1517,7 +1535,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>WIP</text>
+        <text>_replica</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1535,14 +1553,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIG1vdGVfbW9kZWwgPT0gJ0xvcmEgQXJhZCBHbGFkaWF0b3IgdjEnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlY29kZV9sb3JhX2dsYWRpYXRvcl92MShwYXlsb2FkLCB0aW1lc3RhbXAsIHZhcl9uYW1lKQo=</text>
+      <register name="0" type="4">
+        <text>kwargs['org']}</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlX3R5cGUsIGN1cnJlbnRfcmVhZCwgZmFjdG9yLCB0aW1lX2Zyb21fbGFzdF9yZWFkLCB0aW1lX2JldHdlZW5fcmVhZHMsIGxvZ19yZWFkLCBhbGFybXMsIGJhdHRlcnlfbGV2ZWwgPSBkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZChwYXlsb2FkKQo=</text>
+        <text encoding="base64">ICAgICAgdGVybXNfb2Zfc2VydmljZT0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9wb2xpY2llcy90ZXJtcy8iLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1584,31 +1602,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvZ19yZWFkLCBbMTAsIDEwLCAxMCwgMTBdKQo=</text>
+        <text encoding="base64">ICAgICAgbGljZW5zZT1vcGVuYXBpLkxpY2Vuc2UobmFtZT0iQlNEIExpY2Vuc2UiKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFsYXJtcywgYmluKDgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYmF0dGVyeV9sZXZlbCwgMzY2OCAvIDEwMDAuMCkK</text>
+        <text encoding="base64">ICAgdmFsaWRhdG9ycz1bJ2ZsZXgnLCAnc3N2J10sCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bWVzc2FnZV90eXBlLCBjdXJyZW50X3JlYWQsIGZhY3RvciwgdGltZV9mcm9tX2xhc3RfcmVhZCwgdGltZV9iZXR3ZWVuX3JlYWRzLCBsb2dfcmVhZCwgYWxhcm1zLCBiYXR0ZXJ5X2xldmVsIFwKICAgICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgcGVybWlzc2lvbl9jbGFzc2VzPShwZXJtaXNzaW9ucy5BbGxvd0FueSwpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlX3R5cGUsIGN1cnJlbnRfcmVhZCwgZmFjdG9yLCB0aW1lX2Zyb21fbGFzdF9yZWFkLCB0aW1lX2JldHdlZW5fcmVhZHMsIGxvZ19yZWFkLCBhbGFybXMsIGJhdHRlcnlfbGV2ZWwgPSBkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZChwYXlsb2FkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ19yZWFkID0gW2xpdHRsZV9lbmRfMl9iaWdfZW5kX3N0cmluZ19pbl9pbnRfb3V0X2NvbnZlcnRlcihwYXlsb2FkWzMyICsgaTozMiArIGkgKyA4XSkgZm9yIGkgaW4gcmFuZ2UoMSwgMzIsIDgpXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvZ19yZWFkLCBbMTAsIDEwLCAxMCwgMTBdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG1lc3NhZ2VfdHlwZSA9PSAyOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFsYXJtcywgYmluKDgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYmF0dGVyeV9sZXZlbCwgMzY2OCAvIDEwMDAuMCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">bWVzc2FnZV90eXBlLCBjdXJyZW50X3JlYWQsIGZhY3RvciwgdGltZV9mcm9tX2xhc3RfcmVhZCwgdGltZV9iZXR3ZWVuX3JlYWRzLCBsb2dfcmVhZCwgYWxhcm1zLCBiYXR0ZXJ5X2xldmVsIFwKICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsaWYgbWVzc2FnZV90eXBlID09IDE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
