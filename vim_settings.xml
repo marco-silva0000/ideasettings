@@ -292,6 +292,9 @@
       <file name="/Django Console" timestamp="1535473627038">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1535533642566">
+        <mark key="'" line="53" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1534761625860">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="37" />
@@ -455,6 +458,7 @@
       <jump line="34" column="47" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="17" column="23" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
       <jump line="80" column="37" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="53" column="64" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
