@@ -95,7 +95,6 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/urls.py" timestamp="1535537308410" />
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" timestamp="1533556983644">
         <mark key="'" line="157" column="20" />
         <mark key="[" line="52" column="11" />
@@ -254,6 +253,11 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1535555014664">
+        <mark key="'" line="119" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="123" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
@@ -295,12 +299,12 @@
       <file name="/Django Console" timestamp="1535473627038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1535539153843">
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1535554753570">
         <mark key="'" line="34" column="62" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1534761625860">
         <mark key="[" line="27" column="29" />
@@ -308,7 +312,6 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" timestamp="1535538562642" />
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -335,10 +338,8 @@
         <mark key="." line="45" column="40" />
         <mark key="^" line="45" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535476447005">
+      <file name="/Dummy.txt" timestamp="1535555019579">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
@@ -377,9 +378,9 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535539224484">
-        <mark key="[" line="60" column="26" />
-        <mark key="]" line="60" column="26" />
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535554846878">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="15" />
         <mark key="^" line="60" column="35" />
         <mark key="." line="60" column="26" />
       </file>
@@ -471,6 +472,8 @@
       <jump line="459" column="48" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
       <jump line="168" column="28" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
       <jump line="145" column="50" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/core/Pipfile" />
+      <jump line="119" column="4" filename="$USER_HOME$/Projects/core/Pipfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1506,7 +1509,122 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_replica</text>
+        <text>[packages]
+alabaster = &quot;==0.7.9&quot;
+amqp = &quot;==2.2.1&quot;
+anyjson = &quot;==0.3.3&quot;
+appnope = &quot;==0.1.0&quot;
+asgi-redis = &quot;==1.4.0&quot;
+asgiref = &quot;==1.1.2&quot;
+attrs = &quot;==17.2.0&quot;
+autobahn = &quot;==17.6.1&quot;
+automat = &quot;==0.6.0&quot;
+babel = &quot;==2.3.4&quot;
+billiard = &quot;==3.5.0.3&quot;
+celery = &quot;==4.1.0&quot;
+cffi = &quot;==1.9.1&quot;
+channels = &quot;==1.1.3&quot;
+click = &quot;==6.7&quot;
+constantly = &quot;==15.1.0&quot;
+cryptography = &quot;*&quot;
+cycler = &quot;==0.10.0&quot;
+daphne = &quot;==1.2.0&quot;
+decorator = &quot;==4.0.9&quot;
+django = &quot;==1.11.7&quot;
+django-attachments = &quot;==0.3.1&quot;
+django-autofixture = &quot;==0.12.1&quot;
+django-celery-beat = &quot;==1.0.1&quot;
+django-celery-results = &quot;==1.0.1&quot;
+django-extensions = &quot;==1.7.9&quot;
+django-filer = &quot;*&quot;
+django-mptt = &quot;==0.8.0&quot;
+django-polymorphic = &quot;==0.8.1&quot;
+djangorestframework = &quot;==3.7.7&quot;
+docutils = &quot;==0.12&quot;
+easy-thumbnails = &quot;==2.3&quot;
+&quot;enum34&quot; = &quot;==1.1.6&quot;
+ephem = &quot;==3.7.6.0&quot;
+et-xmlfile = &quot;==1.0.1&quot;
+faker = &quot;==0.7.18&quot;
+first = &quot;==2.0.1&quot;
+funcsigs = &quot;==1.0.2&quot;
+gnureadline = &quot;*&quot;
+&quot;html5lib&quot; = &quot;==1.0b8&quot;
+&quot;httplib2&quot; = &quot;==0.9.2&quot;
+hyperlink = &quot;==17.1.1&quot;
+idna = &quot;==2.2&quot;
+imagesize = &quot;==0.7.1&quot;
+incremental = &quot;==17.5.0&quot;
+ipaddress = &quot;==1.0.18&quot;
+ipython = &quot;==4.1.2&quot;
+ipython-genutils = &quot;==0.1.0&quot;
+jdcal = &quot;==1.2&quot;
+&quot;jinja2&quot; = &quot;==2.8&quot;
+kombu = &quot;==4.1.0&quot;
+markupsafe = &quot;==0.23&quot;
+matplotlib = &quot;==1.5.2&quot;
+mock = &quot;==2.0.0&quot;
+msgpack-python = &quot;==0.4.8&quot;
+numpy = &quot;==1.13.3&quot;
+openpyxl = &quot;==2.3.5&quot;
+pandas = &quot;==0.18.0&quot;
+&quot;path.py&quot; = &quot;==8.1.2&quot;
+pbr = &quot;==1.10.0&quot;
+&quot;pep8&quot; = &quot;==1.7.0&quot;
+pexpect = &quot;==4.0.1&quot;
+pickleshare = &quot;==0.6&quot;
+pillow = &quot;==3.3.0&quot;
+pip-tools = &quot;==1.9.0&quot;
+psutil = &quot;==5.2.2&quot;
+&quot;psycopg2&quot; = &quot;==2.7.3&quot;
+ptyprocess = &quot;==0.5.1&quot;
+&quot;pyasn1&quot; = &quot;==0.1.9&quot;
+pycparser = &quot;==2.17&quot;
+pyftpdlib = &quot;==1.5.2&quot;
+pygments = &quot;==2.1.3&quot;
+pylibmc = &quot;*&quot;
+pymodbus = &quot;==1.2.0&quot;
+pyparsing = &quot;==2.1.10&quot;
+&quot;pypdf2&quot; = &quot;==1.26.0&quot;
+pyrabbit = &quot;==1.1.0&quot;
+pyserial = &quot;==3.1.1&quot;
+pysmb = &quot;==1.1.18&quot;
+pysmbclient = &quot;==0.1.3&quot;
+python-dateutil = &quot;==2.5.1&quot;
+pytz = &quot;==2017.2&quot;
+redis = &quot;==2.10.5&quot;
+reportlab = &quot;==3.3.0&quot;
+requests = &quot;==2.12.4&quot;
+requirements = &quot;==0.1&quot;
+rest-pandas = &quot;==0.4.0&quot;
+robotframework = &quot;==3.0.2&quot;
+&quot;robotframework-extendedselenium2library&quot; = &quot;==0.9.1&quot;
+&quot;robotframework-selenium2library&quot; = &quot;==1.8.0&quot;
+selenium = &quot;==3.0.2&quot;
+simplegeneric = &quot;==0.8.1&quot;
+slugify = &quot;==0.0.1&quot;
+snowballstemmer = &quot;==1.2.1&quot;
+sphinx = &quot;==1.4.5&quot;
+suds = &quot;==0.4&quot;
+tblib = &quot;==1.3.2&quot;
+traitlets = &quot;==4.2.1&quot;
+twisted = &quot;==17.5.0&quot;
+txaio = &quot;==2.8.0&quot;
+unidecode = &quot;==0.4.18&quot;
+vine = &quot;==1.1.4&quot;
+webencodings = &quot;==0.5&quot;
+&quot;xhtml2pdf&quot; = &quot;==0.0.6&quot;
+xlsxwriter = &quot;==0.9.6&quot;
+&quot;zope.interface&quot; = &quot;==4.2.0&quot;
+fulgurit-sensoring = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_sensoring.git&quot;}
+fulgurit-crops = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_crops.git&quot;}
+fulgurit-metering = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_metering.git&quot;}
+fulgurit-regantes = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_regantes.git&quot;}
+drf-yasg = &quot;*&quot;
+&quot;psycopg2-binary&quot; = &quot;*&quot;
+crypto = &quot;*&quot;
+pycrypto = &quot;*&quot;
+&quot;python-oauth2&quot; = &quot;*&quot;</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1535,7 +1653,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>_replica</text>
+        <text>False</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1544,7 +1662,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>v2</text>
+        <text>yasg</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1554,7 +1672,122 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>kwargs['org']}</text>
+        <text>[packages]
+alabaster = &quot;==0.7.9&quot;
+amqp = &quot;==2.2.1&quot;
+anyjson = &quot;==0.3.3&quot;
+appnope = &quot;==0.1.0&quot;
+asgi-redis = &quot;==1.4.0&quot;
+asgiref = &quot;==1.1.2&quot;
+attrs = &quot;==17.2.0&quot;
+autobahn = &quot;==17.6.1&quot;
+automat = &quot;==0.6.0&quot;
+babel = &quot;==2.3.4&quot;
+billiard = &quot;==3.5.0.3&quot;
+celery = &quot;==4.1.0&quot;
+cffi = &quot;==1.9.1&quot;
+channels = &quot;==1.1.3&quot;
+click = &quot;==6.7&quot;
+constantly = &quot;==15.1.0&quot;
+cryptography = &quot;*&quot;
+cycler = &quot;==0.10.0&quot;
+daphne = &quot;==1.2.0&quot;
+decorator = &quot;==4.0.9&quot;
+django = &quot;==1.11.7&quot;
+django-attachments = &quot;==0.3.1&quot;
+django-autofixture = &quot;==0.12.1&quot;
+django-celery-beat = &quot;==1.0.1&quot;
+django-celery-results = &quot;==1.0.1&quot;
+django-extensions = &quot;==1.7.9&quot;
+django-filer = &quot;*&quot;
+django-mptt = &quot;==0.8.0&quot;
+django-polymorphic = &quot;==0.8.1&quot;
+djangorestframework = &quot;==3.7.7&quot;
+docutils = &quot;==0.12&quot;
+easy-thumbnails = &quot;==2.3&quot;
+&quot;enum34&quot; = &quot;==1.1.6&quot;
+ephem = &quot;==3.7.6.0&quot;
+et-xmlfile = &quot;==1.0.1&quot;
+faker = &quot;==0.7.18&quot;
+first = &quot;==2.0.1&quot;
+funcsigs = &quot;==1.0.2&quot;
+gnureadline = &quot;*&quot;
+&quot;html5lib&quot; = &quot;==1.0b8&quot;
+&quot;httplib2&quot; = &quot;==0.9.2&quot;
+hyperlink = &quot;==17.1.1&quot;
+idna = &quot;==2.2&quot;
+imagesize = &quot;==0.7.1&quot;
+incremental = &quot;==17.5.0&quot;
+ipaddress = &quot;==1.0.18&quot;
+ipython = &quot;==4.1.2&quot;
+ipython-genutils = &quot;==0.1.0&quot;
+jdcal = &quot;==1.2&quot;
+&quot;jinja2&quot; = &quot;==2.8&quot;
+kombu = &quot;==4.1.0&quot;
+markupsafe = &quot;==0.23&quot;
+matplotlib = &quot;==1.5.2&quot;
+mock = &quot;==2.0.0&quot;
+msgpack-python = &quot;==0.4.8&quot;
+numpy = &quot;==1.13.3&quot;
+openpyxl = &quot;==2.3.5&quot;
+pandas = &quot;==0.18.0&quot;
+&quot;path.py&quot; = &quot;==8.1.2&quot;
+pbr = &quot;==1.10.0&quot;
+&quot;pep8&quot; = &quot;==1.7.0&quot;
+pexpect = &quot;==4.0.1&quot;
+pickleshare = &quot;==0.6&quot;
+pillow = &quot;==3.3.0&quot;
+pip-tools = &quot;==1.9.0&quot;
+psutil = &quot;==5.2.2&quot;
+&quot;psycopg2&quot; = &quot;==2.7.3&quot;
+ptyprocess = &quot;==0.5.1&quot;
+&quot;pyasn1&quot; = &quot;==0.1.9&quot;
+pycparser = &quot;==2.17&quot;
+pyftpdlib = &quot;==1.5.2&quot;
+pygments = &quot;==2.1.3&quot;
+pylibmc = &quot;*&quot;
+pymodbus = &quot;==1.2.0&quot;
+pyparsing = &quot;==2.1.10&quot;
+&quot;pypdf2&quot; = &quot;==1.26.0&quot;
+pyrabbit = &quot;==1.1.0&quot;
+pyserial = &quot;==3.1.1&quot;
+pysmb = &quot;==1.1.18&quot;
+pysmbclient = &quot;==0.1.3&quot;
+python-dateutil = &quot;==2.5.1&quot;
+pytz = &quot;==2017.2&quot;
+redis = &quot;==2.10.5&quot;
+reportlab = &quot;==3.3.0&quot;
+requests = &quot;==2.12.4&quot;
+requirements = &quot;==0.1&quot;
+rest-pandas = &quot;==0.4.0&quot;
+robotframework = &quot;==3.0.2&quot;
+&quot;robotframework-extendedselenium2library&quot; = &quot;==0.9.1&quot;
+&quot;robotframework-selenium2library&quot; = &quot;==1.8.0&quot;
+selenium = &quot;==3.0.2&quot;
+simplegeneric = &quot;==0.8.1&quot;
+slugify = &quot;==0.0.1&quot;
+snowballstemmer = &quot;==1.2.1&quot;
+sphinx = &quot;==1.4.5&quot;
+suds = &quot;==0.4&quot;
+tblib = &quot;==1.3.2&quot;
+traitlets = &quot;==4.2.1&quot;
+twisted = &quot;==17.5.0&quot;
+txaio = &quot;==2.8.0&quot;
+unidecode = &quot;==0.4.18&quot;
+vine = &quot;==1.1.4&quot;
+webencodings = &quot;==0.5&quot;
+&quot;xhtml2pdf&quot; = &quot;==0.0.6&quot;
+xlsxwriter = &quot;==0.9.6&quot;
+&quot;zope.interface&quot; = &quot;==4.2.0&quot;
+fulgurit-sensoring = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_sensoring.git&quot;}
+fulgurit-crops = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_crops.git&quot;}
+fulgurit-metering = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_metering.git&quot;}
+fulgurit-regantes = {git = &quot;ssh://git@89.115.238.62:10922/simoc/fulgurit_regantes.git&quot;}
+drf-yasg = &quot;*&quot;
+&quot;psycopg2-binary&quot; = &quot;*&quot;
+crypto = &quot;*&quot;
+pycrypto = &quot;*&quot;
+&quot;python-oauth2&quot; = &quot;*&quot;</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1636,15 +1869,14 @@
       </register>
     </registers>
     <search>
-      <last-search>v2</last-search>
+      <last-search>yasg</last-search>
       <last-offset />
-      <last-pattern>v2</last-pattern>
+      <last-pattern>yasg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSb290Vmlld1w+</entry>
         <entry>static</entry>
         <entry>frontend</entry>
         <entry>frotn</entry>
@@ -1664,6 +1896,7 @@
         <entry encoding="base64">XDxsaXR0bGVfZW5kXzJfYmlnX2VuZF9zdHJpbmdfaW5faW50X291dF9jb252ZXJ0ZXJcPg==</entry>
         <entry encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</entry>
         <entry>v2</entry>
+        <entry>yasg</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
