@@ -126,7 +126,17 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1535627504654" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1535627504654">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/.gitignore" timestamp="1535963995704">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
         <mark key="]" line="56" column="66" />
@@ -159,6 +169,12 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1534869817475">
+        <mark key="[" line="129" column="78" />
+        <mark key="]" line="129" column="92" />
+        <mark key="." line="129" column="92" />
+        <mark key="^" line="129" column="92" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531328020508">
         <mark key="[" line="51" column="35" />
         <mark key="]" line="52" column="0" />
@@ -180,6 +196,24 @@
         <mark key="]" line="48" column="89" />
         <mark key="^" line="48" column="87" />
         <mark key="." line="48" column="87" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegisterLandingPage.jsx" timestamp="1534776948042">
+        <mark key="'" line="57" column="11" />
+        <mark key="[" line="57" column="89" />
+        <mark key="]" line="57" column="96" />
+        <mark key="." line="57" column="96" />
+        <mark key="^" line="57" column="96" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/datalogger.py" timestamp="1533830725735">
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="0" />
+        <mark key="." line="284" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/PinedHeaderList/index.jsx" timestamp="1535965569068">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/clientUtils.js" timestamp="1533295663187">
         <mark key="[" line="3" column="16" />
@@ -344,6 +378,8 @@
       </file>
       <file name="/Dummy.txt" timestamp="1535555019579">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
@@ -1523,7 +1559,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>62</text>
+        <text>AutoCompleteSelect</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1552,7 +1588,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>62</text>
+        <text>AutoCompleteSelect</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1776,6 +1812,15 @@ pycrypto = &quot;*&quot;
     </search>
     <history>
       <history-search>
+        <entry>vol</entry>
+        <entry>html</entry>
+        <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
+        <entry>common</entry>
+        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
+        <entry encoding="base64">XDxSb290Vmlld1w+</entry>
+        <entry>static</entry>
+        <entry>frontend</entry>
         <entry>frotn</entry>
         <entry>front</entry>
         <entry>TEMP</entry>
@@ -1787,15 +1832,6 @@ pycrypto = &quot;*&quot;
         <entry>class</entry>
         <entry>text</entry>
         <entry encoding="base64">XDxjcm9wc1w+</entry>
-        <entry encoding="base64">XDxSZWdpc3RyYXRpb25cPg==</entry>
-        <entry>\u</entry>
-        <entry>regantes</entry>
-        <entry encoding="base64">XDxsaXR0bGVfZW5kXzJfYmlnX2VuZF9zdHJpbmdfaW5faW50X291dF9jb252ZXJ0ZXJcPg==</entry>
-        <entry encoding="base64">XDxkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZFw+</entry>
-        <entry>v2</entry>
-        <entry>yasg</entry>
-        <entry encoding="base64">XDxURU1QRklMRVNfRElSRUNUT1JZX0lOX0RBVEFMT0dHRVJcPg==</entry>
-        <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
@@ -1812,10 +1848,10 @@ pycrypto = &quot;*&quot;
         <entry>%s/Project/Epic/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
+        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>q</entry>
         <entry>2622</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
