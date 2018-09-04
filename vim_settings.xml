@@ -9,9 +9,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1535538551168">
-        <mark key="'" line="145" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="36" />
@@ -67,9 +64,6 @@
         <mark key="]" line="46" column="41" />
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1534871008964">
-        <mark key="'" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1532435805412">
         <mark key="[" line="15" column="30" />
@@ -300,6 +294,12 @@
         <mark key="^" line="1" column="136" />
         <mark key="." line="1" column="143" />
       </file>
+      <file name="$USER_HOME$/Projects/fulgurit-localization/package.json" timestamp="1536072390067">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/i18n.js" timestamp="1533225760869">
         <mark key="[" line="45" column="43" />
         <mark key="]" line="45" column="43" />
@@ -311,11 +311,6 @@
         <mark key="]" line="32" column="15" />
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1535555014664">
-        <mark key="'" line="119" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="123" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/src/PinedHeaderList/index.jsx" timestamp="1536069209218">
         <mark key="[" line="0" column="27" />
@@ -373,9 +368,6 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" timestamp="1535557829725">
-        <mark key="'" line="71" column="44" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -419,6 +411,12 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/fulgurit-localization/.gitignore" timestamp="1536071549951">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1531496267714">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -430,6 +428,11 @@
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="66" />
         <mark key="^" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/fulgurit-localization/src/i18n.js" timestamp="1536071907665">
+        <mark key="'" line="3" column="9" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" timestamp="1534871059149">
         <mark key="'" line="18" column="35" />
@@ -476,11 +479,22 @@
         <mark key="^" line="60" column="79" />
         <mark key="." line="54" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/fulgurit-localization/rollup.config.js" timestamp="1536072400065">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/babel.config.js" timestamp="1533225287725">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/fulgurit-localization/src/EgTranslatableComponent.jsx" timestamp="1536072016409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
@@ -550,6 +564,8 @@
       <jump line="524" column="70" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="492" column="133" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="486" column="66" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Projects/fulgurit-localization/src/i18n.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/Projects/fulgurit-localization/src/i18n.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1585,7 +1601,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AutoCompleteSelect</text>
+        <text>main</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1614,7 +1630,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>AutoCompleteSelect</text>
+        <text>main</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1623,7 +1639,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
+        <text encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1632,14 +1648,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>PinedHeaderListMenu</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IExhbmd1YWdlRGV0ZWN0b3IgZnJvbSAnaTE4bmV4dC1icm93c2VyLWxhbmd1YWdlZGV0ZWN0b3InCmltcG9ydCB7IHJlYWN0STE4bmV4dE1vZHVsZSB9IGZyb20gJ3JlYWN0LWkxOG5leHQnCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBBdXRvQ29tcGxldGVTZWxlY3QgfSBmcm9tICcuL0F1dG9Db21wbGV0ZVNlbGVjdCc7Cg==</text>
+        <text encoding="base64">ICAgICJpMThuZXh0IjoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1681,31 +1697,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVybXNfb2Zfc2VydmljZT0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9wb2xpY2llcy90ZXJtcy8iLAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGljZW5zZT1vcGVuYXBpLkxpY2Vuc2UobmFtZT0iQlNEIExpY2Vuc2UiKSwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgdmFsaWRhdG9ycz1bJ2ZsZXgnLCAnc3N2J10sCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgcGVybWlzc2lvbl9jbGFzc2VzPShwZXJtaXNzaW9ucy5BbGxvd0FueSwpLAo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlX3R5cGUsIGN1cnJlbnRfcmVhZCwgZmFjdG9yLCB0aW1lX2Zyb21fbGFzdF9yZWFkLCB0aW1lX2JldHdlZW5fcmVhZHMsIGxvZ19yZWFkLCBhbGFybXMsIGJhdHRlcnlfbGV2ZWwgPSBkZWNvZGVfbG9yYV9nbGFkaWF0b3JfdjFfcGF5bG9hZChwYXlsb2FkKQo=</text>
+        <text encoding="base64">ICAgICAgICB7aTE4bi50KCdfaGVsbG9fJyl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxvZ19yZWFkLCBbMTAsIDEwLCAxMCwgMTBdKQo=</text>
+        <text encoding="base64">ICAgICAgICB7aTE4bi50KCdfdGVzdF9rZXlfJyl9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFsYXJtcywgYmluKDgpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYmF0dGVyeV9sZXZlbCwgMzY2OCAvIDEwMDAuMCkK</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bWVzc2FnZV90eXBlLCBjdXJyZW50X3JlYWQsIGZhY3RvciwgdGltZV9mcm9tX2xhc3RfcmVhZCwgdGltZV9iZXR3ZWVuX3JlYWRzLCBsb2dfcmVhZCwgYWxhcm1zLCBiYXR0ZXJ5X2xldmVsIFwKICAgICAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1715,15 +1731,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
+      <last-search encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vol</entry>
         <entry>html</entry>
         <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
@@ -1743,6 +1758,7 @@
         <entry>class</entry>
         <entry>text</entry>
         <entry encoding="base64">XDxjcm9wc1w+</entry>
+        <entry encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
