@@ -81,7 +81,6 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/app/main/main/partials/trends-material.html" timestamp="1536145611358" />
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="19" />
@@ -289,17 +288,24 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1535554846878">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="15" />
-        <mark key="^" line="60" column="35" />
-        <mark key="." line="60" column="26" />
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1536155964280">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="90" column="4" />
+        <mark key="]" line="90" column="3" />
+        <mark key="^" line="90" column="3" />
+        <mark key="." line="90" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535384047107">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="49" column="19" />
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1536155733360">
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+        <mark key="^" line="59" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -383,6 +389,7 @@
       <jump line="486" column="66" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="35" column="20" filename="/ScheduleSetpoint.jsx" />
       <jump line="228" column="0" filename="/ScheduleSetpoint.jsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1418,7 +1425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWlncmF0ZSAmJiBwaXBlbnYgcnVuIHB5dGhvbiAvY29kZS9tYW5hZ2UucHkgbWlncmF0ZSAtLWRhdGFiYXNlPWRhdGFsb2dfZGIgJiYgcGlwZW52IHJ1biBweXRob24gL2NvZGUvbWFuYWdlLnB5IHJ1bnNlcnZlciAwLjAuMC4wOjgwMDA=</text>
+        <text>runserver</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1447,7 +1454,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWlncmF0ZSAmJiBwaXBlbnYgcnVuIHB5dGhvbiAvY29kZS9tYW5hZ2UucHkgbWlncmF0ZSAtLWRhdGFiYXNlPWRhdGFsb2dfZGIgJiYgcGlwZW52IHJ1biBweXRob24gL2NvZGUvbWFuYWdlLnB5IHJ1bnNlcnZlciAwLjAuMC4wOjgwMDA=</text>
+        <text>runserver</text>
       </register>
       <register name="m" type="4">
         <keys>
