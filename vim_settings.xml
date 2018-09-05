@@ -1424,8 +1424,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>runserver</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IjgyNDVjZjkiID0ge3BhdGggPSAiL3Byb2plY3RzL2Nyb3BzIiwgZWRpdGFibGUgPSB0cnVlfQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1473,7 +1473,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IGJhc2ggLWMgInBpcGVudiBydW4gcHl0aG9uIC9jb2RlL21hbmFnZS5weSBtaWdyYXRlICYmIHBpcGVudiBydW4gcHl0aG9uIC9jb2RlL21hbmFnZS5weSBtaWdyYXRlIC0tZGF0YWJhc2U9ZGF0YWxvZ19kYiAmJiBwaXBlbnYgcnVuIHB5dGhvbiAvY29kZS9tYW5hZ2UucHkgcnVuc2VydmVyIDAuMC4wLjA6ODAwMCIK</text>
+        <text encoding="base64">IjgyNDVjZjkiID0ge3BhdGggPSAiL3Byb2plY3RzL2Nyb3BzIiwgZWRpdGFibGUgPSB0cnVlfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
