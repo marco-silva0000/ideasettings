@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" timestamp="1536356422292">
+        <mark key="'" line="261" column="22" />
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="362" column="0" />
+        <mark key="." line="362" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/.gitignore" timestamp="1533920276916">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="4" />
@@ -17,6 +23,18 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" timestamp="1536355930927">
+        <mark key="'" line="326" column="8" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="m" line="237" column="8" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/timers/models.py" timestamp="1536356512553">
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="0" />
+        <mark key="." line="344" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
@@ -57,14 +75,14 @@
       <file name="/projects/metering/metering/urls.py" timestamp="1536245441133">
         <mark key="'" line="18" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/core/docker-compose.test.yml" timestamp="1536337035331">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1534871008964">
         <mark key="'" line="1" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/management/commands/validade_parcels.py" timestamp="1536356475584">
+        <mark key="'" line="91" column="14" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1532435805412">
         <mark key="[" line="15" column="30" />
@@ -84,11 +102,24 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1536356459661">
+        <mark key="'" line="842" column="23" />
+        <mark key="[" line="860" column="0" />
+        <mark key="]" line="860" column="0" />
+        <mark key="." line="860" column="0" />
+        <mark key="^" line="828" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1533229362212">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="14" column="55" />
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/timers/test.py" timestamp="1536355873844">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
         <mark key="[" line="0" column="19" />
@@ -115,12 +146,6 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/tests.py" timestamp="1536336081794">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitlab-ci.yml" timestamp="1531223348152">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="3" column="10" />
@@ -132,12 +157,6 @@
         <mark key="]" line="30" column="23" />
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
@@ -156,6 +175,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="113" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/svg_manager/api.py" timestamp="1536356492896">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533229888049">
         <mark key="[" line="14" column="3" />
@@ -256,11 +281,20 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/system_logs/serializers.py" timestamp="1536356505055">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
         <mark key="]" line="2" column="143" />
         <mark key="^" line="2" column="143" />
         <mark key="." line="2" column="143" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/environmental_control/management/commands/validade_windows.py" timestamp="1536356249264">
+        <mark key="'" line="0" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/docker-compose.yml" timestamp="1533831795590">
         <mark key="[" line="10" column="11" />
@@ -273,6 +307,20 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1536356065570">
+        <mark key="'" line="58" column="5" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="247" column="12" />
+        <mark key="." line="247" column="12" />
+        <mark key="^" line="247" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/serializers.py" timestamp="1536356344583">
+        <mark key="'" line="438" column="10" />
+        <mark key="[" line="161" column="31" />
+        <mark key="]" line="161" column="31" />
+        <mark key="." line="161" column="31" />
+        <mark key="^" line="161" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1534761625860">
         <mark key="[" line="27" column="29" />
@@ -298,6 +346,13 @@
       <file name="/ScheduleSetpoint.jsx" timestamp="1536135671110">
         <mark key="'" line="228" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/channels/consumers.py" timestamp="1536356622709">
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="21" column="40" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536339796565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -315,17 +370,16 @@
         <mark key="." line="36" column="59" />
         <mark key="^" line="36" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/equipment_datalog/views.py" timestamp="1536356282549">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1531496267714">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1536337977710">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/index.js" timestamp="1531500360228">
         <mark key="[" line="0" column="49" />
@@ -338,6 +392,18 @@
         <mark key="]" line="11" column="28" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/test.py" timestamp="1536355843971">
+        <mark key="'" line="685" column="10" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1536356312831">
+        <mark key="[" line="538" column="12" />
+        <mark key="]" line="538" column="24" />
+        <mark key="." line="538" column="24" />
+        <mark key="^" line="538" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1536161213844">
         <mark key="'" line="27" column="0" />
@@ -352,11 +418,11 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1536325917760">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="12" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="59" column="21" />
+      <file name="$USER_HOME$/Projects/core/apps/environmental_control/tests.py" timestamp="1536355732604">
+        <mark key="'" line="121" column="10" />
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="0" />
+        <mark key="." line="369" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -370,6 +436,16 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/reports/api.py" timestamp="1536356286914">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/alerts/models.py" timestamp="1536356556853">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
         <mark key="]" line="154" column="37" />
@@ -378,76 +454,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="25276" column="6" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="26488" column="6" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="26614" column="2" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="23" column="29" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/buildingUtils.js" />
-      <jump line="27667" column="18" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="31586" column="75" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="36177" column="17" filename="$USER_HOME$/PycharmProjects/regantes/frontend/dist/bundle.js" />
-      <jump line="31" column="52" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/mainES6.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/registerUtils.js" />
-      <jump line="58" column="6" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/RegisterLandingPage.jsx" />
-      <jump line="56" column="13" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingLandingPage.jsx" />
-      <jump line="55" column="43" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
-      <jump line="18" column="42" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
-      <jump line="22" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/cropsUtils.js" />
-      <jump line="84" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="88" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="120" column="35" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="135" column="41" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="153" column="34" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="205" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="64" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="68" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
-      <jump line="21" column="51" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/cropsUtils.js" />
-      <jump line="157" column="20" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
-      <jump line="83" column="20" filename="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" />
-      <jump line="18" column="35" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="62" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="4" column="46" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="66" column="23" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="68" column="35" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="41" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="1" column="57" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="6" column="9" filename="$USER_HOME$/Projects/core/docker-compose.yml" />
-      <jump line="110" column="20" filename="$USER_HOME$/Projects/core/Pipfile" />
-      <jump line="10" column="31" filename="$USER_HOME$/Projects/core/Pipfile" />
-      <jump line="51" column="9" filename="$USER_HOME$/Projects/core/Dockerfile" />
-      <jump line="34" column="47" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="17" column="23" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
-      <jump line="80" column="37" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
-      <jump line="53" column="64" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
-      <jump line="19" column="62" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
-      <jump line="459" column="48" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
-      <jump line="168" column="28" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
-      <jump line="145" column="50" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/core/Pipfile" />
-      <jump line="119" column="4" filename="$USER_HOME$/Projects/core/Pipfile" />
-      <jump line="429" column="31" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="71" column="44" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" />
-      <jump line="563" column="66" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="559" column="66" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="556" column="94" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="555" column="88" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="529" column="137" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="524" column="70" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="492" column="133" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="486" column="66" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="35" column="20" filename="/ScheduleSetpoint.jsx" />
-      <jump line="228" column="0" filename="/ScheduleSetpoint.jsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
-      <jump line="18" column="71" filename="/projects/metering/metering/urls.py" />
-      <jump line="20" column="12" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
-      <jump line="3" column="137" filename="$USER_HOME$/Projects/regantes-backend/dockerbuild.sh" />
-      <jump line="1" column="51" filename="$USER_HOME$/Projects/regantes-backend/test.sh" />
-      <jump line="5" column="10" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
-      <jump line="33" column="67" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
-      <jump line="9" column="2" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="333" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="372" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="378" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="379" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="386" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="444" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="452" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="458" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="668" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="674" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="680" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="686" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="667" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="673" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="679" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="685" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/core/apps/timers/test.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="96" column="24" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="650" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="20" column="9" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="44" column="18" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="49" column="18" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="232" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="233" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="234" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="235" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="236" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="237" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="238" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="239" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="241" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="242" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="243" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="244" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="245" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="247" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="273" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="287" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="311" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="316" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="317" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="321" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="322" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="326" column="8" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
+      <jump line="58" column="5" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/Projects/core/apps/environmental_control/management/commands/validade_windows.py" />
+      <jump line="96" column="8" filename="$USER_HOME$/Projects/core/apps/environmental_control/management/commands/validade_windows.py" />
+      <jump line="0" column="50" filename="$USER_HOME$/Projects/core/apps/environmental_control/management/commands/validade_windows.py" />
+      <jump line="161" column="30" filename="$USER_HOME$/Projects/core/apps/sprinklers/serializers.py" />
+      <jump line="439" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/serializers.py" />
+      <jump line="438" column="10" filename="$USER_HOME$/Projects/core/apps/sprinklers/serializers.py" />
+      <jump line="149" column="23" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="150" column="23" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="341" column="14" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="359" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="362" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="265" column="22" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="269" column="22" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="277" column="18" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="338" column="18" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="261" column="22" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="493" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="499" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="828" column="8" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="338" column="12" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="345" column="12" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="459" column="8" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="472" column="8" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="523" column="12" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="842" column="23" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/management/commands/validade_parcels.py" />
+      <jump line="88" column="14" filename="$USER_HOME$/Projects/core/apps/sprinklers/management/commands/validade_parcels.py" />
+      <jump line="87" column="14" filename="$USER_HOME$/Projects/core/apps/sprinklers/management/commands/validade_parcels.py" />
+      <jump line="234" column="0" filename="$USER_HOME$/Projects/core/apps/svg_manager/api.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Projects/core/apps/system_logs/serializers.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Projects/core/apps/system_logs/serializers.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/core/apps/system_logs/serializers.py" />
+      <jump line="12" column="37" filename="$USER_HOME$/Projects/core/fulgurit/channels/consumers.py" />
+      <jump line="20" column="15" filename="$USER_HOME$/Projects/core/fulgurit/channels/consumers.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/Projects/core/fulgurit/channels/consumers.py" />
+      <jump line="30" column="31" filename="$USER_HOME$/Projects/core/fulgurit/channels/consumers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1483,7 +1589,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CONTAINER_TEST_IMAGE</text>
+        <text>info</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1512,7 +1618,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>CONTAINER_TEST_IMAGE</text>
+        <text>info</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1521,7 +1627,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
+        <text>print</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1537,7 +1643,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggZ2l0bGFiLmNvbS9mdWxndXJpdC9yZWdhbnRlcy9yZWdhbnRlcy1iYWNrZW5kOiRDSV9CVUlMRF9SRUZfTkFNRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIlcyAsICVzIiAlIChzZWxmLnByb2Nlc3NlZF9kYXRhLnZhbHVlLCBzZWxmLnRyaWdnZXJfdmFsdWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1579,31 +1685,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInByb2Nlc3NlZF9kYXRhLnZhbHVlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgYmVmb3JlX3NjcmlwdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaG91cnNfdG9fcnVuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZW5kX2hvdXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgYmVmb3JlX3NjcmlwdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RhcnRfaG91cikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBDSV9ERUJVR19UUkFDRTogInRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgb2JqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgdmFyaWFibGVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgc2VyaWFsaXplci5lcnJvcnMK</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgYQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1613,18 +1719,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>frotn</entry>
-        <entry>front</entry>
-        <entry>TEMP</entry>
-        <entry>fort</entry>
         <entry>export</entry>
         <entry encoding="base64">XDxzaG93RXhwb3J0XD4=</entry>
         <entry>prop</entry>
@@ -1641,6 +1743,10 @@
         <entry>yasg</entry>
         <entry encoding="base64">XDxURU1QRklMRVNfRElSRUNUT1JZX0lOX0RBVEFMT0dHRVJcPg==</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
+        <entry>logg</entry>
+        <entry>logger</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
