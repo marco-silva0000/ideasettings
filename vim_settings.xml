@@ -122,11 +122,11 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536314948119">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536319391726">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
@@ -288,7 +288,7 @@
       <file name="/ScheduleSetpoint.jsx" timestamp="1536135671110">
         <mark key="'" line="228" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536314910049">
+      <file name="/Dummy.txt" timestamp="1536319525901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -312,7 +312,7 @@
         <mark key="^" line="0" column="46" />
       </file>
       <file name="/projects/metering/metering/api.py" timestamp="1536247061623" />
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1536314798905">
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1536318654773">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="38" />
         <mark key="." line="23" column="21" />
@@ -1478,7 +1478,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0kKGdpdCBzeW1ib2xpYy1yZWYgSEVBRCB8IHNlZCAtZSAncywuKi9cKC4qXCksXDEsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1507,7 +1507,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>$( cat ~/.ssh/id_rsa.pub )</text>
+        <text>.pub</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1525,14 +1525,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>$(git symbolic-ref HEAD | sed -e 's,.*/\(.*\),\1,')</text>
+      <register name="0" type="2">
+        <text encoding="base64">UlVOIGNhdCAvcm9vdC8uc3NoL2lkX3JzYS5wdWIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0kKGdpdCBzeW1ib2xpYy1yZWYgSEVBRCB8IHNlZCAtZSAncywuKi9cKC4qXCksXDEsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1574,31 +1574,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGNhdCAvcm9vdC8uc3NoL2lkX3JzYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QlJBTkNIPSQoZ2l0IHN5bWJvbGljLXJlZiBIRUFEIHwgc2VkIC1lICdzLC4qL1woLipcKSxcMSwnKQo=</text>
+        <text encoding="base64">UlVOIGNhdCAvcm9vdC8uc3NoL2tub3duX2hvc3RzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAke1NTSF9QVUJMSUNfS0VZfQo=</text>
+        <text encoding="base64">ZXhwb3J0IEJSQU5DSD0kKGdpdCBzeW1ib2xpYy1yZWYgSEVBRCB8IHNlZCAtZSAncywuKi9cKC4qXCksXDEsJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAke1NTSF9QVUJMSUNfS0VZfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IFNTSF9QVUJMSUNfS0VZPSR7U1NIX1BVQkxJQ19LRVk6PSIkKCBjYXQgfi8uc3NoL2lkX3JzYS5wdWIgKSJ9Cg==</text>
+        <text encoding="base64">QlJBTkNIPSQoZ2l0IHN5bWJvbGljLXJlZiBIRUFEIHwgc2VkIC1lICdzLC4qL1woLipcKSxcMSwnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IFNTSF9QVUJMSUNfS0VZPSIkKCBjYXQgfi8uc3NoL2lkX3JzYS5wdWIgKSIK</text>
+        <text encoding="base64">ZWNobyAke1NTSF9QVUJMSUNfS0VZfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVnaXN0cmF0aW9uIGFwaSBhbmQgYmFja2VuZCwgcmVhZCBvbmx5Cg==</text>
+        <text encoding="base64">ZWNobyAke1NTSF9QVUJMSUNfS0VZfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGRlcGxveQo=</text>
+        <text encoding="base64">ZXhwb3J0IFNTSF9QVUJMSUNfS0VZPSR7U1NIX1BVQkxJQ19LRVk6PSIkKCBjYXQgfi8uc3NoL2lkX3JzYS5wdWIgKSJ9Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
