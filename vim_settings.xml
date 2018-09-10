@@ -18,6 +18,12 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1536596864419">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="94" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="25" />
@@ -36,9 +42,9 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1536596021294">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="26" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1536596844381">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="54" />
         <mark key="." line="39" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
@@ -94,6 +100,17 @@
         <mark key="]" line="14" column="55" />
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/NewRegistrationDialog.jsx" timestamp="1536596924190">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" timestamp="1536596877027">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
@@ -261,6 +278,10 @@
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" timestamp="1536596896056">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="72" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="27" column="51" />
@@ -365,10 +386,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536567391963">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1536596945318">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
@@ -552,6 +573,7 @@
       <jump line="33" column="67" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
       <jump line="9" column="2" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
       <jump line="10" column="32" filename="$USER_HOME$/Projects/regantes-frontend/Dockerfile" />
+      <jump line="26" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/NewRegistrationDialog.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,8 +1608,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtBdXRvQ29tcGxldGVTZWxlY3R9IGZyb20gJ2Z1bGd1cml0LXJldXNhYmxlLWNvbXBvbmVudHMnCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1616,7 +1638,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>CreatableAutoCompleteSelect</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1625,7 +1647,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2RlXD4=</text>
+        <text encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1634,14 +1656,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cyI6ICJ4LngueCIsCg==</text>
+      <register name="0" type="4">
+        <text>AutoCompleteSelect</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cyI6ICIwLngueCIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRvQ29tcGxldGVTZWxlY3R9IGZyb20gJ2Z1bGd1cml0LXJldXNhYmxlLWNvbXBvbmVudHMnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1683,31 +1705,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1yZXVzYWJsZS1jb21wb25lbnRzIjogIjAuMC54Igo=</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdC5qc3gnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IEdJVExBQl9FTUFJTD1tc2lsdmFAaHViZWwucHQK</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IEdJVExBQl9UT0tFTj1MeE5xa0xXSGlTSy1oRmlROExDZAo=</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IEdJVExBQl9VU0VSTkFNRT1tYXJjby1zaWx2YQo=</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJChjYXQgL2NvZGUvLnlhcm5yYykK</text>
+        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cyI6ICIwLngueCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJChjYXQgL2NvZGUvLm5wbXJjKQo=</text>
+        <text encoding="base64">ICAgICJmdWxndXJpdC1yZXVzYWJsZS1jb21wb25lbnRzIjogIjAuMC54Igo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJChscyAtYWwgL2NvZGUpCg==</text>
+        <text encoding="base64">ZXhwb3J0IEdJVExBQl9FTUFJTD1tc2lsdmFAaHViZWwucHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGVjaG8gIiR7TlBNUkN9IiA+IC9jb2RlLy5ucG1yYwo=</text>
+        <text encoding="base64">ZXhwb3J0IEdJVExBQl9UT0tFTj1MeE5xa0xXSGlTSy1oRmlROExDZAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1717,15 +1739,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2RlXD4=</last-search>
+      <last-search encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
         <entry>common</entry>
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
@@ -1745,6 +1766,7 @@
         <entry encoding="base64">XDxjcm9wc1w+</entry>
         <entry encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
