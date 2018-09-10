@@ -335,11 +335,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1536576454458">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1536580007082">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" timestamp="1535557829725">
         <mark key="'" line="71" column="44" />
@@ -411,6 +411,12 @@
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536579653838">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="5" column="282" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/index.js" timestamp="1531500360228">
         <mark key="[" line="0" column="49" />
@@ -1580,7 +1586,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>USERNAME</text>
+        <text>npm-cli-login</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1609,7 +1615,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>USERNAME</text>
+        <text>npm-cli-login</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1628,13 +1634,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVJHIEdJVExBQl9VU0VSTkFNRQo=</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIG5wbS1jbGktbG9naW4K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggZ2l0bGFiLmNvbS9mdWxndXJpdC9yZWdhbnRlcy9yZWdhbnRlcy1iYWNrZW5kOiRDSV9CVUlMRF9SRUZfTkFNRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1676,31 +1682,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
+        <text encoding="base64">LS1idWlsZC1hcmcgU1NIX1BVQkxJQ19LRVk9IiQoIGNhdCB+Ly5zc2gvaWRfcnNhLnB1YiApIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgYmVmb3JlX3NjcmlwdDoK</text>
+        <text encoding="base64">LS1idWlsZC1hcmcgU1NIX1BVQkxJQ19LRVk9IiQoIGNhdCB+Ly5zc2gvaWRfcnNhLnB1YiApIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
+        <text encoding="base64">UlVOIG5wbSBzZXQgcmVnaXN0cnkgJE5QTV9SRUdJU1RFUlkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgYmVmb3JlX3NjcmlwdDoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgpDT1BZ</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBDSV9ERUJVR19UUkFDRTogInRydWUiCg==</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggZ2l0bGFiLmNvbS9mdWxndXJpdC9yZWdhbnRlcy9yZWdhbnRlcy1iYWNrZW5kOiRDSV9CVUlMRF9SRUZfTkFNRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgdmFyaWFibGVzOgo=</text>
+        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyAgYmVmb3JlX3NjcmlwdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
