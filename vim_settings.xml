@@ -335,11 +335,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1534761625860">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1536576454458">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" timestamp="1535557829725">
         <mark key="'" line="71" column="44" />
@@ -1580,7 +1580,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i18n fixe</text>
+        <text>USERNAME</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1609,7 +1609,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>i18n fixe</text>
+        <text>USERNAME</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1627,8 +1627,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>CONTAINER_RELEASE_IMAGE</text>
+      <register name="0" type="2">
+        <text encoding="base64">QVJHIEdJVExBQl9VU0VSTkFNRQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
