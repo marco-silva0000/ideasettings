@@ -36,10 +36,10 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1536595332815">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1536596021294">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -1586,8 +1586,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cyI6ICIwLngueCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1616,7 +1616,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>ssh/id_rsa.pub</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
