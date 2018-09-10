@@ -335,11 +335,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1536591097592">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="50" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/Dockerfile" timestamp="1536593149962">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/utilities.py" timestamp="1535557829725">
         <mark key="'" line="71" column="44" />
@@ -412,11 +413,11 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536590801447">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536592103149">
+        <mark key="[" line="5" column="224" />
+        <mark key="]" line="5" column="238" />
+        <mark key="^" line="5" column="238" />
+        <mark key="." line="5" column="238" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/index.js" timestamp="1531500360228">
         <mark key="[" line="0" column="49" />
@@ -551,6 +552,7 @@
       <jump line="5" column="10" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
       <jump line="33" column="67" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
       <jump line="9" column="2" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
+      <jump line="10" column="32" filename="$USER_HOME$/Projects/regantes-frontend/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,7 +1588,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHdlYnBhY2sK</text>
+        <text encoding="base64">UlVOIGxzIC9jb2RlCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1615,7 +1617,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>npm-cli-login</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1624,7 +1626,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
+        <text encoding="base64">XDxjb2RlXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1634,13 +1636,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIG5wbS1jbGktbG9naW4K</text>
+        <text encoding="base64">UlVOIGVjaG8gJChscyAvY29kZSkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHdlYnBhY2sK</text>
+        <text encoding="base64">UlVOIGxzIC9jb2RlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1682,31 +1684,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIG5wbS1jbGktbG9naW4K</text>
+        <text encoding="base64">I1JVTiBjcCAkSE9NRV9ESVIvLnlhcm5yYyAkSE9NRS8ueWFybnJjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBjcCAkSE9NRV9ESVIvLm5wbXJjICRIT01FLy5ucG1yYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS1idWlsZC1hcmcgU1NIX1BVQkxJQ19LRVk9IiQoIGNhdCB+Ly5zc2gvaWRfcnNhLnB1YiApIgo=</text>
+        <text encoding="base64">UlVOIGVjaG8gJHtIT01FX0RJUn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS1idWlsZC1hcmcgU1NIX1BVQkxJQ19LRVk9IiQoIGNhdCB+Ly5zc2gvaWRfcnNhLnB1YiApIgo=</text>
+        <text encoding="base64">UlVOIGVjaG8gJHtIT01FfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG5wbSBzZXQgcmVnaXN0cnkgJE5QTV9SRUdJU1RFUlkK</text>
+        <text encoding="base64">QVJHIEdJVExBQl9FTUFJTAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgpDT1BZ</text>
+      <register name="7" type="2">
+        <text encoding="base64">QVJHIEdJVExBQl9UT0tFTgo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggZ2l0bGFiLmNvbS9mdWxndXJpdC9yZWdhbnRlcy9yZWdhbnRlcy1iYWNrZW5kOiRDSV9CVUlMRF9SRUZfTkFNRQo=</text>
+        <text encoding="base64">QVJHIEdJVExBQl9VU0VSTkFNRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAtIGV4cG9ydCBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluCg==</text>
+        <text encoding="base64">UlVOIG5wbS1jbGktbG9naW4gLXUgJHtHSVRMQUJfVVNFUk5BTUV9IC1wICR7R0lUTEFCX1RPS0VOfSAtZSAke0dJVExBQl9FTUFJTH0gLXIgJHtOUE1fUkVHSVNURVJZfSAtcyBAZnVsZ3VyaXQK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1716,15 +1718,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
+      <last-search encoding="base64">XDxjb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>html</entry>
         <entry encoding="base64">XDxvdmVyd3JpdGVcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
         <entry>common</entry>
@@ -1744,6 +1745,7 @@
         <entry>text</entry>
         <entry encoding="base64">XDxjcm9wc1w+</entry>
         <entry encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
