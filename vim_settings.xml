@@ -451,7 +451,8 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/package.json" timestamp="1536075759831">
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/package.json" timestamp="1536599284022">
+        <mark key="'" line="61" column="17" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
@@ -475,6 +476,12 @@
         <mark key="]" line="55" column="12" />
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/index.js" timestamp="1536599151560">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -574,6 +581,7 @@
       <jump line="9" column="2" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
       <jump line="10" column="32" filename="$USER_HOME$/Projects/regantes-frontend/Dockerfile" />
       <jump line="26" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/NewRegistrationDialog.jsx" />
+      <jump line="61" column="17" filename="$USER_HOME$/Projects/frontend-reusable-components/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1608,8 +1616,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRvQ29tcGxldGVTZWxlY3R9IGZyb20gJ2Z1bGd1cml0LXJldXNhYmxlLWNvbXBvbmVudHMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>PinedHeaderListMenu</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1638,7 +1646,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>CreatableAutoCompleteSelect</text>
+        <text>PinedHeaderListMenu</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1647,7 +1655,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</text>
+        <text encoding="base64">XDxyaW1yYWZcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1657,13 +1665,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>AutoCompleteSelect</text>
+        <text>RaisedButtonList</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRvQ29tcGxldGVTZWxlY3R9IGZyb20gJ2Z1bGd1cml0LXJldXNhYmxlLWNvbXBvbmVudHMnCg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBNdWlQaWNrZXJzVXRpbHNQcm92aWRlciB9IGZyb20gJy4vdXRpbHMvTXVpUGlja2Vyc1V0aWxzUHJvdmlkZXInOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1705,31 +1713,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdC5qc3gnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdCcK</text>
+        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBEYXRlVGltZVBpY2tlciB9IGZyb20gJy4vRGF0ZVRpbWVQaWNrZXInOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdCcK</text>
+        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBUaW1lUGlja2VyIH0gZnJvbSAnLi9UaW1lUGlja2VyJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cyI6ICIwLngueCIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRvQ29tcGxldGVTZWxlY3R9IGZyb20gJ2Z1bGd1cml0LXJldXNhYmxlLWNvbXBvbmVudHMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1yZXVzYWJsZS1jb21wb25lbnRzIjogIjAuMC54Igo=</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdC5qc3gnCg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IEdJVExBQl9FTUFJTD1tc2lsdmFAaHViZWwucHQK</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IEdJVExBQl9UT0tFTj1MeE5xa0xXSGlTSy1oRmlROExDZAo=</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cycK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1739,16 +1747,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</last-search>
+      <last-search encoding="base64">XDxyaW1yYWZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyaW1yYWZcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
-        <entry>common</entry>
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxSb290Vmlld1w+</entry>
         <entry>static</entry>
@@ -1767,6 +1773,8 @@
         <entry encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
+        <entry>rimaf</entry>
+        <entry encoding="base64">XDxyaW1yYWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
