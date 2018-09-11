@@ -118,6 +118,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/stories/index.stories.js" timestamp="1536661175654" />
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/index.js" timestamp="1531497160476">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="70" />
@@ -178,6 +179,9 @@
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1536660249098">
+        <mark key="'" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
@@ -300,6 +304,11 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" timestamp="1536660239866">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="184" column="63" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531326042655">
         <mark key="[" line="1" column="137" />
         <mark key="]" line="1" column="143" />
@@ -336,6 +345,13 @@
         <mark key="]" line="83" column="52" />
         <mark key="." line="83" column="52" />
         <mark key="^" line="83" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" timestamp="1536661138011">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="195" column="34" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
@@ -386,7 +402,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536596945318">
+      <file name="/Dummy.txt" timestamp="1536661231526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -476,12 +492,6 @@
         <mark key="]" line="55" column="12" />
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/index.js" timestamp="1536599151560">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -582,6 +592,15 @@
       <jump line="10" column="32" filename="$USER_HOME$/Projects/regantes-frontend/Dockerfile" />
       <jump line="26" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/NewRegistrationDialog.jsx" />
       <jump line="61" column="17" filename="$USER_HOME$/Projects/frontend-reusable-components/package.json" />
+      <jump line="24" column="15" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="0" column="63" filename="$USER_HOME$/Projects/frontend-reusable-components/src/index.js" />
+      <jump line="0" column="38" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/index.jsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="161" column="15" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="0" column="40" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="154" column="9" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="223" column="0" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1617,7 +1636,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PinedHeaderListMenu</text>
+        <text>master</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1646,7 +1665,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>PinedHeaderListMenu</text>
+        <text>master</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1655,7 +1674,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyaW1yYWZcPg==</text>
+        <text encoding="base64">XDxOb1Nzclw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1665,13 +1684,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>RaisedButtonList</text>
+        <text>AutoCompleteSelect</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBNdWlQaWNrZXJzVXRpbHNQcm92aWRlciB9IGZyb20gJy4vdXRpbHMvTXVpUGlja2Vyc1V0aWxzUHJvdmlkZXInOwo=</text>
+        <text encoding="base64">Y29uc3Qgc3VnZ2VzdGlvbnMgPSBbCiAgeyBsYWJlbDogJ0FmZ2hhbmlzdGFuJyB9LAogIHsgbGFiZWw6ICdBbGFuZCBJc2xhbmRzJyB9LAogIHsgbGFiZWw6ICdBbGJhbmlhJyB9LAogIHsgbGFiZWw6ICdBbGdlcmlhJyB9LAogIHsgbGFiZWw6ICdBbWVyaWNhbiBTYW1vYScgfSwKICB7IGxhYmVsOiAnQW5kb3JyYScgfSwKICB7IGxhYmVsOiAnQW5nb2xhJyB9LAogIHsgbGFiZWw6ICdBbmd1aWxsYScgfSwKICB7IGxhYmVsOiAnQW50YXJjdGljYScgfSwKICB7IGxhYmVsOiAnQW50aWd1YSBhbmQgQmFyYnVkYScgfSwKICB7IGxhYmVsOiAnQXJnZW50aW5hJyB9LAogIHsgbGFiZWw6ICdBcm1lbmlhJyB9LAogIHsgbGFiZWw6ICdBcnViYScgfSwKICB7IGxhYmVsOiAnQXVzdHJhbGlhJyB9LAogIHsgbGFiZWw6ICdBdXN0cmlhJyB9LAogIHsgbGFiZWw6ICdBemVyYmFpamFuJyB9LAogIHsgbGFiZWw6ICdCYWhhbWFzJyB9LAogIHsgbGFiZWw6ICdCYWhyYWluJyB9LAogIHsgbGFiZWw6ICdCYW5nbGFkZXNoJyB9LAogIHsgbGFiZWw6ICdCYXJiYWRvcycgfSwKICB7IGxhYmVsOiAnQmVsYXJ1cycgfSwKICB7IGxhYmVsOiAnQmVsZ2l1bScgfSwKICB7IGxhYmVsOiAnQmVsaXplJyB9LAogIHsgbGFiZWw6ICdCZW5pbicgfSwKICB7IGxhYmVsOiAnQmVybXVkYScgfSwKICB7IGxhYmVsOiAnQmh1dGFuJyB9LAogIHsgbGFiZWw6ICdCb2xpdmlhLCBQbHVyaW5hdGlvbmFsIFN0YXRlIG9mJyB9LAogIHsgbGFiZWw6ICdCb25haXJlLCBTaW50IEV1c3RhdGl1cyBhbmQgU2FiYScgfSwKICB7IGxhYmVsOiAnQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYScgfSwKICB7IGxhYmVsOiAnQm90c3dhbmEnIH0sCiAgeyBsYWJlbDogJ0JvdXZldCBJc2xhbmQnIH0sCiAgeyBsYWJlbDogJ0JyYXppbCcgfSwKICB7IGxhYmVsOiAnQnJpdGlzaCBJbmRpYW4gT2NlYW4gVGVycml0b3J5JyB9LAogIHsgbGFiZWw6ICdCcnVuZWkgRGFydXNzYWxhbScgfQpdLm1hcChzdWdnZXN0aW9uID0+ICh7CiAgdmFsdWU6IHN1Z2dlc3Rpb24ubGFiZWwsCiAgbGFiZWw6IHN1Z2dlc3Rpb24ubGFiZWwKfSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1713,31 +1732,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L05vU3NyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBEYXRlVGltZVBpY2tlciB9IGZyb20gJy4vRGF0ZVRpbWVQaWNrZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Tm9Tc3I+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE5vU3NyIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL05vU3NyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBUaW1lUGlja2VyIH0gZnJvbSAnLi9UaW1lUGlja2VyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxTZWxlY3QKICAgICAgICAgICAgY2xhc3Nlcz17Y2xhc3Nlc30KICAgICAgICAgICAgc3R5bGVzPXtzZWxlY3RTdHlsZXN9CiAgICAgICAgICAgIG9wdGlvbnM9e3N1Z2dlc3Rpb25zfQogICAgICAgICAgICBjb21wb25lbnRzPXtjb21wb25lbnRzfQogICAgICAgICAgICB2YWx1ZT17dGhpcy5wcm9wcy52YWx1ZX0KICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlQ2hhbmdlKCdzaW5nbGUnKX0KICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlYXJjaCBhIGNvdW50cnkgKHN0YXJ0IHdpdGggYSkiCiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRvQ29tcGxldGVTZWxlY3R9IGZyb20gJ2Z1bGd1cml0LXJldXNhYmxlLWNvbXBvbmVudHMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdC5qc3gnCg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi9yZXVzYWJsZV9jb21wb25lbnRzL0F1dG9Db21wbGV0ZVNlbGVjdCcK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cycK</text>
+        <text encoding="base64">ICAgICAgW25hbWVdOiB2YWx1ZSwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1747,16 +1766,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyaW1yYWZcPg==</last-search>
+      <last-search encoding="base64">XDxOb1Nzclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyaW1yYWZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxOb1Nzclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
-        <entry encoding="base64">XDxSb290Vmlld1w+</entry>
         <entry>static</entry>
         <entry>frontend</entry>
         <entry>frotn</entry>
@@ -1775,6 +1792,8 @@
         <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
         <entry>rimaf</entry>
         <entry encoding="base64">XDxyaW1yYWZcPg==</entry>
+        <entry encoding="base64">XDxQbGFjZWhvbGRlclw+</entry>
+        <entry encoding="base64">XDxOb1Nzclw+</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
