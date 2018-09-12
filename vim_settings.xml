@@ -13,16 +13,10 @@
         <mark key="'" line="145" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1536596864419">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="94" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="28" />
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
@@ -45,7 +39,6 @@
       <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1536596844381">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="54" />
-        <mark key="." line="39" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -105,12 +98,6 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" timestamp="1536596877027">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
@@ -211,12 +198,6 @@
         <mark key="]" line="14" column="6" />
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1534869817475">
-        <mark key="[" line="129" column="78" />
-        <mark key="]" line="129" column="92" />
-        <mark key="." line="129" column="92" />
-        <mark key="^" line="129" column="92" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531328020508">
         <mark key="[" line="51" column="35" />
@@ -1635,7 +1616,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>Array</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1664,7 +1645,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>Array</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1683,13 +1664,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>AutoCompleteSelect</text>
+        <text>data instanceof Array</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyb2xsdXAtY29weS1wbHVnaW4iOiAiXjAuMS4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1731,31 +1712,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc3VnZ2VzdGlvbnMgPSBbCiAgeyBsYWJlbDogJ0FmZ2hhbmlzdGFuJyB9LAogIHsgbGFiZWw6ICdBbGFuZCBJc2xhbmRzJyB9LAogIHsgbGFiZWw6ICdBbGJhbmlhJyB9LAogIHsgbGFiZWw6ICdBbGdlcmlhJyB9LAogIHsgbGFiZWw6ICdBbWVyaWNhbiBTYW1vYScgfSwKICB7IGxhYmVsOiAnQW5kb3JyYScgfSwKICB7IGxhYmVsOiAnQW5nb2xhJyB9LAogIHsgbGFiZWw6ICdBbmd1aWxsYScgfSwKICB7IGxhYmVsOiAnQW50YXJjdGljYScgfSwKICB7IGxhYmVsOiAnQW50aWd1YSBhbmQgQmFyYnVkYScgfSwKICB7IGxhYmVsOiAnQXJnZW50aW5hJyB9LAogIHsgbGFiZWw6ICdBcm1lbmlhJyB9LAogIHsgbGFiZWw6ICdBcnViYScgfSwKICB7IGxhYmVsOiAnQXVzdHJhbGlhJyB9LAogIHsgbGFiZWw6ICdBdXN0cmlhJyB9LAogIHsgbGFiZWw6ICdBemVyYmFpamFuJyB9LAogIHsgbGFiZWw6ICdCYWhhbWFzJyB9LAogIHsgbGFiZWw6ICdCYWhyYWluJyB9LAogIHsgbGFiZWw6ICdCYW5nbGFkZXNoJyB9LAogIHsgbGFiZWw6ICdCYXJiYWRvcycgfSwKICB7IGxhYmVsOiAnQmVsYXJ1cycgfSwKICB7IGxhYmVsOiAnQmVsZ2l1bScgfSwKICB7IGxhYmVsOiAnQmVsaXplJyB9LAogIHsgbGFiZWw6ICdCZW5pbicgfSwKICB7IGxhYmVsOiAnQmVybXVkYScgfSwKICB7IGxhYmVsOiAnQmh1dGFuJyB9LAogIHsgbGFiZWw6ICdCb2xpdmlhLCBQbHVyaW5hdGlvbmFsIFN0YXRlIG9mJyB9LAogIHsgbGFiZWw6ICdCb25haXJlLCBTaW50IEV1c3RhdGl1cyBhbmQgU2FiYScgfSwKICB7IGxhYmVsOiAnQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYScgfSwKICB7IGxhYmVsOiAnQm90c3dhbmEnIH0sCiAgeyBsYWJlbDogJ0JvdXZldCBJc2xhbmQnIH0sCiAgeyBsYWJlbDogJ0JyYXppbCcgfSwKICB7IGxhYmVsOiAnQnJpdGlzaCBJbmRpYW4gT2NlYW4gVGVycml0b3J5JyB9LAogIHsgbGFiZWw6ICdCcnVuZWkgRGFydXNzYWxhbScgfQpdLm1hcChzdWdnZXN0aW9uID0+ICh7CiAgdmFsdWU6IHN1Z2dlc3Rpb24ubGFiZWwsCiAgbGFiZWw6IHN1Z2dlc3Rpb24ubGFiZWwKfSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L05vU3NyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Tm9Tc3I+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LnRoZW4oZGF0YSA9PiB7IHsgcmVzdWx0czogZGF0YSB9IH0pCiAgfSk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE5vU3NyIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL05vU3NyJzsK</text>
+        <text encoding="base64">ICAgICJyb2xsdXAtY29weS1wbHVnaW4iOiAiXjAuMS4wIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTZWxlY3QKICAgICAgICAgICAgY2xhc3Nlcz17Y2xhc3Nlc30KICAgICAgICAgICAgc3R5bGVzPXtzZWxlY3RTdHlsZXN9CiAgICAgICAgICAgIG9wdGlvbnM9e3N1Z2dlc3Rpb25zfQogICAgICAgICAgICBjb21wb25lbnRzPXtjb21wb25lbnRzfQogICAgICAgICAgICB2YWx1ZT17dGhpcy5wcm9wcy52YWx1ZX0KICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlQ2hhbmdlKCdzaW5nbGUnKX0KICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlYXJjaCBhIGNvdW50cnkgKHN0YXJ0IHdpdGggYSkiCiAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">Y29uc3Qgc3VnZ2VzdGlvbnMgPSBbCiAgeyBsYWJlbDogJ0FmZ2hhbmlzdGFuJyB9LAogIHsgbGFiZWw6ICdBbGFuZCBJc2xhbmRzJyB9LAogIHsgbGFiZWw6ICdBbGJhbmlhJyB9LAogIHsgbGFiZWw6ICdBbGdlcmlhJyB9LAogIHsgbGFiZWw6ICdBbWVyaWNhbiBTYW1vYScgfSwKICB7IGxhYmVsOiAnQW5kb3JyYScgfSwKICB7IGxhYmVsOiAnQW5nb2xhJyB9LAogIHsgbGFiZWw6ICdBbmd1aWxsYScgfSwKICB7IGxhYmVsOiAnQW50YXJjdGljYScgfSwKICB7IGxhYmVsOiAnQW50aWd1YSBhbmQgQmFyYnVkYScgfSwKICB7IGxhYmVsOiAnQXJnZW50aW5hJyB9LAogIHsgbGFiZWw6ICdBcm1lbmlhJyB9LAogIHsgbGFiZWw6ICdBcnViYScgfSwKICB7IGxhYmVsOiAnQXVzdHJhbGlhJyB9LAogIHsgbGFiZWw6ICdBdXN0cmlhJyB9LAogIHsgbGFiZWw6ICdBemVyYmFpamFuJyB9LAogIHsgbGFiZWw6ICdCYWhhbWFzJyB9LAogIHsgbGFiZWw6ICdCYWhyYWluJyB9LAogIHsgbGFiZWw6ICdCYW5nbGFkZXNoJyB9LAogIHsgbGFiZWw6ICdCYXJiYWRvcycgfSwKICB7IGxhYmVsOiAnQmVsYXJ1cycgfSwKICB7IGxhYmVsOiAnQmVsZ2l1bScgfSwKICB7IGxhYmVsOiAnQmVsaXplJyB9LAogIHsgbGFiZWw6ICdCZW5pbicgfSwKICB7IGxhYmVsOiAnQmVybXVkYScgfSwKICB7IGxhYmVsOiAnQmh1dGFuJyB9LAogIHsgbGFiZWw6ICdCb2xpdmlhLCBQbHVyaW5hdGlvbmFsIFN0YXRlIG9mJyB9LAogIHsgbGFiZWw6ICdCb25haXJlLCBTaW50IEV1c3RhdGl1cyBhbmQgU2FiYScgfSwKICB7IGxhYmVsOiAnQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYScgfSwKICB7IGxhYmVsOiAnQm90c3dhbmEnIH0sCiAgeyBsYWJlbDogJ0JvdXZldCBJc2xhbmQnIH0sCiAgeyBsYWJlbDogJ0JyYXppbCcgfSwKICB7IGxhYmVsOiAnQnJpdGlzaCBJbmRpYW4gT2NlYW4gVGVycml0b3J5JyB9LAogIHsgbGFiZWw6ICdCcnVuZWkgRGFydXNzYWxhbScgfQpdLm1hcChzdWdnZXN0aW9uID0+ICh7CiAgdmFsdWU6IHN1Z2dlc3Rpb24ubGFiZWwsCiAgbGFiZWw6IHN1Z2dlc3Rpb24ubGFiZWwKfSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L05vU3NyPgo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICA8Tm9Tc3I+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IE5vU3NyIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL05vU3NyJzsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
