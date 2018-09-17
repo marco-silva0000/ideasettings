@@ -12,6 +12,11 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1535538551168">
         <mark key="'" line="145" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537204354457">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="36" />
@@ -1648,7 +1653,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtbG9jYWxpemF0aW9uIjogIl4xLjAuMSIsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGgpCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1677,7 +1682,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'webpacking'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1686,7 +1691,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRzXD4=</text>
+        <text>css</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1696,13 +1701,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtbG9jYWxpemF0aW9uIjogIl4xLjAuMSIsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3dlYnBhY2tpbmcnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1744,31 +1749,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnN0YXRlJykK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3dlYnBhY2tpbmcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZTogcHJvcHMuc2VsZWN0UHJvcHMuY2xhc3Nlcy5pbnB1dCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbktleURvd249e3RoaXMuaGFuZGxlS2V5RG93bn0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnN0YXRlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjbGFzc05hbWU9e30K</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZTogcHJvcHMuc2VsZWN0UHJvcHMuY2xhc3Nlcy5pbnB1dCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtZW51T3V0ZXJUb3A6IHsKICAgIGJvdHRvbTogMzUsCiAgICBib3JkZXJCb3R0b21SaWdodFJhZGl1czogMCwKICAgIGJvcmRlckJvdHRvbUxlZnRSYWRpdXM6IDAsCiAgICBib3JkZXJCb3R0b21Ub3BSYWRpdXM6IDQsCiAgICBib3JkZXJUb3BMZWZ0UmFkaXVzOiA0CiAgfQo=</text>
+        <text encoding="base64">ICBvbktleURvd249e3RoaXMuaGFuZGxlS2V5RG93bn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGFzc05hbWU9e30K</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZW51T3V0ZXJUb3A6IHsKICAgIGJvdHRvbTogMzUsCiAgICBib3JkZXJCb3R0b21SaWdodFJhZGl1czogMCwKICAgIGJvcmRlckJvdHRvbUxlZnRSYWRpdXM6IDAsCiAgICBib3JkZXJCb3R0b21Ub3BSYWRpdXM6IDQsCiAgICBib3JkZXJUb3BMZWZ0UmFkaXVzOiA0CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldENsaWVudHMgKHNoZWxsID0gZmFsc2UpIHsKICBzaGVsbCA9IHNoZWxsID8gJ3NoZWxsLycgOiAnJwogIHJldHVybiBmZXRjaCgnL2FwcHMvaXJyaWdhdG9ycy9hcGkvY2xpZW50cy8nICsgc2hlbGwgKyAnP2Zvcm1hdD1qc29uJywgewogICAgY3JlZGVudGlhbHM6ICdzYW1lLW9yaWdpbicsCiAgICBtZXRob2Q6ICdHRVQnLAogICAgaGVhZGVyczogewogICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAnWC1DU1JGVG9rZW4nOiBjb29raWUubG9hZCgnY3NyZnRva2VuJykKICAgIH0KICB9CiAgKS50aGVuKChyZXNwb25zZSkgPT4gewogICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oKQogIH0KICApLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICBpZiAocmVzcG9uc2Uuc3RhdHVzID09IDIwMCkgewogICAgICByZXR1cm4gcmVzcG9uc2UKICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBIdHRwRXJyb3IocmVzcG9uc2UpCiAgICB9CiAgfSkuY2F0Y2goKGVycm9yKSA9PiB7CiAgICByZXR1cm4gaW1wb3J0KCcuLi8uLi8uLi9zdG9yaWVzL2RhdGEvZXhhbXBsZUNsaWVudHMuanNvbicpLnRoZW4oZGF0YSA9PiBkYXRhKQogIH0pCiAgICAudGhlbihkYXRhID0+IHsKICAgICAgaWYgKGRhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgIHJldHVybiBkYXRhCiAgICAgIH0KICAgICAgcmV0dXJuIGRhdGEuZGVmYXVsdAogICAgfSkKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1778,15 +1783,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRzXD4=</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRzXD4=</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>availableClients</entry>
         <entry>makeO</entry>
         <entry>avail</entry>
         <entry encoding="base64">XDxzZWxlY3RQcm9wc1w+</entry>
@@ -1806,6 +1810,7 @@
         <entry>props.clients</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
