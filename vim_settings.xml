@@ -18,12 +18,12 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1537178195525">
-        <mark key="'" line="1319" column="2" />
-        <mark key="[" line="1121" column="40" />
-        <mark key="]" line="1121" column="55" />
-        <mark key="^" line="1121" column="55" />
-        <mark key="." line="1121" column="55" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1537179299653">
+        <mark key="'" line="1121" column="66" />
+        <mark key="[" line="445" column="19" />
+        <mark key="]" line="445" column="37" />
+        <mark key="^" line="445" column="37" />
+        <mark key="." line="445" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
@@ -518,8 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/cropsUtils.js" />
-      <jump line="84" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
       <jump line="88" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
       <jump line="120" column="35" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
       <jump line="135" column="41" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
@@ -593,7 +591,6 @@
       <jump line="322" column="4" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="323" column="48" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="327" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="293" column="90" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="661" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="764" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="879" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -616,8 +613,11 @@
       <jump line="1091" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="476" column="22" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="528" column="10" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1121" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1319" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="293" column="69" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="461" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="1120" column="77" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="1121" column="66" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1653,7 +1653,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text>building</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1682,7 +1682,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>building</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1691,7 +1691,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>availableClients</text>
+        <text>makeO</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1706,8 +1706,14 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChzZWN0aW9uID09PSAnQ29udGFjdHMnKSB7Cg==</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1749,16 +1755,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmIChzZWN0aW9uID09PSAnQ29udGFjdHMnKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7Y2xpZW50OiB0aGlzLnN0YXRlLm5ld0NsaWVudCwgb3BlbjogZmFsc2V9KQo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7Y2xpZW50OiB0aGlzLnN0YXRlLm5ld0NsaWVudCwgb3BlbjogZmFsc2V9KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1769,11 +1775,11 @@
       <register name="w" type="4">
         <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnRoZW4oZGF0YSA9PiB7IHsgcmVzdWx0czogZGF0YSB9IH0pCiAgfSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJyb2xsdXAtY29weS1wbHVnaW4iOiAiXjAuMS4wIiwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LnRoZW4oZGF0YSA9PiB7IHsgcmVzdWx0czogZGF0YSB9IH0pCiAgfSk=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1783,16 +1789,14 @@
       </register>
     </registers>
     <search>
-      <last-search>availableClients</last-search>
+      <last-search>makeO</last-search>
       <last-offset />
-      <last-pattern>availableClients</last-pattern>
+      <last-pattern>makeO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>class</entry>
         <entry>text</entry>
         <entry encoding="base64">XDxjcm9wc1w+</entry>
         <entry encoding="base64">XDxyZWFjdEkxOG5leHRNb2R1bGVcPg==</entry>
@@ -1811,6 +1815,8 @@
         <entry>map</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>availableClients</entry>
+        <entry encoding="base64">XDxhdmFpbGFibGVDbGllbnRzXD4=</entry>
+        <entry>makeO</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
