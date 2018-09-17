@@ -18,8 +18,8 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1537176464226">
-        <mark key="'" line="324" column="21" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1537178195525">
+        <mark key="'" line="1319" column="2" />
         <mark key="[" line="1121" column="40" />
         <mark key="]" line="1121" column="55" />
         <mark key="^" line="1121" column="55" />
@@ -507,6 +507,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1537178053121">
+        <mark key="'" line="279" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
         <mark key="]" line="154" column="37" />
@@ -515,11 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/registerUtils.js" />
-      <jump line="58" column="6" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/RegisterLandingPage.jsx" />
-      <jump line="56" column="13" filename="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/buildings/BuildingLandingPage.jsx" />
-      <jump line="55" column="43" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
-      <jump line="18" column="42" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
       <jump line="22" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/cropsUtils.js" />
       <jump line="84" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
       <jump line="88" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" />
@@ -590,7 +588,6 @@
       <jump line="223" column="0" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
       <jump line="257" column="16" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="33" column="34" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="1319" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="294" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="322" column="4" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -608,13 +605,19 @@
       <jump line="321" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="449" column="30" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="448" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1121" column="55" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="326" column="50" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="331" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="351" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="19" column="37" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="31" column="36" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="324" column="21" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="279" column="35" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
+      <jump line="354" column="17" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="1091" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="476" column="22" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="528" column="10" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="1121" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="1319" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1688,7 +1691,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>availableClients</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1780,19 +1783,14 @@
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>availableClients</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>availableClients</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TEMP</entry>
-        <entry>fort</entry>
-        <entry>export</entry>
-        <entry encoding="base64">XDxzaG93RXhwb3J0XD4=</entry>
-        <entry>prop</entry>
         <entry>update</entry>
         <entry>class</entry>
         <entry>text</entry>
@@ -1808,6 +1806,11 @@
         <entry encoding="base64">XDxoYW5kbGVTYXZlXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25zQ2xpZW50c1w+</entry>
         <entry>client</entry>
+        <entry>Detail</entry>
+        <entry>General</entry>
+        <entry>map</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry>availableClients</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
