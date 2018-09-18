@@ -12,10 +12,10 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1535538551168">
         <mark key="'" line="145" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537204354457">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537206766429">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
         <mark key="[" line="7" column="29" />
@@ -198,6 +198,7 @@
       <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/index.jsx" timestamp="1536660249098">
         <mark key="'" line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/preview-head.html" timestamp="1537204455989" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
         <mark key="]" line="56" column="66" />
@@ -312,11 +313,6 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" timestamp="1536660239866">
-        <mark key="'" line="24" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="179" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/dockerbuild.sh" timestamp="1531326042655">
         <mark key="[" line="1" column="137" />
@@ -483,6 +479,16 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/stories/index.stories.js" timestamp="1537205703462">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/express/lib/application.js" timestamp="1537205891029">
+        <mark key="[" line="617" column="0" />
+        <mark key="]" line="617" column="0" />
+        <mark key="." line="617" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/Dockerfile" timestamp="1536325917760">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="55" column="12" />
@@ -518,7 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="71" filename="/projects/metering/metering/urls.py" />
       <jump line="20" column="12" filename="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" />
       <jump line="3" column="137" filename="$USER_HOME$/Projects/regantes-backend/dockerbuild.sh" />
       <jump line="1" column="51" filename="$USER_HOME$/Projects/regantes-backend/test.sh" />
@@ -618,6 +623,7 @@
       <jump line="122" column="15" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="325" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="405" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
+      <jump line="24" column="73" filename="$USER_HOME$/Projects/regantes-frontend/stories/index.stories.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1653,7 +1659,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGgpCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi4vbm9kZV9tb2R1bGVzL2xlYWZsZXQvZGlzdC9sZWFmbGV0LmNzcycpCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1682,7 +1688,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'webpacking'</text>
+        <text>include</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1691,7 +1697,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1701,13 +1707,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3dlYnBhY2tpbmcnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2VydmVyJykK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGgpCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi4vbm9kZV9tb2R1bGVzL2xlYWZsZXQvZGlzdC9sZWFmbGV0LmNzcycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1749,31 +1755,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3dlYnBhY2tpbmcnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXJndW1lbnRzJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2VydmVyJywgc2VydmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnN0YXRlJykK</text>
+        <text encoding="base64">c3Rvcmllc09mKCdBdXRvQ29tcGxldGVTZWxlY3QnLCBtb2R1bGUpLmFkZCgnQXV0b0NvbXBsZXRlU2VsZWN0JywgKCkgPT4gPEF1dG9Db21wbGV0ZVNlbGVjdCAvPikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZTogcHJvcHMuc2VsZWN0UHJvcHMuY2xhc3Nlcy5pbnB1dCwK</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi9zcmMvaXJyaWdhdG9ycy9yZWdpc3RyaWVzL3JlZ2lzdHJhdGlvblN0ZXBzL2F1dG9Db21wbGV0ZVNlbGVjdC5qc3gnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbktleURvd249e3RoaXMuaGFuZGxlS2V5RG93bn0K</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc3QgaW5jbHVkZVBhdGggPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKbW9kdWxlLmV4cG9ydHMgPSB7CiAgcGx1Z2luczogWwogICAgLy8geW91ciBjdXN0b20gcGx1Z2lucwogIF0sCiAgbW9kdWxlOiB7CiAgICBydWxlczogWwogICAgICB7CiAgICAgICAgdGVzdDogL1wuY3NzJC8sCiAgICAgICAgaW5jbHVkZTogaW5jbHVkZVBhdGgsCiAgICAgICAgdXNlOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIGxvYWRlcjogJ3N0eWxlLWxvYWRlcicsCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBsb2FkZXI6ICdjc3MtbG9hZGVyJywKICAgICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgICAgIHNvdXJjZU1hcDogdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICBdLAogIH0sCiAgICB3YXRjaDogdHJ1ZQp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGFzc05hbWU9e30K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtZW51T3V0ZXJUb3A6IHsKICAgIGJvdHRvbTogMzUsCiAgICBib3JkZXJCb3R0b21SaWdodFJhZGl1czogMCwKICAgIGJvcmRlckJvdHRvbUxlZnRSYWRpdXM6IDAsCiAgICBib3JkZXJCb3R0b21Ub3BSYWRpdXM6IDQsCiAgICBib3JkZXJUb3BMZWZ0UmFkaXVzOiA0CiAgfQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3dlYnBhY2tpbmcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1783,9 +1789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1800,7 +1806,6 @@
         <entry>this.state.avail</entry>
         <entry>menu</entry>
         <entry>Autoc</entry>
-        <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
         <entry>input</entry>
         <entry>valueCon</entry>
         <entry>locales</entry>
@@ -1811,6 +1816,7 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
         <entry>css</entry>
+        <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
