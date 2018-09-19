@@ -27,12 +27,12 @@
         <mark key="^" line="66" column="53" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1537289358568">
-        <mark key="'" line="38" column="16" />
-        <mark key="[" line="54" column="33" />
-        <mark key="]" line="54" column="34" />
-        <mark key="^" line="54" column="34" />
-        <mark key="." line="54" column="34" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1537368726090">
+        <mark key="'" line="39" column="16" />
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="71" column="38" />
+        <mark key="^" line="71" column="38" />
+        <mark key="." line="71" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
@@ -175,7 +175,6 @@
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0011_auto_20180918_1621.py" timestamp="1537288315544" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage/index.jsx" timestamp="1533136752207">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -309,8 +308,8 @@
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1537288892742">
-        <mark key="'" line="101" column="4" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1537368488518">
+        <mark key="'" line="63" column="30" />
         <mark key="[" line="160" column="36" />
         <mark key="]" line="160" column="41" />
         <mark key="^" line="160" column="41" />
@@ -443,11 +442,12 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" timestamp="1537289685438">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" timestamp="1537368533315">
+        <mark key="'" line="2" column="96" />
+        <mark key="[" line="36" column="85" />
+        <mark key="]" line="36" column="103" />
+        <mark key="^" line="36" column="103" />
+        <mark key="." line="36" column="103" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
         <mark key="[" line="27" column="32" />
@@ -557,9 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="322" column="4" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="323" column="48" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="327" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="661" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="764" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -657,6 +654,9 @@
       <jump line="29" column="6" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="33" column="16" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="38" column="16" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="63" column="30" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="36" column="87" filename="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" />
+      <jump line="2" column="96" filename="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1692,7 +1692,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>integratres more of registration</text>
+        <text>CropSerializer</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1721,7 +1721,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>integratres more of registration</text>
+        <text>CropSerializer</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1730,7 +1730,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMYW5kRG9jdW1lbnRTZXJpYWxpemVyXD4=</text>
+        <text encoding="base64">XDxSZWdpc3RyYXRpb25TdGF0ZVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1740,13 +1740,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
+        <text encoding="base64">ICAgIGNyb3AgPSBDcm9wU2VyaWFsaXplcigpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ2RvY3VtZW50JywgJ2tleSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1791,16 +1791,16 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ2RvY3VtZW50JywgJ2tleSddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ2RvY3VtZW50JywgJ2tleSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIExhbmRTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6CiAgICBkb2N1bWVudHMgPSBMYW5kRG9jdW1lbnRTZXJpYWxpemVyKG1hbnk9VHJ1ZSkKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBMYW5kCiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgoKY2xhc3MgTGFuZFNoZWxsU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgogICAgb3duZXIgPSBOYW1lU2VyaWFsaXplcigpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IExhbmQKICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ25hbWUnLCAnYXJ0aWNsZScsICdzZWN0aW9uJywgJ3BhcmlzaCcsICdvd25lcicsICdhcmVhJywgJ3R5cGUnLCAnZG9jdW1lbnRzJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIExhbmRTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6CiAgICBkb2N1bWVudHMgPSBMYW5kRG9jdW1lbnRTZXJpYWxpemVyKG1hbnk9VHJ1ZSkKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBMYW5kCiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgoKY2xhc3MgTGFuZFNoZWxsU2VyaWFsaXplcihzZXJpYWxpemVycy5Nb2RlbFNlcmlhbGl6ZXIpOgogICAgb3duZXIgPSBOYW1lU2VyaWFsaXplcigpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IExhbmQKICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ25hbWUnLCAnYXJ0aWNsZScsICdzZWN0aW9uJywgJ3BhcmlzaCcsICdvd25lcicsICdhcmVhJywgJ3R5cGUnLCAnZG9jdW1lbnRzJ10K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1809,10 +1809,10 @@
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTGFuZFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGRvY3VtZW50cyA9IExhbmREb2N1bWVudFNlcmlhbGl6ZXIobWFueT1UcnVlKQogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IExhbmQKICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycKCgpjbGFzcyBMYW5kU2hlbGxTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6CiAgICBvd25lciA9IE5hbWVTZXJpYWxpemVyKCkKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gTGFuZAogICAgICAgIGZpZWxkcyA9IFsnaWQnLCAnbmFtZScsICdhcnRpY2xlJywgJ3NlY3Rpb24nLCAncGFyaXNoJywgJ293bmVyJywgJ2FyZWEnLCAndHlwZScsICdkb2N1bWVudHMnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50ID0gTGFuZFNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">Y2xhc3MgTGFuZFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGRvY3VtZW50cyA9IExhbmREb2N1bWVudFNlcmlhbGl6ZXIobWFueT1UcnVlKQogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IExhbmQKICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycKCgpjbGFzcyBMYW5kU2hlbGxTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6CiAgICBvd25lciA9IE5hbWVTZXJpYWxpemVyKCkKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gTGFuZAogICAgICAgIGZpZWxkcyA9IFsnaWQnLCAnbmFtZScsICdhcnRpY2xlJywgJ3NlY3Rpb24nLCAncGFyaXNoJywgJ293bmVyJywgJ2FyZWEnLCAndHlwZScsICdkb2N1bWVudHMnXQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1822,15 +1822,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMYW5kRG9jdW1lbnRTZXJpYWxpemVyXD4=</last-search>
+      <last-search encoding="base64">XDxSZWdpc3RyYXRpb25TdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMYW5kRG9jdW1lbnRTZXJpYWxpemVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSZWdpc3RyYXRpb25TdGF0ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.state.avail</entry>
         <entry>menu</entry>
         <entry>Autoc</entry>
         <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
@@ -1850,6 +1849,7 @@
         <entry encoding="base64">XDxSZWdpc3RyYXRpb25Eb2N1bWVudFw+</entry>
         <entry>Land</entry>
         <entry encoding="base64">XDxMYW5kRG9jdW1lbnRTZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxSZWdpc3RyYXRpb25TdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
