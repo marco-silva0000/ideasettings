@@ -3,15 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/dashboard/sideDrawer.jsx" timestamp="1537515785870" />
+      <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/dashboard/sideDrawer.jsx" timestamp="1537516380615" />
+      <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1537516951877">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="0" column="0" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/localization/locales/pt-pt/common.json" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>syno</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>syno</last-search>
+      <last-offset />
+      <last-pattern>syno</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>syno</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
