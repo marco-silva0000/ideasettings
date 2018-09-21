@@ -4,12 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/dashboard/sideDrawer.jsx" timestamp="1537516380615" />
-      <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/tasks.py" timestamp="1537520219919">
+      <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" timestamp="1537523558122">
+        <mark key="'" line="402" column="26" />
+      </file>
+      <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/tasks.py" timestamp="1537523488941">
         <mark key="'" line="32" column="20" />
-        <mark key="[" line="32" column="45" />
-        <mark key="]" line="33" column="24" />
-        <mark key="^" line="33" column="24" />
-        <mark key="." line="33" column="24" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="13" />
+        <mark key="^" line="33" column="10" />
+        <mark key="." line="33" column="10" />
       </file>
       <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1537516951877">
         <mark key="'" line="0" column="0" />
@@ -18,23 +21,47 @@
     <jumps>
       <jump line="0" column="0" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/localization/locales/pt-pt/common.json" />
       <jump line="32" column="20" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/tasks.py" />
+      <jump line="415" column="37" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" />
+      <jump line="52" column="30" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" />
+      <jump line="109" column="16" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" />
+      <jump line="62" column="18" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" />
+      <jump line="92" column="6" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" />
+      <jump line="402" column="26" filename="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBpbnN0YW5jZS5zdGF0dXM6CiAgICAgICAgbG9nZ2VyLmluZm8oJ3N0YXR1cyBpcyBGYWxzZSwgd2lsbCBhYm9ydCBmaWx0ZXIgd2FzaCcpCiAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBpbnN0YW5jZS5zdGF0dXM6CiAgICAgICAgbG9nZ2VyLmluZm8oJ3N0YXR1cyBpcyBGYWxzZSwgd2lsbCBhYm9ydCBmaWx0ZXIgd2FzaCcpCiAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>is_active</text>
+      </register>
       <register name="/" type="4">
-        <text>syno</text>
+        <text encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2ZpbHRlcl90YXNrXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>syno</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2ZpbHRlcl90YXNrXD4=</last-search>
       <last-offset />
-      <last-pattern>syno</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2ZpbHRlcl90YXNrXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>syno</entry>
+        <entry encoding="base64">XDxUaW1lclw+</entry>
+        <entry encoding="base64">XDxGaWx0ZXJUaW1lclw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2ZpbHRlcl90YXNrXD4=</entry>
       </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts />
   </component>
