@@ -199,8 +199,8 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537375210084">
-        <mark key="'" line="762" column="43" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537801058194">
+        <mark key="'" line="315" column="21" />
         <mark key="[" line="762" column="33" />
         <mark key="]" line="762" column="41" />
         <mark key="^" line="762" column="41" />
@@ -585,12 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1192" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1235" column="50" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1305" column="36" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="321" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="448" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="326" column="50" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="331" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="351" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="19" column="37" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -685,6 +679,12 @@
       <jump line="715" column="33" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="719" column="47" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="762" column="43" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="795" column="0" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="831" column="18" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="857" column="49" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="870" column="21" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="882" column="20" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="315" column="21" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1758,7 +1758,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>status</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1850,16 +1850,14 @@
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
         <entry>css</entry>
         <entry encoding="base64">XDxSZWdpc3Rlclw+</entry>
         <entry>charAt</entry>
@@ -1878,6 +1876,8 @@
         <entry encoding="base64">XDxBdXRvQ29tcGxldGVTZWxlY3RcPg==</entry>
         <entry>handleGeneral</entry>
         <entry>map</entry>
+        <entry>state</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
