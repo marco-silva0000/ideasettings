@@ -199,12 +199,12 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537801135390">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537804311490">
         <mark key="'" line="332" column="35" />
-        <mark key="[" line="430" column="49" />
-        <mark key="]" line="430" column="49" />
+        <mark key="[" line="430" column="44" />
+        <mark key="]" line="430" column="44" />
         <mark key="^" line="430" column="49" />
-        <mark key="." line="430" column="49" />
+        <mark key="." line="430" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
@@ -489,8 +489,11 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationList.jsx" timestamp="1537801087372">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationList.jsx" timestamp="1537804788129">
         <mark key="'" line="344" column="34" />
+        <mark key="[" line="350" column="47" />
+        <mark key="]" line="350" column="47" />
+        <mark key="." line="350" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1537272667254">
         <mark key="'" line="155" column="53" />
@@ -1723,7 +1726,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.charAt(0).toUpperCase() + reg.state.slice(1)</text>
+        <text>.name</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1752,7 +1755,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.charAt(0).toUpperCase() + reg.state.slice(1)</text>
+        <text>.name</text>
       </register>
       <register name="m" type="4">
         <keys>
