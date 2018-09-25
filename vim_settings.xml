@@ -16,7 +16,7 @@
         <mark key="^" line="447" column="97" />
         <mark key="." line="447" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1537375660833">
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1537875761923">
         <mark key="[" line="51" column="52" />
         <mark key="]" line="51" column="54" />
         <mark key="." line="51" column="54" />
@@ -113,11 +113,6 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/webpack/package.json" timestamp="1537265674106">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1533312580274">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="46" column="96" />
@@ -205,12 +200,13 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537870806627">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537875775715">
         <mark key="'" line="625" column="35" />
         <mark key="w" line="557" column="2" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="117" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
@@ -218,11 +214,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" timestamp="1537871761321">
-        <mark key="[" line="213" column="26" />
-        <mark key="]" line="213" column="38" />
-        <mark key="^" line="213" column="38" />
-        <mark key="." line="213" column="38" />
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" timestamp="1537875627540">
+        <mark key="'" line="205" column="12" />
+        <mark key="[" line="182" column="55" />
+        <mark key="]" line="182" column="55" />
+        <mark key="^" line="182" column="55" />
+        <mark key="." line="182" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
@@ -388,11 +385,6 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/NewRegistrationDialog.jsx" timestamp="1536596924190">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/stories/index.stories.js" timestamp="1537195392142">
         <mark key="'" line="80" column="46" />
       </file>
@@ -492,8 +484,8 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" timestamp="1537871588744">
-        <mark key="'" line="168" column="81" />
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" timestamp="1537874813467">
+        <mark key="'" line="156" column="9" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="117" column="2" />
       </file>
@@ -531,7 +523,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537809799601">
+      <file name="/Dummy.txt" timestamp="1537875714416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -572,11 +564,6 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/express/lib/application.js" timestamp="1537205891029">
-        <mark key="[" line="617" column="0" />
-        <mark key="]" line="617" column="0" />
-        <mark key="." line="617" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/stories/data/exampleAPIClient.json" timestamp="1537290068184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="0" />
@@ -612,20 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="2" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="75" column="26" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="76" column="19" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="84" column="8" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="85" column="22" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="197" column="25" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="26" column="2" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="10" column="49" filename="$USER_HOME$/Projects/frontend-reusable-components/build/dist/reusable-components.es.js" />
-      <jump line="20" column="7" filename="$USER_HOME$/Projects/frontend-reusable-components/build/dist/reusable-components.es.js" />
-      <jump line="13832" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/build/dist/reusable-components.es.js" />
-      <jump line="13842" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/build/dist/reusable-components.es.js" />
-      <jump line="13855" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/build/dist/reusable-components.es.js" />
-      <jump line="18" column="63" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
-      <jump line="156" column="27" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
       <jump line="33" column="15" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
       <jump line="177" column="22" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="88" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
@@ -701,8 +674,7 @@
       <jump line="56" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegisterLandingPage.jsx" />
       <jump line="6" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegisterLandingPage.jsx" />
       <jump line="166" column="10" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
-      <jump line="150" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
-      <jump line="159" column="22" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="168" column="81" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
       <jump line="121" column="4" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
       <jump line="127" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
       <jump line="128" column="30" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
@@ -710,8 +682,23 @@
       <jump line="134" column="31" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
       <jump line="135" column="26" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
       <jump line="138" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
-      <jump line="139" column="30" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
-      <jump line="168" column="81" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="139" column="43" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="150" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="159" column="22" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="181" column="2" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="213" column="26" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="212" column="31" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="199" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="156" column="9" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
+      <jump line="178" column="19" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="180" column="38" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="187" column="6" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="17" column="8" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="74" column="19" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="73" column="9" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="20" column="2" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="205" column="33" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="203" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1746,8 +1733,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>onKeyDown</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi8uLi9mcm9udGVuZC1yZXVzYWJsZS1jb21wb25lbnRzL3NyYy9BdXRvQ29tcGxldGVTZWxlY3QvQXV0b0NvbXBsZXRlU2VsZWN0Jwo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1776,7 +1763,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>onKeyDown</text>
+        <text>fixes accidental removal of classe</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1785,7 +1772,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVPcHRpb25cPg==</text>
+        <text>input</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1795,13 +1782,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLnByb3BzLm9uQ2hhbmdlfQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLm9uS2V5RG93biAhPT0gdW5kZWZpbmVkKSB7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi8uLi9mcm9udGVuZC1yZXVzYWJsZS1jb21wb25lbnRzL3NyYy9BdXRvQ29tcGxldGVTZWxlY3QvQXV0b0NvbXBsZXRlU2VsZWN0Jwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1843,31 +1830,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpbnB1dFZhbHVlIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">aW1wb3J0IEFkZCBmcm9tICdAbWF0ZXJpYWwtdWkvaWNvbnMvQWRkJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">ICAgICAgICAgIGlucHV0VmFsdWU9e3RoaXMuc3RhdGUuaW5wdXRWYWx1ZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnVGFiJzoK</text>
+        <text encoding="base64">ICAgIGlucHV0VmFsdWU6ICcnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnRW50ZXInOgo=</text>
+        <text encoding="base64">ICBzdGF0ZSA9IHsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1877,18 +1864,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVPcHRpb25cPg==</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVPcHRpb25cPg==</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>handleGeneral</entry>
-        <entry>map</entry>
-        <entry>state</entry>
-        <entry>status</entry>
         <entry>reg.state</entry>
         <entry>reg</entry>
         <entry encoding="base64">XDxyZWdcPg==</entry>
@@ -1903,8 +1886,12 @@
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxnZXRSZWdpc3RyYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxvbktleURvd25cPg==</entry>
-        <entry encoding="base64">XDxpbnB1dFZhbHVlXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVPcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxpbnB1dFZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVLZXlEb3duXD4=</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
+        <entry encoding="base64">XDxDcmVhdGFibGVTZWxlY3RcPg==</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
