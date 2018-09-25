@@ -187,6 +187,12 @@
         <mark key="^" line="1" column="136" />
         <mark key="." line="1" column="143" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/stories/data/exampleAPIShellRegisters.json" timestamp="1537867668502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="295" />
+        <mark key="^" line="0" column="295" />
+        <mark key="." line="0" column="295" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/localization/i18n.js" timestamp="1533225760869">
         <mark key="[" line="45" column="43" />
         <mark key="]" line="45" column="43" />
@@ -429,6 +435,13 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1537867685443">
+        <mark key="'" line="129" column="52" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="129" column="55" />
+        <mark key="^" line="129" column="55" />
+        <mark key="." line="129" column="55" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/PinedHeaderListMenu/index.jsx" timestamp="1535973479044">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="45" />
@@ -490,12 +503,12 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationList.jsx" timestamp="1537805832339">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationList.jsx" timestamp="1537867220247">
         <mark key="'" line="413" column="31" />
-        <mark key="[" line="415" column="52" />
-        <mark key="]" line="415" column="52" />
-        <mark key="." line="415" column="52" />
-        <mark key="^" line="415" column="52" />
+        <mark key="[" line="348" column="74" />
+        <mark key="]" line="348" column="80" />
+        <mark key="." line="348" column="80" />
+        <mark key="^" line="348" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1537272667254">
         <mark key="'" line="155" column="53" />
@@ -512,7 +525,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537289803854">
+      <file name="/Dummy.txt" timestamp="1537809799601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -593,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1118" column="39" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="115" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1319" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="293" column="103" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -693,6 +705,7 @@
       <jump line="352" column="42" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="574" column="37" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="630" column="35" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="129" column="52" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1727,8 +1740,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBoYW5kbGVDaGFuZ2UgPSAobmFtZSkgPT4gZXZlbnQgPT4gewogICAgbGV0IHJlZ2lzdGVyID0gdXBkYXRlKHRoaXMuc3RhdGUucmVnaXN0ZXIsIHtbbmFtZV06IHskc2V0OiBldmVudC50YXJnZXQudmFsdWV9fSkKICAgIHRoaXMuc2V0U3RhdGUoe3JlZ2lzdGVyfSkKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>unmines map</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1757,7 +1770,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>isO</text>
+        <text>unmines map</text>
       </register>
       <register name="m" type="4">
         <keys>

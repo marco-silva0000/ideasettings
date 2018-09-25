@@ -5,6 +5,7 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping pattern="orgaizationService.js" type="JavaScript" />
       <mapping pattern="logActions.html" type="PLAIN_TEXT" />
+      <mapping pattern="exampleAPIShellRegisters.json" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".settings.py.swp" type="PLAIN_TEXT" />
     </extensionMap>
