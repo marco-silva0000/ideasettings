@@ -200,13 +200,13 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537875775715">
-        <mark key="'" line="625" column="35" />
-        <mark key="w" line="557" column="2" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="48" column="117" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537877001602">
+        <mark key="'" line="645" column="32" />
+        <mark key="w" line="570" column="2" />
+        <mark key="[" line="589" column="76" />
+        <mark key="]" line="589" column="76" />
+        <mark key="^" line="589" column="77" />
+        <mark key="." line="589" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
@@ -599,10 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="15" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsList.jsx" />
-      <jump line="177" column="22" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
-      <jump line="88" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
-      <jump line="68" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" />
       <jump line="400" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="108" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="109" column="14" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
@@ -663,7 +659,6 @@
       <jump line="413" column="31" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationList.jsx" />
       <jump line="857" column="54" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="905" column="17" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="35" column="25" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="185" column="12" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="203" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="205" column="9" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -699,6 +694,11 @@
       <jump line="20" column="2" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
       <jump line="205" column="33" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
       <jump line="203" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
+      <jump line="375" column="67" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="35" column="63" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="873" column="11" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="589" column="112" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="645" column="32" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1733,8 +1733,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEF1dG9Db21wbGV0ZVNlbGVjdCBmcm9tICcuLi8uLi8uLi8uLi9mcm9udGVuZC1yZXVzYWJsZS1jb21wb25lbnRzL3NyYy9BdXRvQ29tcGxldGVTZWxlY3QvQXV0b0NvbXBsZXRlU2VsZWN0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1763,7 +1763,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fixes accidental removal of classe</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1781,8 +1781,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLm9uS2V5RG93biAhPT0gdW5kZWZpbmVkKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>addNewClients</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
