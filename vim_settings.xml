@@ -525,10 +525,10 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537875714416">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1537888745145">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1536149984583">
         <mark key="[" line="36" column="56" />
@@ -1741,8 +1741,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYWtlT3B0aW9uID0gKG9wdGlvbikgPT4gKHt2YWx1ZTogb3B0aW9uLnZhbHVlLm5hbWUsIGxhYmVsOiBvcHRpb24udmFsdWUubmFtZSwgZGF0YTogb3B0aW9ufSkK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1771,7 +1771,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
       <register name="m" type="4">
         <keys>
