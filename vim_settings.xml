@@ -191,12 +191,12 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537892593817">
-        <mark key="'" line="608" column="42" />
-        <mark key="[" line="363" column="29" />
-        <mark key="]" line="363" column="34" />
-        <mark key="^" line="363" column="34" />
-        <mark key="." line="363" column="34" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537893216670">
+        <mark key="'" line="614" column="42" />
+        <mark key="[" line="367" column="25" />
+        <mark key="]" line="371" column="39" />
+        <mark key="^" line="371" column="39" />
+        <mark key="." line="371" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
@@ -204,12 +204,9 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" timestamp="1537890473574">
-        <mark key="'" line="210" column="12" />
-        <mark key="[" line="180" column="8" />
-        <mark key="]" line="180" column="8" />
-        <mark key="^" line="182" column="24" />
-        <mark key="." line="180" column="8" />
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" timestamp="1537894161015">
+        <mark key="'" line="205" column="12" />
+        <mark key="[" line="222" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
@@ -1720,7 +1717,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xpZW50SW5wdXRWYWx1ZSAhPT0g</text>
+        <text>clientInputValue</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1749,7 +1746,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>tion(</text>
+        <text>getAvailableClients</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1768,7 +1765,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xpZW50SW5wdXRWYWx1ZSAhPT0g</text>
+        <text>clientInputValue</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
