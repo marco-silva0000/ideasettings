@@ -29,19 +29,19 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" timestamp="1537977463450">
-        <mark key="'" line="845" column="22" />
+      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" timestamp="1537983166168">
+        <mark key="'" line="235" column="46" />
         <mark key="[" line="966" column="0" />
         <mark key="]" line="982" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1537528056080">
         <mark key="'" line="43" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1537974974050">
-        <mark key="'" line="116" column="38" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1537983250019">
+        <mark key="'" line="133" column="38" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
         <mark key="^" line="106" column="0" />
       </file>
       <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1537528114487">
@@ -52,6 +52,12 @@
         <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1537979237402" />
+      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/fields.py" timestamp="1537983235290">
+        <mark key="[" line="522" column="14" />
+        <mark key="]" line="522" column="28" />
+        <mark key="^" line="511" column="17" />
+        <mark key="." line="522" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1537524178518">
         <mark key="[" line="33" column="47" />
         <mark key="]" line="33" column="47" />
@@ -61,25 +67,35 @@
       <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" timestamp="1537523558122">
         <mark key="'" line="402" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1537979360223">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="87" column="15" />
-        <mark key="]" line="87" column="20" />
-        <mark key="^" line="87" column="20" />
-        <mark key="." line="87" column="20" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1537983948933">
+        <mark key="'" line="78" column="48" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" timestamp="1537974952288">
+      <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" timestamp="1537982087559">
         <mark key="'" line="68" column="26" />
-        <mark key="[" line="65" column="14" />
-        <mark key="]" line="65" column="20" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="80" column="39" />
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1537983352799">
+        <mark key="'" line="235" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1537977238284">
         <mark key="[" line="179" column="9" />
         <mark key="]" line="179" column="18" />
         <mark key="." line="179" column="18" />
         <mark key="^" line="179" column="18" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1537983689432">
+        <mark key="'" line="524" column="45" />
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="0" />
+        <mark key="^" line="522" column="24" />
+        <mark key="." line="523" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -101,10 +117,26 @@
       <jump line="83" column="8" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" />
       <jump line="67" column="26" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" />
       <jump line="68" column="47" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="1577" column="47" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
-      <jump line="845" column="22" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
-      <jump line="69" column="28" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="12" column="6" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="70" column="25" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="576" column="30" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="85" column="22" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="1577" column="40" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="845" column="26" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="347" column="6" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="278" column="35" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="271" column="35" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="254" column="42" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="245" column="29" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="252" column="29" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="230" column="27" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="734" column="4" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="235" column="46" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
+      <jump line="69" column="48" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="844" column="0" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="235" column="51" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="422" column="44" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/fields.py" />
+      <jump line="521" column="45" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/fields.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -114,46 +146,49 @@
         <text>validate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2RlbFNlcmlhbGl6ZXJcPg==</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndmFsaWRhdGUnCg==</text>
+      <register name="0" type="4">
+        <text>ABClientSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnNvdXJjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnQVFVSUlJJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkLnNldCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHRpbWUgaW1wb3J0IHNsZWVwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSBnZXRhdHRyKGluc3RhbmNlLCBhdHRyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAndXBkYXRlJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldGF0dHIoaW5zdGFuY2UsIGF0dHIsIHZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAnQVFVSUlJJwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYXR0ciBpbiBpbmZvLnJlbGF0aW9ucyBhbmQgaW5mby5yZWxhdGlvbnNbYXR0cl0udG9fbWFueToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkLnNldCh2YWx1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb2RlbFNlcmlhbGl6ZXJcPg==</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2RlbFNlcmlhbGl6ZXJcPg==</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -170,8 +205,12 @@
         <entry encoding="base64">XDxwYXJ0aWFsX3VwZGF0ZVw+</entry>
         <entry encoding="base64">XDxBQkNsaWVudFNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxNb2RlbFNlcmlhbGl6ZXJcPg==</entry>
+        <entry>is_valid</entry>
+        <entry>def is_valid</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
