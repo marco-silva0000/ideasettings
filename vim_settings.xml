@@ -241,12 +241,12 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1538049548141">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1538059200444">
         <mark key="'" line="26" column="52" />
-        <mark key="[" line="183" column="44" />
-        <mark key="]" line="183" column="44" />
-        <mark key="^" line="183" column="25" />
-        <mark key="." line="183" column="44" />
+        <mark key="[" line="196" column="3" />
+        <mark key="]" line="197" column="3" />
+        <mark key="^" line="197" column="3" />
+        <mark key="." line="197" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/Dockerfile" timestamp="1531328020508">
         <mark key="[" line="51" column="35" />
@@ -388,8 +388,11 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1537981758251">
-        <mark key="'" line="439" column="59" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1538059705338">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="38" />
+        <mark key="." line="325" column="0" />
+        <mark key="^" line="324" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockercompose.sh" timestamp="1535384358464">
         <mark key="[" line="2" column="0" />
@@ -444,7 +447,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538040677817">
+      <file name="/Dummy.txt" timestamp="1538059711787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -578,7 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="31" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
       <jump line="199" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
       <jump line="156" column="9" filename="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" />
       <jump line="178" column="19" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
@@ -628,7 +630,6 @@
       <jump line="315" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="316" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="320" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="321" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="333" column="10" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="341" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="342" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -678,6 +679,8 @@
       <jump line="832" column="29" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="967" column="0" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="439" column="59" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="321" column="9" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="325" column="31" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1712,8 +1715,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaGFuZGxlRWRpdE1vZGUoc2VjdGlvbikK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1742,7 +1745,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>'200'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1751,7 +1754,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>doc</text>
+        <text encoding="base64">XDxpMThuXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1760,14 +1763,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>clientInputValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcyMDAnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNQVAgU1RBVEU6ICcsIHRoaXMuc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaGFuZGxlRWRpdE1vZGUoc2VjdGlvbikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1809,31 +1812,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGF0ZTogJywgdGhpcy5zdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmpzb24oKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkRlbGV0ZWQnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcyMDAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGF0ZTogJywgdGhpcy5zdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaGFuZGxlRGlhbG9nQ2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkVkaXQnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNQVAgU1RBVEU6ICcsIHRoaXMuc3RhdGUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGF0ZTogJywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkVkaXQnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkRlbGV0ZWQnLCBkYXRhKQo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZnRlciAtIGFyZWFzIC0gbmV3QXJlYXMnLCBhcmVhcywgbmV3QXJlYXMpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGF0ZTogJywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JlZm9yZSAtIGFyZWFzIC0gbmV3QXJlYXMnLCBjaGVja0FyZWFzLCBjaGVja05ld0FyZWFzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkVkaXQnLCBkYXRhKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1843,15 +1846,14 @@
       </register>
     </registers>
     <search>
-      <last-search>doc</last-search>
+      <last-search encoding="base64">XDxpMThuXD4=</last-search>
       <last-offset />
-      <last-pattern>doc</last-pattern>
+      <last-pattern encoding="base64">XDxpMThuXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Client</entry>
         <entry encoding="base64">XDxnZXRSZWdpc3RyYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxvbktleURvd25cPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVPcHRpb25cPg==</entry>
@@ -1871,6 +1873,7 @@
         <entry>console.log</entry>
         <entry encoding="base64">XDxnZXRBdmFpbGFibGVDbGllbnRzXD4=</entry>
         <entry>doc</entry>
+        <entry encoding="base64">XDxpMThuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
