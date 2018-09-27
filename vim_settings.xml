@@ -274,8 +274,12 @@
         <mark key="^" line="42" column="77" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538061110717">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538062740591">
         <mark key="'" line="124" column="16" />
+        <mark key="[" line="361" column="51" />
+        <mark key="]" line="361" column="56" />
+        <mark key="." line="361" column="56" />
+        <mark key="^" line="361" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
@@ -1716,8 +1720,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>freguesia.name</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1746,7 +1750,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>freguesia.name</text>
       </register>
       <register name="m" type="4">
         <keys>
