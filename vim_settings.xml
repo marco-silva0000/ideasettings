@@ -67,12 +67,12 @@
       <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" timestamp="1537523558122">
         <mark key="'" line="402" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1537983948933">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1538042352412">
         <mark key="'" line="78" column="48" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="33" />
+        <mark key="[" line="61" column="87" />
+        <mark key="]" line="61" column="87" />
         <mark key="^" line="17" column="7" />
-        <mark key="." line="19" column="15" />
+        <mark key="." line="61" column="87" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" timestamp="1537982087559">
         <mark key="'" line="68" column="26" />
@@ -139,11 +139,11 @@
       <jump line="521" column="45" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/fields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>, 'documents'</text>
       </register>
       <register name="-" type="4">
-        <text>['id']</text>
+        <text>, 'documents'</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
