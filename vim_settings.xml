@@ -107,6 +107,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1538125466412">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="86" />
+        <mark key="^" line="36" column="86" />
+        <mark key="." line="59" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/core/dockerbuild.sh" timestamp="1536337005319">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -386,11 +392,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/clientUtils.js" timestamp="1537193287225">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/clientUtils.js" timestamp="1538125669058">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="43" />
         <mark key="^" line="28" column="54" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1533295691693">
         <mark key="[" line="56" column="60" />
@@ -404,12 +410,12 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1538061499163">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" timestamp="1538125545082">
         <mark key="'" line="26" column="52" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="4" />
+        <mark key="[" line="108" column="61" />
+        <mark key="]" line="108" column="96" />
         <mark key="^" line="197" column="3" />
-        <mark key="." line="197" column="3" />
+        <mark key="." line="108" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/PinedHeaderListMenu/index.jsx" timestamp="1535973479044">
         <mark key="[" line="0" column="27" />
@@ -1721,7 +1727,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>freguesia.name</text>
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1750,7 +1756,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>freguesia.name</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1768,8 +1774,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KyAnP2Zvcm1hdD1qc29uJm9yZGVyQnk9JyArIG9yZGVyQnk=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
