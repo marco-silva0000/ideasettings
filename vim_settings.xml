@@ -40,12 +40,19 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1537200335198">
-        <mark key="'" line="68" column="13" />
-        <mark key="[" line="56" column="81" />
-        <mark key="]" line="56" column="88" />
-        <mark key="^" line="56" column="88" />
-        <mark key="." line="56" column="88" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538127378093">
+        <mark key="'" line="70" column="20" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="54" />
+        <mark key="^" line="67" column="43" />
+        <mark key="." line="67" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538127429473">
+        <mark key="'" line="388" column="63" />
+        <mark key="[" line="356" column="17" />
+        <mark key="]" line="356" column="17" />
+        <mark key="." line="356" column="26" />
+        <mark key="^" line="355" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
@@ -592,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="33" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
-      <jump line="203" column="12" filename="$USER_HOME$/Projects/frontend-reusable-components/src/AutoCompleteSelect/AutoCompleteSelect.jsx" />
       <jump line="375" column="67" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="35" column="63" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="873" column="11" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -692,6 +697,8 @@
       <jump line="58" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingLandingPage.jsx" />
       <jump line="73" column="23" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/LandingPage.jsx" />
       <jump line="56" column="15" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingLandingPage.jsx" />
+      <jump line="70" column="20" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" />
+      <jump line="388" column="63" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1727,7 +1734,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>this</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1756,7 +1763,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>this</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1774,8 +1781,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KyAnP2Zvcm1hdD1qc29uJm9yZGVyQnk9JyArIG9yZGVyQnk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDbGllbnRzTGFuZGluZ1BhZ2UucHJvcHMnLCB0aGlzLnByb3BzKQogICAgY29uc29sZS5sb2coJ0NsaWVudHNMYW5kaW5nUGFnZS5zdGF0ZScsIHRoaXMuc3RhdGUpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
