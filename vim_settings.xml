@@ -54,11 +54,11 @@
         <mark key="." line="39" column="24" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1538066817593">
-        <mark key="'" line="141" column="31" />
-        <mark key="[" line="155" column="45" />
-        <mark key="]" line="155" column="53" />
-        <mark key="." line="155" column="53" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1538127750728">
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="155" column="53" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/fields.py" timestamp="1537983235290">
@@ -66,6 +66,13 @@
         <mark key="]" line="522" column="28" />
         <mark key="^" line="511" column="17" />
         <mark key="." line="522" column="14" />
+      </file>
+      <file name="/projects/core/fulgurit/organizations/models.py" timestamp="1538127940159">
+        <mark key="'" line="167" column="42" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="63" column="24" />
+        <mark key="^" line="63" column="24" />
+        <mark key="." line="63" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1537524178518">
         <mark key="[" line="33" column="47" />
@@ -76,12 +83,12 @@
       <file name="&lt;588c71e6-1600-499d-8e03-ad43c2f63532&gt;/apps/timers/models.py" timestamp="1537523558122">
         <mark key="'" line="402" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1538057206056">
-        <mark key="'" line="52" column="17" />
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="27" />
-        <mark key="^" line="49" column="27" />
-        <mark key="." line="49" column="27" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1538128079323">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" timestamp="1537982087559">
         <mark key="'" line="68" column="26" />
@@ -126,7 +133,6 @@
       <jump line="83" column="8" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" />
       <jump line="67" column="26" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/mixins.py" />
       <jump line="68" column="47" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="12" column="6" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="70" column="25" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="576" column="30" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
       <jump line="85" column="22" filename="$USER_HOME$/.PyCharm2018.2/system/remote_sources/575785262/1765489505/rest_framework/serializers.py" />
@@ -155,58 +161,68 @@
       <jump line="53" column="50" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="49" column="4" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="52" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="13" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="167" column="42" filename="/projects/core/fulgurit/organizations/models.py" />
+      <jump line="3" column="47" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="12" column="25" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="19" column="15" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_code</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgQ29udGFjdFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBDb250YWN0CiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>_code</text>
+        <text>ContactSerializer</text>
       </register>
       <register name="/" type="4">
-        <text>county</text>
+        <text encoding="base64">XDxDbGllbnRFeHRlbmRlZFNlcmlhbGl6ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGNvZGUoc2VsZik6CiAgICAgICAgaWYgbm90IHNlbGYuX2NvZGU6CiAgICAgICAgICAgIHNlbGYuX2NvZGUgPSBzZWxmLnNlY3Rpb24gKyAnICcgKyBzZWxmLmFydGljbGUKICAgICAgICByZXR1cm4gc2VsZi5fY29kZQo=</text>
+      <register name="0" type="4">
+        <text>ClientExtendedSerializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29kZSA9IHNlbGYuc2VjdGlvbiArICcgJyArIHNlbGYuYXJ0aWNsZQo=</text>
+        <text encoding="base64">Y2xhc3MgQ29udGFjdFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBDb250YWN0CiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3JzID0gW10KCiAgICBkZWYgdmFsaWRhdGUoc2VsZiwgYXR0cnMpOgogICAgICAgIHByaW50ICd2YWxpZGF0ZScKICAgICAgICBwcmludCAnc2VsZi5wYXJ0aWFsJwogICAgICAgIHByaW50ICdzZWxmLnBhcnRpYWwnCiAgICAgICAgcHJpbnQgc2VsZi5wYXJ0aWFsCiAgICAgICAgcHJpbnQgc2VsZi52YWxpZGF0b3JzCiAgICAgICAgcHJpbnQgYXR0cnMKICAgICAgICByZXR1cm4gYXR0cnMKCiAgICBkZWYgdXBkYXRlKHNlbGYsIGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAgICAgcHJpbnQgKHZhbGlkYXRlZF9kYXRhKQogICAgICAgIHByaW50ICh2YWxpZGF0ZWRfZGF0YVsnY2xpZW50J10pCiAgICAgICAgcHJpbnQgKGxlbih2YWxpZGF0ZWRfZGF0YVsnY2xpZW50J10pKQogICAgICAgIGZvciBhdHRyLCB2YWx1ZSBpbiB2YWxpZGF0ZWRfZGF0YS5pdGVtcygpOgogICAgICAgICAgICBwcmludCAoYXR0cikKICAgICAgICAgICAgcHJpbnQgKHZhbHVlKQogICAgICAgICAgICBzZXRhdHRyKGluc3RhbmNlLCBhdHRyLCB2YWx1ZSkKICAgICAgICBpbnN0YW5jZS5zYXZlKCkKCiAgICAgICAgcmV0dXJuIGluc3RhbmNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXR0cnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29kZSA9IHNlbGYuc2VjdGlvbiArICcgJyArIHNlbGYuYXJ0aWNsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBhdHRycwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3JzID0gW10KCiAgICBkZWYgdmFsaWRhdGUoc2VsZiwgYXR0cnMpOgogICAgICAgIHByaW50ICd2YWxpZGF0ZScKICAgICAgICBwcmludCAnc2VsZi5wYXJ0aWFsJwogICAgICAgIHByaW50ICdzZWxmLnBhcnRpYWwnCiAgICAgICAgcHJpbnQgc2VsZi5wYXJ0aWFsCiAgICAgICAgcHJpbnQgc2VsZi52YWxpZGF0b3JzCiAgICAgICAgcHJpbnQgYXR0cnMKICAgICAgICByZXR1cm4gYXR0cnMKCiAgICBkZWYgdXBkYXRlKHNlbGYsIGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAgICAgcHJpbnQgKHZhbGlkYXRlZF9kYXRhKQogICAgICAgIHByaW50ICh2YWxpZGF0ZWRfZGF0YVsnY2xpZW50J10pCiAgICAgICAgcHJpbnQgKGxlbih2YWxpZGF0ZWRfZGF0YVsnY2xpZW50J10pKQogICAgICAgIGZvciBhdHRyLCB2YWx1ZSBpbiB2YWxpZGF0ZWRfZGF0YS5pdGVtcygpOgogICAgICAgICAgICBwcmludCAoYXR0cikKICAgICAgICAgICAgcHJpbnQgKHZhbHVlKQogICAgICAgICAgICBzZXRhdHRyKGluc3RhbmNlLCBhdHRyLCB2YWx1ZSkKICAgICAgICBpbnN0YW5jZS5zYXZlKCkKCiAgICAgICAgcmV0dXJuIGluc3RhbmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnZhbGlkYXRvcnMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXR0cnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnBhcnRpYWwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBhdHRycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnc2VsZi5wYXJ0aWFsJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnZhbGlkYXRvcnMK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAnQVFVSUlJJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnc2VsZi5wYXJ0aWFsJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnBhcnRpYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnQUJDbGllbnRTZXJpYWxpemVyJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnc2VsZi5wYXJ0aWFsJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>county</last-search>
+      <last-search encoding="base64">XDxDbGllbnRFeHRlbmRlZFNlcmlhbGl6ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>county</last-pattern>
+      <last-pattern encoding="base64">XDxDbGllbnRFeHRlbmRlZFNlcmlhbGl6ZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -228,6 +244,8 @@
         <entry>print</entry>
         <entry encoding="base64">XDxQYXJpc2hcPg==</entry>
         <entry>county</entry>
+        <entry>contact</entry>
+        <entry encoding="base64">XDxDbGllbnRFeHRlbmRlZFNlcmlhbGl6ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -242,6 +260,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
