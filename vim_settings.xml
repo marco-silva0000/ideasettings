@@ -100,11 +100,11 @@
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1537983352799">
         <mark key="'" line="235" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1537977238284">
-        <mark key="[" line="179" column="9" />
-        <mark key="]" line="179" column="18" />
-        <mark key="." line="179" column="18" />
-        <mark key="^" line="179" column="18" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1538130733861">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1537983689432">
         <mark key="'" line="524" column="45" />
@@ -171,7 +171,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQ29udGFjdFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBDb250YWN0CiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgo=</text>
+        <text encoding="base64">ICAgICdyZXN0X2ZyYW1ld29yaycsCg==</text>
       </register>
       <register name="-" type="4">
         <text>ContactSerializer</text>
@@ -179,8 +179,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxDbGllbnRFeHRlbmRlZFNlcmlhbGl6ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ClientExtendedSerializer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdyZXN0X2ZyYW1ld29yaycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2xhc3MgQ29udGFjdFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBDb250YWN0CiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgo=</text>
