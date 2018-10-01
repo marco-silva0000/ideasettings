@@ -518,7 +518,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538144224424">
+      <file name="/Dummy.txt" timestamp="1538385749079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1734,8 +1734,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMubWVudU91dGVyVG9wfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Regantes-Front-AutoComplet</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1764,7 +1764,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>handles post save dialog bette</text>
+        <text>Regantes-Front-AutoComplet</text>
       </register>
       <register name="m" type="4">
         <keys>
