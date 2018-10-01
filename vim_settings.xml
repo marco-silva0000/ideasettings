@@ -90,6 +90,9 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/SearchBar.jsx" timestamp="1538387164402">
+        <mark key="'" line="55" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -226,6 +229,9 @@
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" timestamp="1538387816489">
+        <mark key="'" line="89" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0006_equipmentdatawriteaction.py" timestamp="1532342092665">
         <mark key="[" line="15" column="43" />
@@ -482,11 +488,6 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/src/CreatableAutoCompleteSelect/CreatableAutoCompleteSelect.jsx" timestamp="1537874813467">
-        <mark key="'" line="156" column="9" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="117" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/fulgurit-localization/package.json" timestamp="1536666072951">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -506,6 +507,7 @@
         <mark key="." line="348" column="80" />
         <mark key="^" line="348" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/SearchBar.jsx" timestamp="1538387621723" />
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/docker-compose.yml" timestamp="1533831795590">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="14" />
@@ -600,8 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="873" column="11" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="589" column="112" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="645" column="32" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="588" column="42" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="2" column="16" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" />
@@ -700,6 +700,8 @@
       <jump line="208" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="710" column="39" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="127" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
+      <jump line="55" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/SearchBar.jsx" />
+      <jump line="89" column="75" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1773,7 +1775,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW51T3V0ZXJUb3BcPg==</text>
+        <text>onReq</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1865,16 +1867,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW51T3V0ZXJUb3BcPg==</last-search>
+      <last-search>onReq</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW51T3V0ZXJUb3BcPg==</last-pattern>
+      <last-pattern>onReq</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
-        <entry encoding="base64">XDxDcmVhdGFibGVTZWxlY3RcPg==</entry>
         <entry>input</entry>
         <entry encoding="base64">XDxnZXRDbGllbnRzXD4=</entry>
         <entry>makeOpt</entry>
@@ -1893,6 +1893,8 @@
         <entry>AutoCom]</entry>
         <entry>AutoCom</entry>
         <entry encoding="base64">XDxtZW51T3V0ZXJUb3BcPg==</entry>
+        <entry>onChange</entry>
+        <entry>onReq</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
