@@ -230,8 +230,12 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" timestamp="1538387816489">
-        <mark key="'" line="89" column="75" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" timestamp="1538388702599">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="143" column="30" />
+        <mark key="." line="143" column="30" />
+        <mark key="^" line="143" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0006_equipmentdatawriteaction.py" timestamp="1532342092665">
         <mark key="[" line="15" column="43" />
@@ -602,11 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="645" column="32" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="588" column="42" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="2" column="16" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" />
-      <jump line="183" column="15" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="198" column="24" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="346" column="38" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="348" column="13" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="350" column="19" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -702,6 +701,11 @@
       <jump line="127" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="55" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/SearchBar.jsx" />
       <jump line="89" column="75" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
+      <jump line="201" column="32" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
+      <jump line="117" column="4" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
+      <jump line="239" column="60" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
+      <jump line="148" column="4" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
+      <jump line="75" column="4" filename="$USER_HOME$/Projects/regantes-frontend/reusable_components/SearchBar.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1737,7 +1741,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Regantes-Front-AutoComplet</text>
+        <text>this.props.onRequestSearch</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1775,7 +1779,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>onReq</text>
+        <text encoding="base64">XDxoYW5kbGVGb2N1c1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1784,8 +1788,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGwgcGFkZGluZz0nMjAnPiB7cm93LmVtYWlscy5sZW5ndGggPiAwID8gcm93LmVtYWlsc1swXS5jb250YWN0IDogaTE4bi50KCdObyBFbWFpbCcpfSA8L1RhYmxlQ2VsbD4K</text>
+      <register name="0" type="4">
+        <text>this.props.onRequestSearch</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1867,17 +1871,14 @@
       </register>
     </registers>
     <search>
-      <last-search>onReq</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVGb2N1c1w+</last-search>
       <last-offset />
-      <last-pattern>onReq</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVGb2N1c1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
-        <entry encoding="base64">XDxnZXRDbGllbnRzXD4=</entry>
-        <entry>makeOpt</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVDbGllbnRzXD4=</entry>
         <entry>values</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
@@ -1895,6 +1896,9 @@
         <entry encoding="base64">XDxtZW51T3V0ZXJUb3BcPg==</entry>
         <entry>onChange</entry>
         <entry>onReq</entry>
+        <entry encoding="base64">XDxnZXRDbGllbnRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJDbGllbnRzXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVGb2N1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
