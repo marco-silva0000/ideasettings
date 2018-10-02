@@ -35,17 +35,16 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538482144924">
-        <mark key="'" line="70" column="42" />
-        <mark key="[" line="83" column="90" />
-        <mark key="]" line="83" column="117" />
-        <mark key="^" line="83" column="117" />
-        <mark key="." line="83" column="117" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538490881685">
+        <mark key="[" line="105" column="62" />
+        <mark key="]" line="105" column="68" />
+        <mark key="." line="105" column="68" />
+        <mark key="^" line="105" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538482090510">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538489155209">
         <mark key="'" line="122" column="15" />
-        <mark key="[" line="184" column="34" />
-        <mark key="]" line="184" column="47" />
+        <mark key="[" line="186" column="17" />
+        <mark key="]" line="186" column="33" />
         <mark key="." line="184" column="47" />
         <mark key="^" line="184" column="47" />
       </file>
@@ -299,6 +298,12 @@
         <mark key="^" line="42" column="77" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/irrigatorUtils.js" timestamp="1538489546247">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538062740591">
         <mark key="'" line="124" column="16" />
         <mark key="[" line="361" column="51" />
@@ -411,10 +416,10 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/clientUtils.js" timestamp="1538405839455">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/clientUtils.js" timestamp="1538489461130">
         <mark key="'" line="31" column="47" />
-        <mark key="[" line="8" column="80" />
-        <mark key="]" line="8" column="88" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
@@ -1748,7 +1753,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>equest</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1777,7 +1782,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>equest</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1796,13 +1801,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>onPaginatedSearch</text>
+        <text>responseObject</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtsYXN0UmVxdWVzdDogcmVzcG9uc2VMaXN0fSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1844,31 +1849,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvbXBvbmVudERpZE1vdW50KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdFJlcXVlc3Q6IHJlc3BvbnNlTGlzdAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+      <register name="3" type="4">
+        <text>searchedKeys: update(this.state.searchedKeys, {$push: [searchKey]}),
+                lastSearchedKey: searchKey,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaWVudCkK</text>
+        <text encoding="base64">ICBvcmRlckJ5ID0gb3JkZXJCeSA/ICcmb3JkZXJCeT0nICsgb3JkZXJCeSA6ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlucHV0KQo=</text>
+        <text encoding="base64">ICBzZWFyY2ggPSBzZWFyY2ggPyAnJnNlYXJjaD0nICsgc2VhcmNoIDogJycK</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWx0ZXJDbGllbnRzRnVuY3Rpb24nKQo=</text>
+        <text encoding="base64">ICBzaGVsbCA9IHNoZWxsID8gJ3NoZWxsLycgOiAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlucHV0ID09PSAnJykKICAgIGNvbnNvbGUubG9nKGNsaWVudC5uYW1lLmxvY2FsZUNvbXBhcmUoaW5wdXQpKQogICAgY29uc29sZS5sb2coY2xpZW50LmFkZHJlc3MubG9jYWxlQ29tcGFyZShpbnB1dCkpCiAgICBjb25zb2xlLmxvZyhjbGllbnQubmlmLmxvY2FsZUNvbXBhcmUoaW5wdXQpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VwZGF0ZUNsaWVudExpc3QuY2xpZW50JywgY2xpZW50KQogICAgICBjb25zb2xlLmxvZygndXBkYXRlQ2xpZW50TGlzdC5pbmRleGVkQ2xpZW50c1tjbGllbnQuaWRdJywgaW5kZXhlZENsaWVudHNbY2xpZW50LmlkXSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
