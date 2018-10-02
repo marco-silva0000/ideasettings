@@ -386,6 +386,7 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1538495529367" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1533229362212">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="14" column="55" />
@@ -443,6 +444,9 @@
         <mark key="^" line="197" column="3" />
         <mark key="." line="108" column="61" />
       </file>
+      <file name="/tasks.py" timestamp="1538495502354">
+        <mark key="'" line="509" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/PinedHeaderListMenu/index.jsx" timestamp="1535973479044">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="45" />
@@ -479,14 +483,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/crops/CropsNew.jsx" timestamp="1537885497488">
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="95" />
-      </file>
-      <file name="/RegistrationDetail.jsx" timestamp="1537374350552">
-        <mark key="[" line="614" column="0" />
-        <mark key="]" line="623" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
         <mark key="[" line="27" column="32" />
@@ -554,6 +550,9 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/urls.py" timestamp="1538495505148">
+        <mark key="'" line="19" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536595167652">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -565,6 +564,9 @@
         <mark key="]" line="79" column="48" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1538495548275">
+        <mark key="'" line="382" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535384047107">
         <mark key="[" line="49" column="19" />
@@ -613,9 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="4" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="242" column="4" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="244" column="4" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="301" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="315" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="316" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -713,6 +712,9 @@
       <jump line="112" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="122" column="15" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" />
       <jump line="93" column="42" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" />
+      <jump line="509" column="0" filename="/tasks.py" />
+      <jump line="19" column="44" filename="$USER_HOME$/Projects/core/apps/sprinklers/urls.py" />
+      <jump line="382" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
