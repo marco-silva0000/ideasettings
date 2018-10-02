@@ -35,12 +35,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538477672292">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538479004344">
         <mark key="'" line="89" column="42" />
-        <mark key="[" line="68" column="51" />
-        <mark key="]" line="68" column="51" />
-        <mark key="^" line="68" column="63" />
-        <mark key="." line="68" column="51" />
+        <mark key="[" line="89" column="146" />
+        <mark key="]" line="89" column="146" />
+        <mark key="^" line="89" column="107" />
+        <mark key="." line="89" column="147" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538411835062">
         <mark key="'" line="122" column="15" />
@@ -1748,7 +1748,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.id]</text>
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1777,7 +1777,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.id]</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1910,7 +1910,6 @@
       <history-cmd>
         <entry>registers</entry>
         <entry>tabfirst</entry>
-        <entry>e</entry>
         <entry>tabprev</entry>
         <entry>NERDTreeTabsToggle</entry>
         <entry>s/UserStory/Epic/g</entry>
@@ -1927,6 +1926,7 @@
         <entry>q</entry>
         <entry>2622</entry>
         <entry>W</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
