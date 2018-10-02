@@ -35,18 +35,16 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538490881685">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538492018671">
         <mark key="[" line="105" column="62" />
         <mark key="]" line="105" column="68" />
         <mark key="." line="105" column="68" />
         <mark key="^" line="105" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538489155209">
-        <mark key="'" line="122" column="15" />
-        <mark key="[" line="186" column="17" />
-        <mark key="]" line="186" column="33" />
-        <mark key="." line="184" column="47" />
-        <mark key="^" line="184" column="47" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538493498456">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="360" column="142" />
+        <mark key="." line="359" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
@@ -416,7 +414,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/clientUtils.js" timestamp="1538489461130">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/clientUtils.js" timestamp="1538492656640">
         <mark key="'" line="31" column="47" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="41" column="0" />
@@ -536,7 +534,7 @@
         <mark key="." line="112" column="138" />
         <mark key="^" line="112" column="138" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538415651060">
+      <file name="/Dummy.txt" timestamp="1538493505432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1752,8 +1750,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>equest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGwgcGFkZGluZz0nMjAnPiB7cm93LmNvbnRhY3RzLnJlZHVjZSgoY3VycmVudCwgY29udGFjdCkgPT4gY29udGFjdC5lbWFpbHMuZmluZChlbWFpbCA9PiBlbWFpbC5jb250YWN0X3R5cGUgPT09ICdtYWluJykgfHwge2NvbnRhY3Q6ICdObyBFbWFpbCd9LCB1bmRlZmluZWQpLmNvbnRhY3R9IDwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbCBwYWRkaW5nPScyMCc+IHtyb3cuY29udGFjdHMucmVkdWNlKChjdXJyZW50LCBjb250YWN0KSA9PiBjb250YWN0LnBob25lX251bWJlcnMuZmluZChwaG9uZSA9PiBwaG9uZS5jb250YWN0X3R5cGUgPT09ICdtYWluJykgfHwge2NvbnRhY3Q6ICdObyBwaG9uZSd9LCB1bmRlZmluZWQpLmNvbnRhY3R9IDwvVGFibGVDZWxsPgo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1800,14 +1798,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>responseObject</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGwgcGFkZGluZz0nMjAnPiB7cm93LmVtYWlscy5sZW5ndGggPiAwID8gcm93LmVtYWlsc1swXS5jb250YWN0IDogaTE4bi50KCdObyBFbWFpbCcpfSA8L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGwgcGFkZGluZz0nMjAnPiB7cm93LnBob25lX251bWJlcnMubGVuZ3RoID4gMCA/IHJvdy5waG9uZV9udW1iZXJzWzBdLmNvbnRhY3QgOiBpMThuLnQoJ05vIFBob25lJyl9IDwvVGFibGVDZWxsPgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtsYXN0UmVxdWVzdDogcmVzcG9uc2VMaXN0fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGwgcGFkZGluZz0nMjAnPiB7cm93LmNvbnRhY3RzLnJlZHVjZSgoY3VycmVudCwgY29udGFjdCkgPT4gY29udGFjdC5lbWFpbHMuZmluZChlbWFpbCA9PiBlbWFpbC5jb250YWN0X3R5cGUgPT09ICdtYWluJykgfHwge2NvbnRhY3Q6ICdObyBFbWFpbCd9LCB1bmRlZmluZWQpLmNvbnRhY3R9IDwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbCBwYWRkaW5nPScyMCc+IHtyb3cuY29udGFjdHMucmVkdWNlKChjdXJyZW50LCBjb250YWN0KSA9PiBjb250YWN0LnBob25lX251bWJlcnMuZmluZChwaG9uZSA9PiBwaG9uZS5jb250YWN0X3R5cGUgPT09ICdtYWluJykgfHwge2NvbnRhY3Q6ICdObyBwaG9uZSd9LCB1bmRlZmluZWQpLmNvbnRhY3R9IDwvVGFibGVDZWxsPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1849,32 +1847,32 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtsYXN0UmVxdWVzdDogcmVzcG9uc2VMaXN0fSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFzdFJlcXVlc3Q6IHJlc3BvbnNlTGlzdAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>searchedKeys: update(this.state.searchedKeys, {$push: [searchKey]}),
                 lastSearchedKey: searchKey,</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvcmRlckJ5ID0gb3JkZXJCeSA/ICcmb3JkZXJCeT0nICsgb3JkZXJCeSA6ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZWFyY2ggPSBzZWFyY2ggPyAnJnNlYXJjaD0nICsgc2VhcmNoIDogJycK</text>
+        <text encoding="base64">ICBvcmRlckJ5ID0gb3JkZXJCeSA/ICcmb3JkZXJCeT0nICsgb3JkZXJCeSA6ICcnCg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzaGVsbCA9IHNoZWxsID8gJ3NoZWxsLycgOiAnJwo=</text>
+        <text encoding="base64">ICBzZWFyY2ggPSBzZWFyY2ggPyAnJnNlYXJjaD0nICsgc2VhcmNoIDogJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VwZGF0ZUNsaWVudExpc3QuY2xpZW50JywgY2xpZW50KQogICAgICBjb25zb2xlLmxvZygndXBkYXRlQ2xpZW50TGlzdC5pbmRleGVkQ2xpZW50c1tjbGllbnQuaWRdJywgaW5kZXhlZENsaWVudHNbY2xpZW50LmlkXSkK</text>
+        <text encoding="base64">ICBzaGVsbCA9IHNoZWxsID8gJ3NoZWxsLycgOiAnJwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
