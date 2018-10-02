@@ -35,12 +35,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538413172129">
-        <mark key="'" line="86" column="42" />
-        <mark key="[" line="75" column="34" />
-        <mark key="]" line="76" column="29" />
-        <mark key="^" line="76" column="29" />
-        <mark key="." line="76" column="29" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientLandingPage.jsx" timestamp="1538477672292">
+        <mark key="'" line="89" column="42" />
+        <mark key="[" line="68" column="51" />
+        <mark key="]" line="68" column="51" />
+        <mark key="^" line="68" column="63" />
+        <mark key="." line="68" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientList.jsx" timestamp="1538411835062">
         <mark key="'" line="122" column="15" />
@@ -1747,8 +1747,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+      <register name="&quot;" type="4">
+        <text>.id]</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1777,7 +1777,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>result =</text>
+        <text>.id]</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1795,8 +1795,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>filteredItems</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VwZGF0ZUNsaWVudExpc3QuaW5kZXhlZENsaWVudHNbY2xpZW50LmlkXScsIGluZGV4ZWRDbGllbnRzW2NsaWVudC5pZF0pCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
