@@ -9,12 +9,11 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1538557787423">
-        <mark key="'" line="1262" column="43" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="121" column="3" />
-        <mark key="^" line="447" column="97" />
-        <mark key="." line="447" column="97" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1538558499910">
+        <mark key="'" line="1195" column="28" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -302,12 +301,12 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538557703404">
-        <mark key="'" line="237" column="11" />
-        <mark key="[" line="235" column="26" />
-        <mark key="]" line="235" column="26" />
-        <mark key="^" line="414" column="8" />
-        <mark key="." line="235" column="26" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538558581073">
+        <mark key="'" line="381" column="65" />
+        <mark key="[" line="362" column="17" />
+        <mark key="]" line="362" column="17" />
+        <mark key="^" line="361" column="28" />
+        <mark key="." line="362" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
@@ -616,9 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="316" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="320" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="333" column="10" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="341" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="342" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -716,6 +712,9 @@
       <jump line="29" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
       <jump line="237" column="11" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
       <jump line="1262" column="43" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="396" column="56" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
+      <jump line="1193" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
+      <jump line="381" column="65" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1751,7 +1750,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.selectedBuilding</text>
+        <text>BL-this</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1780,7 +1779,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.selectedBuilding</text>
+        <text>BL-this</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1805,7 +1804,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lsbCBwb3N0IGRhdGEnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtvcmRlciwgb3JkZXJCeX0gPSB0aGlzLnN0YXRlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1847,31 +1846,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2goJ2lycmlnYXRvcnMvYXBpL2xhbmQvc2hlbGwvP2Zvcm1hdD1qc29uJywgewogICAgICAgIGNyZWRlbnRpYWxzOiAnc2FtZS1vcmlnaW4nLAogICAgICAgIG1ldGhvZDogJ3B1dCcsCiAgICAgICAgaGVhZGVyczogewogICAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAnWC1DU1JGVG9rZW4nOiBjb29raWUubG9hZCgnY3NyZnRva2VuJykKICAgICAgICB9LAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHRoaXMuc3RhdGUuc2VsZWN0ZWRCdWlsZGluZykK</text>
+        <text encoding="base64">aW1wb3J0IFNlbGVjdCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9TZWxlY3QnCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpCiAgfSkudGhlbigocmVzcG9uc2UpID0+IHsKICB9KS5jYXRjaCgoZXJyb3IpID0+IHsKICAgIGNvbnNvbGUubG9nKCdpbiBjYXRjaCcpCiAgICBjb25zb2xlLmxvZyhlcnJvcikKICB9KQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvVHlwb2dyYXBoeS9UeXBvZ3JhcGh5Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3NhdmVXYWl0aW5nOiBmYWxzZX0pCg==</text>
+        <text encoding="base64">aW1wb3J0IERpYWxvZ0NvbnRlbnQgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRGlhbG9nQ29udGVudCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IERpYWxvZyBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9EaWFsb2cnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFkZEljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0FkZCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2goJ2lycmlnYXRvcnMvYXBpL2xhbmQvJywgewogICAgICAgIGNyZWRlbnRpYWxzOiAnc2FtZS1vcmlnaW4nLAogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICAgJ1gtQ1NSRlRva2VuJzogY29va2llLmxvYWQoJ2NzcmZ0b2tlbicpCiAgICAgICAgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLmJ1aWxkaW5nKQogICAgICB9KS50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgIHJldHVybiByZXNwb25zZS5qc29uKCkKICAgICAgfSkudGhlbigocmVzcG9uc2UpID0+IHsKICAgICAgfSkuY2F0Y2goKGVycm9yKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ2luIGNhdGNoJykKICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikKICAgICAgICB0aGlzLnNldFN0YXRlKHtzYXZlV2FpdGluZzogZmFsc2V9KQogICAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IEFkZEljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0FkZCcKaW1wb3J0IERpYWxvZyBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9EaWFsb2cnCmltcG9ydCBEaWFsb2dDb250ZW50IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0RpYWxvZ0NvbnRlbnQnCmltcG9ydCBBcHBCYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvQXBwQmFyL0FwcEJhcicKaW1wb3J0IFRvb2xiYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvVG9vbGJhci9Ub29sYmFyJwppbXBvcnQgVHlwb2dyYXBoeSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9UeXBvZ3JhcGh5L1R5cG9ncmFwaHknCmltcG9ydCBDbG9zZSBmcm9tICdAbWF0ZXJpYWwtdWkvaWNvbnMvQ2xvc2UnCg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IEFkZEljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0FkZCcKaW1wb3J0IERpYWxvZyBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9EaWFsb2cnCmltcG9ydCBEaWFsb2dDb250ZW50IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0RpYWxvZ0NvbnRlbnQnCmltcG9ydCBBcHBCYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvQXBwQmFyL0FwcEJhcicKaW1wb3J0IFRvb2xiYXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvVG9vbGJhci9Ub29sYmFyJwppbXBvcnQgVHlwb2dyYXBoeSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9UeXBvZ3JhcGh5L1R5cG9ncmFwaHknCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSlNPTi5zdHJpbmdpZnkodGhpcy5zdGF0ZS5idWlsZGluZyknLCBKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLnNlbGVjdGVkQnVpbGRpbmcpKQo=</text>
+        <text encoding="base64">aW1wb3J0IEFkZEljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0FkZCcKaW1wb3J0IERpYWxvZyBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9EaWFsb2cnCmltcG9ydCBEaWFsb2dDb250ZW50IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0RpYWxvZ0NvbnRlbnQnCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
