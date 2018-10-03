@@ -9,8 +9,8 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1538501981491">
-        <mark key="'" line="43" column="29" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" timestamp="1538557787423">
+        <mark key="'" line="1262" column="43" />
         <mark key="[" line="115" column="0" />
         <mark key="]" line="121" column="3" />
         <mark key="^" line="447" column="97" />
@@ -109,11 +109,11 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1538503468299">
-        <mark key="[" line="99" column="10" />
-        <mark key="]" line="99" column="13" />
-        <mark key="." line="99" column="13" />
-        <mark key="^" line="99" column="13" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1538557466421">
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="28" />
+        <mark key="." line="73" column="28" />
+        <mark key="^" line="73" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockerbuild.sh" timestamp="1536337005319">
         <mark key="[" line="4" column="0" />
@@ -302,12 +302,12 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538503384087">
+      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" timestamp="1538557703404">
         <mark key="'" line="237" column="11" />
-        <mark key="[" line="414" column="7" />
-        <mark key="]" line="414" column="8" />
+        <mark key="[" line="235" column="26" />
+        <mark key="]" line="235" column="26" />
         <mark key="^" line="414" column="8" />
-        <mark key="." line="414" column="8" />
+        <mark key="." line="235" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/localization/locales/pt-pt/irrigators.json" timestamp="1533552373350">
         <mark key="[" line="152" column="28" />
@@ -616,7 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="315" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="316" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="320" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -716,6 +715,7 @@
       <jump line="273" column="12" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
       <jump line="29" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
       <jump line="237" column="11" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingList.jsx" />
+      <jump line="1262" column="43" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1751,7 +1751,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fixes client lis</text>
+        <text>.selectedBuilding</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1780,7 +1780,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fixes client lis</text>
+        <text>.selectedBuilding</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1799,7 +1799,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkYXRhID0gSlNPTi5zdHJpbmdpZnkoZGF0YSkKICBjb25zb2xlLmxvZygnd2lsbCBwb3N0IGpzb24gZGF0YScsIGRhdGEpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lsbCBwb3N0IGpzb24gZGF0YScsIGRhdGEpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
