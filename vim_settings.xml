@@ -119,11 +119,8 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1538643488814">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1538643533979">
         <mark key="'" line="20" column="34" />
-        <mark key="[" line="63" column="51" />
-        <mark key="]" line="70" column="93" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1538557466421">
         <mark key="[" line="73" column="20" />
@@ -276,12 +273,6 @@
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/RegistrationMap.jsx" timestamp="1537891905426">
-        <mark key="'" line="255" column="0" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1536337977710">
         <mark key="[" line="23" column="11" />
@@ -1764,8 +1755,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1794,7 +1785,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>selectedBuilding</text>
+        <text>r</text>
       </register>
       <register name="m" type="4">
         <keys>
