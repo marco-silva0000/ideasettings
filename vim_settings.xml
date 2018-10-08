@@ -121,10 +121,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" timestamp="1538993945541">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" timestamp="1539007983465">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="105" column="39" />
+        <mark key="." line="105" column="39" />
+        <mark key="^" line="105" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/src/RaisedButtonList/RaisedButtonList.jsx" timestamp="1536075405290">
         <mark key="[" line="3" column="0" />
@@ -295,11 +296,12 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TrendsLandingPage.jsx" timestamp="1538997538729">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TrendsLandingPage.jsx" timestamp="1539007519487">
         <mark key="'" line="54" column="28" />
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="36" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1538643459962">
         <mark key="[" line="17" column="0" />
@@ -327,7 +329,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1538993701931" />
       <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537269218460">
         <mark key="[" line="16" column="70" />
         <mark key="]" line="16" column="76" />
@@ -524,7 +525,6 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1538993963891" />
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/RegistrationClient.jsx" timestamp="1538412588785">
         <mark key="[" line="112" column="133" />
         <mark key="]" line="112" column="138" />
@@ -572,19 +572,18 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1538993099705" />
       <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535384047107">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="49" column="19" />
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1538994219594">
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1539007998547">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="60" column="33" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/stories/data/exampleAPIClient.json" timestamp="1537290068184">
         <mark key="[" line="0" column="0" />
@@ -1762,7 +1761,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>events</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1791,7 +1790,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>events</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
