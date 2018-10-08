@@ -268,11 +268,11 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538987529278">
-        <mark key="[" line="175" column="6" />
-        <mark key="]" line="175" column="6" />
-        <mark key="^" line="175" column="5" />
-        <mark key="." line="175" column="6" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538988044635">
+        <mark key="[" line="175" column="59" />
+        <mark key="]" line="177" column="46" />
+        <mark key="^" line="177" column="46" />
+        <mark key="." line="177" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/.gitignore" timestamp="1536076303891">
         <mark key="[" line="1" column="0" />
@@ -426,6 +426,9 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1538988103032">
+        <mark key="'" line="570" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1533229362212">
         <mark key="[" line="14" column="52" />
@@ -662,7 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="901" column="39" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="903" column="28" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="909" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="915" column="50" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -762,6 +764,7 @@
       <jump line="46" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" />
       <jump line="65" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" />
+      <jump line="570" column="43" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
