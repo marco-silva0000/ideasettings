@@ -268,6 +268,12 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538987529278">
+        <mark key="[" line="175" column="6" />
+        <mark key="]" line="175" column="6" />
+        <mark key="^" line="175" column="5" />
+        <mark key="." line="175" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/.gitignore" timestamp="1536076303891">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -316,7 +322,6 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/exampleTemplate.json" timestamp="1538671428893" />
       <file name="$USER_HOME$/Projects/regantes-frontend/stories/index.stories.js" timestamp="1537265625542">
         <mark key="'" line="36" column="5" />
         <mark key="[" line="24" column="0" />
@@ -359,7 +364,7 @@
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538671341561">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
         <mark key="[" line="59" column="6" />
         <mark key="]" line="59" column="27" />
@@ -1791,8 +1796,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DatalogCurrentState</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1821,7 +1826,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>DatalogCurrentState</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1840,7 +1845,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoU0lOR0xFLCAnU2luZ2xlJyksCg==</text>
+        <text encoding="base64">Y2xhc3MgRGF0YWxvZ0N1cnJlbnRTdGF0ZVZpZXdTZXQodmlld3NldHMuUmVhZE9ubHlNb2RlbFZpZXdTZXQpOgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
