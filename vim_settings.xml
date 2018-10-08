@@ -272,8 +272,8 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538988044635">
-        <mark key="[" line="175" column="59" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538993323582">
+        <mark key="[" line="177" column="47" />
         <mark key="]" line="177" column="46" />
         <mark key="^" line="177" column="46" />
         <mark key="." line="177" column="46" />
@@ -431,8 +431,10 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1538988103032">
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1538993501102">
         <mark key="'" line="570" column="43" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="34" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/index.js" timestamp="1533229362212">
         <mark key="[" line="14" column="52" />
@@ -622,6 +624,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1538993099705" />
       <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535384047107">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="49" column="19" />
@@ -1803,8 +1806,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Shell</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgU3ByaW5rbGVyc1Blcm1pc3Npb25zKHBlcm1pc3Npb25zLklzQXV0aGVudGljYXRlZCk6CiAgICBkZWYgaGFzX3Blcm1pc3Npb24oc2VsZiwgcmVxdWVzdCwgdmlldyk6CiAgICAgICAgcGVybSA9IChFbXBsb3llZVBlcm1pc3Npb25zLm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICBlbXBsb3llZV9fdXNlcl9fdXNlcm5hbWU9cmVxdWVzdC51c2VyLAogICAgICAgICAgICBhcHBfX2FwcG5hbWU9InNwcmlua2xlcnMiLCApKQogICAgICAgIGlmIHJlcXVlc3QubWV0aG9kIGluIHBlcm1pc3Npb25zLlNBRkVfTUVUSE9EUzoKICAgICAgICAgICAgcmV0dXJuIHBlcm0uZmlsdGVyKGdyb3VwX19ndGU9MSkKICAgICAgICByZXR1cm4gcGVybS5maWx0ZXIoZ3JvdXBfX2d0ZT0zKQoKCmNsYXNzIFNwcmlua2xlcnNCeUZhY2lsaXR5UGVybWlzc2lvbnMoU3ByaW5rbGVyc1Blcm1pc3Npb25zKToKICAgIGRlZiBoYXNfcGVybWlzc2lvbihzZWxmLCByZXF1ZXN0LCB2aWV3KToKICAgICAgICByZXR1cm4gc3VwZXIoU3ByaW5rbGVyc0J5RmFjaWxpdHlQZXJtaXNzaW9ucywgc2VsZikuaGFzX3Blcm1pc3Npb24oCiAgICAgICAgICAgIHJlcXVlc3QsIHZpZXcpLmZpbHRlcihmYWNpbGl0eT12aWV3Lmt3YXJnc1snZmFjaWxpdHknXSkK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1852,7 +1855,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgRGF0YWxvZ0N1cnJlbnRTdGF0ZVZpZXdTZXQodmlld3NldHMuUmVhZE9ubHlNb2RlbFZpZXdTZXQpOgo=</text>
+        <text encoding="base64">Y2xhc3MgU3ByaW5rbGVyc1Blcm1pc3Npb25zKHBlcm1pc3Npb25zLklzQXV0aGVudGljYXRlZCk6CiAgICBkZWYgaGFzX3Blcm1pc3Npb24oc2VsZiwgcmVxdWVzdCwgdmlldyk6CiAgICAgICAgcGVybSA9IChFbXBsb3llZVBlcm1pc3Npb25zLm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICBlbXBsb3llZV9fdXNlcl9fdXNlcm5hbWU9cmVxdWVzdC51c2VyLAogICAgICAgICAgICBhcHBfX2FwcG5hbWU9InNwcmlua2xlcnMiLCApKQogICAgICAgIGlmIHJlcXVlc3QubWV0aG9kIGluIHBlcm1pc3Npb25zLlNBRkVfTUVUSE9EUzoKICAgICAgICAgICAgcmV0dXJuIHBlcm0uZmlsdGVyKGdyb3VwX19ndGU9MSkKICAgICAgICByZXR1cm4gcGVybS5maWx0ZXIoZ3JvdXBfX2d0ZT0zKQoKCmNsYXNzIFNwcmlua2xlcnNCeUZhY2lsaXR5UGVybWlzc2lvbnMoU3ByaW5rbGVyc1Blcm1pc3Npb25zKToKICAgIGRlZiBoYXNfcGVybWlzc2lvbihzZWxmLCByZXF1ZXN0LCB2aWV3KToKICAgICAgICByZXR1cm4gc3VwZXIoU3ByaW5rbGVyc0J5RmFjaWxpdHlQZXJtaXNzaW9ucywgc2VsZikuaGFzX3Blcm1pc3Npb24oCiAgICAgICAgICAgIHJlcXVlc3QsIHZpZXcpLmZpbHRlcihmYWNpbGl0eT12aWV3Lmt3YXJnc1snZmFjaWxpdHknXSkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
