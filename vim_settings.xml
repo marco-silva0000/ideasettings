@@ -551,10 +551,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1539104434156">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1539105159315">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
         <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1538997868488">
@@ -1815,8 +1815,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1yZWdhbnRlcyI6ICJnaXQrc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMvcmVnYW50ZXMtZnJvbnRlbmQuZ2l0IzAuMC4xMSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>reusable-components</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1845,7 +1845,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>reusable-components</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1864,7 +1864,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmVnYW50ZXMiOiAiMC4xLjMiLAo=</text>
+        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmV1c2FibGUtY29tcG9uZW50cyI6ICIwLjAuMzkiLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
