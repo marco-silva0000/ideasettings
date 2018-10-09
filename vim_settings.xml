@@ -9,11 +9,11 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1539079681066">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1539095088377">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -604,7 +604,7 @@
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1538643454632">
         <mark key="'" line="177" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/frontend-reusable-components/package.json" timestamp="1539093407969">
+      <file name="$USER_HOME$/Projects/frontend-reusable-components/package.json" timestamp="1539095121880">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="48" />
         <mark key="^" line="1" column="20" />
@@ -1798,8 +1798,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fulgurit-regantes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJidWlsZDpjb3B5IjogIm5vZGUgY29weS5qcyIsCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1853,7 +1853,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmFjaWxpdGllczogcHJvcHMuZmFjaWxpdGllcywK</text>
+        <text encoding="base64">ICAgICJidWlsZDpjb3B5IjogIm5vZGUgY29weS5qcyIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1895,31 +1895,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZmFjaWxpdGllczogcHJvcHMuZmFjaWxpdGllcywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5mYWNpbGl0aWVzKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5mYWNpbGl0aWVzKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VHJlbmRzTGFuZGluZ1BhZ2UucHJvcFR5cGVzID0gewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc0dsb2JhbDogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZAo=</text>
+        <text encoding="base64">VHJlbmRzTGFuZGluZ1BhZ2UucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmYWNpbGl0aWVzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICBpc0dsb2JhbDogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbGxlcjogJ1RyZW5kc0NvbnRyb2xsZXInLAo=</text>
+        <text encoding="base64">ICBmYWNpbGl0aWVzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
