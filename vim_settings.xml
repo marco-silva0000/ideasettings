@@ -33,6 +33,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="19" />
@@ -247,6 +253,11 @@
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" timestamp="1538671499419">
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="515" column="0" />
+        <mark key="." line="515" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/clients/ClientDetail.jsx" timestamp="1539099102166">
         <mark key="[" line="21" column="0" />
@@ -589,7 +600,7 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539166200146">
+      <file name="/Dummy.txt" timestamp="1539106169183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -605,12 +616,6 @@
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536595167652">
         <mark key="[" line="2" column="0" />
@@ -1810,7 +1815,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>starts work on post and put</text>
+        <text>reusable-components</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1839,7 +1844,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>starts work on post and put</text>
+        <text>reusable-components</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1948,8 +1953,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZW51T3V0ZXJUb3BcPg==</entry>
-        <entry>onChange</entry>
         <entry>onReq</entry>
         <entry encoding="base64">XDxnZXRDbGllbnRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJDbGllbnRzXD4=</entry>
@@ -1968,6 +1971,8 @@
         <entry>then</entry>
         <entry encoding="base64">XDxTeW5vcHRpY0xhbmRQYWdlXD4=</entry>
         <entry>trend</entry>
+        <entry encoding="base64">XDxpc0dsb2JhbFw+</entry>
+        <entry encoding="base64">XDxmYWNpbGl0aWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
