@@ -702,6 +702,13 @@
         <mark key="." line="112" column="138" />
         <mark key="^" line="112" column="138" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/django_podcasting_network/templates/show.xml" timestamp="1539198397179">
+        <mark key="'" line="27" column="44" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
       <file name="/Django Console" timestamp="1538652623340">
         <mark key="[" line="0" column="0" />
       </file>
@@ -804,9 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1080" column="58" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1081" column="56" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1084" column="66" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1086" column="69" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1095" column="69" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1098" column="64" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -904,6 +908,9 @@
       <jump line="59" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" />
       <jump line="150" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" />
       <jump line="151" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" />
+      <jump line="4" column="17" filename="$USER_HOME$/PycharmProjects/django_podcasting_network/templates/show.xml" />
+      <jump line="76" column="0" filename="$USER_HOME$/PycharmProjects/django_podcasting_network/templates/show.xml" />
+      <jump line="27" column="44" filename="$USER_HOME$/PycharmProjects/django_podcasting_network/templates/show.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1968,7 +1975,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>reusable-components</text>
+        <text>http://example.com/podcasts/everything/AllAboutEverything.jpg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1987,13 +1994,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFRyZW5kc0xhbmRpbmdQYWdlIGZyb20gJy4uL3NyYy90cmVuZHMvVHJlbmRzTGFuZGluZ1BhZ2UuanN4Jwo=</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiRW5kIERhdGUiOiAiRGF0ZSBkZSBDZXNzYcOnw6NvIgo=</text>
+        <text encoding="base64">ICAgICAgICA8aXR1bmVzOmF1dGhvcj57eyBzaG93LmNvcHlyaWdodCB9fTwvaXR1bmVzOmF1dGhvcj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2035,31 +2042,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiRW5kIERhdGUiOiAiRGF0ZSBkZSBDZXNzYcOnw6NvIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1yZWdhbnRlcyI6ICJnaXQrc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMvcmVnYW50ZXMtZnJvbnRlbmQuZ2l0IzAuMC4xMSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJpbnN0YWxsLXBlZXJzIjogIl4xLjAuMiIsCg==</text>
+        <text encoding="base64">ICAgICJmdWxndXJpdC1yZWdhbnRlcyI6ICJnaXQrc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMvcmVnYW50ZXMtZnJvbnRlbmQuZ2l0IzAuMC4xMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vYnVpbGRpbmdVdGlscy5qcycK</text>
+        <text encoding="base64">ICAgICJpbnN0YWxsLXBlZXJzIjogIl4xLjAuMiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENoaXAgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvQ2hpcC9DaGlwJwo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vYnVpbGRpbmdVdGlscy5qcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IElucHV0TGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvSW5wdXRMYWJlbC9JbnB1dExhYmVsJwo=</text>
+        <text encoding="base64">aW1wb3J0IENoaXAgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvQ2hpcC9DaGlwJwo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFN3aXRjaCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9Td2l0Y2gvU3dpdGNoJwo=</text>
+        <text encoding="base64">aW1wb3J0IElucHV0TGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvSW5wdXRMYWJlbC9JbnB1dExhYmVsJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sTGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvZXMvRm9ybUNvbnRyb2xMYWJlbC9Gb3JtQ29udHJvbExhYmVsJwo=</text>
+        <text encoding="base64">aW1wb3J0IFN3aXRjaCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9lcy9Td2l0Y2gvU3dpdGNoJwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
