@@ -562,8 +562,8 @@
         <mark key="." line="31" column="46" />
         <mark key="^" line="31" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1538997868488">
-        <mark key="'" line="247" column="25" />
+      <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1539163115531">
+        <mark key="'" line="111" column="66" />
         <mark key="[" line="159" column="59" />
         <mark key="]" line="159" column="63" />
         <mark key="." line="159" column="63" />
@@ -680,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1216" column="11" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="251" column="12" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1235" column="57" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1065" column="69" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -780,6 +779,7 @@
       <jump line="42" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TrendsLandingPage.jsx" />
       <jump line="90" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TrendsLandingPage.jsx" />
       <jump line="0" column="38" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" />
+      <jump line="111" column="66" filename="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1853,7 +1853,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWNpbGl0aWVzXD4=</text>
+        <text>abm</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1945,15 +1945,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWNpbGl0aWVzXD4=</last-search>
+      <last-search>abm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWNpbGl0aWVzXD4=</last-pattern>
+      <last-pattern>abm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onReq</entry>
         <entry encoding="base64">XDxnZXRDbGllbnRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJDbGllbnRzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVGb2N1c1w+</entry>
@@ -1973,6 +1972,7 @@
         <entry>trend</entry>
         <entry encoding="base64">XDxpc0dsb2JhbFw+</entry>
         <entry encoding="base64">XDxmYWNpbGl0aWVzXD4=</entry>
+        <entry>abm</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
