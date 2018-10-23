@@ -105,12 +105,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1538991586416">
-        <mark key="'" line="20" column="34" />
-        <mark key="[" line="80" column="37" />
-        <mark key="]" line="80" column="50" />
-        <mark key="^" line="80" column="50" />
-        <mark key="." line="80" column="50" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1540310608315">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="160" column="34" />
+        <mark key="]" line="160" column="36" />
+        <mark key="." line="160" column="36" />
+        <mark key="^" line="160" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1539168559014">
         <mark key="'" line="151" column="3" />
@@ -701,8 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1109" column="56" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1110" column="56" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1113" column="71" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1114" column="66" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1115" column="69" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -801,6 +799,8 @@
       <jump line="87" column="22" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/serializers.py" />
       <jump line="110" column="23" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" />
       <jump line="16" column="37" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" />
+      <jump line="154" column="59" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
+      <jump line="12" column="36" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1835,8 +1835,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>TimeField</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1874,7 +1874,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</text>
+        <text encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1890,7 +1890,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1932,19 +1932,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGluc3RhbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbnN0YW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGluc3RhbmNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnN0YW5jZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1956,7 +1956,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoZXF1aXBtZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1966,16 +1966,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</last-search>
+      <last-search encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJDbGllbnRzXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVGb2N1c1w+</entry>
         <entry encoding="base64">XDxTZWFyY2hCYXJIT0NcPg==</entry>
         <entry>isAdmin</entry>
         <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
@@ -1994,6 +1992,8 @@
         <entry encoding="base64">XDxmYWNpbGl0aWVzXD4=</entry>
         <entry encoding="base64">XDxnZW9qc29uXD4=</entry>
         <entry encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</entry>
+        <entry encoding="base64">XDxHZW9KU09OU2VyaWFsaXplcnNcPg==</entry>
+        <entry encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
