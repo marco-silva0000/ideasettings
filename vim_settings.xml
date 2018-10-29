@@ -29,7 +29,8 @@
         <mark key="^" line="66" column="53" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/projects/gtc/water_management/serializers.py" timestamp="1540826843624">
+      <file name="/projects/gtc/water_management/serializers.py" timestamp="1540826925685">
+        <mark key="'" line="84" column="15" />
         <mark key="[" line="62" column="42" />
         <mark key="]" line="62" column="50" />
         <mark key="." line="62" column="50" />
@@ -302,7 +303,7 @@
         <mark key="^" line="203" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" timestamp="1540826165563">
-        <mark key="'" line="158" column="26" />
+        <mark key="'" line="160" column="26" />
         <mark key="[" line="123" column="89" />
         <mark key="]" line="123" column="89" />
         <mark key="." line="123" column="89" />
@@ -718,10 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1132" column="56" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1136" column="75" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1137" column="72" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1138" column="73" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1139" column="70" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1147" column="26" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1148" column="41" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -818,6 +815,10 @@
       <jump line="160" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
       <jump line="7" column="68" filename="/projects/gtc/water_management/urls.py" />
       <jump line="40" column="36" filename="/projects/gtc/water_management/views.py" />
+      <jump line="60" column="29" filename="/projects/gtc/water_management/serializers.py" />
+      <jump line="61" column="49" filename="/projects/gtc/water_management/serializers.py" />
+      <jump line="72" column="14" filename="/projects/gtc/water_management/serializers.py" />
+      <jump line="84" column="15" filename="/projects/gtc/water_management/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1891,7 +1892,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYWdldmlld0ljb25cPg==</text>
+        <text encoding="base64">XDxIb3Vyc1NjaGVkdWxlU2VyaWFsaXplclw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1983,16 +1984,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYWdldmlld0ljb25cPg==</last-search>
+      <last-search encoding="base64">XDxIb3Vyc1NjaGVkdWxlU2VyaWFsaXplclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYWdldmlld0ljb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxIb3Vyc1NjaGVkdWxlU2VyaWFsaXplclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhbGVDb21wYXJlXD4=</entry>
-        <entry>getEq</entry>
         <entry encoding="base64">XDxtYWtlT3B0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRFcXVpcG1lbnRzQnlGYWNpbGl0eVw+</entry>
         <entry encoding="base64">XDxnZXRQbG90RGF0YVw+</entry>
@@ -2011,6 +2010,8 @@
         <entry>PageView</entry>
         <entry>Pagevi</entry>
         <entry encoding="base64">XDxQYWdldmlld0ljb25cPg==</entry>
+        <entry encoding="base64">XDxGdWxsU2NoZWR1bGVTZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxIb3Vyc1NjaGVkdWxlU2VyaWFsaXplclw+</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
