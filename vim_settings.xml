@@ -8,6 +8,9 @@
         <mark key="]" line="36" column="67" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="/projects/gtc/water_management/views.py" timestamp="1540826478401">
+        <mark key="'" line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/docker-compose.yml" timestamp="1534763028587">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="36" />
@@ -25,6 +28,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="66" column="53" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="/projects/gtc/water_management/serializers.py" timestamp="1540826843624">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
+        <mark key="^" line="62" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
@@ -256,6 +265,12 @@
         <mark key="." line="116" column="148" />
         <mark key="^" line="116" column="148" />
       </file>
+      <file name="/projects/gtc/water_management/models.py" timestamp="1540826491215">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -286,8 +301,12 @@
         <mark key="." line="203" column="57" />
         <mark key="^" line="203" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" timestamp="1540824807071">
-        <mark key="'" line="160" column="26" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" timestamp="1540826165563">
+        <mark key="'" line="158" column="26" />
+        <mark key="[" line="123" column="89" />
+        <mark key="]" line="123" column="89" />
+        <mark key="." line="123" column="89" />
+        <mark key="^" line="123" column="89" />
       </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/.gitignore" timestamp="1536076303891">
         <mark key="[" line="1" column="0" />
@@ -645,6 +664,9 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="/projects/gtc/water_management/urls.py" timestamp="1540826474276">
+        <mark key="'" line="7" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/package.json" timestamp="1535384047107">
         <mark key="[" line="49" column="19" />
         <mark key="]" line="49" column="19" />
@@ -696,8 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1118" column="81" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1131" column="70" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1132" column="56" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1136" column="75" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1137" column="72" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -796,6 +816,8 @@
       <jump line="16" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
       <jump line="135" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
       <jump line="160" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
+      <jump line="7" column="68" filename="/projects/gtc/water_management/urls.py" />
+      <jump line="40" column="36" filename="/projects/gtc/water_management/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1831,7 +1853,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fulgurit-metering</text>
+        <text>HoursScheduleSerializer(obj.active_program).data</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1860,7 +1882,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fulgurit-metering</text>
+        <text>HoursScheduleSerializer(obj.active_program).data</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1879,13 +1901,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVsZ3VyaXQtbWV0ZXJpbmcgPSB7Z2l0ID0gInNzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L21ldGVyaW5nLmdpdCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlX3Byb2dyYW1bJ2FjdGl2ZV9zZXRwb2ludHMnXSA9IEhvdXJzU2NoZWR1bGVTZXJpYWxpemVyKG9iai5hY3RpdmVfcHJvZ3JhbSkuZGF0YQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiQWRkIFNjaGVkdWxlIjogIkFkaWNpb25hciBBZ2VuZGFtZW50byIsCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1927,31 +1949,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiU2VsZWN0Li4uIjogIlNlbGVjaW9uYXIuLi4iLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ2FjdGl2ZScsICdhY3RpdmVfcHJvZ3JhbScsICdlcXVpcG1lbnRfbGlzdCcsICdmYWNpbGl0eScsICduYW1lJywgJ3V0aWxpdGllcycsICdzZXRwb2ludF90cmlnZ2VyJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
+        <text encoding="base64">ICAgIGludGVydmFscyA9IHNlcmlhbGl6ZXJzLkZpZWxkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAiQWRkIFNjaGVkdWxlIjogIkFkaWNpb25hciBBZ2VuZGFtZW50byIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiU2VsZWN0Li4uIjogIlNlbGVjaW9uYXIuLi4iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGluc3RhbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbnN0YW5jZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
