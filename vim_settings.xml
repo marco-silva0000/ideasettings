@@ -74,13 +74,6 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/serializers.py" timestamp="1539968427116">
-        <mark key="'" line="87" column="22" />
-        <mark key="[" line="87" column="22" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="22" />
-        <mark key="^" line="87" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -112,12 +105,10 @@
         <mark key="." line="160" column="36" />
         <mark key="^" line="160" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1539168559014">
-        <mark key="'" line="151" column="3" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="147" column="30" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1540816551925">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1539703276216">
         <mark key="[" line="128" column="16" />
@@ -133,10 +124,6 @@
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" timestamp="1539969959186">
         <mark key="'" line="16" column="37" />
-        <mark key="[" line="110" column="27" />
-        <mark key="]" line="110" column="35" />
-        <mark key="^" line="110" column="35" />
-        <mark key="." line="110" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/src/RaisedButtonList/RaisedButtonList.jsx" timestamp="1536075405290">
         <mark key="[" line="3" column="0" />
@@ -223,6 +210,12 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1540817116421">
+        <mark key="[" line="118" column="15" />
+        <mark key="]" line="118" column="32" />
+        <mark key="." line="118" column="15" />
+        <mark key="^" line="118" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1539099178781">
         <mark key="[" line="43" column="76" />
         <mark key="]" line="43" column="79" />
@@ -292,6 +285,9 @@
         <mark key="]" line="203" column="57" />
         <mark key="." line="203" column="57" />
         <mark key="^" line="203" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" timestamp="1540816693319">
+        <mark key="'" line="143" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/.gitignore" timestamp="1536076303891">
         <mark key="[" line="1" column="0" />
@@ -387,10 +383,6 @@
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1538997681297">
         <mark key="'" line="10" column="7" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="10" />
-        <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
@@ -659,12 +651,12 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1540808101342">
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1540816939454">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="33" />
-        <mark key="^" line="74" column="33" />
-        <mark key="." line="74" column="33" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/stories/data/exampleAPIClient.json" timestamp="1537290068184">
         <mark key="[" line="0" column="0" />
@@ -704,8 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1113" column="71" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
-      <jump line="1114" column="66" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1115" column="69" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1118" column="81" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
       <jump line="1131" column="70" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/BuildingDetail.jsx" />
@@ -804,6 +794,8 @@
       <jump line="16" column="37" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" />
       <jump line="154" column="59" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="12" column="36" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
+      <jump line="16" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
+      <jump line="135" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1838,8 +1830,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
+      <register name="&quot;" type="4">
+        <text>fulgurit-metering</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1868,7 +1860,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>TimeField</text>
+        <text>fulgurit-metering</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1877,7 +1869,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</text>
+        <text encoding="base64">XDxQYWdldmlld0ljb25cPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1887,13 +1879,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQga2V5Cg==</text>
+        <text encoding="base64">ZnVsZ3VyaXQtbWV0ZXJpbmcgPSB7Z2l0ID0gInNzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L21ldGVyaW5nLmdpdCJ9Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
+        <text encoding="base64">ICAiQWRkIFNjaGVkdWxlIjogIkFkaWNpb25hciBBZ2VuZGFtZW50byIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1935,28 +1927,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAiU2VsZWN0Li4uIjogIlNlbGVjaW9uYXIuLi4iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRqZ2VvanNvbi5zZXJpYWxpemVycyBhcyBHZW9KU09OU2VyaWFsaXplcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGluc3RhbmNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbnN0YW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGluc3RhbmNlKQo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnN0YW5jZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1969,17 +1961,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</last-search>
+      <last-search encoding="base64">XDxQYWdldmlld0ljb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQYWdldmlld0ljb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZWFyY2hCYXJIT0NcPg==</entry>
-        <entry>isAdmin</entry>
-        <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
         <entry encoding="base64">XDxsb2NhbGVDb21wYXJlXD4=</entry>
         <entry>getEq</entry>
         <entry encoding="base64">XDxtYWtlT3B0aW9uXD4=</entry>
@@ -1997,6 +1986,9 @@
         <entry encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</entry>
         <entry encoding="base64">XDxHZW9KU09OU2VyaWFsaXplcnNcPg==</entry>
         <entry encoding="base64">XDxHRU9TR2VvbWV0cnlcPg==</entry>
+        <entry>PageView</entry>
+        <entry>Pagevi</entry>
+        <entry encoding="base64">XDxQYWdldmlld0ljb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
