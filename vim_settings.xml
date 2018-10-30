@@ -281,11 +281,11 @@
         <mark key="." line="381" column="50" />
         <mark key="^" line="381" column="50" />
       </file>
-      <file name="/projects/gtc/water_management/models.py" timestamp="1540891854356">
+      <file name="/projects/gtc/water_management/models.py" timestamp="1540892624752">
         <mark key="'" line="17" column="40" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="123" column="60" />
-        <mark key="." line="118" column="0" />
+        <mark key="[" line="103" column="6" />
+        <mark key="]" line="103" column="22" />
+        <mark key="." line="103" column="6" />
         <mark key="^" line="18" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
@@ -1869,8 +1869,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhaWx5X3NjaGVkdWxlID0gbW9kZWxzLkZvcmVpZ25LZXkoRGFpbHlTY2hlZHVsZSkKICAgIHN0YXJ0X3RpbWUgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZCgpCiAgICBlbmRfdGltZSA9IG1vZGVscy5EYXRlVGltZUZpZWxkKCkKICAgIHNldHBvaW50X2dvYWwgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCiAgICBzZXRwb2ludF9iZWdpbiA9IG1vZGVscy5GbG9hdEZpZWxkKCkKICAgIHNldHBvaW50X3RyaWdnZXIgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKFRyaWdnZXJWYWx1ZXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>DailySchedule</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1899,7 +1899,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>HourSchedule</text>
+        <text>DailySchedule</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1917,8 +1917,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhaWx5X3NjaGVkdWxlID0gbW9kZWxzLkZvcmVpZ25LZXkoRGFpbHlTY2hlZHVsZSkKICAgIHN0YXJ0X3RpbWUgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZCgpCiAgICBlbmRfdGltZSA9IG1vZGVscy5EYXRlVGltZUZpZWxkKCkKICAgIHNldHBvaW50X2dvYWwgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCiAgICBzZXRwb2ludF9iZWdpbiA9IG1vZGVscy5GbG9hdEZpZWxkKCkKICAgIHNldHBvaW50X3RyaWdnZXIgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKFRyaWdnZXJWYWx1ZXMpCg==</text>
+      <register name="0" type="4">
+        <text>ScheduledProgram</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
