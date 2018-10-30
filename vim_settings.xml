@@ -236,6 +236,13 @@
         <mark key="." line="43" column="79" />
         <mark key="^" line="43" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/WaterManagementLanding.jsx" timestamp="1540916674159">
+        <mark key="'" line="50" column="9" />
+        <mark key="[" line="62" column="38" />
+        <mark key="]" line="62" column="56" />
+        <mark key="." line="62" column="56" />
+        <mark key="^" line="62" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/index.js" timestamp="1539100252979">
         <mark key="[" line="0" column="74" />
         <mark key="]" line="0" column="83" />
@@ -282,12 +289,12 @@
         <mark key="." line="381" column="50" />
         <mark key="^" line="381" column="50" />
       </file>
-      <file name="/projects/gtc/water_management/models.py" timestamp="1540904018895">
+      <file name="/projects/gtc/water_management/models.py" timestamp="1540916577541">
         <mark key="'" line="17" column="40" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="152" column="0" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
@@ -740,8 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="11" filename="/Dummy.txt" />
-      <jump line="9" column="84" filename="$USER_HOME$/Projects/core/fulgurit/equipments/urls.py" />
       <jump line="632" column="32" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
       <jump line="87" column="22" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/serializers.py" />
       <jump line="110" column="23" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/models.py" />
@@ -840,6 +845,8 @@
       <jump line="229" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="114" column="35" filename="/projects/gtc/water_management/serializers.py" />
       <jump line="7" column="87" filename="/projects/gtc/water_management/urls.py" />
+      <jump line="6" column="52" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/WaterManagementLanding.jsx" />
+      <jump line="50" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/WaterManagementLanding.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1874,8 +1881,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoLCBzZWxmKS50b19pbnRlcm5hbF92YWx1ZShkYXRhKQo=</text>
+      <register name="&quot;" type="4">
+        <text>water-heater</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1904,7 +1911,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>HoursScheduleShellSerializer</text>
+        <text>water-heater</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1913,7 +1920,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYWlseV9zY2hlZHVsZVw+</text>
+        <text>fetch</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2005,15 +2012,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYWlseV9zY2hlZHVsZVw+</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYWlseV9zY2hlZHVsZVw+</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmYWNpbGl0aWVzXD4=</entry>
         <entry encoding="base64">XDxnZW9qc29uXD4=</entry>
         <entry encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</entry>
         <entry encoding="base64">XDxHZW9KU09OU2VyaWFsaXplcnNcPg==</entry>
@@ -2033,6 +2039,7 @@
         <entry encoding="base64">XDx1dGlsaXR5XD4=</entry>
         <entry>active_program.map</entry>
         <entry encoding="base64">XDxkYWlseV9zY2hlZHVsZVw+</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
