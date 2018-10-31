@@ -284,7 +284,7 @@
         <mark key="^" line="353" column="13" />
         <mark key="." line="353" column="13" />
       </file>
-      <file name="/projects/gtc/water_management/models.py" timestamp="1540973340323">
+      <file name="/projects/gtc/water_management/models.py" timestamp="1540987684295">
         <mark key="'" line="129" column="51" />
         <mark key="[" line="18" column="114" />
         <mark key="]" line="22" column="63" />
@@ -460,7 +460,7 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="/projects/gtc/setup.py" timestamp="1540973662715">
+      <file name="/projects/gtc/setup.py" timestamp="1540987228848">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
@@ -556,6 +556,13 @@
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
+      </file>
+      <file name="/projects/gtc/water_management/tasks.py" timestamp="1540987692485">
+        <mark key="'" line="53" column="39" />
+        <mark key="[" line="53" column="47" />
+        <mark key="]" line="53" column="47" />
+        <mark key="." line="53" column="47" />
+        <mark key="^" line="53" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/src/events/EventInfo.jsx" timestamp="1532364977891">
         <mark key="[" line="27" column="32" />
@@ -730,7 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="112" column="7" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/ScheduleSetpoint.jsx" />
       <jump line="61" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/ScheduleSetpoint.jsx" />
@@ -830,6 +836,7 @@
       <jump line="40" column="42" filename="/projects/gtc/water_management/views.py" />
       <jump line="143" column="21" filename="/projects/gtc/water_management/serializers.py" />
       <jump line="98" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
+      <jump line="53" column="39" filename="/projects/gtc/water_management/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1864,8 +1871,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2Vla2RheXM6IFtdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>equipment.equipmentdata_set.get(type__code='sp_arr')</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1894,7 +1901,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>equipment.equipmentdata_set.get(type__code='sp_arr')</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1903,7 +1910,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>start_date</text>
+        <text encoding="base64">XDxleGlzdHNcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1913,13 +1920,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>TriggerValues.objects.filter(value=interval).exists()</text>
+        <text>manager_availabel_setpoints</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2Vla2RheXM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1961,31 +1968,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWxfcXNldCA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnV0aWxpdHkuYWN0aXZlID0gVHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IERFQlVHOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgREVCVUc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRfX2luPVtpWydpZCddIGZvciBpIGluIGVxdWlwbWVudF9maWxlcyBpZiAnaWQnIGluIGkua2V5cygpXSkuZGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgICAgd2Vla2RheXM6IFtdLAo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5lcXVpcG1lbnRmaWxlX3NldC5leGNsdWRlKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnQgPSBzZXJpYWxpemVyLnNhdmUoKQogICAgICAgICMgTGlzdCBvZiBhbGwgZXF1aXBtZW50X2RhdGEgSURzIHRvIGRlbGV0ZQogICAgICAgIGVxdWlwbWVudF9kYXRhX3RvX2tpbGwgPSBbaS5pZCBmb3IgaSBpbiBlcXVpcG1lbnQuZXF1aXBtZW50ZGF0YV9zZXQuYWxsKCldCgogICAgICAgIGZvciBlcXVpcG1lbnRfZGF0YSBpbiBlcXVpcG1lbnRfZGF0YXM6CiAgICAgICAgICAgIGlmICdwcm9jZXNzZWRfZGF0YXMnIGluIGVxdWlwbWVudF9kYXRhLmtleXMoKToKICAgICAgICAgICAgICAgIGZsYWcgPSBUcnVlCiAgICAgICAgICAgICAgICBwcm9jZXNzZWRfZGF0YXMgPSBlcXVpcG1lbnRfZGF0YS5wb3AoJ3Byb2Nlc3NlZF9kYXRhcycpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmbGFnID0gRmFsc2UKCiAgICAgICAgICAgIGVxdWlwbWVudF9kYXRhWydlcXVpcG1lbnQnXSA9IGVxdWlwbWVudC5pZAogICAgICAgICAgICBpZiAnaWQnIGluIGVxdWlwbWVudF9kYXRhOgogICAgICAgICAgICAgICAgZXF1aXBtZW50X2RhdGFfdG9fa2lsbC5yZW1vdmUoZXF1aXBtZW50X2RhdGFbJ2lkJ10pCiAgICAgICAgICAgICAgICBlcV9kYXRhX2luc3RhbmNlID0gRXF1aXBtZW50RGF0YS5vYmplY3RzLmdldChpZD1lcXVpcG1lbnRfZGF0YVsnaWQnXSkKCiAgICAgICAgICAgICAgICBpZiAndHlwZScgaW4gZXF1aXBtZW50X2RhdGEua2V5cygpOgogICAgICAgICAgICAgICAgICAgIGVxdWlwbWVudF9kYXRhX3R5cGUgPSBlcXVpcG1lbnRfZGF0YS5wb3AoJ3R5cGUnKQogICAgICAgICAgICAgICAgICAgIGVxX2RhdGFfaW5zdGFuY2UudHlwZSA9IEVxdWlwbWVudERhdGFUeXBlLm9iamVjdHMuZ2V0KGlkPWVxdWlwbWVudF9kYXRhX3R5cGVbJ2lkJ10pCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGVxX2RhdGFfaW5zdGFuY2UudHlwZSA9IE5vbmUKCiAgICAgICAgICAgICAgICBzZXJpYWxpemVyX2VxdWlwbWVudF9kYXRhID0gRXF1aXBtZW50RGF0YVNlcmlhbGl6ZXIoZXFfZGF0YV9pbnN0YW5jZSwgZGF0YT1lcXVpcG1lbnRfZGF0YSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlcmlhbGl6ZXJfZXF1aXBtZW50X2RhdGEgPSBFcXVpcG1lbnREYXRhU2VyaWFsaXplcihkYXRhPWVxdWlwbWVudF9kYXRhKQogICAgICAgICAgICBzZXJpYWxpemVyX2VxdWlwbWVudF9kYXRhLmlzX3ZhbGlkKHJhaXNlX2V4Y2VwdGlvbj1UcnVlKQogICAgICAgICAgICBlcXVpcF9kYXRhID0gc2VyaWFsaXplcl9lcXVpcG1lbnRfZGF0YS5zYXZlKCkKCiAgICAgICAgICAgIGlmIGZsYWc6CiAgICAgICAgICAgICAgICBwcm9jZXNzZWRfZGF0YV90b19raWxsID0gW2kuaWQgZm9yIGkgaW4gZXF1aXBtZW50LnByb2Nlc3NlZGRhdGFfc2V0LmZpbHRlcihlcXVpcG1lbnRfZGF0YT1lcXVpcF9kYXRhLmlkKV0KICAgICAgICAgICAgICAgIGZvciBwcm9jZXNzZWRfZGF0YSBpbiBwcm9jZXNzZWRfZGF0YXM6CiAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFbJ2VxdWlwbWVudCddID0gZXF1aXBtZW50LmlkCiAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFbJ2VxdWlwbWVudF9kYXRhJ10gPSBlcXVpcF9kYXRhLmlkCiAgICAgICAgICAgICAgICAgICAgaWYgJ2lkJyBpbiBwcm9jZXNzZWRfZGF0YToKICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGFfdG9fa2lsbC5yZW1vdmUocHJvY2Vzc2VkX2RhdGFbJ2lkJ10pCiAgICAgICAgICAgICAgICAgICAgICAgIHByb2NfZGF0YV9pbnN0YW5jZSA9IFByb2Nlc3NlZERhdGEub2JqZWN0cy5nZXQoaWQ9cHJvY2Vzc2VkX2RhdGFbJ2lkJ10pCiAgICAgICAgICAgICAgICAgICAgICAgIHNlcmlhbGl6ZXJfcHJvY2Vzc19kYXRhID0gUHJvY2Vzc2VkRGF0YVNlcmlhbGl6ZXIocHJvY19kYXRhX2luc3RhbmNlLCBkYXRhPXByb2Nlc3NlZF9kYXRhKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcmlhbGl6ZXJfcHJvY2Vzc19kYXRhID0gUHJvY2Vzc2VkRGF0YVNlcmlhbGl6ZXIoZGF0YT1wcm9jZXNzZWRfZGF0YSkKCiAgICAgICAgICAgICAgICAgICAgc2VyaWFsaXplcl9wcm9jZXNzX2RhdGEuaXNfdmFsaWQocmFpc2VfZXhjZXB0aW9uPUZhbHNlKQogICAgICAgICAgICAgICAgICAgIHNlcmlhbGl6ZXJfcHJvY2Vzc19kYXRhLnNhdmUoKQoKICAgICAgICAgICAgICAgIGZvciBpIGluIHByb2Nlc3NlZF9kYXRhX3RvX2tpbGw6CiAgICAgICAgICAgICAgICAgICAgaW5zdGFuY2VfcHJvY2Vzc19kYXRhID0gUHJvY2Vzc2VkRGF0YS5vYmplY3RzLmdldChpZD1pKQogICAgICAgICAgICAgICAgICAgIGluc3RhbmNlX3Byb2Nlc3NfZGF0YS5kZWxldGUoKQogICAgICAgICMgRGVsZXRlIGVxdWlwbWVudF9kYXRhcwogICAgICAgIGZvciBpIGluIGVxdWlwbWVudF9kYXRhX3RvX2tpbGw6CiAgICAgICAgICAgIGluc3RhbmNlX2VxdWlwbWVudF9kYXRhID0gRXF1aXBtZW50RGF0YS5vYmplY3RzLmdldChpZD1pKQogICAgICAgICAgICBpbnN0YW5jZV9lcXVpcG1lbnRfZGF0YS5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWxfcXNldCA9IFtdCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1995,15 +2002,14 @@
       </register>
     </registers>
     <search>
-      <last-search>start_date</last-search>
+      <last-search encoding="base64">XDxleGlzdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>start_date</last-pattern>
+      <last-pattern encoding="base64">XDxleGlzdHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Select</entry>
         <entry>handleSelectChange</entry>
         <entry encoding="base64">XDxvblNlbGVjdENoYW5nZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTZWxlY3RDaGFuZ2VcPg==</entry>
@@ -2023,6 +2029,7 @@
         <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
         <entry>delete</entry>
         <entry>start_date</entry>
+        <entry encoding="base64">XDxleGlzdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
