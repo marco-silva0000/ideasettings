@@ -46,12 +46,6 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="19" />
@@ -81,6 +75,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" timestamp="1541693662722">
+        <mark key="'" line="260" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/.gitlab-ci.yml" timestamp="1531223348152">
         <mark key="[" line="150" column="0" />
@@ -632,6 +629,12 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" timestamp="1541694141748">
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="^" line="369" column="25" />
+        <mark key="." line="357" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1540973699089">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
@@ -649,6 +652,12 @@
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536595167652">
         <mark key="[" line="2" column="0" />
@@ -726,7 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="7" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/ScheduleSetpoint.jsx" />
       <jump line="61" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/ScheduleSetpoint.jsx" />
       <jump line="93" column="79" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/ScheduleSetpoint.jsx" />
@@ -826,6 +834,7 @@
       <jump line="143" column="21" filename="/projects/gtc/water_management/serializers.py" />
       <jump line="98" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="53" column="39" filename="/projects/gtc/water_management/tasks.py" />
+      <jump line="260" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1860,8 +1869,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>equipment.equipmentdata_set.get(type__code='sp_arr')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc3lub3B0aWNEYXRhLAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1890,7 +1899,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>equipment.equipmentdata_set.get(type__code='sp_arr')</text>
+        <text>{svgDiagrams, svgDiagramsNames, selectedNames, addons, processedDataAux, svgEquipments, ws} = d</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1909,13 +1918,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>manager_availabel_setpoints</text>
+        <text>processedDataAux</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc3lub3B0aWNEYXRhLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1957,31 +1966,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbmV3RGF0YSA9IHVwZGF0ZSh0aGlzLnN0YXRlLmZhY2lsaXR5U3lub3B0aWNEYXRhLCB7CiAgICAgICAgICAkbWVyZ2U6IHsKICAgICAgICAgICAgW2ZhY2lsaXR5LmZhY2lsaXR5X19pZF06IHsKICAgICAgICAgICAgICBzdmdfZGlhZ3JhbXM6IHN2Z0RpYWdyYW1zLAogICAgICAgICAgICAgIHN2Z19kaWFncmFtc19uYW1lczogc3ZnRGlhZ3JhbXNOYW1lcywKICAgICAgICAgICAgICBzZWxlY3RlZE5hbWVzOiBzZWxlY3RlZE5hbWVzLAogICAgICAgICAgICAgIGFkZG9uczogYWRkb25zLAogICAgICAgICAgICAgIHByb2Nlc3NlZERhdGFBdXg6IHByb2Nlc3NlZERhdGFBdXgsCiAgICAgICAgICAgICAgc3ZnRXF1aXBtZW50czogc3ZnRXF1aXBtZW50cywKICAgICAgICAgICAgICBoYXNBbGxEYXRhOiB0cnVlLAogICAgICAgICAgICAgIHdzOiB3cwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnV0aWxpdHkuYWN0aXZlID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IG5ld0ZhY1N5bkRhdGEgPSB0aGlzLnN0YXRlLmZhY2lsaXR5U3lub3B0aWNEYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IERFQlVHOgo=</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IHByb2Nlc3NlZERhdGFBdXggPSB1cGRhdGUodGhpcyxzdGF0ZS5wcm9jZXNzZWREYXRhQXV4OiB7W3N2Z05ld1ZhbHVlLnByb2Nlc3NlZF9kYXRhXToge3Byb2Nlc3NlZERhdGE6IHt2YWx1ZTogeyRzZXQ6IHN2Z05ld1ZhbHVlLnZhbHVlfX19fX19KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgREVCVUc6Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KGRhdGEpID0+IHsKICAgICAgbGV0IHN2Z05ld1ZhbHVlID0gc3ZnV3NPbk1lc3NhZ2UoZGF0YSwgdGhpcy5zdGF0ZS5wcm9jZXNzZWREYXRhQXV4KQogICAgICAvLyBsZXQgbmV3RmFjU3luRGF0YSA9IHRoaXMuc3RhdGUuZmFjaWxpdHlTeW5vcHRpY0RhdGEKICAgICAgLy8gbmV3RmFjU3luRGF0YSA9IHVwZGF0ZShuZXdGYWNTeW5EYXRhLCB7W2ZhY2lsaXR5LmZhY2lsaXR5X19pZF06IHtwcm9jZXNzZWREYXRhQXV4OiB7W3N2Z05ld1ZhbHVlLnByb2Nlc3NlZF9kYXRhXToge3Byb2Nlc3NlZERhdGE6IHt2YWx1ZTogeyRzZXQ6IHN2Z05ld1ZhbHVlLnZhbHVlfX19fX19KQogICAgICB0aGlzLnNldFN0YXRlKHtmYWNpbGl0eVN5bm9wdGljRGF0YTogbmV3RmFjU3luRGF0YX0pCiAgICB9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2Vla2RheXM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWxfcXNldCA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
