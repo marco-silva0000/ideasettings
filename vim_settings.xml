@@ -565,11 +565,12 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" timestamp="1542199187000">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" timestamp="1542217145919">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/src/PinedHeaderList/index.jsx" timestamp="1535965569068">
         <mark key="[" line="0" column="27" />
@@ -673,6 +674,9 @@
         <mark key="]" line="46" column="138" />
         <mark key="." line="46" column="138" />
         <mark key="^" line="46" column="138" />
+      </file>
+      <file name="/Django Console" timestamp="1542216945563">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
@@ -785,18 +789,15 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" timestamp="1542196932262">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="55" />
-        <mark key="^" line="42" column="51" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" timestamp="1542217091831">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="32" column="56" />
+        <mark key="." line="32" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="369" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="468" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="469" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="395" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="386" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="117" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
@@ -894,6 +895,9 @@
       <jump line="18" column="11" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
+      <jump line="30" column="27" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1929,7 +1933,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Pipe</text>
+        <text>PipeAdmin</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1958,7 +1962,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Pipe</text>
+        <text>PipeAdmin</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1976,8 +1980,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>ActuatorInline</text>
+      <register name="0" type="2">
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihQaXBlLCBQaXBlQWRtaW4pCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
