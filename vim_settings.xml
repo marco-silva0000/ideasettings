@@ -35,11 +35,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542300982634">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="17" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542303086074">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="71" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -759,6 +760,12 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" timestamp="1542303207172">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="66" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
         <mark key="]" line="54" column="15" />
@@ -798,8 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="117" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="203" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="213" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="332" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
@@ -898,6 +903,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="30" column="27" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" />
       <jump line="10" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
+      <jump line="46" column="12" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1962,7 +1969,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Pipe</text>
+        <text>SeivaHVReportComponentManager</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1980,14 +1987,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CgpjbGFzcyBTZW5zb3JJblBpcGUobW9kZWxzLk1vZGVsKToKICAgIHBpcGUgPSBtb2RlbHMuRm9yZWlnbktleShQaXBlLCBudWxsPVRydWUsIGJsYW5rPVRydWUpCiAgICBwcm9jZXNzZWRfZGF0YSA9IG1vZGVscy5Gb3JlaWduS2V5KFByb2Nlc3NlZERhdGEsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkKCgpjbGFzcyBBY3R1YXRvckluUGlwZShtb2RlbHMuTW9kZWwpOgogICAgcGlwZSA9IG1vZGVscy5Gb3JlaWduS2V5KFBpcGUsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkKICAgIGVxdWlwbWVudF9kYXRhID0gbW9kZWxzLkZvcmVpZ25LZXkoRXF1aXBtZW50RGF0YSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
+      <register name="0" type="4">
+        <text>OutletManager</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NlZF9kYXRhID0gbW9kZWxzLkZvcmVpZ25LZXkoUHJvY2Vzc2VkRGF0YSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KQ09OQ0VMSE9TID0gKAogICAgICgnMScsICdPZGVtaXJhJyksICgnMycsICdPdXJpcXVlJyksICgnMicsICdBbGplenVyJykKICkKRlJFR1VFU0lBUyA9ICgKICAgICgnMScsICdTYWx2YWRvcicpLAogICAgKCcyJywgJ1NhbnRhIE1hcmlhJyksCiAgICAoJzMnLCAnUy4gVGVvdMOzbmlvJyksCiAgICAoJzQnLCAnU2Fiw7NpYScpLAogICAgKCc1JywgJ1NhbnRhIENsYXJhLWEtVmVsaGEnKSwKICAgICgnNicsICdaYW1idWplaXJhIGRvIE1hcicpLAogICAgKCcxMScsICdCb2F2aXN0YSBkb3MgUGluaGVpcm9zJyksCiAgICAoJzEyJywgJ0xvbmd1ZWlyYS1BbG1vZ3JhdmUnKSwKICAgICgnMTMnLCAnUGVyZWlyYXMtR2FyZScpLAogICAgKCcxNCcsICdMdXppYW5lcyAtIEdhcmUnKSwKICAgICgnNycsICdPZGVjZWl4ZScpLAogICAgKCc4JywgJ0FsamV6dXInKSwKICAgICgnOScsICdSb2dpbCcpLAogICAgKCcxMCcsICdTYW50YW5hIGRhIFNlcnJhJykKKQoKQ09OQ0VMSE9TV0ZSRUdVRVNJQVMgPSBbCiAgICAgWydPZGVtaXJhJywgWydCb2F2aXN0YSBkb3MgUGluaGVpcm9zJywgJ0xvbmd1ZWlyYS1BbG1vZ3JhdmUnLCAnTHV6aWFuZXMgLSBHYXJlJywKICAgICAnU2Fiw7NpYScsICdTYW50YSBDbGFyYS1hLVZlbGhhJywgJ1phbWJ1amVpcmEgZG8gTWFyJywgJ1MuIFRlb3TDs25pbycsJ1BlcmVpcmFzLUdhcmUnLCdTYW50YSBNYXJpYScsICdTYWx2YWRvciddXSwKICAgICBbJ091cmlxdWUnLCBbJ1NhbnRhbmEgZGEgU2VycmEnXV0sCiAgICAgWydBbGplenVyJywgWydBbGplenVyJywgJ1JvZ2lsJywgJ09kZWNlaXhlJ11dCiBdCgoKCk1BTkRBVE9SUllfQ0xJRU5UX0ZJRUxEUyA9IFsnbmFtZSddCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2029,31 +2036,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NlZF9kYXRhID0gbW9kZWxzLkZvcmVpZ25LZXkoUHJvY2Vzc2VkRGF0YSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50cyA9IFJlZ2lzdHJhdGlvbkRvY3VtZW50U2VyaWFsaXplcihtYW55PVRydWUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkaW5ncyA9IExhbmRTaGVsbFNlcmlhbGl6ZXIoc291cmNlPSdsYW5kcycsIG1hbnk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50cyA9IFJlZ2lzdHJhdGlvbkRvY3VtZW50U2VyaWFsaXplcihtYW55PVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gUmVnaXN0cmF0aW9uU3RhdGVTZXJpYWxpemVyKCkK</text>
+        <text encoding="base64">ICAgIGJ1aWxkaW5ncyA9IExhbmRTaGVsbFNlcmlhbGl6ZXIoc291cmNlPSdsYW5kcycsIG1hbnk9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyb3AgPSBDcm9wU2VyaWFsaXplcih2YWxpZGF0b3JzPVtdKQo=</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gUmVnaXN0cmF0aW9uU3RhdGVTZXJpYWxpemVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IEFCQ2xpZW50U2VyaWFsaXplcigpCg==</text>
+        <text encoding="base64">ICAgIGNyb3AgPSBDcm9wU2VyaWFsaXplcih2YWxpZGF0b3JzPVtdKQo=</text>
       </register>
       <register name="w" type="4">
         <text>;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgSHlkcmFudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsaWVudCA9IEFCQ2xpZW50U2VyaWFsaXplcigpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IEFCQ2xpZW50U2VyaWFsaXplcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZnJlZ3Vlc2lhLCBjb25jZWxobywgYXJ0aWNsZSBhbmQgc2VjdGlvbiIsCg==</text>
+        <text encoding="base64">Y2xhc3MgSHlkcmFudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsaWVudCA9IEFCQ2xpZW50U2VyaWFsaXplcigpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
