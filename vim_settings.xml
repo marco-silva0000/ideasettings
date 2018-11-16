@@ -35,12 +35,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542307264518">
-        <mark key="'" line="62" column="17" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="72" column="47" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542369370113">
+        <mark key="'" line="62" column="70" />
+        <mark key="[" line="80" column="87" />
+        <mark key="]" line="80" column="90" />
+        <mark key="." line="80" column="90" />
+        <mark key="^" line="80" column="90" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -473,12 +473,6 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1541695403543">
-        <mark key="'" line="132" column="21" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1532435805412">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="31" />
@@ -614,6 +608,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1542369317490">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="50" />
+        <mark key="^" line="35" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/fulgurit-localization/package.json" timestamp="1536666072951">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -684,12 +684,6 @@
         <mark key="]" line="6" column="36" />
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1542020944147">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1536149984583">
         <mark key="[" line="36" column="56" />
@@ -905,12 +899,12 @@
       <jump line="31" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="2" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="3" column="32" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="62" column="17" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
       <jump line="3" column="21" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
       <jump line="6" column="73" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
+      <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1975,7 +1969,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Faucet</text>
+        <text>none</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1994,13 +1988,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCkpCmNsYXNzIEZhdWNldFZpZXdTZXQodmlld3NldHMuTW9kZWxWaWV3U2V0KToKICAgIG1vZGVsID0gRmF1Y2V0CiAgICBxdWVyeXNldCA9IEZhdWNldC5vYmplY3RzLmFsbCgpCgo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcHBzL2luZnJhc3RydWN0dXJlLycsIGluY2x1ZGUoJ2lycmlnYXRvcnMudXJscycpKSwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2042,31 +2036,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncGFyaXNoZXMtY291bmNpZWwnLCBQYXJpc2hlc1dDb3VuY2llbFZpZXdTZXQsIGJhc2VfbmFtZT0ncGFyaXNoZXMnKQo=</text>
+        <text encoding="base64">UAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInY2xpZW50JywgQUJDbGllbnRWaWV3U2V0KQo=</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncGFyaXNoZXMtY291bmNpZWwnLCBQYXJpc2hlc1dDb3VuY2llbFZpZXdTZXQsIGJhc2VfbmFtZT0ncGFyaXNoZXMnKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInY2xpZW50JywgQUJDbGllbnRWaWV3U2V0KQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncmVnaXN0cmF0aW9ucycsIFJlZ2lzdHJhdGlvblZpZXdTZXQpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">TGFuZFZpZXdTZXQsIEFCQ2xpZW50Vmlld1NldCwgUGFyaXNoZXNXQ291bmNpZWxWaWV3U2V0LCBSZWdpc3RyYXRpb25WaWV3U2V0CgpzY2hlbWFfdmlldyA9IGdldF9zY2hlbWFfdmlldygKICAgIG9wZW5hcGkuSW5mbygKICAgICAgICB0aXRsZT0iU25pcHBldHMgQVBJIiwKICAgICAgICBkZWZhdWx0X3ZlcnNpb249J3YxJywKICAgICAgICBkZXNjcmlwdGlvbj0iVGVzdCBkZXNjcmlwdGlvbiIsCiAgICApLAogICAgcHVibGljPVRydWUsCikKCnJvdXRlciA9IERlZmF1bHRSb3V0ZXIoKQpyb3V0ZXIucmVnaXN0ZXIocidsYW5kJywg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
