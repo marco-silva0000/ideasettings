@@ -249,14 +249,6 @@
         <mark key="." line="118" column="15" />
         <mark key="^" line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" timestamp="1541853908774">
-        <mark key="'" line="252" column="40" />
-        <mark key="[" line="198" column="36" />
-        <mark key="]" line="198" column="36" />
-        <mark key="m" line="647" column="36" />
-        <mark key="." line="198" column="36" />
-        <mark key="^" line="196" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/WaterManagementLanding.jsx" timestamp="1540917589517">
         <mark key="'" line="50" column="9" />
         <mark key="[" line="62" column="38" />
@@ -332,6 +324,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" timestamp="1542367963897">
+        <mark key="'" line="6" column="73" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="73" />
+        <mark key="^" line="6" column="73" />
+        <mark key="." line="6" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538993899192">
         <mark key="'" line="191" column="39" />
@@ -633,11 +632,11 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542299184372">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="21" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542367997038">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1539163115531">
         <mark key="'" line="111" column="66" />
@@ -721,6 +720,12 @@
         <mark key="]" line="66" column="114" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" timestamp="1542367898097">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/projects/gtc/water_management/urls.py" timestamp="1540969966895">
         <mark key="'" line="7" column="87" />
@@ -806,11 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="85" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="134" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="202" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="211" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="212" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="331" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="370" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
@@ -906,6 +906,11 @@
       <jump line="2" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="3" column="32" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="62" column="17" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
+      <jump line="3" column="21" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
+      <jump line="6" column="73" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1970,7 +1975,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>self.get_children_count()</text>
+        <text>Faucet</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1979,7 +1984,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbHNcPg==</text>
+        <text encoding="base64">XDxvcGVuYXBpXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1989,13 +1994,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoSHlkcmFudE1hbmFnZXIsIHNlbGYpLmdldF9xdWVyeXNldCgpLmZpbHRlcih0eXBlPUh5ZHJhbnQuVFlQRSkK</text>
+        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCkpCmNsYXNzIEZhdWNldFZpZXdTZXQodmlld3NldHMuTW9kZWxWaWV3U2V0KToKICAgIG1vZGVsID0gRmF1Y2V0CiAgICBxdWVyeXNldCA9IEZhdWNldC5vYmplY3RzLmFsbCgpCgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgPT09Cg==</text>
+        <text encoding="base64">UAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2037,31 +2042,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncGFyaXNoZXMtY291bmNpZWwnLCBQYXJpc2hlc1dDb3VuY2llbFZpZXdTZXQsIGJhc2VfbmFtZT0ncGFyaXNoZXMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInY2xpZW50JywgQUJDbGllbnRWaWV3U2V0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dBVEVSTUlYX0NFX01PREVfVkFMVUUnOiAwLAo=</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncmVnaXN0cmF0aW9ucycsIFJlZ2lzdHJhdGlvblZpZXdTZXQpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dBVEVSTUlYX1BSRVNTVVJFX01PREVfVkFMVUUnOiAxLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">TGFuZFZpZXdTZXQsIEFCQ2xpZW50Vmlld1NldCwgUGFyaXNoZXNXQ291bmNpZWxWaWV3U2V0LCBSZWdpc3RyYXRpb25WaWV3U2V0CgpzY2hlbWFfdmlldyA9IGdldF9zY2hlbWFfdmlldygKICAgIG9wZW5hcGkuSW5mbygKICAgICAgICB0aXRsZT0iU25pcHBldHMgQVBJIiwKICAgICAgICBkZWZhdWx0X3ZlcnNpb249J3YxJywKICAgICAgICBkZXNjcmlwdGlvbj0iVGVzdCBkZXNjcmlwdGlvbiIsCiAgICApLAogICAgcHVibGljPVRydWUsCikKCnJvdXRlciA9IERlZmF1bHRSb3V0ZXIoKQpyb3V0ZXIucmVnaXN0ZXIocidsYW5kJywg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dBVENIRE9HX1NUQVJUX09GRlNFVCc6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dBVENIRE9HX0xPT0tCQUNLX1RJTUUnOiA1LAo=</text>
+        <text />
       </register>
       <register name="w" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1dBVENIRE9HX1JVTl9QRVJJT0QnOiA2MC4wLAo=</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ01VU1RfUkVQT1JUX0dST1VQUyc6IFRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2071,16 +2076,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RlbHNcPg==</last-search>
+      <last-search encoding="base64">XDxvcGVuYXBpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbHNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxvcGVuYXBpXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVTZWxlY3RDaGFuZ2VcPg==</entry>
-        <entry>form</entry>
         <entry encoding="base64">XDxoYW5kbGVEZWxldGVQcm9ncmFtXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVEZWxldGVTZXRwb2ludFw+</entry>
         <entry>Delet</entry>
@@ -2099,6 +2102,8 @@
         <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDxUaW1lVHJhdmVsXD4=</entry>
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry encoding="base64">XDxMYW5kVmlld1NldFw+</entry>
+        <entry encoding="base64">XDxvcGVuYXBpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/g</entry>
