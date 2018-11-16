@@ -673,11 +673,12 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" timestamp="1542381971248">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" timestamp="1542385622577">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/apps.py" timestamp="1542276989618">
         <mark key="[" line="7" column="18" />
@@ -805,7 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="331" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="370" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="385" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
@@ -905,6 +905,7 @@
       <jump line="9" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
       <jump line="6" column="73" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
       <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
+      <jump line="31" column="21" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1969,7 +1970,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Hydrant</text>
+        <text>Faucet</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1988,7 +1989,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgSHlkcmFudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBGYXVjZXQKICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycKCg==</text>
+        <text encoding="base64">Y2xhc3MgSHlkcmFudFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBIeWRyYW50CiAgICAgICAgZmllbGRzID0gJ19fYWxsX18nCgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
