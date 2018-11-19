@@ -35,12 +35,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542369370113">
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542639974711">
         <mark key="'" line="62" column="70" />
-        <mark key="[" line="80" column="87" />
-        <mark key="]" line="80" column="90" />
-        <mark key="." line="80" column="90" />
-        <mark key="^" line="80" column="90" />
+        <mark key="[" line="74" column="73" />
+        <mark key="]" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+        <mark key="^" line="76" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -639,11 +639,12 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542387862568">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="39" />
-        <mark key="." line="34" column="28" />
-        <mark key="^" line="34" column="28" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542640259724">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1539163115531">
         <mark key="'" line="111" column="66" />
@@ -680,12 +681,12 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" timestamp="1542385622577">
-        <mark key="'" line="31" column="21" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="30" column="21" />
-        <mark key="." line="30" column="21" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" timestamp="1542640262199">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/apps.py" timestamp="1542276989618">
         <mark key="[" line="7" column="18" />
@@ -819,8 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="385" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="86" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="419" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="61" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
@@ -919,6 +918,8 @@
       <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
       <jump line="31" column="21" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" />
+      <jump line="22" column="23" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1983,7 +1984,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>small api change</text>
+        <text>Reservour</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1992,7 +1993,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRQbG90RGF0YVw+</text>
+        <text encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2001,14 +2002,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBPdXRsZXRTZXJpYWxpemVyCg==</text>
+      <register name="0" type="4">
+        <text>ReservoirSerializer</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gT3V0bGV0Cg==</text>
+      <register name="1" type="4">
+        <text>'sensor_status', 'last_communication_timestamp', 'last_communication_status',
+        'sensor_validation'</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2050,31 +2052,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gRmF1Y2V0Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gT3V0bGV0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gUGlwZQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gRmF1Y2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gUmVzZXJ2b2lyCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gUGlwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkaW5ncyA9IE5hbWVTZXJpYWxpemVyKG1hbnk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gUmVzZXJ2b2lyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gTmFtZVNlcmlhbGl6ZXIoKQo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkaW5ncyA9IE5hbWVTZXJpYWxpemVyKG1hbnk9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyb3AgPSBOYW1lU2VyaWFsaXplcigpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gTmFtZVNlcmlhbGl6ZXIoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IE5hbWVTZXJpYWxpemVyKCkK</text>
+        <text encoding="base64">ICAgIGNyb3AgPSBOYW1lU2VyaWFsaXplcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IE5hbWVTZXJpYWxpemVyKCkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2084,15 +2086,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRQbG90RGF0YVw+</last-search>
+      <last-search encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRQbG90RGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVEZWxldGVTZXRwb2ludFw+</entry>
         <entry>Delet</entry>
         <entry>new</entry>
         <entry>New</entry>
@@ -2112,6 +2113,7 @@
         <entry encoding="base64">XDxMYW5kVmlld1NldFw+</entry>
         <entry encoding="base64">XDxvcGVuYXBpXD4=</entry>
         <entry encoding="base64">XDxnZXRQbG90RGF0YVw+</entry>
+        <entry encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/g</entry>
@@ -2128,11 +2130,11 @@
         <entry>q</entry>
         <entry>2622</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>12</entry>
         <entry>6</entry>
         <entry>22</entry>
         <entry>NERDTreeTabsToggle</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
