@@ -364,6 +364,12 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/GraphComponent.jsx" timestamp="1542629059521">
+        <mark key="[" line="285" column="64" />
+        <mark key="]" line="285" column="105" />
+        <mark key="^" line="285" column="105" />
+        <mark key="." line="285" column="105" />
+      </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/src/EditCancelSaveCardActionButtons/EditCancelSaveCardActionButtons.jsx" timestamp="1536075467956">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="48" />
@@ -626,7 +632,8 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" timestamp="1539967305120">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" timestamp="1542629072685">
+        <mark key="'" line="25" column="16" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="4" column="63" />
         <mark key="." line="4" column="63" />
@@ -686,7 +693,7 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542391540994">
+      <file name="/Dummy.txt" timestamp="1542629083830">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -812,7 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="370" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="385" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="86" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
@@ -912,6 +918,7 @@
       <jump line="6" column="73" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
       <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
       <jump line="31" column="21" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1985,7 +1992,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuYXBpXD4=</text>
+        <text encoding="base64">XDxnZXRQbG90RGF0YVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2077,15 +2084,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVuYXBpXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRQbG90RGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuYXBpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRQbG90RGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVEZWxldGVQcm9ncmFtXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVEZWxldGVTZXRwb2ludFw+</entry>
         <entry>Delet</entry>
         <entry>new</entry>
@@ -2105,6 +2111,7 @@
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
         <entry encoding="base64">XDxMYW5kVmlld1NldFw+</entry>
         <entry encoding="base64">XDxvcGVuYXBpXD4=</entry>
+        <entry encoding="base64">XDxnZXRQbG90RGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/g</entry>
