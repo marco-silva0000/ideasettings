@@ -639,12 +639,12 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542640259724">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542643042526">
+        <mark key="'" line="53" column="5" />
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="53" column="36" />
+        <mark key="^" line="53" column="36" />
+        <mark key="." line="53" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1539163115531">
         <mark key="'" line="111" column="66" />
@@ -820,8 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="419" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
       <jump line="61" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
       <jump line="85" column="57" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
       <jump line="88" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" />
@@ -918,8 +916,10 @@
       <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
       <jump line="31" column="21" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" />
-      <jump line="22" column="23" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
+      <jump line="40" column="23" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
+      <jump line="53" column="5" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1984,7 +1984,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Reservour</text>
+        <text>get</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2002,15 +2002,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>ReservoirSerializer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBzd2FnZ2VyX2F1dG9fc2NoZW1hKG1ldGhvZD0nZ2V0JywgbWFudWFsX3BhcmFtZXRlcnM9W3NlYXJjaF9wYXJhbSwgb3JkZXJCeV9wYXJhbSwgb3JkZXJfcGFyYW1dKQogICAgQGxpc3Rfcm91dGUoKQogICAgZGVmIHNoZWxsKHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHF1ZXJ5c2V0ID0gc2VsZi5xdWVyeXNldAogICAgICAgIGlmICdzZWFyY2gnIGluIHJlcXVlc3QucXVlcnlfcGFyYW1zOgogICAgICAgICAgICBzZWFyY2ggPSByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1snc2VhcmNoJ10KICAgICAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5maWx0ZXIoUShuYW1lX19pY29udGFpbnM9c2VhcmNoKSB8IFEocGlwZV9fbmFtZV9faWNvbnRhaW5zPXNlYXJjaCkpCiAgICAgICAgaWYgJ29yZGVyQnknIGluIHJlcXVlc3QucXVlcnlfcGFyYW1zIGFuZCByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1snb3JkZXJCeSddIGluIFsnbmFtZScsICdwaXBlX19uYW1lJ106CiAgICAgICAgICAgIGlmICdvcmRlcicgaW4gcmVxdWVzdC5xdWVyeV9wYXJhbXMgYW5kIHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlciddID09ICdkZXNjJzoKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJy0nICsgcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ29yZGVyQnknXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkocmVxdWVzdC5xdWVyeV9wYXJhbXNbJ29yZGVyQnknXSkKICAgICAgICBwYWdlID0gc2VsZi5wYWdpbmF0ZV9xdWVyeXNldChxdWVyeXNldCkKICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZXJpYWxpemVyID0gSHlkcmFudFNoZWxsU2VyaWFsaXplcihwYWdlLCBtYW55PVRydWUpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQogICAgICAgIHJldHVybiBSZXNwb25zZShIeWRyYW50U2hlbGxTZXJpYWxpemVyKHNlbGYucXVlcnlzZXQsIG1hbnk9VHJ1ZSkuZGF0YSwgc3RhdHVzPXN0YXR1cy5IVFRQXzIwMF9PSykK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>'sensor_status', 'last_communication_timestamp', 'last_communication_status',
-        'sensor_validation'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2052,31 +2051,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gT3V0bGV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gRmF1Y2V0Cg==</text>
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBPdXRsZXRTZXJpYWxpemVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gUGlwZQo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gT3V0bGV0Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gUmVzZXJ2b2lyCg==</text>
+        <text encoding="base64">Y2xhc3MgT3V0bGV0Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkaW5ncyA9IE5hbWVTZXJpYWxpemVyKG1hbnk9VHJ1ZSkK</text>
+        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gTmFtZVNlcmlhbGl6ZXIoKQo=</text>
+      <register name="7" type="4">
+        <text>'freguesia',
+                                                                                     'concelho', 'article', 'section'</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNyb3AgPSBOYW1lU2VyaWFsaXplcigpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBRKGFydGljbGVfX2ljb250YWlucz1zZWFyY2gpIHwgUShzZWN0aW9uX19pY29udGFpbnM9c2VhcmNoKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IE5hbWVTZXJpYWxpemVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUShhcnRpY2xlX19pY29udGFpbnM9c2VhcmNoKSB8IFEoc2VjdGlvbl9faWNvbnRhaW5zPXNlYXJjaCkpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
