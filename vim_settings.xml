@@ -639,12 +639,12 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542643042526">
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542643370892">
         <mark key="'" line="53" column="5" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="36" />
-        <mark key="^" line="53" column="36" />
-        <mark key="." line="53" column="36" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/main.js" timestamp="1539163115531">
         <mark key="'" line="111" column="66" />
@@ -1984,7 +1984,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>]</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2009,7 +2009,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2051,32 +2051,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAnc2VhcmNoJyBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtczoKICAgICAgICAgICAgc2VhcmNoID0gcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ3NlYXJjaCddCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZmlsdGVyKFEobmFtZV9faWNvbnRhaW5zPXNlYXJjaCkgfCBRKHBpcGVfX25hbWVfX2ljb250YWlucz1zZWFyY2gpKQogICAgICAgIGlmICdvcmRlckJ5JyBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtcyBhbmQgcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ29yZGVyQnknXSBpbiBbJ25hbWUnLCAncGlwZV9fbmFtZSddOgogICAgICAgICAgICBpZiAnb3JkZXInIGluIHJlcXVlc3QucXVlcnlfcGFyYW1zIGFuZCByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1snb3JkZXInXSA9PSAnZGVzYyc6CiAgICAgICAgICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0Lm9yZGVyX2J5KCctJyArIHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlckJ5J10pCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0Lm9yZGVyX2J5KHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlckJ5J10pCiAgICAgICAgcGFnZSA9IHNlbGYucGFnaW5hdGVfcXVlcnlzZXQocXVlcnlzZXQpCiAgICAgICAgaWYgcGFnZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VyaWFsaXplciA9IEh5ZHJhbnRTaGVsbFNlcmlhbGl6ZXIocGFnZSwgbWFueT1UcnVlKQogICAgICAgICAgICByZXR1cm4gc2VsZi5nZXRfcGFnaW5hdGVkX3Jlc3BvbnNlKHNlcmlhbGl6ZXIuZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBPdXRsZXRTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gT3V0bGV0Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgT3V0bGV0Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgo=</text>
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBPdXRsZXRTZXJpYWxpemVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCkpCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gT3V0bGV0Lm9iamVjdHMuYWxsKCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>'freguesia',
-                                                                                     'concelho', 'article', 'section'</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgT3V0bGV0Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBRKGFydGljbGVfX2ljb250YWlucz1zZWFyY2gpIHwgUShzZWN0aW9uX19pY29udGFpbnM9c2VhcmNoKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUShhcnRpY2xlX19pY29udGFpbnM9c2VhcmNoKSB8IFEoc2VjdGlvbl9faWNvbnRhaW5zPXNlYXJjaCkpCg==</text>
+      <register name="9" type="4">
+        <text>'freguesia',
+                                                                                     'concelho', 'article', 'section'</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
