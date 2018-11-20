@@ -316,12 +316,12 @@
         <mark key="^" line="50" column="43" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" timestamp="1542732433671">
-        <mark key="'" line="421" column="7" />
-        <mark key="[" line="420" column="44" />
-        <mark key="]" line="420" column="60" />
-        <mark key="^" line="420" column="60" />
-        <mark key="." line="420" column="60" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" timestamp="1542733426528">
+        <mark key="'" line="422" column="8" />
+        <mark key="[" line="422" column="15" />
+        <mark key="]" line="422" column="15" />
+        <mark key="^" line="421" column="10" />
+        <mark key="." line="422" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0006_equipmentdatawriteaction.py" timestamp="1532342092665">
         <mark key="[" line="15" column="43" />
@@ -840,7 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="58" filename="/projects/gtc/water_management/views.py" />
       <jump line="10" column="58" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
       <jump line="625" column="55" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
       <jump line="681" column="25" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
@@ -940,6 +939,7 @@
       <jump line="21" column="31" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/client.py" />
       <jump line="7" column="22" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" />
       <jump line="421" column="7" filename="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" />
+      <jump line="422" column="8" filename="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2004,7 +2004,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>self.valve.command('auto')</text>
+        <text>b</text>
       </register>
       <register name="m" type="4">
         <keys>
