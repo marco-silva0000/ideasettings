@@ -35,12 +35,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542715298478">
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542733318047">
         <mark key="'" line="68" column="70" />
-        <mark key="[" line="102" column="81" />
-        <mark key="]" line="104" column="22" />
-        <mark key="." line="104" column="22" />
-        <mark key="^" line="104" column="22" />
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="133" column="11" />
+        <mark key="^" line="133" column="11" />
+        <mark key="." line="133" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/settings.py" timestamp="1532450985284">
         <mark key="[" line="180" column="1" />
@@ -682,6 +682,12 @@
         <mark key="." line="46" column="138" />
         <mark key="^" line="46" column="138" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/models.py" timestamp="1542732748759">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="38" />
@@ -696,11 +702,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/monkey_patching.py" timestamp="1542732470377">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/monkey_patching.py" timestamp="1542732516034">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/apps.py" timestamp="1542276989618">
         <mark key="[" line="7" column="18" />
@@ -1998,7 +2004,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>self.valve.command('auto')</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2017,13 +2023,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxvcmFfZXF1aXBtZW50X2RhdGFfd3JpdGUoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9vcGVyYXRpb25fbW9kZShzZWxmLlpFUk8pCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9vcGVyYXRpb25fbW9kZShzZWxmLk1BTlVBTCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2065,31 +2071,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9vcGVyYXRpb25fbW9kZShzZWxmLlpFUk8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi52YWx2ZS5jb21tYW5kKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZhbHZlLndyaXRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnc2VhcmNoJyBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtczoKICAgICAgICAgICAgc2VhcmNoID0gcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ3NlYXJjaCddCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZmlsdGVyKFEobmFtZV9faWNvbnRhaW5zPXNlYXJjaCkgfCBRKHBpcGVfX25hbWVfX2ljb250YWlucz1zZWFyY2gpKQogICAgICAgIGlmICdvcmRlckJ5JyBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtcyBhbmQgcmVxdWVzdC5xdWVyeV9wYXJhbXNbJ29yZGVyQnknXSBpbiBbJ25hbWUnLCAncGlwZV9fbmFtZSddOgogICAgICAgICAgICBpZiAnb3JkZXInIGluIHJlcXVlc3QucXVlcnlfcGFyYW1zIGFuZCByZXF1ZXN0LnF1ZXJ5X3BhcmFtc1snb3JkZXInXSA9PSAnZGVzYyc6CiAgICAgICAgICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0Lm9yZGVyX2J5KCctJyArIHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlckJ5J10pCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0Lm9yZGVyX2J5KHJlcXVlc3QucXVlcnlfcGFyYW1zWydvcmRlckJ5J10pCiAgICAgICAgcGFnZSA9IHNlbGYucGFnaW5hdGVfcXVlcnlzZXQocXVlcnlzZXQpCiAgICAgICAgaWYgcGFnZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VyaWFsaXplciA9IEh5ZHJhbnRTaGVsbFNlcmlhbGl6ZXIocGFnZSwgbWFueT1UcnVlKQogICAgICAgICAgICByZXR1cm4gc2VsZi5nZXRfcGFnaW5hdGVkX3Jlc3BvbnNlKHNlcmlhbGl6ZXIuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
