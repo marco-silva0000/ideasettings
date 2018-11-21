@@ -692,11 +692,6 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="/Django Console" timestamp="1542817105696">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="38" />
@@ -2019,7 +2014,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Nemeus</text>
+        <text>, confirm_downlink=True</text>
       </register>
       <register name="m" type="4">
         <keys>
