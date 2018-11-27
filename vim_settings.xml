@@ -739,11 +739,12 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1542815096247">
-        <mark key="[" line="167" column="6" />
-        <mark key="]" line="167" column="8" />
-        <mark key="." line="167" column="8" />
-        <mark key="^" line="167" column="8" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1543343984984">
+        <mark key="'" line="190" column="18" />
+        <mark key="[" line="167" column="29" />
+        <mark key="]" line="168" column="19" />
+        <mark key="." line="168" column="19" />
+        <mark key="^" line="168" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536595167652">
         <mark key="[" line="2" column="0" />
@@ -853,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="58" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
       <jump line="625" column="55" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
       <jump line="681" column="25" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
       <jump line="63" column="19" filename="$USER_HOME$/Projects/core/fulgurit/equipments/api.py" />
@@ -953,6 +953,7 @@
       <jump line="421" column="7" filename="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" />
       <jump line="422" column="8" filename="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" />
       <jump line="21" column="28" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/client.py" />
+      <jump line="186" column="18" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2017,7 +2018,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>NKE valve controller</text>
+        <text>_</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2026,7 +2027,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</text>
+        <text encoding="base64">XDxzdHJ1Y3RcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2118,15 +2119,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</last-search>
+      <last-search encoding="base64">XDxzdHJ1Y3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJ1Y3RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Delet</entry>
         <entry>new</entry>
         <entry>New</entry>
         <entry encoding="base64">XDxhZGRBY3RpdmVQcm9ncmFtXD4=</entry>
@@ -2146,6 +2146,7 @@
         <entry encoding="base64">XDxvcGVuYXBpXD4=</entry>
         <entry encoding="base64">XDxnZXRQbG90RGF0YVw+</entry>
         <entry encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxzdHJ1Y3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/g</entry>
