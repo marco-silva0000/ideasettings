@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1544482600030">
+        <mark key="'" line="22" column="56" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="74" column="3" />
+        <mark key="." line="74" column="3" />
+      </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
         <mark key="'" line="40" column="42" />
         <mark key="[" line="39" column="31" />
@@ -293,8 +299,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActions/PumpTimerAction.jsx" timestamp="1544470613129">
-        <mark key="'" line="60" column="2" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActions/PumpTimerAction.jsx" timestamp="1544483332682">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1539103875549">
         <mark key="[" line="19" column="48" />
@@ -437,11 +446,11 @@
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/timers/timersUtils.js" timestamp="1544470110074">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/timers/timersUtils.js" timestamp="1544483051752">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/irrigatorUtils.js" timestamp="1538489546247">
         <mark key="[" line="26" column="11" />
@@ -504,6 +513,13 @@
         <mark key="]" line="444" column="52" />
         <mark key="." line="444" column="52" />
         <mark key="^" line="444" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" timestamp="1544483317708">
+        <mark key="'" line="14" column="32" />
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="62" />
+        <mark key="." line="7" column="62" />
+        <mark key="^" line="7" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
@@ -571,10 +587,11 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/timers/urls.py" timestamp="1544467074088">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="58" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/Projects/core/apps/timers/urls.py" timestamp="1544483426543">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/newRegistrationDialog.jsx" timestamp="1533225625838">
@@ -783,18 +800,18 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544470224887">
+      <file name="/Dummy.txt" timestamp="1544483506843">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/timers/api.py" timestamp="1544467069373">
-        <mark key="'" line="193" column="6" />
-        <mark key="[" line="199" column="6" />
-        <mark key="]" line="199" column="32" />
-        <mark key="^" line="199" column="15" />
-        <mark key="." line="199" column="15" />
+      <file name="$USER_HOME$/Projects/core/apps/timers/api.py" timestamp="1544483454619">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="204" column="27" />
+        <mark key="]" line="204" column="27" />
+        <mark key="^" line="203" column="3" />
+        <mark key="." line="204" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1536149984583">
         <mark key="[" line="36" column="56" />
@@ -923,13 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="60" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/registrationBuilding.jsx" />
-      <jump line="97" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/registrationBuilding.jsx" />
-      <jump line="127" column="57" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/registrationBuilding.jsx" />
-      <jump line="128" column="258" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/registrationBuilding.jsx" />
-      <jump line="554" column="2" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="371" column="19" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="858" column="55" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="112" column="16" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registerUtils.js" />
       <jump line="564" column="29" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="635" column="19" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
@@ -1023,6 +1033,13 @@
       <jump line="166" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="64" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TrendsLandingPage.jsx" />
       <jump line="60" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActions/PumpTimerAction.jsx" />
+      <jump line="22" column="56" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="13" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
+      <jump line="7" column="62" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
+      <jump line="14" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
+      <jump line="18" column="33" filename="$USER_HOME$/Projects/core/apps/timers/urls.py" />
+      <jump line="204" column="23" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
+      <jump line="20" column="6" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2087,7 +2104,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>EquipmentDataWrite</text>
+        <text>ByFacility</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2096,7 +2113,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXcml0ZURpYWxvZ1w+</text>
+        <text encoding="base64">XDxQdW1wVGltZXJBY3Rpb25cPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2106,13 +2123,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFB1bXBUaW1lcnNCeUZhY2lsaXR5IChpZCkgewogIHJldHVybiBmZXRjaCgnL2FwcHMvZGF0YWxvZy9hcGkvcHVtcC10aW1lcnMtYnktZmFjaWxpdHkvJyArIGlkICsgJy8/Zm9ybWF0PWpzb24nLCB7CiAgICBtZXRob2Q6ICdHRVQnLAogICAgaGVhZGVyczogewogICAgICAnQWNjZXB0JzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAnWC1DU1JGVG9rZW4nOiBjb29raWUubG9hZCgnY3NyZnRva2VuJykKICAgIH0sCiAgICBjcmVkZW50aWFsczogJ3NhbWUtb3JpZ2luJwogIH0pCiAgICAudGhlbigocmVzcG9uc2UpID0+IHsKICAgICAgcmV0dXJuIHJlc3BvbnNlCiAgICB9KQp9Cg==</text>
+        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoVGltZXJzQnlGYWNpbGl0eVBlcm1pc3Npb25zLCkpCmNsYXNzIFB1bXBUaW1lcnNCeUZhY2lsaXR5Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgcXVlcnlzZXQgPSBQdW1wVGltZXIub2JqZWN0cy5hbGwoKQogICAgc2VyaWFsaXplcl9jbGFzcyA9IFB1bXBUaW1lcjJTZXJpYWxpemVyCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVcmwpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Lyg/UDxmYWNpbGl0eT5bJwogICAgICAgICAgICAgICAgcicwLTldKykn</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2154,31 +2171,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHNwbGl0dXJsKQo=</text>
+        <text encoding="base64">aW1wb3J0IENpcmN1bGFyUHJvZ3Jlc3MgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ2lyY3VsYXJQcm9ncmVzcycKaW1wb3J0IFNlbmRJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9TZW5kJwppbXBvcnQgQ2hlY2tJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9DaGVjaycKaW1wb3J0IFNsaWRlIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL1NsaWRlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldEZhY2lsaXR5RnJvbVVSTCA9ICgpID0+IHsKICAgICAgbGV0IGN1cnJlbnRVcmwsIHNwbGl0dXJsCiAgICAgIGNvbnNvbGUubG9nKCdnZXQgZmFjaWxpdHknKQogICAgICBjdXJyZW50VXJsID0gd2luZG93LmxvY2F0aW9uLmhyZWYKICAgICAgY29uc29sZS5sb2coY3VycmVudFVybCkKICAgICAgc3BsaXR1cmwgPSBjdXJyZW50VXJsLnNwbGl0KCcvJykKICAgICAgLy8gY29uc29sZS5sb2coc3BsaXR1cmwpCiAgICAgIHJldHVybiBOdW1iZXIucGFyc2VJbnQoc3BsaXR1cmxbNl0pCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFR5cG9ncmFwaHkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvVHlwb2dyYXBoeScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvR3JpZCcKaW1wb3J0IFJlcXVlc3RTbmFja0JhciBmcm9tICcuL3JlcXVlc3RTbmFja0Jhci5qc3gnCmltcG9ydCBMaXN0IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpc3QnCmltcG9ydCBMaXN0SXRlbSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9MaXN0SXRlbScKaW1wb3J0IExpc3RJdGVtVGV4dCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9MaXN0SXRlbVRleHQnCmltcG9ydCBEaWFsb2cgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRGlhbG9nJwppbXBvcnQgRGlhbG9nVGl0bGUgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRGlhbG9nVGl0bGUnCmltcG9ydCBEaWFsb2dDb250ZW50IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0RpYWxvZ0NvbnRlbnQnCmltcG9ydCBEaWFsb2dDb250ZW50VGV4dCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9EaWFsb2dDb250ZW50VGV4dCcKaW1wb3J0IERpYWxvZ0FjdGlvbnMgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRGlhbG9nQWN0aW9ucycKaW1wb3J0IFRleHRGaWVsZCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9UZXh0RmllbGQnCmltcG9ydCBFeHBhbnNpb25QYW5lbCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9FeHBhbnNpb25QYW5lbCcKaW1wb3J0IEV4cGFuc2lvblBhbmVsRGV0YWlscyBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9FeHBhbnNpb25QYW5lbERldGFpbHMnCmltcG9ydCBFeHBhbnNpb25QYW5lbFN1bW1hcnkgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRXhwYW5zaW9uUGFuZWxTdW1tYXJ5Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVyVXRpbHMgZnJvbSAnLi9QdW1wVGltZXJUYWJsZS5qc3gnCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNvb2tpZSBmcm9tICdyZWFjdC1jb29raWVzCg==</text>
+        <text encoding="base64">ICAgICAgfSwgMjAwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEFsYXJtc0Jhbm5lciBmcm9tICcuL0FsYXJtc0Jhbm5lci5qc3gnCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsb3NlRGlhbG9nKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdyZWVuIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL2NvbG9ycy9ncmVlbicK</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdyZWFjdC1hZGRvbnMtdXBkYXRlJwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7c3VjY2VzczogdHJ1ZSwgbG9hZGluZzogZmFsc2V9KQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2188,16 +2205,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXcml0ZURpYWxvZ1w+</last-search>
+      <last-search encoding="base64">XDxQdW1wVGltZXJBY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXcml0ZURpYWxvZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxQdW1wVGltZXJBY3Rpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>active</entry>
-        <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
         <entry>delete</entry>
         <entry>start_date</entry>
@@ -2216,6 +2231,8 @@
         <entry>sys</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxXcml0ZURpYWxvZ1w+</entry>
+        <entry encoding="base64">XDxlcXVpcG1lbnR3cml0ZWFjdGlvblw+</entry>
+        <entry encoding="base64">XDxQdW1wVGltZXJBY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/</entry>
