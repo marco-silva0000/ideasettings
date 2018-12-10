@@ -353,13 +353,6 @@
       <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/urls.py" timestamp="1543522755229">
         <mark key="[" line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/UtilityList.jsx" timestamp="1540969303228">
-        <mark key="'" line="89" column="31" />
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="12" />
-        <mark key="^" line="65" column="12" />
-        <mark key="." line="65" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/.gitignore" timestamp="1536076303891">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -456,11 +449,6 @@
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1543522245716">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
         <mark key="[" line="59" column="6" />
@@ -474,12 +462,12 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/timers/models.py" timestamp="1544463281080">
+      <file name="$USER_HOME$/Projects/core/apps/timers/models.py" timestamp="1544464548889">
         <mark key="'" line="476" column="40" />
-        <mark key="[" line="462" column="15" />
-        <mark key="]" line="460" column="40" />
-        <mark key="^" line="460" column="40" />
-        <mark key="." line="460" column="40" />
+        <mark key="[" line="459" column="54" />
+        <mark key="]" line="459" column="54" />
+        <mark key="^" line="459" column="88" />
+        <mark key="." line="459" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/regantes/devSettings.py" timestamp="1532516147707">
         <mark key="[" line="18" column="13" />
@@ -732,17 +720,18 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544460360789">
+      <file name="/Dummy.txt" timestamp="1544465013361">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/timers/api.py" timestamp="1544460668868">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="51" />
-        <mark key="^" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/Projects/core/apps/timers/api.py" timestamp="1544464063257">
+        <mark key="'" line="193" column="6" />
+        <mark key="[" line="201" column="32" />
+        <mark key="]" line="201" column="32" />
+        <mark key="^" line="201" column="32" />
+        <mark key="." line="201" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1536149984583">
         <mark key="[" line="36" column="56" />
@@ -775,6 +764,12 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/timers/serializers.py" timestamp="1544464102355">
+        <mark key="[" line="153" column="6" />
+        <mark key="]" line="153" column="15" />
+        <mark key="." line="153" column="15" />
+        <mark key="^" line="153" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/frontend-reusable-components/package.json" timestamp="1539097443931">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="114" />
@@ -794,12 +789,12 @@
         <mark key="." line="49" column="19" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1540816939454">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1544464456235">
+        <mark key="'" line="114" column="14" />
+        <mark key="[" line="151" column="10" />
+        <mark key="]" line="151" column="15" />
+        <mark key="^" line="151" column="15" />
+        <mark key="." line="151" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/stories/data/exampleAPIClient.json" timestamp="1537290068184">
         <mark key="[" line="0" column="0" />
@@ -865,11 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="51" filename="/projects/gtc/water_management/models.py" />
-      <jump line="40" column="42" filename="/projects/gtc/water_management/views.py" />
-      <jump line="143" column="21" filename="/projects/gtc/water_management/serializers.py" />
-      <jump line="98" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/FormProgramDialog.jsx" />
-      <jump line="53" column="39" filename="/projects/gtc/water_management/tasks.py" />
       <jump line="260" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/synopticGlobalLandPage.jsx" />
       <jump line="132" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/SynopticUtils.js" />
       <jump line="6" column="7" filename="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/components/synopticLandPage.jsx" />
@@ -965,6 +955,11 @@
       <jump line="444" column="18" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
       <jump line="458" column="27" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
       <jump line="472" column="40" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
+      <jump line="194" column="6" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
+      <jump line="141" column="26" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
+      <jump line="85" column="17" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
+      <jump line="114" column="14" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2029,7 +2024,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>null=True, blank=True</text>
+        <text>Icones to Valve</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2038,7 +2033,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZWxlcnlfcHVtcFw+</text>
+        <text>sys</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2048,13 +2043,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9yZGVyID0gbW9kZWxzLlBvc2l0aXZlSW50ZWdlckZpZWxkKG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICdhcHBzLnNwcmlua2xlcnMnLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1bQo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1kb20iOiAiXjE2LjUuMiIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2096,31 +2091,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gc3Rvcmllc09mKCdSZWdpc3RyYXRpb25MaXN0JywgbW9kdWxlKS5hZGQoJ1JlZ2lzdHJhdGlvbkxpc3QnLCAoKSA9PiA8UmVnYW50ZXNMYW5kaW5nUGFnZSAvPikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5fc2NoZWR1bGVzID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTApCg==</text>
+        <text encoding="base64">ICAgICdhcHBzLnN5c3RlbV9sb2dzJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1bXBzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChFcXVpcG1lbnQsIHJlbGF0ZWRfbmFtZT0ncHVtcHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHZhbGlkYXRvcnMgPSBbR3JlYXRlclRoYW5WYWxpZGF0b3IoJ2R1cmF0aW9uJywgJ2ZyZXF1ZW5jeScpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcbiBQcmVzc3VyZTogSW4gdGhpcyBjYXNlIHRoZSBwdW1wcyBhcmUgYWN0aXZhdGVkIGJ5IGEgc2V0IG9mIHVzZXIgc2VsZWN0ZWQgc2V0cG9pbnRzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nQnVveTogSW4gdGhpcyBjYXNlIHB1bXBzIGFyZSBhY3RpdmF0ZWQgYnkgdGhlIE9OL09GRiBzdGF0ZSBvZiB0aGUgdGFuayBCeW95XCdzXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdhdGVyX2xldmVsX3R5cGUgPSBtb2RlbHMuQ2hhckZpZWxkKGNob2ljZXM9V0FURVJfTEVWRUxfVFlQRVMsIG1heF9sZW5ndGg9MTAsCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Y2xhc3MgVGltZXJzSW5GYWNpbGl0eVNlcmlhbGl6ZXIob2JqZWN0KToK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2130,16 +2125,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZWxlcnlfcHVtcFw+</last-search>
+      <last-search>sys</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZWxlcnlfcHVtcFw+</last-pattern>
+      <last-pattern>sys</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>state.program</entry>
-        <entry>Will</entry>
         <entry>disable</entry>
         <entry>dataTo</entry>
         <entry>active</entry>
@@ -2158,6 +2151,8 @@
         <entry encoding="base64">XDxSZXNwb25jZVw+</entry>
         <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxjZWxlcnlfcHVtcFw+</entry>
+        <entry encoding="base64">XDxBdmFpbGFibGVUaW1lcnNCeUZhY2lsaXR5Vmlld1NldFw+</entry>
+        <entry>sys</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/</entry>
