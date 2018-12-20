@@ -13,12 +13,12 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1544542484035">
         <mark key="'" line="219" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545322091902">
-        <mark key="'" line="94" column="24" />
-        <mark key="[" line="426" column="37" />
-        <mark key="]" line="426" column="41" />
-        <mark key="." line="426" column="41" />
-        <mark key="^" line="426" column="41" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545323502516">
+        <mark key="'" line="421" column="24" />
+        <mark key="[" line="421" column="19" />
+        <mark key="]" line="421" column="24" />
+        <mark key="." line="421" column="24" />
+        <mark key="^" line="421" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -297,10 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="444" column="18" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="458" column="27" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="472" column="40" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
       <jump line="194" column="6" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
       <jump line="141" column="26" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
       <jump line="0" column="7" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
@@ -397,6 +393,10 @@
       <jump line="756" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="757" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="94" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="174" column="7" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="249" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="69" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="421" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1461,7 +1461,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>events</text>
+        <text>...updatedEventsDict</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1470,7 +1470,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>updateEv</text>
+        <text>updateEventsF</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1486,7 +1486,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmRBbmRVcGRhdGVFdmVudChuZXdFdmVudCkK</text>
+        <text encoding="base64">ICAgIGxldCB1cGRhdGVkRXZlbnRzRGljdCA9IHRoaXMudXBkYXRlRXZlbnRzRnVuY3Rpb24oZXZlbnRzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1528,31 +1528,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtldmVudHM6IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50cywge1tldmVudEtleV06IHskc2V0OiBuZXdFdmVudH19KX0pCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdFdmVudC5pZCA9IGV2ZW50S2V5Cg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlKHRoaXMuc3RhdGUuZXZlbnRzRGljdCwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmRBbmRVcGRhdGVFdmVudChuZXdFdmVudCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdFdmVudC5vcGVuID0gIXRoaXMuc3RhdGUuZXZlbnRzW2V2ZW50SW5kZXhdLm9wZW4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtldmVudHM6IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50cywge1tldmVudEtleV06IHskc2V0OiBuZXdFdmVudH19KX0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdFdmVudC5hbGxFdmVudHNBcnJheUluZGV4ID0gZXZlbnRJbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICB1Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdFdmVudC5pZCA9IGV2ZW50S2V5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1562,16 +1562,14 @@
       </register>
     </registers>
     <search>
-      <last-search>updateEv</last-search>
+      <last-search>updateEventsF</last-search>
       <last-offset />
-      <last-pattern>updateEv</last-pattern>
+      <last-pattern>updateEventsF</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfb2JqZWN0XD4=</entry>
-        <entry encoding="base64">XDxmdWxndXJpdF9zZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzX21ldGVyaW5nX2FsYXJtc1w+</entry>
         <entry encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</entry>
         <entry encoding="base64">XDxQUk9DRVNTX0RVUExJQ0FURVNcPg==</entry>
@@ -1590,6 +1588,8 @@
         <entry>eventsD</entry>
         <entry>eventsDet</entry>
         <entry>updateEv</entry>
+        <entry>getEventDet</entry>
+        <entry>updateEventsF</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/</entry>
