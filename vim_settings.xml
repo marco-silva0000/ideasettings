@@ -13,12 +13,12 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1544542484035">
         <mark key="'" line="219" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545323502516">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545324346715">
         <mark key="'" line="421" column="24" />
-        <mark key="[" line="421" column="19" />
-        <mark key="]" line="421" column="24" />
-        <mark key="." line="421" column="24" />
-        <mark key="^" line="421" column="24" />
+        <mark key="[" line="263" column="69" />
+        <mark key="]" line="263" column="76" />
+        <mark key="." line="263" column="76" />
+        <mark key="^" line="263" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -142,12 +142,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1545320721503">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1545324107049">
         <mark key="'" line="112" column="22" />
-        <mark key="[" line="88" column="65" />
-        <mark key="]" line="88" column="66" />
-        <mark key="." line="88" column="66" />
-        <mark key="^" line="88" column="66" />
+        <mark key="[" line="88" column="64" />
+        <mark key="]" line="88" column="63" />
+        <mark key="." line="88" column="63" />
+        <mark key="^" line="88" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/WaterManagementLanding.jsx" timestamp="1540917589517">
         <mark key="'" line="50" column="9" />
@@ -1461,7 +1461,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>...updatedEventsDict</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1480,13 +1480,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>updatedEventsDict</text>
+        <text>findAndUpdateEvent</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCB1cGRhdGVkRXZlbnRzRGljdCA9IHRoaXMudXBkYXRlRXZlbnRzRnVuY3Rpb24oZXZlbnRzKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1528,31 +1528,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtldmVudHM6IG5ld0V2ZW50c30pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbmV3RXZlbnRzID0gdXBkYXRlKHRoaXMuc3RhdGUuZXZlbnRzLCB7W2V2ZW50SW5kZXhdOiB7b3BlbjogeyRzZXQ6ICF0aGlzLnN0YXRlLmV2ZW50c1tldmVudEluZGV4XS5vcGVufX19KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlKHRoaXMuc3RhdGUuZXZlbnRzRGljdCwgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmRBbmRVcGRhdGVFdmVudChuZXdFdmVudCkK</text>
+        <text encoding="base64">ICAgICAgbGV0IGV2ZW50SW5kZXggPSB0aGlzLnN0YXRlLmZpbHRlcmVkRXZlbnRzW2V2ZW50S2V5XS5hbGxFdmVudHNBcnJheUluZGV4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtldmVudHM6IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50cywge1tldmVudEtleV06IHskc2V0OiBuZXdFdmVudH19KX0pCg==</text>
+        <text encoding="base64">ICAgIGxldCB1cGRhdGVkRXZlbnRzRGljdCA9IHRoaXMudXBkYXRlRXZlbnRzRnVuY3Rpb24oZXZlbnRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdFdmVudC5pZCA9IGV2ZW50S2V5Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlKHRoaXMuc3RhdGUuZXZlbnRzRGljdCwgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
