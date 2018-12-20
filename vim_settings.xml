@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545307041227">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545309442706">
         <mark key="'" line="22" column="56" />
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="55" />
-        <mark key="." line="26" column="55" />
-        <mark key="^" line="26" column="55" />
+        <mark key="[" line="161" column="113" />
+        <mark key="]" line="161" column="131" />
+        <mark key="." line="161" column="131" />
+        <mark key="^" line="161" column="131" />
       </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
         <mark key="'" line="40" column="42" />
@@ -75,6 +75,9 @@
         <mark key="." line="52" column="19" />
         <mark key="^" line="51" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" timestamp="1545309713340">
+        <mark key="'" line="70" column="47" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="11" column="0" />
@@ -122,11 +125,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1545306962474">
-        <mark key="[" line="97" column="7" />
-        <mark key="]" line="97" column="20" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1545309510064">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
         <mark key="^" line="62" column="28" />
-        <mark key="." line="62" column="28" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
@@ -329,11 +332,12 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545307458674">
-        <mark key="[" line="94" column="14" />
-        <mark key="]" line="94" column="20" />
-        <mark key="^" line="94" column="20" />
-        <mark key="." line="94" column="20" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545309102882">
+        <mark key="'" line="101" column="41" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="34" />
+        <mark key="." line="102" column="39" />
+        <mark key="^" line="98" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
@@ -521,12 +525,6 @@
         <mark key="]" line="28" column="14" />
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/synoptic/SynopticUtils.js" timestamp="1541695403543">
-        <mark key="'" line="132" column="21" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1532435805412">
         <mark key="[" line="15" column="30" />
@@ -766,11 +764,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545052573082">
+      <file name="/Dummy.txt" timestamp="1545309540866">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/projects/metering/metering/utils.py" timestamp="1545051311902">
         <mark key="[" line="0" column="0" />
@@ -904,16 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="47" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="95" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="717" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="735" column="14" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="767" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="785" column="14" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="822" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="645" column="36" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="268" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="646" column="37" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="252" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
       <jump line="2" column="23" filename="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" />
       <jump line="1" column="24" filename="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" />
@@ -1004,6 +992,16 @@
       <jump line="308" column="45" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="28" column="82" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="6" column="27" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/models.py" />
+      <jump line="99" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" />
+      <jump line="100" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" />
+      <jump line="101" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" />
+      <jump line="25" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="71" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="72" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="74" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="105" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="109" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="70" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2068,7 +2066,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>conditions/EventsConditions.jsx</text>
+        <text>reimplementation of timetravel in syn WI</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2077,7 +2075,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>save_lat</text>
+        <text>this</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2093,73 +2091,67 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="48" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
           <key char="118" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
           <key char="114" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXZlbnRzTGlzdC5jb250ZXh0U3RhdGUnLCBjb250ZXh0U3RhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgPC9FdmVudHNDb250ZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgPC9FdmVudHNDb250ZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIHJldHVybiA8QnV0dG9uIG9uQ2xpY2s9e3ZhbC5nZXREYXRhfSAvPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWwnLCB2YWwpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICB7dmFsID0+IHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIHJldHVybiA8QnV0dG9uIG9uQ2xpY2s9e3ZhbC5nZXREYXRhfSAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxFdmVudHNDb250ZXh0Pgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWwnLCB2YWwpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2169,17 +2161,14 @@
       </register>
     </registers>
     <search>
-      <last-search>save_lat</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>save_lat</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dataTo</entry>
-        <entry>active</entry>
-        <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
         <entry>delete</entry>
         <entry>start_date</entry>
@@ -2197,6 +2186,9 @@
         <entry>Dialog</entry>
         <entry encoding="base64">XDxpc0VkaXRCdWlsZGluZ1w+</entry>
         <entry>Action</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry>state</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
