@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1544482600030">
-        <mark key="'" line="22" column="56" />
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="74" column="3" />
-        <mark key="." line="74" column="3" />
-      </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
         <mark key="'" line="40" column="42" />
         <mark key="[" line="39" column="31" />
@@ -25,6 +19,13 @@
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1544542484035">
         <mark key="'" line="219" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545320171603">
+        <mark key="'" line="441" column="2" />
+        <mark key="[" line="443" column="4" />
+        <mark key="]" line="443" column="4" />
+        <mark key="." line="443" column="4" />
+        <mark key="^" line="442" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -111,6 +112,11 @@
         <mark key="^" line="117" column="54" />
         <mark key="." line="117" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545318804499">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="/projects/gtc/water_management/serializers.py" timestamp="1540973355798">
         <mark key="'" line="143" column="21" />
         <mark key="[" line="143" column="51" />
@@ -129,6 +135,9 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" timestamp="1544542302945">
         <mark key="'" line="39" column="53" />
       </file>
+      <file name="/manage.py@core" timestamp="1545317308830">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="38" />
@@ -143,6 +152,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1545319838886">
+        <mark key="'" line="198" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="158" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" timestamp="1542640262199">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="10" column="6" />
@@ -150,11 +165,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545052573082">
+      <file name="/Dummy.txt" timestamp="1545319225039">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/projects/metering/metering/utils.py" timestamp="1545051311902">
         <mark key="[" line="0" column="0" />
@@ -175,8 +190,12 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1544469522324">
-        <mark key="'" line="166" column="13" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1545318208018">
+        <mark key="'" line="92" column="33" />
+        <mark key="[" line="124" column="13" />
+        <mark key="]" line="124" column="26" />
+        <mark key="^" line="97" column="28" />
+        <mark key="." line="124" column="13" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1544542486792">
         <mark key="'" line="91" column="24" />
@@ -256,6 +275,13 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1545320072721">
+        <mark key="'" line="112" column="22" />
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="90" column="61" />
+        <mark key="." line="90" column="61" />
+        <mark key="^" line="90" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" timestamp="1542217091831">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="12" column="6" />
@@ -265,51 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="47" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="95" column="6" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="717" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="735" column="14" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="767" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="785" column="14" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="822" column="44" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="645" column="36" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="268" column="8" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="646" column="37" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="252" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="2" column="23" filename="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" />
-      <jump line="1" column="24" filename="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" />
-      <jump line="6" column="23" filename="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" />
-      <jump line="11" column="16" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="18" column="11" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="30" column="27" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" />
-      <jump line="10" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
-      <jump line="46" column="12" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="2" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="3" column="32" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="3" column="21" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
-      <jump line="6" column="73" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
-      <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
-      <jump line="31" column="21" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
-      <jump line="25" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
-      <jump line="40" column="23" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
-      <jump line="22" column="23" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
-      <jump line="53" column="5" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
-      <jump line="7" column="22" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" />
-      <jump line="421" column="7" filename="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" />
-      <jump line="422" column="8" filename="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" />
-      <jump line="21" column="28" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/client.py" />
-      <jump line="186" column="18" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" />
-      <jump line="178" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="11" column="36" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
       <jump line="42" column="19" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
       <jump line="44" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
@@ -365,6 +346,51 @@
       <jump line="308" column="45" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="28" column="82" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="6" column="27" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/models.py" />
+      <jump line="92" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="82" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="67" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="69" column="10" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="72" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="80" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="84" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="94" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="108" column="82" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="116" column="54" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="117" column="69" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="123" column="52" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="133" column="64" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="137" column="74" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="138" column="67" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="139" column="71" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="148" column="74" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="154" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="164" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="208" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="29" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="107" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="95" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="109" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="113" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="128" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="18" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="19" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="81" column="77" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="85" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="92" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="120" column="38" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="552" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="16" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="99" column="49" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="567" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="276" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="775" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="424" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="85" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="112" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
+      <jump line="87" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="198" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="86" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="441" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1429,7 +1455,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>this.props</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1438,7 +1464,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>save_lat</text>
+        <text encoding="base64">XDxvbkV2ZW50Q2xpY2tcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1448,13 +1474,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7ZXZlbnQ6IHRoaXMucHJvcHMuZXZlbnQsIGxvYWRlZDogdHJ1ZX0pCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1499,28 +1525,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudGltZXpvbmUgaW1wb3J0IHV0Ywo=</text>
+        <text encoding="base64">aW1wb3J0IEFkZEljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvU3ZnSWNvbi9TdmdJY29uJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmdWxndXJpdC51dGlscy5jb25mIGltcG9ydCBmdWxndXJpdF9zZXR0aW5ncwo=</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uczogdGhpcy5zdGF0ZS5ldmVudC5hY3Rpb25zLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmdWxndXJpdC51dGlscy51dGlsaXRpZXMgaW1wb3J0IGxpdHRsZV9lbmRfMl9iaWdfZW5kX3N0cmluZ19pbl9pbnRfb3V0X2NvbnZlcnRlcgo=</text>
+        <text encoding="base64">ICAgICAgY29uZGl0aW9uczogZXZlbnQuY29uZGl0aW9uX2dyb3VwcywK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NfbWV0ZXJpbmdfYWxhcm1zKG1vdGVfbW9kZWwsIHNlcXVlbmNlLCBlcV9kYXRhLCB2YWx1ZV9kYXRhcG9pbnQsIHRpbWVzdGFtcF9kYXRhcG9pbnQpOgogICAgZnJvbSBtZXRlcmluZy5tb2RlbHMgaW1wb3J0IE1ldGVyLCBNZXRlckFsYXJtLCBNZXRlcnNJbkRNQQogICAgIyBUT0RPIE1BS0UgVEhJUyBNRVRIT0RTIE9GIE1FVEVSSU5HIEFMQVJNIENMQVNTCiAgICAjIGNoZWNrIHJldmVyc2UgZmxvdyAodm9sdW1lIGxvd2VyIHRoYW4gcHJldmlvdXMsIGJ1dCBubyByZXNldCkKICAgIGxvZ2dlci5pbmZvKCdwcm9jZXNzaW5nIGFsYXJtcyBmb3IgbW90ZV9tb2RlbDolcywgZXFfZGF0YTolcycgJSAobW90ZV9tb2RlbCwgZXFfZGF0YSkpCiAgICBwcmludCgncHJvY2Vzc2luZyBhbGFybXMgZm9yIG1vdGVfbW9kZWw6JXMsIGVxX2RhdGE6JXMnICUgKG1vdGVfbW9kZWwsIGVxX2RhdGEpKQogICAgbG9nZ2VyLndhcm4oJ3VwZGF0aW5nIHJldmVyc2UgYWxhcm0gZm9yIG1ldGVyOiAlcycgJSBlcV9kYXRhKQogICAgdHJ5OgogICAgICAgIHBkID0gUHJvY2Vzc2VkRGF0YS5vYmplY3RzLmZpbHRlcihlcXVpcG1lbnRfZGF0YT1lcV9kYXRhLCBuYW1lPSdUb3RhbGl6YWRvcicpLmZpcnN0KCkKICAgICAgICBsYXN0ID0gcGQuaW5zdGFudGRhdGFsb2doaXN0b3J5X3NldC5maWx0ZXIodGltZXN0YW1wX19sdD10aW1lc3RhbXBfZGF0YXBvaW50KS5sYXRlc3QoJ3RpbWVzdGFtcCcpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBhbGFybV9pbnN0YW5jZSA9IE1ldGVyQWxhcm0ub2JqZWN0cy5nZXQoYWxhcm1fdHlwZT0ncmV2ZXJzZScsIHByb2Nlc3NlZF9kYXRhPXBkKQogICAgICAgIGV4Y2VwdCBNZXRlckFsYXJtLk11bHRpcGxlT2JqZWN0c1JldHVybmVkOgogICAgICAgICAgICBsb2dnZXIud2FybignbXVsdGlwbGUgbWV0ZXIgYWxhcm1zIG9mIHR5cGU6cmV2ZXJzZSBjb25maWd1cmVkIGZvciBwZDolcywgd2lsbCBjb250aW51ZSB3aXRoIGxhc3QnICUgcGQpCiAgICAgICAgICAgIGFsYXJtX2luc3RhbmNlID0gTWV0ZXJBbGFybS5vYmplY3RzLmZpbHRlcihhbGFybV90eXBlPSdyZXZlcnNlJywgcHJvY2Vzc2VkX2RhdGE9cGQpLmxhdGVzdCgndGltZXN0YW1wJykKICAgICAgICBleGNlcHQgTWV0ZXJBbGFybS5Eb2VzTm90RXhpc3Q6CiAgICAgICAgICAgIGxvZ2dlci53YXJuKCdubyBtZXRlciBhbGFybSBvZiB0eXBlOnJldmVyc2UgY29uZmlndXJlZCBmb3IgcGQ6JXMsIHdpbGwgY3JlYXRlIG5ldycgJSBwZCkKICAgICAgICAgICAgYWxhcm1faW5zdGFuY2UgPSBNZXRlckFsYXJtKGFsYXJtX3R5cGU9J3JldmVyc2UnLCBwcm9jZXNzZWRfZGF0YT1wZCkKICAgICAgICBwcmludCgndmFsdWVfZGF0YXBvaW50OiVzIGlzIGxlc3MgdGhhbiBsYXN0LnZhbHVlOiVzPyAlcycgJSAodmFsdWVfZGF0YXBvaW50LCBsYXN0LnZhbHVlLCB2YWx1ZV9kYXRhcG9pbnQgPCBsYXN0LnZhbHVlKSkKICAgICAgICBpZiB2YWx1ZV9kYXRhcG9pbnQgPCBsYXN0LnZhbHVlOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoJ3ZhbHVlX2RhdGFwb2ludCBpcyBsZXNzIHRoYW4gbGFzdC52YWx1ZSAlczwlcycgJSAodmFsdWVfZGF0YXBvaW50LCBsYXN0LnZhbHVlKSkKICAgICAgICAgICAgcHJpbnQoJ3ZhbHVlX2RhdGFwb2ludCBpcyBsZXNzIHRoYW4gbGFzdC52YWx1ZSAlczwlcycgJSAodmFsdWVfZGF0YXBvaW50LCBsYXN0LnZhbHVlKSkKICAgICAgICAgICAgYWxhcm1faW5zdGFuY2Uuc3RhdGUgPSBUcnVlCiAgICAgICAgICAgIGFsYXJtX2luc3RhbmNlLnZhbHVlID0gdmFsdWVfZGF0YXBvaW50CiAgICAgICAgICAgIGFsYXJtX2luc3RhbmNlLm51bV9vY2N1cnJlbmNlcyA9IGFsYXJtX2luc3RhbmNlLm51bV9vY2N1cnJlbmNlcyArIDEKICAgICAgICAgICAgYWxhcm1faW5zdGFuY2UudGltZXN0YW1wID0gdGltZXN0YW1wX2RhdGFwb2ludAogICAgICAgIGFsYXJtX2luc3RhbmNlLnNhdmUoKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KCdzb21ldGhpbmcgaGFwcGVuZWQgaW4gcmV2ZXJzZSBhbGFybScpCiAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignc29tZXRoaW5nIGhhcHBlbmVkIGluIHJldmVyc2UgYWxhcm0nKQoKICAgICMgY2hlY2sgbGVhayAodm9sdW1lIGFsd2F5cyBpbmNyZWFzaW5nIGluIHByZXZpb3VzIGRheXMpCiAgICB0cnk6CiAgICAgICAgY2hlY2tfaWZfaW5sZXQgPSBNZXRlcnNJbkRNQS5vYmplY3RzLmZpbHRlcihtZXRlcl9fZXF1aXBtZW50PWVxX2RhdGEuZXF1aXBtZW50LCBpbmxldF9vdXRsZXQ9J2luJykKICAgICAgICBpZiBub3QgY2hlY2tfaWZfaW5sZXQ6CiAgICAgICAgICAgIHBkID0gUHJvY2Vzc2VkRGF0YS5vYmplY3RzLmZpbHRlcihlcXVpcG1lbnRfZGF0YT1lcV9kYXRhLCBuYW1lPSdUb3RhbGl6YWRvcicpLmZpcnN0KCkKICAgICAgICAgICAgY29uc3VtcHRpb25fbGFzdF93ZWVrID0gSW5zdGFudERhdGFsb2dIaXN0b3J5Lm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGE9cGQsCiAgICAgICAgICAgICAgICB0aW1lc3RhbXBfX2d0ZT0odGltZXN0YW1wX2RhdGFwb2ludCAtIHRpbWV6b25lLnRpbWVkZWx0YShkYXlzPTcpKSwKICAgICAgICAgICAgICAgIHRpbWVzdGFtcF9fbHRlPXRpbWVzdGFtcF9kYXRhcG9pbnQpLm9yZGVyX2J5KCd0aW1lc3RhbXAnKQogICAgICAgICAgICBpZiBsZW4oY29uc3VtcHRpb25fbGFzdF93ZWVrKSA+PSA0ODogIyBpZiBtb3JlIHRoYW4gMTIgZGF5cyAoVEJSPTZIKSBvciAyIGRheXMgKFRCUj0xaCkgb2YgZGF0YQogICAgICAgICAgICAgICAgIyBkdXJpbmcgbGFzdCB3ZWVrCiAgICAgICAgICAgICAgICBsZWFrX3RyaWdnZXIgPSAxCiAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZSgwLCAobGVuKGNvbnN1bXB0aW9uX2xhc3Rfd2VlayktMSkpOgogICAgICAgICAgICAgICAgICAgIGlmIChjb25zdW1wdGlvbl9sYXN0X3dlZWtbaSsxXS52YWx1ZSAtIGNvbnN1bXB0aW9uX2xhc3Rfd2Vla1tpXS52YWx1ZSkgPD0gMC4wMDAxOgogICAgICAgICAgICAgICAgICAgICAgICBsZWFrX3RyaWdnZXIgPSAwCiAgICAgICAgICAgICAgICBpZiBsZWFrX3RyaWdnZXIgPT0gMTogICMgaWYgY29uc3VtcHRpb24gd2FzIG5ldmVyIDAgbTMsIHRyaWdnZXIgYWxhcm0KICAgICAgICAgICAgICAgICAgICBjaGVja19mb3JfYWxhcm0gPSBNZXRlckFsYXJtLm9iamVjdHMuZmlsdGVyKGFsYXJtX3R5cGU9J2xlYWsnLCBwcm9jZXNzZWRfZGF0YT1wZCwgc3RhdGU9VHJ1ZSkuZmlyc3QoKQogICAgICAgICAgICAgICAgICAgIGlmIGNoZWNrX2Zvcl9hbGFybToKICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tfZm9yX2FsYXJtLnZhbHVlID0gdmFsdWVfZGF0YXBvaW50CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybS50aW1lc3RhbXAgPSB0aW1lc3RhbXBfZGF0YXBvaW50CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybS5udW1fb2NjdXJyZW5jZXMgPSBjaGVja19mb3JfYWxhcm0ubnVtX29jY3VycmVuY2VzICsgMQogICAgICAgICAgICAgICAgICAgICAgICBjaGVja19mb3JfYWxhcm0uc2F2ZSgpCiAgICAgICAgICAgICAgICAgICAgZWxpZiBub3QgY2hlY2tfZm9yX2FsYXJtOgogICAgICAgICAgICAgICAgICAgICAgICBhbGFybSA9IE1ldGVyQWxhcm0oYWxhcm1fdHlwZT0nbGVhaycsIHByb2Nlc3NlZF9kYXRhPXBkLCB2YWx1ZT12YWx1ZV9kYXRhcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXA9dGltZXN0YW1wX2RhdGFwb2ludCwgZmlyc3Rfb2NjdXJyZW5jZT10aW1lc3RhbXBfZGF0YXBvaW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtX29jY3VycmVuY2VzPTEsIHN0YXRlPVRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgIGFsYXJtLnNhdmUoKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIGxvZ2dlci5leGNlcHRpb24oJ3NvbWV0aGluZyBoYXBwZW5lZCBpbiBsZWFrIGFsYXJtJykKCiAgICAjIGNoZWNrIG5vIHVzYWdlIChubyBjb25zdW1wdGlvbiBpbiBwcmV2aW91cyA3IHRvIDE1IGRheXMpCiAgICB0cnk6CiAgICAgICAgcGQgPSBQcm9jZXNzZWREYXRhLm9iamVjdHMuZmlsdGVyKGVxdWlwbWVudF9kYXRhPWVxX2RhdGEsIG5hbWU9J1RvdGFsaXphZG9yJykuZmlyc3QoKQogICAgICAgIHZvbHVtZV8xd2Vla19hZ28gPSBJbnN0YW50RGF0YWxvZ0hpc3Rvcnkub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgIHByb2Nlc3NlZF9kYXRhPXBkLAogICAgICAgICAgICB0aW1lc3RhbXBfX2d0ZT0odGltZXN0YW1wX2RhdGFwb2ludCAtIHRpbWV6b25lLnRpbWVkZWx0YShkYXlzPTE1KSksCiAgICAgICAgICAgIHRpbWVzdGFtcF9fbHRlPSh0aW1lc3RhbXBfZGF0YXBvaW50IC0gdGltZXpvbmUudGltZWRlbHRhKGRheXM9NykpKS5vcmRlcl9ieSgndGltZXN0YW1wJykubGFzdCgpCiAgICAgICAgaWYgdm9sdW1lXzF3ZWVrX2FnbyBhbmQgKHZhbHVlX2RhdGFwb2ludCA9PSB2b2x1bWVfMXdlZWtfYWdvLnZhbHVlKToKICAgICAgICAgICAgY2hlY2tfZm9yX2FsYXJtID0gTWV0ZXJBbGFybS5vYmplY3RzLmZpbHRlcihhbGFybV90eXBlPSdub191c2FnZScsIHByb2Nlc3NlZF9kYXRhPXBkLCBzdGF0ZT1UcnVlKS5maXJzdCgpCiAgICAgICAgICAgIGlmIGNoZWNrX2Zvcl9hbGFybToKICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybS52YWx1ZSA9IHZhbHVlX2RhdGFwb2ludAogICAgICAgICAgICAgICAgY2hlY2tfZm9yX2FsYXJtLnRpbWVzdGFtcCA9IHRpbWVzdGFtcF9kYXRhcG9pbnQKICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybS5udW1fb2NjdXJyZW5jZXMgPSBjaGVja19mb3JfYWxhcm0ubnVtX29jY3VycmVuY2VzICsgMQogICAgICAgICAgICAgICAgY2hlY2tfZm9yX2FsYXJtLnNhdmUoKQogICAgICAgICAgICBlbGlmIG5vdCBjaGVja19mb3JfYWxhcm06CiAgICAgICAgICAgICAgICBhbGFybSA9IE1ldGVyQWxhcm0oYWxhcm1fdHlwZT0nbm9fdXNhZ2UnLCBwcm9jZXNzZWRfZGF0YT1wZCwgdmFsdWU9dmFsdWVfZGF0YXBvaW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0X29jY3VycmVuY2U9dGltZXpvbmUubm93KCksIG51bV9vY2N1cnJlbmNlcz0xLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVzdGFtcD10aW1lem9uZS5ub3coKSwgc3RhdGU9VHJ1ZSkKICAgICAgICAgICAgICAgIGFsYXJtLnNhdmUoKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIGxvZ2dlci5leGNlcHRpb24oJ3NvbWV0aGluZyBoYXBwZW5lZCBpbiBubyB1c2FnZSBhbGFybScpCgogICAgIyBjaGVjayBhYm92ZSBtYXggKHZvbHVtZSBpbiBsYXN0IDI0aCBpcyBoaWdoZXIgdGhhbiB0aGUgYWxsb3dlZCkKICAgIHRyeToKICAgICAgICBwZCA9IFByb2Nlc3NlZERhdGEub2JqZWN0cy5maWx0ZXIoZXF1aXBtZW50X2RhdGE9ZXFfZGF0YSwgbmFtZT0nVG90YWxpemFkb3InKS5maXJzdCgpCiAgICAgICAgbWV0ZXIgPSBNZXRlci5vYmplY3RzLmZpbHRlcihlcXVpcG1lbnRfX2VxdWlwbWVudGRhdGE9ZXFfZGF0YSkuZmlyc3QoKQogICAgICAgIGlmIG1ldGVyLmFsbG93ZWRfZGFpbHlfdm9sdW1lID4gMDoKICAgICAgICAgICAgdm9sdW1lXzI0aF9hZ28gPSBJbnN0YW50RGF0YWxvZ0hpc3Rvcnkub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICBwcm9jZXNzZWRfZGF0YT1wZCwKICAgICAgICAgICAgICAgIHRpbWVzdGFtcF9fZ3RlPSh0aW1lc3RhbXBfZGF0YXBvaW50IC0gdGltZXpvbmUudGltZWRlbHRhKGhvdXJzPTI1KSksCiAgICAgICAgICAgICAgICB0aW1lc3RhbXBfX2x0ZT0odGltZXN0YW1wX2RhdGFwb2ludCAtIHRpbWV6b25lLnRpbWVkZWx0YShob3Vycz0yMykpKS5vcmRlcl9ieSgndGltZXN0YW1wJykubGFzdCgpCiAgICAgICAgICAgIGlmIHZvbHVtZV8yNGhfYWdvIGFuZCAoKHZhbHVlX2RhdGFwb2ludCAtIHZvbHVtZV8yNGhfYWdvLnZhbHVlKSA+IG1ldGVyLmFsbG93ZWRfZGFpbHlfdm9sdW1lKToKICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybSA9IE1ldGVyQWxhcm0ub2JqZWN0cy5maWx0ZXIoYWxhcm1fdHlwZT0nYWJvdmVfbWF4JywgcHJvY2Vzc2VkX2RhdGE9cGQsIHN0YXRlPVRydWUpLmZpcnN0KCkKICAgICAgICAgICAgICAgIGlmIGNoZWNrX2Zvcl9hbGFybToKICAgICAgICAgICAgICAgICAgICBjaGVja19mb3JfYWxhcm0udmFsdWUgPSB2YWx1ZV9kYXRhcG9pbnQKICAgICAgICAgICAgICAgICAgICBjaGVja19mb3JfYWxhcm0udGltZXN0YW1wID0gdGltZXN0YW1wX2RhdGFwb2ludAogICAgICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybS5udW1fb2NjdXJyZW5jZXMgPSBjaGVja19mb3JfYWxhcm0ubnVtX29jY3VycmVuY2VzICsgMQogICAgICAgICAgICAgICAgICAgIGNoZWNrX2Zvcl9hbGFybS5zYXZlKCkKICAgICAgICAgICAgICAgIGVsaWYgbm90IGNoZWNrX2Zvcl9hbGFybToKICAgICAgICAgICAgICAgICAgICBhbGFybSA9IE1ldGVyQWxhcm0oYWxhcm1fdHlwZT0nYWJvdmVfbWF4JywgcHJvY2Vzc2VkX2RhdGE9cGQsIHZhbHVlPXZhbHVlX2RhdGFwb2ludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3Rfb2NjdXJyZW5jZT10aW1lc3RhbXBfZGF0YXBvaW50LCBudW1fb2NjdXJyZW5jZXM9MSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZXN0YW1wPXRpbWVzdGFtcF9kYXRhcG9pbnQsIHN0YXRlPVRydWUpCiAgICAgICAgICAgICAgICAgICAgYWxhcm0uc2F2ZSgpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignc29tZXRoaW5nIGhhcHBlbmVkIGluIGFib3ZlIG1heCBhbGFybScpCgogICAgICAgICMgaWYgbW90ZV9tb2RlbCA9PSAnTG9yYSBOS0UgQ2xpcG9uJzoKICAgICAgICAjIGNoZWNrIGJlbG93IG1pbgogICAgICAgICMgY2hlY2sgYWJvdmUgbWF4CiAgICAgICAgIyBjaGVjayBlcnJvcnMgYnl0ZQo=</text>
+      <register name="6" type="4">
+        <text>,
+      updateEvent: this.updateEvent</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXRGYWNpbGl0eTogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmRlZiBzYXZlX2xhdGVzdChlcV9kYXRhLCB2YWx1ZSwgdGltZXN0YW1wPU5vbmUpOgogICAgcHJpbnQoInt9IHt9IHt9Ii5mb3JtYXQoZXFfZGF0YSwgdmFsdWUsIHRpbWVzdGFtcCkpCiAgICBza2lwX2NrZWNrX3VuaXF1ZSA9IFBST0NFU1NfRFVQTElDQVRFUwogICAgIyBUb2RvOiBmaXggY29kZSB0byB3b3JrIHdpdGggbW9yZSB0aGFuIG9uZSBlcV9kYXRhCiAgICBwcm9jX2RhdGEgPSBQcm9jZXNzZWREYXRhLm9iamVjdHMuZmlsdGVyKGVxdWlwbWVudF9kYXRhPWVxX2RhdGEpLmZpcnN0KCkKICAgIGlmIG5vdCBza2lwX2NrZWNrX3VuaXF1ZSBhbmQgcHJvY19kYXRhIGFuZCBJbnN0YW50RGF0YWxvZ0hpc3Rvcnkub2JqZWN0cy5maWx0ZXIocHJvY2Vzc2VkX2RhdGE9cHJvY19kYXRhLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXA9dGltZXN0YW1wLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT12YWx1ZSkuZXhpc3RzKCk6CiAgICAgICAgcmV0dXJuCiAgICB3YXNfc2F2ZWQgPSBGYWxzZQogICAgaWYgbm90IHRpbWVzdGFtcDoKICAgICAgICB0aW1lc3RhbXAgPSB0aW1lem9uZS5ub3coKS5yZXBsYWNlKHR6aW5mbz11dGMpCiAgICAjIEFwcGx5IGFkIGNvbnZlcnRlcgogICAgbG9nZ2VyLmluZm8oJ2luIHNhdmUgbGF0ZXN0LCBlcV9kYXRhPSVzIHZhbHVlPSVmIHRpbWVzdGFtcD0lcycgJSAoZXFfZGF0YSwgdmFsdWUsIHRpbWVzdGFtcCkpCiAgICBpZiBlcV9kYXRhLmFkX2NvbnZlcnRlciA+IDA6CiAgICAgICAgaWYgbm90IGVxX2RhdGEudHlwZSBvciAobm90IChlcV9kYXRhLnR5cGUubmFtZSA9PSAnTG9yYSBOS0UgUHVsc2UnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvciBlcV9kYXRhLnR5cGUubmFtZSA9PSAnTG9yYSBOS0UgQ2xpcG9uJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3IgZXFfZGF0YS50eXBlLm5hbWUgPT0gJ0xvcmEgQXJhZCBHbGFkaWF0b3IgdjEnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvciBlcV9kYXRhLnR5cGUubmFtZSA9PSAnTG9yYSBBcmFkIEdsYWRpYXRvciB2MicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yIGVxX2RhdGEudHlwZS5uYW1lID09ICdjb250YWRvcl9hZ3VhJykpOgogICAgICAgICAgICB2YWx1ZSAvPSBpbnQoZXFfZGF0YS5hZF9jb252ZXJ0ZXIpCiAgICAjIERpZ2l0YWwgb3IgQW5hbG9nIENoZWNrCiAgICBpZiBlcV9kYXRhLmFkID09ICdkdCc6CiAgICAgICAgaWYgdmFsdWUgPiAwOgogICAgICAgICAgICB2YWx1ZSA9IDEKCiAgICAjIFRocmVzaG9sZCBDaGVjawogICAgbG9nZ2VyLmRlYnVnKCAnd2lsbCBjaGVjayB0aHJlc2hvbGQnKQogICAgbG9nZ2VyLmRlYnVnKAogICAgICAgICdlcV9kYXRhPSVzLCBlcV9kYXRhLnRpbWVzdGFtcD0lcywgZXFfZGF0YS50aHJlc2hvbGQ9JXMsIGVxX2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQ9JXMnICUgKAogICAgICAgICAgICBlcV9kYXRhLCBlcV9kYXRhLnRpbWVzdGFtcCwgZXFfZGF0YS50aHJlc2hvbGQsIGVxX2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQpKQogICAgaWYgZXFfZGF0YS50aHJlc2hvbGQgPT0gMDoKICAgICAgICBsb2dnZXIuZGVidWcoJ3RocmVzaG9sZCBpcyB6ZXJvJykKICAgICAgICBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50ID0gdmFsdWUKICAgICAgICBlcV9kYXRhLnRpbWVzdGFtcCA9IHRpbWVzdGFtcAogICAgICAgIGVxX2RhdGEuc2F2ZSgpCiAgICAgICAgbG9nZ2VyLmRlYnVnKGVxX2RhdGEuX19kaWN0X18pCiAgICBlbHNlOgogICAgICAgICMgSWYgaGFzIHRocmVzaG9sZCBjaGVjayBpdAogICAgICAgIGxvZ2dlci5kZWJ1ZyhhYnModmFsdWUgLSBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50KSkKICAgICAgICBsb2dnZXIuZGVidWcodGltZXN0YW1wKQogICAgICAgIGxvZ2dlci5kZWJ1ZyhlcV9kYXRhLnRpbWVzdGFtcCkKICAgICAgICBpZiBhYnModmFsdWUgLSBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50KSA+IFwKICAgICAgICAgICAgICAgIGVxX2RhdGEudGhyZXNob2xkOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoJ3ZhbHVlIGlzIGdyZWF0ZXIgdGhhbiB0aHJlc2hvbGQnKQogICAgICAgICAgICBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50ID0gdmFsdWUKICAgICAgICAgICAgZXFfZGF0YS50aW1lc3RhbXAgPSB0aW1lc3RhbXAKICAgICAgICAgICAgZXFfZGF0YS5zYXZlKCkKICAgICAgICAjIGNoZWNrIGlmIDUgbWludXRlcyBoYXMgcGFzc2VkIHNpbmNlIGxhc3Qgc2F2ZQogICAgICAgIGVsaWYgKHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz11dGMpIC0gZXFfZGF0YS50aW1lc3RhbXAucmVwbGFjZSh0emluZm89dXRjKSkuc2Vjb25kcyA+IDI1MDoKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCc1IG1pbnV0ZXMgaGFzIHBhc3NlZCcpCiAgICAgICAgICAgIGVxX2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQgPSB2YWx1ZQogICAgICAgICAgICBlcV9kYXRhLnRpbWVzdGFtcCA9IHRpbWVzdGFtcAogICAgICAgICAgICBlcV9kYXRhLnNhdmUoKQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB1cGRhdGVOZXdFdmVudDogUHJvcFR5cGVzLmZ1bmMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBzYXZlX2xhdGVzdChlcV9kYXRhLCB2YWx1ZSwgdGltZXN0YW1wPU5vbmUpOgogICAgcHJpbnQoInt9IHt9IHt9Ii5mb3JtYXQoZXFfZGF0YSwgdmFsdWUsIHRpbWVzdGFtcCkpCiAgICBza2lwX2NrZWNrX3VuaXF1ZSA9IFBST0NFU1NfRFVQTElDQVRFUwogICAgIyBUb2RvOiBmaXggY29kZSB0byB3b3JrIHdpdGggbW9yZSB0aGFuIG9uZSBlcV9kYXRhCiAgICBwcm9jX2RhdGEgPSBQcm9jZXNzZWREYXRhLm9iamVjdHMuZmlsdGVyKGVxdWlwbWVudF9kYXRhPWVxX2RhdGEpLmZpcnN0KCkKICAgIGlmIG5vdCBza2lwX2NrZWNrX3VuaXF1ZSBhbmQgcHJvY19kYXRhIGFuZCBJbnN0YW50RGF0YWxvZ0hpc3Rvcnkub2JqZWN0cy5maWx0ZXIocHJvY2Vzc2VkX2RhdGE9cHJvY19kYXRhLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXA9dGltZXN0YW1wLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT12YWx1ZSkuZXhpc3RzKCk6CiAgICAgICAgcmV0dXJuCiAgICB3YXNfc2F2ZWQgPSBGYWxzZQogICAgaWYgbm90IHRpbWVzdGFtcDoKICAgICAgICB0aW1lc3RhbXAgPSB0aW1lem9uZS5ub3coKS5yZXBsYWNlKHR6aW5mbz11dGMpCiAgICAjIEFwcGx5IGFkIGNvbnZlcnRlcgogICAgbG9nZ2VyLmluZm8oJ2luIHNhdmUgbGF0ZXN0LCBlcV9kYXRhPSVzIHZhbHVlPSVmIHRpbWVzdGFtcD0lcycgJSAoZXFfZGF0YSwgdmFsdWUsIHRpbWVzdGFtcCkpCiAgICBpZiBlcV9kYXRhLmFkX2NvbnZlcnRlciA+IDA6CiAgICAgICAgaWYgbm90IGVxX2RhdGEudHlwZSBvciAobm90IChlcV9kYXRhLnR5cGUubmFtZSA9PSAnTG9yYSBOS0UgUHVsc2UnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvciBlcV9kYXRhLnR5cGUubmFtZSA9PSAnTG9yYSBOS0UgQ2xpcG9uJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3IgZXFfZGF0YS50eXBlLm5hbWUgPT0gJ0xvcmEgQXJhZCBHbGFkaWF0b3IgdjEnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvciBlcV9kYXRhLnR5cGUubmFtZSA9PSAnTG9yYSBBcmFkIEdsYWRpYXRvciB2MicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yIGVxX2RhdGEudHlwZS5uYW1lID09ICdjb250YWRvcl9hZ3VhJykpOgogICAgICAgICAgICB2YWx1ZSAvPSBpbnQoZXFfZGF0YS5hZF9jb252ZXJ0ZXIpCiAgICAjIERpZ2l0YWwgb3IgQW5hbG9nIENoZWNrCiAgICBpZiBlcV9kYXRhLmFkID09ICdkdCc6CiAgICAgICAgaWYgdmFsdWUgPiAwOgogICAgICAgICAgICB2YWx1ZSA9IDEKCiAgICAjIFRocmVzaG9sZCBDaGVjawogICAgbG9nZ2VyLmRlYnVnKCAnd2lsbCBjaGVjayB0aHJlc2hvbGQnKQogICAgbG9nZ2VyLmRlYnVnKAogICAgICAgICdlcV9kYXRhPSVzLCBlcV9kYXRhLnRpbWVzdGFtcD0lcywgZXFfZGF0YS50aHJlc2hvbGQ9JXMsIGVxX2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQ9JXMnICUgKAogICAgICAgICAgICBlcV9kYXRhLCBlcV9kYXRhLnRpbWVzdGFtcCwgZXFfZGF0YS50aHJlc2hvbGQsIGVxX2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQpKQogICAgaWYgZXFfZGF0YS50aHJlc2hvbGQgPT0gMDoKICAgICAgICBsb2dnZXIuZGVidWcoJ3RocmVzaG9sZCBpcyB6ZXJvJykKICAgICAgICBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50ID0gdmFsdWUKICAgICAgICBlcV9kYXRhLnRpbWVzdGFtcCA9IHRpbWVzdGFtcAogICAgICAgIGVxX2RhdGEuc2F2ZSgpCiAgICAgICAgbG9nZ2VyLmRlYnVnKGVxX2RhdGEuX19kaWN0X18pCiAgICBlbHNlOgogICAgICAgICMgSWYgaGFzIHRocmVzaG9sZCBjaGVjayBpdAogICAgICAgIGxvZ2dlci5kZWJ1ZyhhYnModmFsdWUgLSBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50KSkKICAgICAgICBsb2dnZXIuZGVidWcodGltZXN0YW1wKQogICAgICAgIGxvZ2dlci5kZWJ1ZyhlcV9kYXRhLnRpbWVzdGFtcCkKICAgICAgICBpZiBhYnModmFsdWUgLSBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50KSA+IFwKICAgICAgICAgICAgICAgIGVxX2RhdGEudGhyZXNob2xkOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoJ3ZhbHVlIGlzIGdyZWF0ZXIgdGhhbiB0aHJlc2hvbGQnKQogICAgICAgICAgICBlcV9kYXRhLmxhdGVzdF9pbnN0X21lYXN1cmVtZW50ID0gdmFsdWUKICAgICAgICAgICAgZXFfZGF0YS50aW1lc3RhbXAgPSB0aW1lc3RhbXAKICAgICAgICAgICAgZXFfZGF0YS5zYXZlKCkKICAgICAgICAjIGNoZWNrIGlmIDUgbWludXRlcyBoYXMgcGFzc2VkIHNpbmNlIGxhc3Qgc2F2ZQogICAgICAgIGVsaWYgKHRpbWVzdGFtcC5yZXBsYWNlKHR6aW5mbz11dGMpIC0gZXFfZGF0YS50aW1lc3RhbXAucmVwbGFjZSh0emluZm89dXRjKSkuc2Vjb25kcyA+IDI1MDoKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCc1IG1pbnV0ZXMgaGFzIHBhc3NlZCcpCiAgICAgICAgICAgIGVxX2RhdGEubGF0ZXN0X2luc3RfbWVhc3VyZW1lbnQgPSB2YWx1ZQogICAgICAgICAgICBlcV9kYXRhLnRpbWVzdGFtcCA9IHRpbWVzdGFtcAogICAgICAgICAgICBlcV9kYXRhLnNhdmUoKQoK</text>
+        <text encoding="base64">ICByZVJlbmRlckxpc3Q6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1530,23 +1557,14 @@
       </register>
     </registers>
     <search>
-      <last-search>save_lat</last-search>
+      <last-search encoding="base64">XDxvbkV2ZW50Q2xpY2tcPg==</last-search>
       <last-offset />
-      <last-pattern>save_lat</last-pattern>
+      <last-pattern encoding="base64">XDxvbkV2ZW50Q2xpY2tcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVuYXBpXD4=</entry>
-        <entry encoding="base64">XDxnZXRQbG90RGF0YVw+</entry>
-        <entry encoding="base64">XDxSZXNlcnZvaXJTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxzdHJ1Y3RcPg==</entry>
-        <entry encoding="base64">XDxSZXNwb25jZVw+</entry>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxjZWxlcnlfcHVtcFw+</entry>
-        <entry encoding="base64">XDxBdmFpbGFibGVUaW1lcnNCeUZhY2lsaXR5Vmlld1NldFw+</entry>
-        <entry>sys</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxXcml0ZURpYWxvZ1w+</entry>
         <entry encoding="base64">XDxlcXVpcG1lbnR3cml0ZWFjdGlvblw+</entry>
@@ -1558,6 +1576,15 @@
         <entry encoding="base64">XDxQUk9DRVNTX0RVUExJQ0FURVNcPg==</entry>
         <entry>utc</entry>
         <entry>save_lat</entry>
+        <entry>isOp</entry>
+        <entry>facilities</entry>
+        <entry>props</entry>
+        <entry>event</entry>
+        <entry>DateRange</entry>
+        <entry>Notifica</entry>
+        <entry>onEvn</entry>
+        <entry>onEv</entry>
+        <entry encoding="base64">XDxvbkV2ZW50Q2xpY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/</entry>
@@ -1576,9 +1603,9 @@
         <entry>12</entry>
         <entry>6</entry>
         <entry>22</entry>
-        <entry>NERDTreeTabsToggle</entry>
         <entry>W</entry>
         <entry>2</entry>
+        <entry>NERDTreeTabsToggle</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
