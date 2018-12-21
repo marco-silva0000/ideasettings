@@ -23,6 +23,12 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545392696222">
+        <mark key="'" line="276" column="0" />
+        <mark key="[" line="1878" column="0" />
+        <mark key="]" line="1878" column="0" />
+        <mark key="." line="1878" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="23" column="4" />
@@ -36,6 +42,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="/EventsConditions.jsx" timestamp="1545392582103" />
       <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1541777696080">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -74,9 +81,6 @@
         <mark key="]" line="52" column="19" />
         <mark key="." line="52" column="19" />
         <mark key="^" line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" timestamp="1545309713340">
-        <mark key="'" line="70" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
@@ -126,10 +130,7 @@
         <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1545309510064">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
         <mark key="^" line="62" column="28" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
@@ -333,10 +334,6 @@
         <mark key="^" line="22" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545309102882">
-        <mark key="'" line="101" column="41" />
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="39" />
         <mark key="^" line="98" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
@@ -368,6 +365,7 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/events-context.js" timestamp="1545392680032" />
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" timestamp="1542885631605">
         <mark key="'" line="6" column="73" />
         <mark key="[" line="6" column="17" />
@@ -902,10 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="40" filename="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/RegistrationDetail.jsx" />
-      <jump line="2" column="23" filename="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" />
-      <jump line="1" column="24" filename="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" />
-      <jump line="6" column="23" filename="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" />
       <jump line="11" column="16" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
@@ -1002,6 +996,10 @@
       <jump line="105" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
       <jump line="109" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
       <jump line="70" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
+      <jump line="282" column="49" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="0" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="229" column="83" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="276" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2075,7 +2073,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>should</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2091,7 +2089,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2127,31 +2125,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXZlbnRzTGlzdC5jb250ZXh0U3RhdGUnLCBjb250ZXh0U3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbmRpdGlvbnMgIT09IG5leHRQcm9wcy5jb25kaXRpb25zKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgPC9FdmVudHNDb250ZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkQ29tcG9uZW50VXBkYXRlOiB0aGlzLnNob3VsZENvbXBvbmVudFVwZGF0ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZXJyb3I6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaW5kZXg6IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIHJldHVybiA8QnV0dG9uIG9uQ2xpY2s9e3ZhbC5nZXREYXRhfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWwnLCB2YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXZlbnRzTGlzdC5jb250ZXh0U3RhdGUnLCBjb250ZXh0U3RhdGUpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2161,16 +2159,14 @@
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>should</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
+      <last-pattern>should</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
-        <entry>delete</entry>
         <entry>start_date</entry>
         <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDxUaW1lVHJhdmVsXD4=</entry>
@@ -2189,6 +2185,8 @@
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>state</entry>
         <entry>this</entry>
+        <entry>error</entry>
+        <entry>should</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
