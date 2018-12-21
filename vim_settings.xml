@@ -19,12 +19,14 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545411540239">
-        <mark key="'" line="770" column="4" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545413063867">
+        <mark key="'" line="561" column="2" />
+        <mark key="[" line="283" column="22" />
+        <mark key="]" line="283" column="23" />
+        <mark key="m" line="633" column="3" />
+        <mark key="." line="283" column="23" />
         <mark key="n" line="781" column="20" />
+        <mark key="^" line="283" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -197,6 +199,13 @@
         <mark key="]" line="550" column="49" />
         <mark key="^" line="625" column="55" />
         <mark key="." line="625" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" timestamp="1545413019570">
+        <mark key="'" line="70" column="33" />
+        <mark key="[" line="67" column="20" />
+        <mark key="]" line="67" column="35" />
+        <mark key="." line="67" column="35" />
+        <mark key="^" line="67" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage.jsx" timestamp="1532515869948">
         <mark key="[" line="47" column="0" />
@@ -516,6 +525,7 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/EditCancelSaveCardActionButtons.jsx" timestamp="1545413011105" />
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/Dockerfile" timestamp="1532435805412">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="31" />
@@ -754,7 +764,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545309540866">
+      <file name="/Dummy.txt" timestamp="1545413128495">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -892,15 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="2" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="3" column="32" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="3" column="21" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
-      <jump line="6" column="73" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" />
-      <jump line="62" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
       <jump line="31" column="21" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
@@ -992,6 +993,15 @@
       <jump line="1534" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="767" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="770" column="4" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="639" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="762" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="632" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="636" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="353" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="633" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="681" column="51" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="561" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="70" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2056,7 +2066,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>reimplementation of timetravel in syn WI</text>
+        <text>contextState</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2065,7 +2075,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>findIn</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2074,14 +2084,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEV2ZW50c0NvbmRpdGlvbnMgZnJvbSAnLi4vc3JjL2V2ZW50cy9jb25kaXRpb25zL0V2ZW50c0NvbmRpdGlvbnMuanN4Jwo=</text>
+      <register name="0" type="4">
+        <text>toggleEdit</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXJyb3I6IHRydWUsCg==</text>
+        <text encoding="base64">YWRkcyBjb250ZXh0IGFwaSBvbiBzdG9yeWJvb2sK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2117,31 +2127,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgaW5kZXg6ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHRTdGF0ZS51cGRhdGVFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0U3RhdGUuc2V0U3RhdGUoe2lzRWRpdDogZmFsc2V9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbmRpdGlvbnMgIT09IG5leHRQcm9wcy5jb25kaXRpb25zKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHRTdGF0ZS5zZXRFZGl0KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHRTdGF0ZS5zZXRTdGF0ZSh7aXNFZGl0OiBmYWxzZX0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHRTdGF0ZS5zZXRTdGF0ZSh7aXNFZGl0OiB0cnVlfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkQ29tcG9uZW50VXBkYXRlOiB0aGlzLnNob3VsZENvbXBvbmVudFVwZGF0ZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3I6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gZXJyb3I6IHRydWUsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXg6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2151,19 +2161,14 @@
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>findIn</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>findIn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>make</entry>
-        <entry encoding="base64">XDxtYWtlT3B0aW9uXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVCdWlsZGluZ3NcPg==</entry>
-        <entry encoding="base64">XDxnZXRUYWJsZVw+</entry>
-        <entry encoding="base64">XDxnZXRDb250cmFjdHNUYWJsZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVHZW5lcmFsSW5mb1w+</entry>
         <entry encoding="base64">XDxDb250cmFjdHNUYWJsZVw+</entry>
         <entry encoding="base64">XDxnZXRSZWdpc3RyYXRpb25cPg==</entry>
@@ -2179,6 +2184,11 @@
         <entry>edit</entry>
         <entry>eventDic</entry>
         <entry>event</entry>
+        <entry encoding="base64">XDxzZXRFZGl0XD4=</entry>
+        <entry>'open'</entry>
+        <entry>find</entry>
+        <entry>findEv</entry>
+        <entry>findIn</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
