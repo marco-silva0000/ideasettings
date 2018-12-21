@@ -5,10 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545309442706">
         <mark key="'" line="22" column="56" />
-        <mark key="[" line="161" column="113" />
-        <mark key="]" line="161" column="131" />
-        <mark key="." line="161" column="131" />
-        <mark key="^" line="161" column="131" />
       </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
         <mark key="'" line="40" column="42" />
@@ -23,11 +19,12 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545392696222">
-        <mark key="'" line="276" column="0" />
-        <mark key="[" line="1878" column="0" />
-        <mark key="]" line="1878" column="0" />
-        <mark key="." line="1878" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545411540239">
+        <mark key="'" line="770" column="4" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
+        <mark key="n" line="781" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -42,7 +39,6 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="/EventsConditions.jsx" timestamp="1545392582103" />
       <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1541777696080">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -128,9 +124,6 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1545309510064">
-        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
@@ -365,7 +358,6 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/events-context.js" timestamp="1545392680032" />
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" timestamp="1542885631605">
         <mark key="'" line="6" column="73" />
         <mark key="[" line="6" column="17" />
@@ -900,15 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="16" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="18" column="11" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="30" column="27" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" />
-      <jump line="10" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
-      <jump line="46" column="12" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="2" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="3" column="32" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
@@ -1000,6 +983,15 @@
       <jump line="0" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="229" column="83" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="276" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1544" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1536" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1685" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="278" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1530" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1533" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1534" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="767" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="770" column="4" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2073,7 +2065,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>should</text>
+        <text>event</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2089,7 +2081,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgLy8gZXJyb3I6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2125,31 +2117,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbmRpdGlvbnMgIT09IG5leHRQcm9wcy5jb25kaXRpb25zKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbmRpdGlvbnMgIT09IG5leHRQcm9wcy5jb25kaXRpb25zKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkQ29tcG9uZW50VXBkYXRlOiB0aGlzLnNob3VsZENvbXBvbmVudFVwZGF0ZSwK</text>
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3I6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkQ29tcG9uZW50VXBkYXRlOiB0aGlzLnNob3VsZENvbXBvbmVudFVwZGF0ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXg6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgICAgZXJyb3I6IHRydWUsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
+        <text encoding="base64">ICAgICAgaW5kZXg6IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXZlbnRzTGlzdC5jb250ZXh0U3RhdGUnLCBjb250ZXh0U3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2159,17 +2151,14 @@
       </register>
     </registers>
     <search>
-      <last-search>should</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>should</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start_date</entry>
-        <entry encoding="base64">XDxleGlzdHNcPg==</entry>
-        <entry encoding="base64">XDxUaW1lVHJhdmVsXD4=</entry>
         <entry>make</entry>
         <entry encoding="base64">XDxtYWtlT3B0aW9uXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVCdWlsZGluZ3NcPg==</entry>
@@ -2187,6 +2176,9 @@
         <entry>this</entry>
         <entry>error</entry>
         <entry>should</entry>
+        <entry>edit</entry>
+        <entry>eventDic</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
