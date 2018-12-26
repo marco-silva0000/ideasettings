@@ -340,8 +340,8 @@
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545309102882">
         <mark key="^" line="98" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1545820973593">
-        <mark key="'" line="48" column="33" />
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1545822037541">
+        <mark key="'" line="48" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
@@ -900,7 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
@@ -998,8 +997,9 @@
       <jump line="0" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="229" column="83" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="276" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="48" column="33" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
       <jump line="14" column="33" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" />
+      <jump line="5" column="43" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
+      <jump line="48" column="29" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2073,7 +2073,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>should</text>
+        <text encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2159,15 +2159,14 @@
       </register>
     </registers>
     <search>
-      <last-search>should</last-search>
+      <last-search encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</last-search>
       <last-offset />
-      <last-pattern>should</last-pattern>
+      <last-pattern encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start_date</entry>
         <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDxUaW1lVHJhdmVsXD4=</entry>
         <entry>make</entry>
@@ -2187,6 +2186,7 @@
         <entry>this</entry>
         <entry>error</entry>
         <entry>should</entry>
+        <entry encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
