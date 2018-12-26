@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545309442706">
-        <mark key="'" line="22" column="56" />
-        <mark key="[" line="161" column="113" />
-        <mark key="]" line="161" column="131" />
-        <mark key="." line="161" column="131" />
-        <mark key="^" line="161" column="131" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545853717181">
+        <mark key="'" line="217" column="2" />
+        <mark key="[" line="185" column="67" />
+        <mark key="]" line="185" column="81" />
+        <mark key="." line="185" column="81" />
+        <mark key="^" line="185" column="81" />
       </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
         <mark key="'" line="40" column="42" />
@@ -937,9 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="56" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
-      <jump line="13" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
-      <jump line="7" column="62" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
       <jump line="14" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
       <jump line="18" column="33" filename="$USER_HOME$/Projects/core/apps/timers/urls.py" />
       <jump line="204" column="23" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
@@ -1037,6 +1034,9 @@
       <jump line="330" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
       <jump line="344" column="39" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
       <jump line="512" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
+      <jump line="184" column="51" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="26" column="70" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="217" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2101,7 +2101,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>contex</text>
+        <text>EventsConditions</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2110,7 +2110,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25kaXRpb25FZGl0SGVhZGVyXD4=</text>
+        <text encoding="base64">XDxDb25kaXRvbkVsZW1lbnRcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2120,7 +2120,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PEV2ZW50c0NvbnRleHQ=</text>
+        <text>ConditionElement</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -2196,15 +2196,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25kaXRpb25FZGl0SGVhZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxDb25kaXRvbkVsZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25kaXRpb25FZGl0SGVhZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb25kaXRvbkVsZW1lbnRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
         <entry>error</entry>
         <entry>should</entry>
         <entry encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</entry>
@@ -2224,6 +2223,7 @@
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry>date_start</entry>
         <entry encoding="base64">XDxDb25kaXRpb25FZGl0SGVhZGVyXD4=</entry>
+        <entry encoding="base64">XDxDb25kaXRvbkVsZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
