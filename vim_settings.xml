@@ -334,11 +334,13 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" timestamp="1545818725798" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" timestamp="1545819947566">
+        <mark key="'" line="14" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545309102882">
         <mark key="^" line="98" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1545818712928">
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1545819983847">
         <mark key="'" line="48" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
@@ -598,7 +600,7 @@
         <mark key="." line="56" column="66" />
         <mark key="^" line="56" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" timestamp="1543522700158">
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" timestamp="1545819938475">
         <mark key="'" line="154" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533229888049">
@@ -898,7 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
@@ -998,6 +999,7 @@
       <jump line="229" column="83" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="276" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="48" column="33" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
+      <jump line="14" column="33" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
