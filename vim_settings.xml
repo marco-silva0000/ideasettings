@@ -23,10 +23,11 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545392696222">
-        <mark key="[" line="1552" column="0" />
-        <mark key="]" line="1552" column="0" />
-        <mark key="." line="1552" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545823558391">
+        <mark key="'" line="348" column="0" />
+        <mark key="[" line="1235" column="0" />
+        <mark key="]" line="1235" column="0" />
+        <mark key="." line="1235" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -603,6 +604,10 @@
       <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" timestamp="1545819938475">
         <mark key="'" line="154" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1545823569103">
+        <mark key="'" line="232" column="50" />
+        <mark key="^" line="237" column="1" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533229888049">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="6" />
@@ -900,9 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="30" column="27" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" />
       <jump line="10" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
       <jump line="46" column="12" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
@@ -1000,6 +1002,9 @@
       <jump line="14" column="33" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" />
       <jump line="5" column="43" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
       <jump line="48" column="29" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
+      <jump line="10" column="58" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="348" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="232" column="50" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2073,7 +2078,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</text>
+        <text>handleType</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2089,7 +2094,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
+        <text encoding="base64">ICBoYW5kbGVUeXBlICgpIHsKICAgIGNvbnN0IHtjbGFzc2VzfSA9IHRoaXMucHJvcHMKICAgIGlmICh0aGlzLnN0YXRlLnR5cGUgPT09ICdFcXVpcG1lbnRMYXRlc3RWYWx1ZScpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8Zm9ybSBjbGFzc05hbWU9e2NsYXNzZXMuY29udGFpbmVyfT4KICAgICAgICAgIDxGb3JtQ29udHJvbCBjbGFzc05hbWU9e2NsYXNzZXMuZm9ybUNvbnRyb2x9PgogICAgICAgICAgICA8UGluZWRIZWFkZXJMaXN0TWVudQogICAgICAgICAgICAgIGRhdGE9e3RoaXMucHJvcHMuZmFjaWxpdGllc30KICAgICAgICAgICAgICBoZWFkZXJJZGVudGlmaWVyRmllbGQ9eydpZCd9CiAgICAgICAgICAgICAgaGVhZGVyRGlzcGxheUZpZWxkPXsnbmFtZSd9CiAgICAgICAgICAgICAgZGF0YUlkZW50aWZpZXJGaWVsZD17J2lkJ30KICAgICAgICAgICAgICBsb2FkaW5nPXt0aGlzLnN0YXRlLmxvYWRpbmdFcXVpcG1lbnRzfQogICAgICAgICAgICAgIGRhdGFWYWx1ZUZpZWxkPXsnZXF1aXBtZW50cyd9CiAgICAgICAgICAgICAgZGF0YURpc3BsYXlGaWVsZD17J25hbWUnfQogICAgICAgICAgICAgIHNlbGVjdGVkPXt0aGlzLnN0YXRlLnNlbGVjdGVkRXF1aXBtZW50fQogICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuaGFuZGxlU2VsZWN0ZWRFcXVpcG1lbnR9CiAgICAgICAgICAgICAgbGFiZWw9e2kxOG4udCgnY29tbW9uOkVxdWlwbWVudCcpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Gb3JtQ29udHJvbD4KICAgICAgICAgIDxGb3JtQ29udHJvbCBjbGFzc05hbWU9e2NsYXNzZXMuZm9ybUNvbnRyb2x9PgogICAgICAgICAgICA8SW5wdXRMYWJlbCBodG1sRm9yPSdlcXVpcG1lbnQnPntpMThuLnQoJ2NvbW1vbjpEYXRhJyl9PC9JbnB1dExhYmVsPgogICAgICAgICAgICA8U2VsZWN0CiAgICAgICAgICAgICAgZnVsbFdpZHRoCiAgICAgICAgICAgICAgZGlzYWJsZWQ9e3RoaXMuc3RhdGUuc2VsZWN0ZWRFcXVpcG1lbnQgPT09IHVuZGVmaW5lZH0KICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YS5uYW1lfQogICAgICAgICAgICAgIHJlbmRlclZhbHVlPXsoKSA9PiAoPGRpdj57dGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YS5uYW1lfTwvZGl2Pil9CiAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlQ2hhbmdlKCdwcm9jZXNzZWRfZGF0YScpfQogICAgICAgICAgICAgIGlucHV0PXs8SW5wdXQgaWQ9J2VxdWlwbWVudCcgLz59CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7dGhpcy5zdGF0ZS5zZWxlY3RlZEVxdWlwbWVudCAhPT0gdW5kZWZpbmVkCiAgICAgICAgICAgICAgICA/IDxSZWFjdC5GcmFnbWVudD4KICAgICAgICAgICAgICAgICAge2NvbnNvbGUubG9nKCd0aGlzLnN0YXRlLnNlbGVjdGVkRXF1aXBtZW50JywgdGhpcy5zdGF0ZS5zZWxlY3RlZEVxdWlwbWVudCl9CiAgICAgICAgICAgICAgICAgIHt0aGlzLnN0YXRlLnNlbGVjdGVkRXF1aXBtZW50LnByb2Nlc3NlZF9kYXRhLm1hcCgoZXF1aXBtZW50KSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPE1lbnVJdGVtIGtleT17ZXF1aXBtZW50LmlkfSB2YWx1ZT17ZXF1aXBtZW50fT57ZXF1aXBtZW50Lm5hbWV9PC9NZW51SXRlbT4KICAgICAgICAgICAgICAgICAgKSl9PC9SZWFjdC5GcmFnbWVudD4gOiBudWxsfQogICAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICAgIDwvRm9ybUNvbnRyb2w+CiAgICAgICAgPC9mb3JtPgogICAgICApCiAgICB9IGVsc2UgaWYgKHRoaXMuc3RhdGUudHlwZSA9PT0gJ1ZhbHVlJykgewogICAgICByZXR1cm4gKAogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5jb250YWluZXJ9PgogICAgICAgICAgey8qIDxGb3JtQ29udHJvbCBjbGFzc05hbWU9e2NsYXNzZXMuZm9ybUNvbnRyb2x9PiAqL30KICAgICAgICAgIHsvKiA8SW5wdXRMYWJlbCBodG1sRm9yPSd2YWx1ZVR5cGUnPntpMThuLnQoJ2NvbW1vbjpWYWx1ZSBUeXBlJyl9PC9JbnB1dExhYmVsPiAqL30KICAgICAgICAgIHsvKiA8U2VsZWN0ICovfQogICAgICAgICAgey8qIGZ1bGxXaWR0aCAqL30KICAgICAgICAgIHsvKiB2YWx1ZT17dGhpcy5zdGF0ZS52YWx1ZVR5cGV9ICovfQogICAgICAgICAgey8qIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgndmFsdWVUeXBlJyl9ICovfQogICAgICAgICAgey8qIGlucHV0PXs8SW5wdXQgaWQ9J3ZhbHVlVHlwZScgLz59ICovfQogICAgICAgICAgey8qID4gKi99CiAgICAgICAgICB7LyogPE1lbnVJdGVtIGtleT17MH0gdmFsdWU9eydib29sJ30+e2kxOG4udCgnY29tbW9uOkJpbmFyeScpfTwvTWVudUl0ZW0+ICovfQogICAgICAgICAgey8qIDxNZW51SXRlbSBrZXk9ezF9IHZhbHVlPXsnZmxvYXQnfT57aTE4bi50KCdjb21tb246RGVjaW1hbCcpfTwvTWVudUl0ZW0+ICovfQogICAgICAgICAgey8qIDwvU2VsZWN0PiAqL30KICAgICAgICAgIHsvKiA8L0Zvcm1Db250cm9sPiAqL30KICAgICAgICAgIHt0aGlzLnN0YXRlLnZhbHVlVHlwZSA9PT0gJ2Jvb2wnCiAgICAgICAgICAgID8gKAogICAgICAgICAgICAgIDxGb3JtQ29udHJvbCBjbGFzc05hbWU9e2NsYXNzZXMuZm9ybUNvbnRyb2x9PgogICAgICAgICAgICAgICAgPElucHV0TGFiZWwgaHRtbEZvcj0nZXF1aXBtZW50Jz57aTE4bi50KCdjb21tb246RGF0YScpfTwvSW5wdXRMYWJlbD4KICAgICAgICAgICAgICAgIDxTZWxlY3QKICAgICAgICAgICAgICAgICAgZnVsbFdpZHRoCiAgICAgICAgICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ3ZhbHVlJyl9CiAgICAgICAgICAgICAgICAgIGlucHV0PXs8SW5wdXQgaWQ9J2VxdWlwbWVudCcgLz59CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxNZW51SXRlbSBrZXk9ezB9IHZhbHVlPXswfT57aTE4bi50KCdjb21tb246RmFsc2UnKX08L01lbnVJdGVtPgogICAgICAgICAgICAgICAgICA8TWVudUl0ZW0ga2V5PXsxfSB2YWx1ZT17MX0+e2kxOG4udCgnY29tbW9uOlRydWUnKX08L01lbnVJdGVtPgogICAgICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICAgICAgPC9Gb3JtQ29udHJvbD4KICAgICAgICAgICAgKQogICAgICAgICAgICA6IHRoaXMuc3RhdGUudmFsdWVUeXBlID09PSAnZmxvYXQnID8gKAogICAgICAgICAgICAgIDxUZXh0RmllbGQKICAgICAgICAgICAgICAgIGlkPSdmbG9hdFZhbHVlJwogICAgICAgICAgICAgICAgbGFiZWw9e2kxOG4udCgnY29tbW9uOlZhbHVlJyl9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuZm9ybUNvbnRyb2x9CiAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS52YWx1ZX0KICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgndmFsdWUnKX0KICAgICAgICAgICAgICAgIHR5cGU9eydudW1iZXInfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICkgOiBudWxsfQogICAgICAgIDwvc3Bhbj4KICAgICAgKQogICAgfSBlbHNlIHJldHVybiBudWxsCiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2125,31 +2130,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">ICAgIH0KICAgIGlmICh0aGlzLnByb3BzLmlzRWRpdCAhPT0gbmV4dFByb3BzLmlzRWRpdCkgewogICAgICByZXR1cm4gdHJ1ZQogICAgfQogICAgaWYgKHRoaXMucHJvcHMuZmFjaWxpdGllcyAhPT0gbmV4dFByb3BzLmZhY2lsaXRpZXMpIHsKICAgICAgcmV0dXJuIHRydWUKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLm9wZW4gIT09IG5leHRTdGF0ZS5vcGVuKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICBpZiAodGhpcy5zdGF0ZS5pc0FkZCAhPT0gbmV4dFN0YXRlLmlzQWRkKSB7CiAgICAgIHJldHVybiB0cnVlCiAgICB9CiAgICByZXR1cm4gZmFsc2UKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbmRpdGlvbnMgIT09IG5leHRQcm9wcy5jb25kaXRpb25zKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbmRpdGlvbnMgIT09IG5leHRQcm9wcy5jb25kaXRpb25zKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkQ29tcG9uZW50VXBkYXRlOiB0aGlzLnNob3VsZENvbXBvbmVudFVwZGF0ZSwK</text>
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3I6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkQ29tcG9uZW50VXBkYXRlOiB0aGlzLnNob3VsZENvbXBvbmVudFVwZGF0ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXg6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgICAgZXJyb3I6IHRydWUsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
+        <text encoding="base64">ICAgICAgaW5kZXg6IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXZlbnRzTGlzdC5jb250ZXh0U3RhdGUnLCBjb250ZXh0U3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8RXZlbnRzRXhhbXBsZUNvbnRleHRDb25zdW1lciAvPiovfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2159,15 +2164,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</last-search>
+      <last-search>handleType</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</last-pattern>
+      <last-pattern>handleType</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDxUaW1lVHJhdmVsXD4=</entry>
         <entry>make</entry>
         <entry encoding="base64">XDxtYWtlT3B0aW9uXD4=</entry>
@@ -2187,6 +2191,7 @@
         <entry>error</entry>
         <entry>should</entry>
         <entry encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</entry>
+        <entry>handleType</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
