@@ -24,10 +24,9 @@
         <mark key="." line="0" column="1348" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545392696222">
-        <mark key="'" line="276" column="0" />
-        <mark key="[" line="1878" column="0" />
-        <mark key="]" line="1878" column="0" />
-        <mark key="." line="1878" column="0" />
+        <mark key="[" line="1552" column="0" />
+        <mark key="]" line="1552" column="0" />
+        <mark key="." line="1552" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -42,7 +41,6 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="/EventsConditions.jsx" timestamp="1545392582103" />
       <file name="$USER_HOME$/Projects/regantes-frontend/package.json" timestamp="1541777696080">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -93,6 +91,12 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="19" />
@@ -128,9 +132,6 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1545309510064">
-        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
@@ -333,8 +334,12 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" timestamp="1545818725798" />
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545309102882">
         <mark key="^" line="98" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1545818712928">
+        <mark key="'" line="48" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
@@ -365,7 +370,6 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/events-context.js" timestamp="1545392680032" />
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" timestamp="1542885631605">
         <mark key="'" line="6" column="73" />
         <mark key="[" line="6" column="17" />
@@ -792,12 +796,6 @@
         <mark key="." line="168" column="19" />
         <mark key="^" line="168" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536595167652">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -900,7 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="16" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="41" column="51" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" />
@@ -1000,6 +997,7 @@
       <jump line="0" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="229" column="83" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="276" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="48" column="33" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
