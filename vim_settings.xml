@@ -139,6 +139,9 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/serializers.py" timestamp="1545828652285">
+        <mark key="'" line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -492,6 +495,9 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1544542484035">
+        <mark key="'" line="219" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537269218460">
         <mark key="[" line="16" column="70" />
         <mark key="]" line="16" column="76" />
@@ -585,6 +591,9 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1545828667082">
+        <mark key="'" line="868" column="34" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/newRegistrationDialog.jsx" timestamp="1533225625838">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="23" />
@@ -596,6 +605,9 @@
         <mark key="]" line="7" column="46" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1544542486792">
+        <mark key="'" line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/helpers.py" timestamp="1545052180822">
         <mark key="[" line="6" column="0" />
@@ -718,6 +730,9 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" timestamp="1542645243410">
+        <mark key="'" line="7" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" timestamp="1544469747614">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="47" column="0" />
@@ -762,13 +777,16 @@
         <mark key="." line="46" column="138" />
         <mark key="^" line="46" column="138" />
       </file>
-      <file name="/Django Console" timestamp="1545050372950">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/core/simoc/asgi.py" timestamp="1544523196302">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" timestamp="1544542302945">
+        <mark key="'" line="39" column="53" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1545828708804">
+        <mark key="'" line="1154" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
@@ -916,11 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/serializers.py" />
-      <jump line="46" column="12" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="2" column="34" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
-      <jump line="3" column="32" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
       <jump line="3" column="21" filename="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" />
@@ -1016,6 +1029,11 @@
       <jump line="348" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="232" column="50" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
       <jump line="533" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
+      <jump line="7" column="25" filename="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="54" column="53" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="868" column="34" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="1154" column="23" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/fields.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2089,7 +2107,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFdmVudHNDb25kaXRpb25FZGl0SGVhZGVyQ2FyZFw+</text>
+        <text encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2175,16 +2193,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFdmVudHNDb25kaXRpb25FZGl0SGVhZGVyQ2FyZFw+</last-search>
+      <last-search encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFdmVudHNDb25kaXRpb25FZGl0SGVhZGVyQ2FyZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>make</entry>
-        <entry encoding="base64">XDxtYWtlT3B0aW9uXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVCdWlsZGluZ3NcPg==</entry>
         <entry encoding="base64">XDxnZXRUYWJsZVw+</entry>
         <entry encoding="base64">XDxnZXRDb250cmFjdHNUYWJsZVw+</entry>
@@ -2203,6 +2219,8 @@
         <entry encoding="base64">XDxvYnRhaW5fYXV0aF90b2tlblw+</entry>
         <entry>handleType</entry>
         <entry encoding="base64">XDxFdmVudHNDb25kaXRpb25FZGl0SGVhZGVyQ2FyZFw+</entry>
+        <entry>DateTimeF</entry>
+        <entry encoding="base64">XDxEYXRlVGltZUZpZWxkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
