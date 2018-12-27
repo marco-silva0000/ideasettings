@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545857677471">
-        <mark key="'" line="60" column="33" />
-        <mark key="[" line="185" column="147" />
-        <mark key="]" line="185" column="147" />
-        <mark key="." line="185" column="147" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545930822665">
+        <mark key="'" line="60" column="36" />
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="57" column="50" />
+        <mark key="." line="57" column="50" />
         <mark key="^" line="185" column="147" />
       </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
@@ -23,11 +23,12 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545913511674">
-        <mark key="'" line="1411" column="13" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="80" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545931099207">
+        <mark key="'" line="113" column="31" />
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="0" />
+        <mark key="^" line="334" column="64" />
+        <mark key="." line="335" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -133,9 +134,6 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/serializers.py" timestamp="1545828652285">
-        <mark key="'" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
@@ -296,13 +294,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1545928706927">
-        <mark key="'" line="231" column="22" />
-        <mark key="[" line="210" column="20" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1545929738079">
+        <mark key="[" line="206" column="12" />
         <mark key="m" line="154" column="8" />
-        <mark key="]" line="210" column="42" />
-        <mark key="^" line="205" column="140" />
-        <mark key="." line="210" column="20" />
+        <mark key="]" line="206" column="48" />
+        <mark key="." line="206" column="12" />
+        <mark key="^" line="206" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1539103875549">
         <mark key="[" line="19" column="48" />
@@ -336,12 +333,6 @@
         <mark key="]" line="22" column="63" />
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/authtoken/views.py" timestamp="1545819947566">
-        <mark key="'" line="14" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1545822037541">
-        <mark key="'" line="48" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
@@ -401,6 +392,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/data/demoEvents.json" timestamp="1545930838109" />
       <file name="$USER_HOME$/Projects/regantes-frontend/rollup.config.js" timestamp="1539079793737">
         <mark key="[" line="40" column="7" />
         <mark key="]" line="40" column="7" />
@@ -473,6 +465,13 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/eventUtils.js" timestamp="1545931028765">
+        <mark key="'" line="81" column="61" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="111" column="6" />
+        <mark key="." line="106" column="4" />
+        <mark key="^" line="78" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/irrigatorUtils.js" timestamp="1538489546247">
         <mark key="[" line="26" column="11" />
         <mark key="]" line="26" column="15" />
@@ -496,9 +495,6 @@
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1544542484035">
-        <mark key="'" line="219" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537269218460">
         <mark key="[" line="16" column="70" />
@@ -599,8 +595,12 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1545828667082">
-        <mark key="'" line="868" column="34" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/data/facilities.json" timestamp="1545930182286">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="69" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/newRegistrationDialog.jsx" timestamp="1533225625838">
         <mark key="[" line="30" column="18" />
@@ -614,9 +614,6 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1544542486792">
-        <mark key="'" line="91" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/helpers.py" timestamp="1545052180822">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -628,9 +625,6 @@
         <mark key="]" line="56" column="66" />
         <mark key="." line="56" column="66" />
         <mark key="^" line="56" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" timestamp="1545819938475">
-        <mark key="'" line="154" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1545826616348">
         <mark key="'" line="232" column="50" />
@@ -738,9 +732,6 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" timestamp="1542645243410">
-        <mark key="'" line="7" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" timestamp="1544469747614">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="47" column="0" />
@@ -796,12 +787,6 @@
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" timestamp="1544542302945">
-        <mark key="'" line="39" column="53" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/fields.py" timestamp="1545828708804">
-        <mark key="'" line="1154" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
@@ -905,9 +890,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1545839518036">
-        <mark key="'" line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
         <mark key="]" line="54" column="15" />
@@ -954,20 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="432" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="295" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="316" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="330" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="344" column="39" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="512" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="184" column="51" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
-      <jump line="217" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
-      <jump line="34" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="36" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="375" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="394" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="384" column="49" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="391" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="401" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="238" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
@@ -988,7 +956,6 @@
       <jump line="73" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="74" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="1" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="60" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
       <jump line="6" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="47" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="10" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
@@ -1033,7 +1000,6 @@
       <jump line="17" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="42" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="144" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="206" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="210" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="221" column="87" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="284" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -1054,6 +1020,22 @@
       <jump line="153" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="220" column="69" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="227" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="801" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="292" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="345" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="677" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="206" column="40" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="270" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="678" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="81" column="61" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/eventUtils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/data/facilities.json" />
+      <jump line="648" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="61" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="186" column="91" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="60" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="675" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="690" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="113" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2135,7 +2117,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.event.facilities</text>
+        <text>Mined</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2144,7 +2126,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Input</text>
+        <text encoding="base64">XDx1cGRhdGVGYWNpbGl0eURhdGFcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2154,13 +2136,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>facilityWithEquipments</text>
+        <text encoding="base64">LmNhdGNoKChlcnJvcikgPT4gewogICAgICBjb25zb2xlLmxvZygnaW4gY2F0Y2gnKQogICAgICBjb25zb2xlLmxvZyhlcnJvcikKICAgICAgbGV0IGZhY2lsaXRpZXNEZW1vID0gcmVxdWlyZSgnLi4vLi4vc3Rvcmllcy9kYXRhL2ZhY2lsaXRpZXMuanNvbicpCiAgICAgIHJldHVybiBmYWNpbGl0aWVzRGVtbwogICAgfSk=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXRjaAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2206,31 +2188,56 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7aWQ6IDYsIG5hbWU6ICdGcmFtYm9lc2FzIFNob3AnLCBvcmdhbml6YXRpb246ICd0ZXN0ZTdvcmcnfV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAge2NvbnNvbGUubG9nKCd0aGlzLnN0YXRlLnNlbGVjdGVkRXF1aXBtZW50JywgdGhpcy5zdGF0ZS5zZWxlY3RlZEVxdWlwbWVudCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7aWQ6IDIsIG5hbWU6ICdGYWMgMjMnLCBvcmdhbml6YXRpb246ICd0ZXN0ZTJvcmcnfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnR5cGUgPT09ICdFcXVpcG1lbnRMYXRlc3RWYWx1ZScpIHsK</text>
+        <text encoding="base64">ICAgICAgICB7aWQ6IDEsIG5hbWU6ICdGYWMgMScsIG9yZ2FuaXphdGlvbjogJ3Rlc3RlMW9yZyd9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtjbGFzc2VzfSA9IHRoaXMucHJvcHMK</text>
+        <text encoding="base64">ICAgICAgbGV0IGZhY2lsaXRpZXNEZW1vID0gWwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBDb25kaXRpb25UeXBlU2VsZWN0b3IgKGNvbnRleHRTdGF0ZSkgewo=</text>
+      <register name="6" type="4">
+        <text>[
+  {
+    &quot;facility__id&quot;: 19,
+    &quot;facility__name&quot;: &quot;Marinha Grande&quot;,
+    &quot;facility__organization__id&quot;: 14,
+    &quot;facility__organization__name&quot;: &quot;BA Vidro&quot;
+  },
+  {
+    &quot;facility__id&quot;: 2,
+    &quot;facility__name&quot;: &quot;ETA Cano&quot;,
+    &quot;facility__organization__id&quot;: 2,
+    &quot;facility__organization__name&quot;: &quot;CM Santiago do Cacém&quot;
+  },
+  {
+    &quot;facility__id&quot;: 35,
+    &quot;facility__name&quot;: &quot;Sobrepressora Montes e Lagares&quot;,
+    &quot;facility__organization__id&quot;: 23,
+    &quot;facility__organization__name&quot;: &quot;Taviraverde&quot;
+  },
+  {
+    &quot;facility__id&quot;: 36,
+    &quot;facility__name&quot;: &quot;Reservatório Porto Carvalhoso&quot;,
+    &quot;facility__organization__id&quot;: 23,
+    &quot;facility__organization__name&quot;: &quot;Taviraverde&quot;
+  }
+]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna29uZG9yIHdpbGwgZmV0Y2gnLCBmYWNJZCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvVHlwb2dyYXBoeT4K</text>
+        <text encoding="base64">ICAgICAgaWYgKGZhY2lsaXRpZXNXaXRoRXF1aXBtZW50cyA9IFtdKXtjb250ZXgudXBkYXRlRmFjaWxpdGllc09mRXZlbnQodGhpcy5wcm9wcy5ldmVudCl9CiAgICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2240,21 +2247,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Input</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVGYWNpbGl0eURhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>Input</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVGYWNpbGl0eURhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUeXBlU2VsZWN0b3JcPg==</entry>
-        <entry>Paper</entry>
-        <entry>i18</entry>
-        <entry encoding="base64">XDxmYWNpbGl0eUZpbHRlclw+</entry>
-        <entry encoding="base64">XDxoYW5kbGVDaGVja2VkXD4=</entry>
-        <entry>anchorEl</entry>
-        <entry encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</entry>
         <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50XD4=</entry>
         <entry>resolve</entry>
         <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
@@ -2268,6 +2268,13 @@
         <entry encoding="base64">XDxoYW5kbGVDXD4=</entry>
         <entry>this.hand</entry>
         <entry>Input</entry>
+        <entry>toggleEdit</entry>
+        <entry encoding="base64">XDxnZXRFcXVpcG1lbnRzQnlGYWNpbGl0eVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</entry>
+        <entry>getData</entry>
+        <entry encoding="base64">XDxnZXREYXRhXD4=</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVGYWNpbGl0eURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
