@@ -23,11 +23,11 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545905435046">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545913511674">
+        <mark key="'" line="1411" column="13" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="80" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
         <mark key="'" line="6" column="23" />
@@ -407,6 +407,13 @@
         <mark key="." line="40" column="7" />
         <mark key="^" line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" timestamp="1545914011569">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="58" />
@@ -494,11 +501,11 @@
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1545912558834">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="50" />
-        <mark key="^" line="18" column="50" />
-        <mark key="." line="18" column="50" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1545914352407">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
@@ -923,10 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="197" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="206" column="42" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="207" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="10" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="68" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
       <jump line="467" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
@@ -1023,6 +1026,10 @@
       <jump line="53" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="128" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="472" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="40" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1411" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" />
+      <jump line="7" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2087,7 +2094,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>-rc1</text>
+        <text>ReportsLandingPage</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2096,7 +2103,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</text>
+        <text>resolve</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2106,13 +2113,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmVnYW50ZXMiOiAiMC4yLjAtcmMxIiwK</text>
+        <text encoding="base64">ICByZXNvbHZlOiB7CiAgICBleHRlbnNpb25zOiBbJy53YXNtJywgJy5tanMnLCAnLmpzJywgJy5qc29uJywgJy5qc3gnXQogIH0sCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmdWxndXJpdC1maWVsZHdvcmsiOiAiZ2l0K3NzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L2ZpZWxkd29yay5naXQiLAo=</text>
+        <text encoding="base64">aW1wb3J0IFBpbmVkSGVhZGVyTGlzdE1lbnUgZnJvbSAnLi4vcmV1c2FibGVfY29tcG9uZW50cy9QaW5lZEhlYWRlckxpc3RNZW51LmpzeCcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2148,31 +2155,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEV2ZW50IGZyb20gJy4vRXZlbnQuanN4Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbmRJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9TZW5kJzsK</text>
+        <text encoding="base64">ICAgICJmdWxndXJpdC1maWVsZHdvcmsiOiAiZ2l0K3NzaDovL2dpdEBnaXRsYWIuY29tL2Z1bGd1cml0L2ZpZWxkd29yay5naXQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERyYWZ0c0ljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0RyYWZ0cyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEluYm94SWNvbiBmcm9tICdAbWF0ZXJpYWwtdWkvaWNvbnMvTW92ZVRvSW5ib3gnOwo=</text>
+        <text encoding="base64">aW1wb3J0IFNlbmRJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9TZW5kJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVudUl0ZW0gY2xhc3NOYW1lPXtjbGFzc2VzLm1lbnVJdGVtfT4KICAgICAgICAgIDxMaXN0SXRlbUljb24gY2xhc3NOYW1lPXtjbGFzc2VzLmljb259PgogICAgICAgICAgICA8SW5ib3hJY29uIC8+CiAgICAgICAgICA8L0xpc3RJdGVtSWNvbj4KICAgICAgICAgIDxMaXN0SXRlbVRleHQgY2xhc3Nlcz17eyBwcmltYXJ5OiBjbGFzc2VzLnByaW1hcnkgfX0gaW5zZXQgcHJpbWFyeT0iSW5ib3giIC8+CiAgICAgICAgPC9NZW51SXRlbT4K</text>
+        <text encoding="base64">aW1wb3J0IERyYWZ0c0ljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0RyYWZ0cyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8TGlzdAo=</text>
+        <text encoding="base64">aW1wb3J0IEluYm94SWNvbiBmcm9tICdAbWF0ZXJpYWwtdWkvaWNvbnMvTW92ZVRvSW5ib3gnOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9SZWFjdC5QdXJlQ29tcG9uZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8TWVudUl0ZW0gY2xhc3NOYW1lPXtjbGFzc2VzLm1lbnVJdGVtfT4KICAgICAgICAgIDxMaXN0SXRlbUljb24gY2xhc3NOYW1lPXtjbGFzc2VzLmljb259PgogICAgICAgICAgICA8SW5ib3hJY29uIC8+CiAgICAgICAgICA8L0xpc3RJdGVtSWNvbj4KICAgICAgICAgIDxMaXN0SXRlbVRleHQgY2xhc3Nlcz17eyBwcmltYXJ5OiBjbGFzc2VzLnByaW1hcnkgfX0gaW5zZXQgcHJpbWFyeT0iSW5ib3giIC8+CiAgICAgICAgPC9NZW51SXRlbT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFJlYWN0LlB1cmVDb21wb25lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TGlzdAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2182,19 +2189,17 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</last-search>
+      <last-search>resolve</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</last-pattern>
+      <last-pattern>resolve</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVDaGlwQ2xpY2tcPg==</entry>
         <entry>simple-popper</entry>
         <entry encoding="base64">XDxoYW5kbGVQb3BvdmVyQ29udGVudFw+</entry>
         <entry encoding="base64">XDxDb25kaXRvbkVsZW1lbnRcPg==</entry>
-        <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxSZWFjdFw+</entry>
         <entry encoding="base64">XDxFdmVudHNDb250ZXh0XD4=</entry>
         <entry>type</entry>
@@ -2210,6 +2215,8 @@
         <entry encoding="base64">XDxoYW5kbGVDaGVja2VkXD4=</entry>
         <entry>anchorEl</entry>
         <entry encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</entry>
+        <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50XD4=</entry>
+        <entry>resolve</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
