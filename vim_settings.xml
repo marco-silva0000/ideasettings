@@ -23,10 +23,10 @@
         <mark key="^" line="0" column="1348" />
         <mark key="." line="0" column="1348" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545857818567">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1545905435046">
         <mark key="'" line="6" column="26" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="40" />
         <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
@@ -92,7 +92,7 @@
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1545842579779">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1545904669786">
         <mark key="[" line="67" column="0" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="62" column="44" />
@@ -310,12 +310,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1545858972518">
-        <mark key="'" line="154" column="93" />
-        <mark key="[" line="18" column="57" />
-        <mark key="]" line="18" column="57" />
-        <mark key="^" line="180" column="84" />
-        <mark key="." line="18" column="57" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1545905593611">
+        <mark key="'" line="83" column="38" />
+        <mark key="[" line="182" column="98" />
+        <mark key="m" line="180" column="100" />
+        <mark key="]" line="182" column="98" />
+        <mark key="^" line="182" column="98" />
+        <mark key="." line="182" column="98" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1539103875549">
         <mark key="[" line="19" column="48" />
@@ -511,6 +512,12 @@
         <mark key="]" line="16" column="76" />
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1545904177630">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
@@ -785,10 +792,10 @@
         <mark key="." line="46" column="138" />
         <mark key="^" line="46" column="138" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" timestamp="1545857846370">
-        <mark key="'" line="477" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="47" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" timestamp="1545905098697">
+        <mark key="'" line="472" column="24" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/asgi.py" timestamp="1544523196302">
         <mark key="[" line="4" column="0" />
@@ -950,14 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="53" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="868" column="34" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="1154" column="23" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/fields.py" />
-      <jump line="495" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="244" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="31" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
-      <jump line="5" column="52" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="114" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="196" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="197" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="206" column="42" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -1028,15 +1027,12 @@
       <jump line="73" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="74" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="1" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="81" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="60" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
       <jump line="6" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="47" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="10" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="128" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="167" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="467" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="472" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="476" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="477" column="10" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="72" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -1050,6 +1046,17 @@
       <jump line="235" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="181" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="148" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="174" column="78" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="10" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="81" column="38" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="171" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="243" column="62" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="366" column="66" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="6" column="45" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="53" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="128" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="472" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2114,7 +2121,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>EquipmentLatestValue</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2123,7 +2130,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Paper</text>
+        <text encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2133,7 +2140,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>EquipmentLatestValue</text>
+        <text encoding="base64">IG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlU2VsZWN0VGVybVR5cGUoJ0VxdWlwbWVudExhdGVzdFZhbHVlJyk=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -2209,19 +2216,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Paper</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</last-search>
       <last-offset />
-      <last-pattern>Paper</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.handleChange</entry>
-        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
-        <entry>date_start</entry>
-        <entry encoding="base64">XDxDb25kaXRpb25FZGl0SGVhZGVyXD4=</entry>
-        <entry>chip</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGlwQ2xpY2tcPg==</entry>
         <entry>simple-popper</entry>
         <entry encoding="base64">XDxoYW5kbGVQb3BvdmVyQ29udGVudFw+</entry>
@@ -2237,6 +2239,11 @@
         <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50RWRpdFw+</entry>
         <entry encoding="base64">XDxUeXBlU2VsZWN0b3JcPg==</entry>
         <entry>Paper</entry>
+        <entry>i18</entry>
+        <entry encoding="base64">XDxmYWNpbGl0eUZpbHRlclw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaGVja2VkXD4=</entry>
+        <entry>anchorEl</entry>
+        <entry encoding="base64">XDxoYW5kbGVQb3BvdmVyQ2xvc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
