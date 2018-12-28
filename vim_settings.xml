@@ -93,11 +93,6 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1545904669786">
-        <mark key="[" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="62" column="44" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="8" />
@@ -299,13 +294,13 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1545933437866">
-        <mark key="'" line="223" column="28" />
-        <mark key="[" line="158" column="27" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1545991224243">
+        <mark key="'" line="218" column="20" />
+        <mark key="[" line="226" column="33" />
         <mark key="m" line="154" column="8" />
-        <mark key="]" line="158" column="24" />
-        <mark key="." line="158" column="24" />
-        <mark key="^" line="158" column="24" />
+        <mark key="]" line="226" column="33" />
+        <mark key="." line="226" column="33" />
+        <mark key="^" line="226" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1539103875549">
         <mark key="[" line="19" column="48" />
@@ -745,6 +740,12 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1545991293376">
+        <mark key="'" line="65" column="24" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542885737990">
         <mark key="'" line="59" column="5" />
         <mark key="[" line="90" column="0" />
@@ -942,8 +943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
-      <jump line="401" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
       <jump line="238" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
       <jump line="26" column="81" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
@@ -1042,6 +1041,8 @@
       <jump line="690" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="113" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="219" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="218" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="65" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2123,7 +2124,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>.equipment</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2142,13 +2143,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBoYW5kbGVQb3BvdmVyQ2xvc2UgPSAoKSA9PiB7IHRoaXMuc2V0U3RhdGUoe2FuY2hvckVsOiBudWxsfSkgfQo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHRlcm0gPSB1cGRhdGUodGhpcy5zdGF0ZS50ZXJtLCB7ZGF0YTogeyRzZXQ6IGV2ZW50fX0pCiAgICAgIHRoaXMuc2V0U3RhdGUoe3Rlcm19KQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQaW5lZEhlYWRlckxpc3QucHJvcHMnLCBwcm9wcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2194,56 +2195,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnByb3BzLmxvYWRpbmcnLCB0aGlzLnByb3BzLmxvYWRpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXRjaAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7aWQ6IDYsIG5hbWU6ICdGcmFtYm9lc2FzIFNob3AnLCBvcmdhbml6YXRpb246ICd0ZXN0ZTdvcmcnfV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7aWQ6IDIsIG5hbWU6ICdGYWMgMjMnLCBvcmdhbml6YXRpb246ICd0ZXN0ZTJvcmcnfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7aWQ6IDEsIG5hbWU6ICdGYWMgMScsIG9yZ2FuaXphdGlvbjogJ3Rlc3RlMW9yZyd9LAo=</text>
+        <text encoding="base64">ICBjYXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZhY2lsaXRpZXNEZW1vID0gWwo=</text>
+        <text encoding="base64">ICAgICAgICB7aWQ6IDYsIG5hbWU6ICdGcmFtYm9lc2FzIFNob3AnLCBvcmdhbml6YXRpb246ICd0ZXN0ZTdvcmcnfV0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>[
-  {
-    &quot;facility__id&quot;: 19,
-    &quot;facility__name&quot;: &quot;Marinha Grande&quot;,
-    &quot;facility__organization__id&quot;: 14,
-    &quot;facility__organization__name&quot;: &quot;BA Vidro&quot;
-  },
-  {
-    &quot;facility__id&quot;: 2,
-    &quot;facility__name&quot;: &quot;ETA Cano&quot;,
-    &quot;facility__organization__id&quot;: 2,
-    &quot;facility__organization__name&quot;: &quot;CM Santiago do Cacém&quot;
-  },
-  {
-    &quot;facility__id&quot;: 35,
-    &quot;facility__name&quot;: &quot;Sobrepressora Montes e Lagares&quot;,
-    &quot;facility__organization__id&quot;: 23,
-    &quot;facility__organization__name&quot;: &quot;Taviraverde&quot;
-  },
-  {
-    &quot;facility__id&quot;: 36,
-    &quot;facility__name&quot;: &quot;Reservatório Porto Carvalhoso&quot;,
-    &quot;facility__organization__id&quot;: 23,
-    &quot;facility__organization__name&quot;: &quot;Taviraverde&quot;
-  }
-]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB7aWQ6IDIsIG5hbWU6ICdGYWMgMjMnLCBvcmdhbml6YXRpb246ICd0ZXN0ZTJvcmcnfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna29uZG9yIHdpbGwgZmV0Y2gnLCBmYWNJZCkK</text>
+        <text encoding="base64">ICAgICAgICB7aWQ6IDEsIG5hbWU6ICdGYWMgMScsIG9yZ2FuaXphdGlvbjogJ3Rlc3RlMW9yZyd9LAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
