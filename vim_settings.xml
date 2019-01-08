@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545309442706">
-        <mark key="'" line="22" column="56" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545930822665">
+        <mark key="'" line="60" column="36" />
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="57" column="50" />
+        <mark key="." line="57" column="50" />
+        <mark key="^" line="185" column="147" />
       </file>
       <file name="/projects/gtc/water_management/views.py" timestamp="1540973211533">
         <mark key="'" line="40" column="42" />
@@ -71,16 +75,25 @@
         <mark key="." line="52" column="19" />
         <mark key="^" line="51" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/data/equipmentsToPlotByFacility3.json" timestamp="1545931885193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/rollup.config.js" timestamp="1531497214286">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1542112972157">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1546434142060">
+        <mark key="'" line="67" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/node_modules/fulgurit-reusable-components/build/package.json" timestamp="1534763805849">
         <mark key="[" line="1" column="11" />
@@ -142,17 +155,18 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="/projects/fieldwork/frontend/src/reports/ReportDetail.jsx" timestamp="1545921210089">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+        <mark key="^" line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1542293936705">
         <mark key="'" line="12" column="36" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="41" />
         <mark key="." line="160" column="36" />
         <mark key="^" line="160" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/localization/locales/pt-pt/common.json" timestamp="1545147357267">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/buildings/buildingUtils.js" timestamp="1541777265718">
         <mark key="[" line="165" column="16" />
@@ -221,11 +235,6 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="&lt;53a709fa-9097-4022-bbba-f1cfdd33a246&gt;/datalogger.py" timestamp="1545051117788">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/LandingPage/index.jsx" timestamp="1533136752207">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -281,11 +290,6 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActions/PumpTimerAction.jsx" timestamp="1544483332682">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1539103875549">
         <mark key="[" line="19" column="48" />
         <mark key="]" line="19" column="48" />
@@ -298,6 +302,13 @@
         <mark key="]" line="99" column="71" />
         <mark key="^" line="99" column="71" />
         <mark key="." line="99" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/serializers.py" timestamp="1546433958922">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="89" column="24" />
+        <mark key="]" line="89" column="24" />
+        <mark key="^" line="89" column="23" />
+        <mark key="." line="89" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/dockerbuild.sh" timestamp="1531477271139">
         <mark key="[" line="2" column="135" />
@@ -319,9 +330,6 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" timestamp="1545309102882">
-        <mark key="^" line="98" column="49" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/frontent-reusable-components/lib/src/AutoCompleteSelect/index.jsx" timestamp="1531500148788">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -333,11 +341,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="50" column="43" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" timestamp="1538671499419">
-        <mark key="[" line="515" column="0" />
-        <mark key="]" line="515" column="0" />
-        <mark key="." line="515" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/fulgurit/equipments/migrations/0006_equipmentdatawriteaction.py" timestamp="1532342092665">
         <mark key="[" line="15" column="43" />
@@ -357,6 +360,13 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" timestamp="1546429876510">
+        <mark key="'" line="266" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="267" column="36" />
+        <mark key="^" line="267" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538993899192">
         <mark key="'" line="191" column="39" />
@@ -383,6 +393,13 @@
         <mark key="]" line="40" column="7" />
         <mark key="." line="40" column="7" />
         <mark key="^" line="40" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" timestamp="1545914011569">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/irrigators/serializers.py" timestamp="1532453833735">
         <mark key="[" line="12" column="48" />
@@ -426,11 +443,29 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
+      <file name="/projects/fieldwork/package.json" timestamp="1545916230408">
+        <mark key="'" line="17" column="19" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/node_modules/@fulgurit/fulgurit-regantes/src/index.js" timestamp="1539098438464">
         <mark key="[" line="0" column="83" />
         <mark key="]" line="0" column="83" />
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1545921508168">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/eventUtils.js" timestamp="1545931946003">
+        <mark key="'" line="81" column="61" />
+        <mark key="[" line="109" column="55" />
+        <mark key="]" line="109" column="81" />
+        <mark key="." line="109" column="81" />
+        <mark key="^" line="109" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/reusable_components/irrigatorUtils.js" timestamp="1538489546247">
         <mark key="[" line="26" column="11" />
@@ -456,14 +491,17 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1544542484035">
-        <mark key="'" line="219" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/.storybook/webpack.config.js" timestamp="1537269218460">
         <mark key="[" line="16" column="70" />
         <mark key="]" line="16" column="76" />
         <mark key="." line="16" column="76" />
         <mark key="^" line="16" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1545914388544">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="51" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
@@ -552,6 +590,13 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/data/facilities.json" timestamp="1545930182286">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="69" column="2" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/src/irrigators/registries/newRegistrationDialog.jsx" timestamp="1533225625838">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="23" />
@@ -563,9 +608,6 @@
         <mark key="]" line="7" column="46" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1544542486792">
-        <mark key="'" line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/helpers.py" timestamp="1545052180822">
         <mark key="[" line="6" column="0" />
@@ -579,15 +621,12 @@
         <mark key="." line="56" column="66" />
         <mark key="^" line="56" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" timestamp="1543522700158">
-        <mark key="'" line="154" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1545416862257">
-        <mark key="'" line="401" column="27" />
-        <mark key="[" line="401" column="42" />
-        <mark key="]" line="401" column="42" />
-        <mark key="." line="401" column="42" />
-        <mark key="^" line="401" column="56" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1545826616348">
+        <mark key="'" line="232" column="50" />
+        <mark key="[" line="528" column="2" />
+        <mark key="]" line="528" column="6" />
+        <mark key="^" line="528" column="6" />
+        <mark key="." line="528" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/frontend/package.json" timestamp="1533229888049">
         <mark key="[" line="14" column="3" />
@@ -670,11 +709,11 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1545414175823">
-        <mark key="[" line="117" column="9" />
-        <mark key="]" line="117" column="8" />
-        <mark key="^" line="117" column="8" />
-        <mark key="." line="117" column="8" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1545839682393">
+        <mark key="[" line="76" column="1" />
+        <mark key="]" line="81" column="3" />
+        <mark key="^" line="74" column="1" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/fulgurit-localization/package.json" timestamp="1536666072951">
         <mark key="[" line="13" column="0" />
@@ -688,9 +727,6 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" timestamp="1542645243410">
-        <mark key="'" line="7" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" timestamp="1544469747614">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="47" column="0" />
@@ -698,10 +734,11 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/package.json" timestamp="1539181212297">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1545991293376">
+        <mark key="'" line="65" column="24" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" timestamp="1542885737990">
         <mark key="'" line="59" column="5" />
@@ -729,22 +766,28 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1545924536615">
+        <mark key="[" line="305" column="59" />
+        <mark key="]" line="305" column="67" />
+        <mark key="." line="305" column="67" />
+        <mark key="^" line="305" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/RegistrationClient.jsx" timestamp="1538412588785">
         <mark key="[" line="46" column="133" />
         <mark key="]" line="46" column="138" />
         <mark key="." line="46" column="138" />
         <mark key="^" line="46" column="138" />
       </file>
-      <file name="/Django Console" timestamp="1545050372950">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" timestamp="1545905098697">
+        <mark key="'" line="472" column="24" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="64" />
+      </file>
+      <file name="/projects/fieldwork/frontend/src/LandingPage/index.jsx" timestamp="1545915200321">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/simoc/asgi.py" timestamp="1544523196302">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" timestamp="1544542302945">
-        <mark key="'" line="39" column="53" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
@@ -760,16 +803,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545413128495">
+      <file name="/Dummy.txt" timestamp="1546013157606">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/projects/metering/metering/utils.py" timestamp="1545051311902">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="110" column="27" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1536149984583">
         <mark key="[" line="36" column="56" />
@@ -789,12 +827,6 @@
         <mark key="]" line="168" column="19" />
         <mark key="." line="168" column="19" />
         <mark key="^" line="168" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1536312754379">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/dockerbuild.sh" timestamp="1536595167652">
         <mark key="[" line="2" column="0" />
@@ -859,6 +891,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1546434205486">
+        <mark key="'" line="290" column="31" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
         <mark key="]" line="54" column="15" />
@@ -889,6 +928,13 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="/projects/fieldwork/frontend/src/reports/ReportsList.jsx" timestamp="1545921462233">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/models.py" timestamp="1542217091831">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="12" column="6" />
@@ -898,106 +944,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="19" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="44" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="72" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="81" column="19" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="82" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="88" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="137" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="149" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="154" column="15" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/api.py" />
-      <jump line="434" column="43" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="435" column="4" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="422" column="40" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="445" column="35" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="250" column="0" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="444" column="18" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="458" column="27" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="472" column="40" filename="$USER_HOME$/Projects/core/apps/timers/models.py" />
-      <jump line="194" column="6" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
-      <jump line="141" column="26" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
-      <jump line="85" column="17" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
-      <jump line="114" column="14" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsGlobalLandingPage.jsx" />
-      <jump line="166" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
-      <jump line="64" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TrendsLandingPage.jsx" />
-      <jump line="60" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActions/PumpTimerAction.jsx" />
-      <jump line="22" column="56" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
-      <jump line="13" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
-      <jump line="7" column="62" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
-      <jump line="14" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/equipments/components/EquipmentActionsInModal.jsx" />
-      <jump line="18" column="33" filename="$USER_HOME$/Projects/core/apps/timers/urls.py" />
-      <jump line="204" column="23" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
-      <jump line="182" column="54" filename="$USER_HOME$/Projects/core/apps/timers/api.py" />
-      <jump line="55" column="24" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" />
-      <jump line="66" column="24" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" />
-      <jump line="91" column="24" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/mixins.py" />
-      <jump line="200" column="49" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" />
-      <jump line="39" column="53" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/generics.py" />
-      <jump line="223" column="30" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
-      <jump line="219" column="31" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/local/lib/python2.7/site-packages/rest_framework/viewsets.py" />
-      <jump line="33" column="32" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="568" column="32" filename="&lt;53a709fa-9097-4022-bbba-f1cfdd33a246&gt;/datalogger.py" />
-      <jump line="26" column="32" filename="&lt;53a709fa-9097-4022-bbba-f1cfdd33a246&gt;/datalogger.py" />
-      <jump line="688" column="0" filename="&lt;53a709fa-9097-4022-bbba-f1cfdd33a246&gt;/datalogger.py" />
-      <jump line="687" column="0" filename="&lt;53a709fa-9097-4022-bbba-f1cfdd33a246&gt;/datalogger.py" />
-      <jump line="632" column="4" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="308" column="45" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="28" column="82" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="6" column="27" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/models.py" />
-      <jump line="99" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" />
-      <jump line="100" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" />
-      <jump line="101" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsList.jsx" />
-      <jump line="25" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="71" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="72" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="74" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="105" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="109" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="70" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/ConditionElement.jsx" />
-      <jump line="282" column="49" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="0" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="229" column="83" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="276" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1544" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1536" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1685" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="278" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1530" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1533" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1534" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="767" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="770" column="4" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="639" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="762" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="632" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="636" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="353" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="633" column="3" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="681" column="51" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="561" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="70" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
-      <jump line="98" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
-      <jump line="58" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
-      <jump line="49" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="265" column="45" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="3" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="71" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="61" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="48" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="59" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="260" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="300" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="15" column="60" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="238" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
-      <jump line="395" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" />
+      <jump line="167" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="467" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="476" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="477" column="10" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="72" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="190" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="191" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="75" column="51" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="76" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="105" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="106" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="235" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="181" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="148" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="10" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="81" column="38" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="171" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="243" column="62" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="366" column="66" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="6" column="45" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="53" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="128" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="472" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsFilterBanner.jsx" />
+      <jump line="40" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1411" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" />
+      <jump line="7" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" />
+      <jump line="1" column="21" filename="/projects/fieldwork/frontend/src/reports/ReportsList.jsx" />
+      <jump line="17" column="19" filename="/projects/fieldwork/package.json" />
+      <jump line="7" column="38" filename="/projects/fieldwork/frontend/src/reports/ReportsList.jsx" />
+      <jump line="183" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="266" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEditHeaderCard.jsx" />
+      <jump line="19" column="59" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="192" column="4" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="194" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="268" column="39" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="17" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="42" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="144" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="210" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="221" column="87" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="284" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="285" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="341" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="348" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="350" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="356" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="68" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="121" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="125" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="281" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="163" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="165" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="174" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="201" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="213" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="153" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="227" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="801" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="292" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="345" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="677" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="206" column="40" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="270" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="678" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="81" column="61" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/eventUtils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/data/facilities.json" />
+      <jump line="648" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="61" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="186" column="91" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="60" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" />
+      <jump line="675" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="690" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="113" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="219" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="218" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="65" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" />
+      <jump line="149" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="171" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="230" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="242" column="66" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="92" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="118" column="36" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="151" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="296" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="297" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="271" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="226" column="40" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="220" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="249" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="248" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="276" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="5" column="20" filename="$USER_HOME$/Projects/core/fulgurit/equipments/serializers.py" />
+      <jump line="70" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
+      <jump line="290" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="293" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="317" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="703" column="60" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="706" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2058,11 +2104,28 @@
       <register name="f" type="4">
         <text encoding="base64">IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlLw==</text>
       </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>newE</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2071,7 +2134,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>toggleEd</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -2081,73 +2144,106 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>ConditionEditHeader</text>
+        <text>!event.isEdit</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBuZXdFdmVudCA9IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50LCB7aXNFZGl0OiB7JHNldDogIWV2ZW50LmlzRWRpdH19KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="99" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="69" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="114" code="0" mods="0" />
           <key char="111" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
           <key char="114" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="37" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="112" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgQ29uZGl0aW9uRWRpdEhlYWRlciAoKSB7CiAgICBjb25zdCB7Y2xhc3NlcywgZXZlbnR9ID0gdGhpcy5wcm9wcwogICAgcmV0dXJuICgKICAgICAgPEdyaWQgY29udGFpbmVyIGp1c3RpZnk9eydzcGFjZS1iZXR3ZWVuJ30gYWxpZ25JdGVtcz0nZmxleC1zdGFydCcgY2xhc3NOYW1lPXtjbGFzc2VzLnJvb3R9PgogICAgICAgIDxHcmlkIGl0ZW0geHM9ezEyfSBzbT17Nn0gbWQ9ezR9PgogICAgICAgICAgPEdyaWQgY29udGFpbmVyIGRpcmVjdGlvbj17J2NvbHVtbid9PgogICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHZhcmlhbnQ9eydjb250YWluZWQnfQogICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnVmFsdWUnID8gJ3ByaW1hcnknIDogJ2RlZmF1bHQnfQogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHt0eXBlOiAnVmFsdWUnLCB2YWx1ZVR5cGU6ICdmbG9hdCd9KQogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICB7aTE4bi50KCdjb21tb246TnVtZXJpYyBWYWx1ZScpfQogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHZhcmlhbnQ9eydjb250YWluZWQnfQogICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnRXF1aXBtZW50TGF0ZXN0VmFsdWUnID8gJ3ByaW1hcnknIDogJ2RlZmF1bHQnfQogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnQlVUVFRUVFRUVFRUVFRUVFRPTicpCiAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3R5cGU6ICdFcXVpcG1lbnRMYXRlc3RWYWx1ZSd9KQogICAgICAgICAgICAgICAgICB0aGlzLnJlZnJlc2hFcXVpcG1lbnRMaXN0KCkKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAge2kxOG4udCgnY29tbW9uOkVxdWlwbWVudCBWYWx1ZScpfQogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgIHsvKiA8Rm9ybUNvbnRyb2wgY2xhc3NOYW1lPXtjbGFzc2VzLmZvcm1Db250cm9sfT4gKi99CiAgICAgICAgICAgIHsvKiA8SW5wdXRMYWJlbCBodG1sRm9yPSd0eXBlJz57aTE4bi50KCdjb21tb246VHlwZScpfTwvSW5wdXRMYWJlbD4gKi99CiAgICAgICAgICAgIHsvKiA8U2VsZWN0ICovfQogICAgICAgICAgICB7LyogZnVsbFdpZHRoICovfQogICAgICAgICAgICB7LyogdmFsdWU9e3RoaXMuc3RhdGUudHlwZX0gKi99CiAgICAgICAgICAgIHsvKiBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ3R5cGUnKX0gKi99CiAgICAgICAgICAgIHsvKiBpbnB1dD17PElucHV0IGlkPSdkZXZpY2UnIC8+fSAqL30KICAgICAgICAgICAgey8qID4gKi99CiAgICAgICAgICAgIHsvKiA8TWVudUl0ZW0ga2V5PXswfSB2YWx1ZT17J1ZhbHVlJ30+e2kxOG4udCgnY29tbW9uOk51bWVyaWMgVmFsdWUnKX08L01lbnVJdGVtPiAqL30KICAgICAgICAgICAgey8qIDxNZW51SXRlbSBrZXk9ezF9IHZhbHVlPXsnRXF1aXBtZW50TGF0ZXN0VmFsdWUnfT57aTE4bi50KCdjb21tb246RXF1aXBtZW50IFZhbHVlJyl9PC9NZW51SXRlbT4gKi99CiAgICAgICAgICAgIHsvKiA8L1NlbGVjdD4gKi99CiAgICAgICAgICAgIHsvKiA8L0Zvcm1Db250cm9sPiAqL30KICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICB7dGhpcy5oYW5kbGVUeXBlKCl9CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICB7dGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YS5uYW1lICE9PSAnJyB8fCB0aGlzLnN0YXRlLnZhbHVlICE9PSB1bmRlZmluZWQgPyB0aGlzLnNlbGVjdE9wZXJhdGlvbigpIDogJyd9CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgIDwvR3JpZD4KICAgICAgICA8L0dyaWQ+CiAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IHNtPXs2fSBtZD17Mn0+CiAgICAgICAgICB7LyogPEJ1dHRvbiAqL30KICAgICAgICAgIHsvKiBjbGFzc05hbWU9e2NsYXNzZXMuYnV0dG9ufSAqL30KICAgICAgICAgIHsvKiB2YXJpYW50PSdyYWlzZWQnICovfQogICAgICAgICAgey8qIGNvbG9yPSdwcmltYXJ5JyAqL30KICAgICAgICAgIHsvKiBvbkNsaWNrPXt0aGlzLmNsZWFyVGVybX0gKi99CiAgICAgICAgICB7LyogPiAqL30KICAgICAgICAgIHsvKiB7aTE4bi50KCdjb21tb246Q2xlYXInKX0gKi99CiAgICAgICAgICB7LyogPC9CdXR0b24+ICovfQogICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLmFkZFRlcm19IGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259IHZhcmlhbnQ9J3JhaXNlZCcgY29sb3I9J3ByaW1hcnknPgogICAgICAgICAgICB7aTE4bi50KCdjb21tb246QWRkJyl9CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L0dyaWQ+CiAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IHNtPXs2fSBtZD17NH0+CiAgICAgICAgICA8Rm9ybUNvbnRyb2wgY2xhc3NOYW1lPXtjbGFzc2VzLmZvcm1Db250cm9sfSBzdHlsZT17e21hcmdpbkxlZnQ6IDQwLCBib3R0b206IDEyfX0+CiAgICAgICAgICAgIDxJbnB1dExhYmVsIGh0bWxGb3I9J2Zvcm1hdHRlZC10ZXh0LW1hc2staW5wdXQnPntpMThuLnQoJ2NvbW1vbjpEZWxheScpfTwvSW5wdXRMYWJlbD4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgc3R5bGU9e3twYWRkaW5nVG9wOiA0fX0KICAgICAgICAgICAgICBkaXNhYmxlVW5kZXJsaW5lCiAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuZGVsYXl9CiAgICAgICAgICAgICAgaWQ9J2Zvcm1hdHRlZC10ZXh0LW1hc2staW5wdXQnCiAgICAgICAgICAgICAgaW5wdXRDb21wb25lbnQ9e1RleHRNYXNrQ3VzdG9tfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnZGVsYXknKX0KICAgICAgICAgICAgLz4KICAgICAgICAgICAgPEZvcm1IZWxwZXJUZXh0PntpMThuLnQoJ2NvbW1vbjpDb25kaXRpb24gdmVyaWZpY2F0aW9uIGRlbGF5Jyl9PC9Gb3JtSGVscGVyVGV4dD4KICAgICAgICAgIDwvRm9ybUNvbnRyb2w+CiAgICAgICAgICA8Rm9ybUNvbnRyb2wgY2xhc3NOYW1lPXtjbGFzc2VzLkNvbmRpdGlvbkNvbnRyb2x9PgogICAgICAgICAgICA8SW5wdXRMYWJlbCBodG1sRm9yPSdjb25kaXRpb24tb3AnPntpMThuLnQoJ2NvbW1vbjpSZWxhdGlvbicpfTwvSW5wdXRMYWJlbD4KICAgICAgICAgICAgPFNlbGVjdAogICAgICAgICAgICAgIGF1dG9XaWR0aAogICAgICAgICAgICAgIGRpc2FibGVVbmRlcmxpbmUKICAgICAgICAgICAgICBkaXNwbGF5RW1wdHkKICAgICAgICAgICAgICByZW5kZXJWYWx1ZT17KG9wKSA9PiAoPEF2YXRhciBjbGFzc05hbWU9e2NsYXNzZXMub3B9PntvcC5jb2RlfTwvQXZhdGFyPil9CiAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuY29uZE9wZXJhdGlvbn0KICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NvbmRPcGVyYXRpb24nKX0KICAgICAgICAgICAgICBpbnB1dD17PElucHV0IGlkPSdjb25kaXRpb24tb3AnIC8+fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPE1lbnVJdGVtIGtleT17JyAnfSB2YWx1ZT17JyAnfT48ZW0+e2kxOG4udCgnY29tbW9uOk5vbmUnKX08L2VtPjwvTWVudUl0ZW0+CiAgICAgICAgICAgICAge2NvbmRpdGlvbnMKICAgICAgICAgICAgICAgIC5maWx0ZXIoY29uZCA9PiBbJ2FuZCcsICdvciddLmluZGV4T2YoY29uZC5pZCkgPiAtMSkKICAgICAgICAgICAgICAgIC5tYXAoKG9wKSA9PiAoCiAgICAgICAgICAgICAgICAgIDxNZW51SXRlbSBrZXk9e29wLmlkfSB2YWx1ZT17b3B9PntgJHtvcC5uYW1lfSAgKCR7b3AuY29kZX0pYH08L01lbnVJdGVtPgogICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgICA8Rm9ybUhlbHBlclRleHQ+e2kxOG4udCgnY29tbW9uOlJlbGF0aW9uIHdpdGggbmV4dCBjb25kaXRpb24nKX08L0Zvcm1IZWxwZXJUZXh0PgogICAgICAgICAgPC9Gb3JtQ29udHJvbD4KICAgICAgICA8L0dyaWQ+CiAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IHNtPXs2fSBtZD17Mn0+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259CiAgICAgICAgICAgIHZhcmlhbnQ9J3JhaXNlZCcKICAgICAgICAgICAgY29sb3I9J3ByaW1hcnknCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmVycm9yfQogICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnNhdmVDb25kaXRpb259CiAgICAgICAgICA+CiAgICAgICAgICAgIHtpMThuLnQoJ2NvbW1vbjpTYXZlJyl9CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmJ1dHRvbn0KICAgICAgICAgICAgdmFyaWFudD0ncmFpc2VkJwogICAgICAgICAgICBjb2xvcj0ncHJpbWFyeScKICAgICAgICAgICAgc3R5bGVzPXt7fX0KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5jbG9zZUNvbmRpdGlvbigpfQogICAgICAgICAgPgogICAgICAgICAgICB7aTE4bi50KCdjb21tb246Q2xvc2UnKX0KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvR3JpZD4KICAgICAgPC9HcmlkPgoKICAgICkKICB9CiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b2dnbGVFZGl0IG9uIGNvbnRleHQgc3RhdGUgZXZuZGZsc2prw6dnJywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZGRDb25kaXRpb24gKCkgewogICAgY29uc3Qge2NsYXNzZXN9ID0gdGhpcy5wcm9wcwogICAgcmV0dXJuICgKICAgICAgPEdyaWQgY29udGFpbmVyIGp1c3RpZnk9eydzcGFjZS1iZXR3ZWVuJ30gYWxpZ25JdGVtcz0nZmxleC1zdGFydCcgY2xhc3NOYW1lPXtjbGFzc2VzLnJvb3R9PgogICAgICAgIDxHcmlkIGl0ZW0geHM9ezEyfSBzbT17Nn0gbWQ9ezR9PgogICAgICAgICAgPEdyaWQgY29udGFpbmVyIGRpcmVjdGlvbj17J2NvbHVtbid9PgogICAgICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHZhcmlhbnQ9eydjb250YWluZWQnfQogICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnVmFsdWUnID8gJ3ByaW1hcnknIDogJ2RlZmF1bHQnfQogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHt0eXBlOiAnVmFsdWUnLCB2YWx1ZVR5cGU6ICdmbG9hdCd9KQogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICB7aTE4bi50KCdjb21tb246TnVtZXJpYyBWYWx1ZScpfQogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHZhcmlhbnQ9eydjb250YWluZWQnfQogICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUudHlwZSA9PSAnRXF1aXBtZW50TGF0ZXN0VmFsdWUnID8gJ3ByaW1hcnknIDogJ2RlZmF1bHQnfQogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnQlVUVFRUVFRUVFRUVFRUVFRPTicpCiAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3R5cGU6ICdFcXVpcG1lbnRMYXRlc3RWYWx1ZSd9KQogICAgICAgICAgICAgICAgICB0aGlzLnJlZnJlc2hFcXVpcG1lbnRMaXN0KCkKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAge2kxOG4udCgnY29tbW9uOkVxdWlwbWVudCBWYWx1ZScpfQogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgIHsvKiA8Rm9ybUNvbnRyb2wgY2xhc3NOYW1lPXtjbGFzc2VzLmZvcm1Db250cm9sfT4gKi99CiAgICAgICAgICAgIHsvKiA8SW5wdXRMYWJlbCBodG1sRm9yPSd0eXBlJz57aTE4bi50KCdjb21tb246VHlwZScpfTwvSW5wdXRMYWJlbD4gKi99CiAgICAgICAgICAgIHsvKiA8U2VsZWN0ICovfQogICAgICAgICAgICB7LyogZnVsbFdpZHRoICovfQogICAgICAgICAgICB7LyogdmFsdWU9e3RoaXMuc3RhdGUudHlwZX0gKi99CiAgICAgICAgICAgIHsvKiBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ3R5cGUnKX0gKi99CiAgICAgICAgICAgIHsvKiBpbnB1dD17PElucHV0IGlkPSdkZXZpY2UnIC8+fSAqL30KICAgICAgICAgICAgey8qID4gKi99CiAgICAgICAgICAgIHsvKiA8TWVudUl0ZW0ga2V5PXswfSB2YWx1ZT17J1ZhbHVlJ30+e2kxOG4udCgnY29tbW9uOk51bWVyaWMgVmFsdWUnKX08L01lbnVJdGVtPiAqL30KICAgICAgICAgICAgey8qIDxNZW51SXRlbSBrZXk9ezF9IHZhbHVlPXsnRXF1aXBtZW50TGF0ZXN0VmFsdWUnfT57aTE4bi50KCdjb21tb246RXF1aXBtZW50IFZhbHVlJyl9PC9NZW51SXRlbT4gKi99CiAgICAgICAgICAgIHsvKiA8L1NlbGVjdD4gKi99CiAgICAgICAgICAgIHsvKiA8L0Zvcm1Db250cm9sPiAqL30KICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICB7dGhpcy5oYW5kbGVUeXBlKCl9CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgICAgICB7dGhpcy5zdGF0ZS5wcm9jZXNzZWRfZGF0YS5uYW1lICE9PSAnJyB8fCB0aGlzLnN0YXRlLnZhbHVlICE9PSB1bmRlZmluZWQgPyB0aGlzLnNlbGVjdE9wZXJhdGlvbigpIDogJyd9CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgIDwvR3JpZD4KICAgICAgICA8L0dyaWQ+CiAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IHNtPXs2fSBtZD17Mn0+CiAgICAgICAgICB7LyogPEJ1dHRvbiAqL30KICAgICAgICAgIHsvKiBjbGFzc05hbWU9e2NsYXNzZXMuYnV0dG9ufSAqL30KICAgICAgICAgIHsvKiB2YXJpYW50PSdyYWlzZWQnICovfQogICAgICAgICAgey8qIGNvbG9yPSdwcmltYXJ5JyAqL30KICAgICAgICAgIHsvKiBvbkNsaWNrPXt0aGlzLmNsZWFyVGVybX0gKi99CiAgICAgICAgICB7LyogPiAqL30KICAgICAgICAgIHsvKiB7aTE4bi50KCdjb21tb246Q2xlYXInKX0gKi99CiAgICAgICAgICB7LyogPC9CdXR0b24+ICovfQogICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLmFkZFRlcm19IGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259IHZhcmlhbnQ9J3JhaXNlZCcgY29sb3I9J3ByaW1hcnknPgogICAgICAgICAgICB7aTE4bi50KCdjb21tb246QWRkJyl9CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L0dyaWQ+CiAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IHNtPXs2fSBtZD17NH0+CiAgICAgICAgICA8Rm9ybUNvbnRyb2wgY2xhc3NOYW1lPXtjbGFzc2VzLmZvcm1Db250cm9sfSBzdHlsZT17e21hcmdpbkxlZnQ6IDQwLCBib3R0b206IDEyfX0+CiAgICAgICAgICAgIDxJbnB1dExhYmVsIGh0bWxGb3I9J2Zvcm1hdHRlZC10ZXh0LW1hc2staW5wdXQnPntpMThuLnQoJ2NvbW1vbjpEZWxheScpfTwvSW5wdXRMYWJlbD4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgc3R5bGU9e3twYWRkaW5nVG9wOiA0fX0KICAgICAgICAgICAgICBkaXNhYmxlVW5kZXJsaW5lCiAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuZGVsYXl9CiAgICAgICAgICAgICAgaWQ9J2Zvcm1hdHRlZC10ZXh0LW1hc2staW5wdXQnCiAgICAgICAgICAgICAgaW5wdXRDb21wb25lbnQ9e1RleHRNYXNrQ3VzdG9tfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZSgnZGVsYXknKX0KICAgICAgICAgICAgLz4KICAgICAgICAgICAgPEZvcm1IZWxwZXJUZXh0PntpMThuLnQoJ2NvbW1vbjpDb25kaXRpb24gdmVyaWZpY2F0aW9uIGRlbGF5Jyl9PC9Gb3JtSGVscGVyVGV4dD4KICAgICAgICAgIDwvRm9ybUNvbnRyb2w+CiAgICAgICAgICA8Rm9ybUNvbnRyb2wgY2xhc3NOYW1lPXtjbGFzc2VzLkNvbmRpdGlvbkNvbnRyb2x9PgogICAgICAgICAgICA8SW5wdXRMYWJlbCBodG1sRm9yPSdjb25kaXRpb24tb3AnPntpMThuLnQoJ2NvbW1vbjpSZWxhdGlvbicpfTwvSW5wdXRMYWJlbD4KICAgICAgICAgICAgPFNlbGVjdAogICAgICAgICAgICAgIGF1dG9XaWR0aAogICAgICAgICAgICAgIGRpc2FibGVVbmRlcmxpbmUKICAgICAgICAgICAgICBkaXNwbGF5RW1wdHkKICAgICAgICAgICAgICByZW5kZXJWYWx1ZT17KG9wKSA9PiAoPEF2YXRhciBjbGFzc05hbWU9e2NsYXNzZXMub3B9PntvcC5jb2RlfTwvQXZhdGFyPil9CiAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuY29uZE9wZXJhdGlvbn0KICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDaGFuZ2UoJ2NvbmRPcGVyYXRpb24nKX0KICAgICAgICAgICAgICBpbnB1dD17PElucHV0IGlkPSdjb25kaXRpb24tb3AnIC8+fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPE1lbnVJdGVtIGtleT17JyAnfSB2YWx1ZT17JyAnfT48ZW0+e2kxOG4udCgnY29tbW9uOk5vbmUnKX08L2VtPjwvTWVudUl0ZW0+CiAgICAgICAgICAgICAge2NvbmRpdGlvbnMKICAgICAgICAgICAgICAgIC5maWx0ZXIoY29uZCA9PiBbJ2FuZCcsICdvciddLmluZGV4T2YoY29uZC5pZCkgPiAtMSkKICAgICAgICAgICAgICAgIC5tYXAoKG9wKSA9PiAoCiAgICAgICAgICAgICAgICAgIDxNZW51SXRlbSBrZXk9e29wLmlkfSB2YWx1ZT17b3B9PntgJHtvcC5uYW1lfSAgKCR7b3AuY29kZX0pYH08L01lbnVJdGVtPgogICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgICA8Rm9ybUhlbHBlclRleHQ+e2kxOG4udCgnY29tbW9uOlJlbGF0aW9uIHdpdGggbmV4dCBjb25kaXRpb24nKX08L0Zvcm1IZWxwZXJUZXh0PgogICAgICAgICAgPC9Gb3JtQ29udHJvbD4KICAgICAgICA8L0dyaWQ+CiAgICAgICAgPEdyaWQgaXRlbSB4cz17MTJ9IHNtPXs2fSBtZD17Mn0+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259CiAgICAgICAgICAgIHZhcmlhbnQ9J3JhaXNlZCcKICAgICAgICAgICAgY29sb3I9J3ByaW1hcnknCiAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnN0YXRlLmVycm9yfQogICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnNhdmVDb25kaXRpb259CiAgICAgICAgICA+CiAgICAgICAgICAgIHtpMThuLnQoJ2NvbW1vbjpTYXZlJyl9CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmJ1dHRvbn0KICAgICAgICAgICAgdmFyaWFudD0ncmFpc2VkJwogICAgICAgICAgICBjb2xvcj0ncHJpbWFyeScKICAgICAgICAgICAgc3R5bGVzPXt7fX0KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5jbG9zZUNvbmRpdGlvbigpfQogICAgICAgICAgPgogICAgICAgICAgICB7aTE4bi50KCdjb21tb246Q2xvc2UnKX0KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvR3JpZD4KICAgICAgPC9HcmlkPgoKICAgICkKICB9Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50LmlzRWRpdCA9ICFldmVudC5pc0VkaXQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGkxOG4gZnJvbSAnLi4vbG9jYWxpemF0aW9uL2kxOG4nCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdyZWFjdC1hZGRvbnMtdXBkYXRlJwo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHRGaWVsZCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9UZXh0RmllbGQvVGV4dEZpZWxkJwo=</text>
+      <register name="6" type="4">
+        <text>{
+                            &quot;equipment&quot;: {
+                                &quot;name&quot;: &quot;Sensor 1&quot;,
+                                &quot;sector&quot;: {
+                                    &quot;id&quot;: 19,
+                                    &quot;name&quot;: &quot;Baixo&quot;
+                                },
+                                &quot;equipment_type&quot;: &quot;Watermark&quot;,
+                                &quot;facility&quot;: {
+                                    &quot;id&quot;: 11,
+                                    &quot;name&quot;: &quot;Campo do Francisco&quot;,
+                                    &quot;organization&quot;: &quot;ProKiwi - Fruticultura, Lda.&quot;,
+                                    &quot;coordinates&quot;: &quot;41.5454707, -8.439957&quot;,
+                                    &quot;address&quot;: &quot;Rua da agrela, braga&quot;
+                                }
+                            },
+                            &quot;processed_data&quot;: {
+                                &quot;name&quot;: &quot;Humidade 15cm&quot;,
+                                &quot;unit&quot;: &quot;cbar&quot;,
+                                &quot;timestamp&quot;: &quot;2018-06-15T10:41:09Z&quot;,
+                                &quot;id&quot;: 81,
+                                &quot;type&quot;: &quot;value&quot;
+                            }
+                        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFBpbmVkSGVhZGVyTGlzdE1lbnUgZnJvbSAnLi4vcmV1c2FibGVfY29tcG9uZW50cy9QaW5lZEhlYWRlckxpc3RNZW51Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IExpc3QgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvTGlzdC9MaXN0Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZCBmcm9tICdAbWF0ZXJpYWwtdWkvaWNvbnMvQWRkJwppbXBvcnQgTm90aWZpY2F0aW9ucyBmcm9tICdAbWF0ZXJpYWwtdWkvaWNvbnMvTm90aWZpY2F0aW9ucycKaW1wb3J0IE5vdGlmaWNhdGlvbnNPZmYgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL05vdGlmaWNhdGlvbnNPZmYnCmltcG9ydCBGbGFzaE9uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9GbGFzaE9uJwppbXBvcnQgRmxhc2hPZmYgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0ZsYXNoT2ZmJwppbXBvcnQgSG91cmdsYXNzRW1wdHkgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0hvdXJnbGFzc0VtcHR5JwppbXBvcnQgTGlzdEl0ZW0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvTGlzdEl0ZW0vTGlzdEl0ZW0nCmltcG9ydCBMaXN0SXRlbUljb24gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvTGlzdEl0ZW1JY29uL0xpc3RJdGVtSWNvbicKaW1wb3J0IExpc3RJdGVtVGV4dCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9MaXN0SXRlbVRleHQvTGlzdEl0ZW1UZXh0JwppbXBvcnQgQ29sbGFwc2UgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ29sbGFwc2UvQ29sbGFwc2UnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICB7CiAgICAgICAgImlkIjogMSwKICAgICAgICAiY29uZGl0aW9uX2dyb3VwcyI6IFs=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -2157,40 +2253,38 @@
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>toggleEd</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>toggleEd</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Dialog</entry>
-        <entry encoding="base64">XDxpc0VkaXRCdWlsZGluZ1w+</entry>
-        <entry>Action</entry>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
-        <entry>state</entry>
-        <entry>this</entry>
-        <entry>error</entry>
-        <entry>should</entry>
-        <entry>edit</entry>
-        <entry>eventDic</entry>
-        <entry>event</entry>
-        <entry encoding="base64">XDxzZXRFZGl0XD4=</entry>
-        <entry>'open'</entry>
-        <entry>find</entry>
-        <entry>findEv</entry>
-        <entry>findIn</entry>
-        <entry>addCond</entry>
-        <entry encoding="base64">XDxpMThuXD4=</entry>
-        <entry encoding="base64">XDxhZGRDb25kaXRpb25cPg==</entry>
-        <entry>type</entry>
+        <entry>Edit</entry>
+        <entry encoding="base64">XDxoYW5kbGVDXD4=</entry>
+        <entry>this.hand</entry>
+        <entry>Input</entry>
+        <entry>toggleEdit</entry>
+        <entry encoding="base64">XDxnZXRFcXVpcG1lbnRzQnlGYWNpbGl0eVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</entry>
+        <entry>getData</entry>
+        <entry encoding="base64">XDxnZXREYXRhXD4=</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVGYWNpbGl0eURhdGFcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVTZWxlY3RlZEVxdWlwbWVudFw+</entry>
+        <entry>name</entry>
+        <entry>processe</entry>
+        <entry>processe_</entry>
+        <entry>processed_datas</entry>
+        <entry encoding="base64">XDxmaW5kQ2FjaGVkRXF1aXBtZW50XD4=</entry>
+        <entry>ShortSer</entry>
+        <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50XD4=</entry>
+        <entry>toggleEd</entry>
       </history-search>
       <history-cmd>
-        <entry>registers</entry>
         <entry>tabfirst</entry>
         <entry>tabprev</entry>
-        <entry>NERDTreeTabsToggle</entry>
         <entry>s/UserStory/Epic/g</entry>
         <entry>s/UserStory/Epic/</entry>
         <entry>s/UserStory/Epic/gg</entry>
@@ -2206,6 +2300,8 @@
         <entry>2622</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>NERDTreeTabsToggle</entry>
+        <entry>141</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
