@@ -138,8 +138,6 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1547056889660" />
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" timestamp="1547056748282" />
       <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1536335491458">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -298,6 +296,12 @@
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1547058777838">
+        <mark key="[" line="288" column="85" />
+        <mark key="]" line="289" column="24" />
+        <mark key="." line="289" column="24" />
+        <mark key="^" line="289" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simoc-plus/frontend/appES6/webpack.config.js" timestamp="1539103875549">
         <mark key="[" line="19" column="48" />
@@ -889,10 +893,10 @@
         <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1547056907020">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="4" />
-        <mark key="^" line="285" column="4" />
-        <mark key="." line="285" column="4" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="4" />
+        <mark key="^" line="205" column="4" />
+        <mark key="." line="205" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/regantes/data/importer.py" timestamp="1532536680279">
         <mark key="[" line="54" column="15" />
@@ -2146,7 +2150,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2192,54 +2196,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50LnRhcmdldC52YWx1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmRBbmRVcGRhdGUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGVDbGlja09wZXJhdGlvbi5ldmVudC50YXJnZXQudmFsdWUnLCBldmVudC50YXJnZXQudmFsdWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXdFdmVudCA9IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50LCB7aXNFZGl0OiB7JHNldDogIWV2ZW50LmlzRWRpdH19KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGVDbGlja09wZXJhdGlvbi5ldmVudC50YXJnZXQnLCBldmVudC50YXJnZXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b2dnbGVFZGl0IG9uIGNvbnRleHQgc3RhdGUgZXZuZGZsc2prw6dnJywgdGhpcy5zdGF0ZSkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LmlzRWRpdCA9ICFldmVudC5pc0VkaXQK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZpbmRBbmRVcGRhdGUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCBuZXdFdmVudCA9IHVwZGF0ZSh0aGlzLnN0YXRlLmV2ZW50LCB7aXNFZGl0OiB7JHNldDogIWV2ZW50LmlzRWRpdH19KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                            &quot;equipment&quot;: {
-                                &quot;name&quot;: &quot;Sensor 1&quot;,
-                                &quot;sector&quot;: {
-                                    &quot;id&quot;: 19,
-                                    &quot;name&quot;: &quot;Baixo&quot;
-                                },
-                                &quot;equipment_type&quot;: &quot;Watermark&quot;,
-                                &quot;facility&quot;: {
-                                    &quot;id&quot;: 11,
-                                    &quot;name&quot;: &quot;Campo do Francisco&quot;,
-                                    &quot;organization&quot;: &quot;ProKiwi - Fruticultura, Lda.&quot;,
-                                    &quot;coordinates&quot;: &quot;41.5454707, -8.439957&quot;,
-                                    &quot;address&quot;: &quot;Rua da agrela, braga&quot;
-                                }
-                            },
-                            &quot;processed_data&quot;: {
-                                &quot;name&quot;: &quot;Humidade 15cm&quot;,
-                                &quot;unit&quot;: &quot;cbar&quot;,
-                                &quot;timestamp&quot;: &quot;2018-06-15T10:41:09Z&quot;,
-                                &quot;id&quot;: 81,
-                                &quot;type&quot;: &quot;value&quot;
-                            }
-                        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b2dnbGVFZGl0IG9uIGNvbnRleHQgc3RhdGUgZXZuZGZsc2prw6dnJywgdGhpcy5zdGF0ZSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
