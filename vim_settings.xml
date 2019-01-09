@@ -798,11 +798,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547051223184">
+      <file name="/Dummy.txt" timestamp="1547053027256">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/docker-compose.yml" timestamp="1536149984583">
         <mark key="[" line="36" column="56" />
@@ -2119,7 +2119,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>splits ConditionList into 2 classes, adds new empty operatio</text>
       </register>
       <register name="m" type="4">
         <keys>
