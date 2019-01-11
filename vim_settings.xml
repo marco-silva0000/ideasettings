@@ -31,12 +31,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1547211733680">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1547211983062">
         <mark key="'" line="100" column="2" />
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="77" column="45" />
-        <mark key="^" line="77" column="45" />
-        <mark key="." line="77" column="45" />
+        <mark key="[" line="130" column="8" />
+        <mark key="]" line="130" column="13" />
+        <mark key="^" line="130" column="13" />
+        <mark key="." line="130" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542733318047">
         <mark key="'" line="68" column="70" />
@@ -340,11 +340,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1547105645759">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1547211859386">
         <mark key="'" line="493" column="0" />
-        <mark key="[" line="507" column="0" />
+        <mark key="[" line="482" column="0" />
         <mark key="m" line="393" column="25" />
-        <mark key="]" line="507" column="0" />
+        <mark key="]" line="501" column="3" />
         <mark key="^" line="346" column="59" />
         <mark key="." line="507" column="0" />
       </file>
@@ -1559,7 +1559,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>conditions</text>
+        <text>Condition</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1577,8 +1577,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>triggered_events</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhZGRDb25kaXRpb24gPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjb25kaXRpb25zOiB1cGRhdGUodGhpcy5zdGF0ZS5jb25kaXRpb25zLCB7JHB1c2g6IFt7Y29uZGl0aW9uX2VsZW1lbnRzOiBbe2RhdGE6IHt9LCBvcGVyYXRpb246ICdub25lJ31dLCBvcGVyYXRpb246ICdub25lJ31dfSl9KQogIH0KCiAgZGVsZXRlQ29uZGl0aW9uID0gKGNvbmRpdGlvbkluZGV4KSA9PiB7CiAgICBsZXQgY29uZGl0aW9ucyA9IHVwZGF0ZSh0aGlzLnN0YXRlLmNvbmRpdGlvbnMsIHskc3BsaWNlOiBbW2NvbmRpdGlvbkluZGV4LCAxXV19KQogICAgdGhpcy5zZXRTdGF0ZSh7Y29uZGl0aW9uc30pCiAgfQoKICBjaGFuZ2VDb25kaXRpb24gPSAoY29uZGl0aW9uSW5kZXgsIGNvbmRpdGlvbikgPT4gewogICAgbGV0IGFkZENvbmRpdGlvbgogICAgaWYgKGNvbmRpdGlvbkluZGV4ID09PSB0aGlzLnN0YXRlLmNvbmRpdGlvbnMubGVuZ3RoIC0gMSAmJiBjb25kaXRpb24ub3BlcmF0aW9uICE9PSAnbm9uZScpIHsKICAgICAgYWRkQ29uZGl0aW9uID0gdHJ1ZQogICAgfQogICAgbGV0IGNvbmRpdGlvbnMgPSB1cGRhdGUodGhpcy5zdGF0ZS5jb25kaXRpb25zLCB7W2NvbmRpdGlvbkluZGV4XTogeyRzZXQ6IGNvbmRpdGlvbn19KQogICAgaWYgKGFkZENvbmRpdGlvbikgewogICAgICBjb25kaXRpb25zID0gdXBkYXRlKGNvbmRpdGlvbnMsIHskcHVzaDogW3tvcGVyYXRpb246ICdub25lJywgY29uZGl0aW9uX2VsZW1lbnRzOiBbe2RhdGE6IHt9LCBvcGVyYXRpb246ICdub25lJ31dfV19KQogICAgfQogICAgdGhpcy5zZXRTdGF0ZSh7Y29uZGl0aW9uc30pCiAgfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
