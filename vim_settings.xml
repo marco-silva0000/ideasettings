@@ -17,11 +17,11 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1547035227041">
-        <mark key="'" line="305" column="32" />
-        <mark key="[" line="483" column="33" />
-        <mark key="]" line="483" column="32" />
-        <mark key="." line="483" column="32" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1547492143487">
+        <mark key="'" line="336" column="57" />
+        <mark key="[" line="1030" column="0" />
+        <mark key="]" line="1030" column="0" />
+        <mark key="." line="1030" column="0" />
         <mark key="^" line="483" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/hydrants/LandingPage/LandingPage.jsx" timestamp="1542101165337">
@@ -31,12 +31,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1547486343321">
-        <mark key="'" line="101" column="2" />
-        <mark key="[" line="146" column="34" />
-        <mark key="]" line="146" column="34" />
-        <mark key="^" line="147" column="51" />
-        <mark key="." line="146" column="34" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1547492901867">
+        <mark key="'" line="124" column="105" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="124" column="105" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
@@ -73,6 +73,11 @@
         <mark key="^" line="143" column="140" />
         <mark key="." line="143" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmailAction.jsx" timestamp="1547492551512">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+      </file>
       <file name="/manage.py@core" timestamp="1547211086618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,12 +94,12 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1547107812559">
-        <mark key="'" line="158" column="6" />
-        <mark key="[" line="154" column="36" />
-        <mark key="]" line="154" column="36" />
-        <mark key="." line="154" column="36" />
-        <mark key="^" line="154" column="42" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1547492863437">
+        <mark key="'" line="19" column="48" />
+        <mark key="[" line="138" column="5" />
+        <mark key="]" line="139" column="2" />
+        <mark key="^" line="139" column="2" />
+        <mark key="." line="139" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/data/facilities.json" timestamp="1545930182286">
         <mark key="'" line="0" column="0" />
@@ -119,6 +124,13 @@
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1547201962634">
         <mark key="'" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/SmsAction.jsx" timestamp="1547492785543">
+        <mark key="'" line="57" column="49" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="38" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionEdit.jsx" timestamp="1545826616348">
         <mark key="'" line="232" column="50" />
@@ -179,6 +191,7 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="48" column="40" />
       </file>
+      <file name="/ActionOnOff.jsx" timestamp="1547492365381" />
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/trendsUtils.js" timestamp="1544469747614">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="47" column="0" />
@@ -241,6 +254,10 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
+      <file name="/SmsAction.jsx" timestamp="1547492259393">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="38" />
@@ -296,7 +313,7 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547203189498">
+      <file name="/Dummy.txt" timestamp="1547492866419">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -375,26 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="317" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="703" column="60" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="706" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="18" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" />
-      <jump line="646" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="647" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="481" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="499" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="513" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="66" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="81" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="198" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="199" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="202" column="56" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="206" column="52" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="207" column="18" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="210" column="64" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="315" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="318" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="87" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="291" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="154" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -405,7 +402,6 @@
       <jump line="389" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="332" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="333" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="336" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="340" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="343" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="305" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -461,7 +457,6 @@
       <jump line="19" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmployeeListHOC.js" />
       <jump line="15" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmployeeListHOC.js" />
       <jump line="239" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="158" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
       <jump line="237" column="2" filename="/ActionComponentAdding.jsx" />
       <jump line="192" column="33" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
       <jump line="14" column="25" filename="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" />
@@ -475,6 +470,28 @@
       <jump line="181" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="171" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="100" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="127" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="159" column="88" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="177" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="88" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="149" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="275" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="148" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="136" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="137" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="138" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="162" column="105" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
+      <jump line="158" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="243" column="78" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="230" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="122" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="281" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="336" column="57" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="227" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="284" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="84" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="19" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
+      <jump line="57" column="49" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/SmsAction.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1556,7 +1573,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1565,7 +1582,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5jZWxBY3Rpb25cPg==</text>
+        <text encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1575,13 +1592,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdBY3Rpb25MaXN0LnRoaXMucHJvcHMnLCB0aGlzLnByb3BzKQo=</text>
+        <text encoding="base64">ICAgIGxldCBtZXNzYWdlID0gdGhpcy5wcm9wcy5kYXRhLnRleHQK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGRqYW5nby4K</text>
+        <text encoding="base64">ICAvLyBhZGRBY3Rpb24gPSAoY29udGV4dCkgPT4gewogIC8vICAgY29uc29sZS5sb2coJ0FjdGlvbkxpc3QuYWRkQWN0aW9uX0NvbnRleHRfQkVGT1JFJywgY29udGV4dCkKICAvLyBsZXQgZXZlbnQgPSB1cGRhdGUodGhpcy5wcm9wcy5ldmVudCwgewogIC8vICAgYWN0aW9uczogeyRwdXNoOiBbdW5kZWZpbmVkXX0sCiAgLy8gICBpc0FkZGluZ0FjdGlvbjogeyRzZXQ6IHRydWV9LAogIC8vICAgaXNBZGRpbmc6IHskc2V0OiB0cnVlfQogIC8vIH0pCiAgLy8gY29udGV4dC5maW5kQW5kVXBkYXRlRXZlbnQoZXZlbnQsIHt9LCAhIXRoaXMucHJvcHMuaXNBZGQpCiAgLy8gY29uc29sZS5sb2coJ0FjdGlvbkxpc3QuYWRkQWN0aW9uX0NvbnRleHRfQUZURVInLCBjb250ZXh0KQogIC8vIGxldCBhY3Rpb25zID0gdXBkYXRlKHRoaXMuc3RhdGUuYWN0aW9ucywgeyRwdXNoOiBbdW5kZWZpbmVkXX0pCiAgLy8gdGhpcy5zZXRTdGF0ZSh7YWN0aW9uc30pCiAgLy8gfQoKICAvLyBjYW5jZWxBY3Rpb24gPSAoY29udGV4dCkgPT4gewogIC8vICAgbGV0IG5ld0FjdGlvbiA9IHVwZGF0ZSh0aGlzLnByb3BzLmV2ZW50LCB7CiAgLy8gICAgIGFjdGlvbnM6IHskc3BsaWNlOiBbW3RoaXMucHJvcHMuZXZlbnQuYWN0aW9ucy5sZW5ndGggLSAxLCAxXV19LAogIC8vICAgICBpc0FkZGluZ0FjdGlvbjogeyRzZXQ6IGZhbHNlfSwKICAvLyAgICAgaXNBZGRpbmc6IHskc2V0OiBmYWxzZX0KICAvLyAgIH0pCiAgLy8gICBjb250ZXh0LmZpbmRBbmRVcGRhdGVFdmVudChuZXdBY3Rpb24sIHt9LCAhIXRoaXMucHJvcHMuaXNBZGQpCiAgLy8gfQogIC8vCiAgLy8gc2F2ZUFjdGlvbnMgPSAoY29udGV4dCwgbmV3QWN0aW9ucykgPT4gewogIC8vICAgdGhpcy5zZXRTdGF0ZSh7YWN0aW9uczogbmV3QWN0aW9uc30pCiAgLy8gbGV0IG5ld0V2ZW50QWN0aW9uID0gdXBkYXRlKHRoaXMucHJvcHMuZXZlbnQsIHthY3Rpb25zOiB7JHNldDogbmV3QWN0aW9uc319KQogIC8vIGNvbnRleHQuZmluZEFuZFVwZGF0ZUV2ZW50KG5ld0V2ZW50QWN0aW9uLCB7fSwgISF0aGlzLnByb3BzLmlzQWRkKQogIC8vIH0KCiAgLy8gc2F2ZU5ld0FjdGlvblR3byA9IChjb250ZXh0KSA9PiB7CiAgLy8gbGV0IG5ld0V2ZW50ID0gdXBkYXRlKHRoaXMucHJvcHMuZXZlbnQsIHthY3Rpb25zOiB7JHB1c2g6IFt1bmRlZmluZWRdfX0pCiAgLy8gdGhpcy5zYXZlQWN0aW9ucyhjb250ZXh0LCB0aGlzLnByb3BzLmFjdGlvbnMpCiAgLy8gY29udGV4dC5maW5kQW5kVXBkYXRlRXZlbnQobmV3RXZlbnQsIHt9LCAhIXRoaXMucHJvcHMuaXNBZGQpCiAgLy8gfQoKICAvLyBkZWxldGVBY3Rpb24gPSAoYWN0aW9uSW5kZXgpID0+IHsKICAvLyAgIGxldCBhY3Rpb25zID0gdXBkYXRlKHRoaXMuc3RhdGUuYWN0aW9ucywgeyRzcGxpY2U6IFtbYWN0aW9uSW5kZXgsIDFdXX0pCiAgLy8gICB0aGlzLnNldFN0YXRlKHthY3Rpb25zfSkKICAvLyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1613,31 +1630,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyID0gc2VyaWFsaXplcl9jbGFzcyhxdWVyeXNldCwgbWFueT1UcnVlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2NsYXNzID0gRXZlbnRTZXJpYWxpemVyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZ2V0X3BhZ2luYXRlZF9yZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgfSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplciA9IHNlcmlhbGl6ZXJfY2xhc3MocGFnZSwgbWFueT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBlbXBsb3llZXM6IHJlc3BvbnNlIH0pKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYWdlIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICByZXR1cm4gZW1wbG95ZWVGZXRjaChmYWMuaWQpLnRoZW4oKHJlc3BvbnNlKT0+KAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlID0gc2VsZi5wYWdpbmF0ZV9xdWVyeXNldChxdWVyeXNldCkK</text>
+        <text encoding="base64">ICAgIC8vICAgICAgKHByb3BzLmZhY2lsaXRpZXMubWFwKChmYWMpID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInZXZlbnQnLCBhcGkuRXZlbnRWaWV3U2V0KQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGlmICghcHJvcHMuZW1wbG95ZWVzKSB7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1647,24 +1664,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5jZWxBY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5jZWxBY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VDb25kaXRpb25cPg==</entry>
-        <entry encoding="base64">XDxFdmVudHNDb25kaXRpb25cPg==</entry>
-        <entry encoding="base64">XDxjb25kaXRpb25JbmRleFw+</entry>
-        <entry>this.props.oper</entry>
-        <entry encoding="base64">XDxoYW5kbGVDbGlja09wZXJhdGlvblw+</entry>
-        <entry encoding="base64">XDxhZGRDb25kaXRpb25cPg==</entry>
-        <entry encoding="base64">XDxGb3JtQ29udHJvbFw+</entry>
-        <entry encoding="base64">XDxJbnB1dExhYmVsXD4=</entry>
-        <entry encoding="base64">XDxJbnB1dFw+</entry>
-        <entry>Mask</entry>
         <entry encoding="base64">XDxOdW1iZXJGb3JtYXRDdXN0b21cPg==</entry>
         <entry encoding="base64">XDxUZXh0TWFza0N1c3RvbVw+</entry>
         <entry>console.log</entry>
@@ -1675,6 +1682,16 @@
         <entry encoding="base64">XDxtYW5hZ2VfZXZlbnRfdGFza1w+</entry>
         <entry encoding="base64">XDxzYXZlTmV3QWN0aW9uVHdvXD4=</entry>
         <entry encoding="base64">XDxjYW5jZWxBY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxhZGRBY3Rpb25cPg==</entry>
+        <entry>onChange</entry>
+        <entry encoding="base64">XDx1cGRhdGVBY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VBY3Rpb25cPg==</entry>
+        <entry>delete</entry>
+        <entry encoding="base64">XDxvbkRlbGV0ZUFjdGlvblw+</entry>
+        <entry encoding="base64">XDxmaW5kVHlwZVw+</entry>
+        <entry encoding="base64">XDxzbXNJdGVtXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VPbk9mZlRyaWdnZXJcPg==</entry>
+        <entry encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
@@ -1693,10 +1710,10 @@
         <entry>q</entry>
         <entry>2622</entry>
         <entry>e</entry>
-        <entry>NERDTreeTabsToggle</entry>
         <entry>141</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>NERDTreeTabsToggle</entry>
       </history-cmd>
       <history-expr />
       <history-input />
