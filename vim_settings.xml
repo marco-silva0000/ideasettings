@@ -31,12 +31,12 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1547221519384">
-        <mark key="'" line="100" column="2" />
-        <mark key="[" line="132" column="19" />
-        <mark key="]" line="132" column="25" />
-        <mark key="^" line="132" column="25" />
-        <mark key="." line="132" column="25" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1547486343321">
+        <mark key="'" line="101" column="2" />
+        <mark key="[" line="146" column="34" />
+        <mark key="]" line="146" column="34" />
+        <mark key="^" line="147" column="51" />
+        <mark key="." line="146" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/trends/TemplateSelector.jsx" timestamp="1538987334729">
         <mark key="'" line="65" column="44" />
@@ -1556,7 +1556,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>conditions</text>
+        <text>this.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1575,7 +1575,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhZGRDb25kaXRpb24gPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjb25kaXRpb25zOiB1cGRhdGUodGhpcy5zdGF0ZS5jb25kaXRpb25zLCB7JHB1c2g6IFt7Y29uZGl0aW9uX2VsZW1lbnRzOiBbe2RhdGE6IHt9LCBvcGVyYXRpb246ICdub25lJ31dLCBvcGVyYXRpb246ICdub25lJ31dfSl9KQogIH0KCiAgZGVsZXRlQ29uZGl0aW9uID0gKGNvbmRpdGlvbkluZGV4KSA9PiB7CiAgICBsZXQgY29uZGl0aW9ucyA9IHVwZGF0ZSh0aGlzLnN0YXRlLmNvbmRpdGlvbnMsIHskc3BsaWNlOiBbW2NvbmRpdGlvbkluZGV4LCAxXV19KQogICAgdGhpcy5zZXRTdGF0ZSh7Y29uZGl0aW9uc30pCiAgfQoKICBjaGFuZ2VDb25kaXRpb24gPSAoY29uZGl0aW9uSW5kZXgsIGNvbmRpdGlvbikgPT4gewogICAgbGV0IGFkZENvbmRpdGlvbgogICAgaWYgKGNvbmRpdGlvbkluZGV4ID09PSB0aGlzLnN0YXRlLmNvbmRpdGlvbnMubGVuZ3RoIC0gMSAmJiBjb25kaXRpb24ub3BlcmF0aW9uICE9PSAnbm9uZScpIHsKICAgICAgYWRkQ29uZGl0aW9uID0gdHJ1ZQogICAgfQogICAgbGV0IGNvbmRpdGlvbnMgPSB1cGRhdGUodGhpcy5zdGF0ZS5jb25kaXRpb25zLCB7W2NvbmRpdGlvbkluZGV4XTogeyRzZXQ6IGNvbmRpdGlvbn19KQogICAgaWYgKGFkZENvbmRpdGlvbikgewogICAgICBjb25kaXRpb25zID0gdXBkYXRlKGNvbmRpdGlvbnMsIHskcHVzaDogW3tvcGVyYXRpb246ICdub25lJywgY29uZGl0aW9uX2VsZW1lbnRzOiBbe2RhdGE6IHt9LCBvcGVyYXRpb246ICdub25lJ31dfV19KQogICAgfQogICAgdGhpcy5zZXRTdGF0ZSh7Y29uZGl0aW9uc30pCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdBY3Rpb25MaXN0LnRoaXMucHJvcHMnLCB0aGlzLnByb3BzKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
