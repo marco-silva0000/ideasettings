@@ -153,8 +153,12 @@
         <mark key="^" line="625" column="55" />
         <mark key="." line="625" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" timestamp="1547106159808">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" timestamp="1547575877797">
         <mark key="'" line="41" column="4" />
+        <mark key="[" line="66" column="64" />
+        <mark key="]" line="66" column="84" />
+        <mark key="^" line="66" column="84" />
+        <mark key="." line="66" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrasructure/admin.py" timestamp="1542217145919">
         <mark key="'" line="30" column="27" />
@@ -175,6 +179,9 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
+        <mark key="'" line="98" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/gtc/water_management/WaterManagementLanding.jsx" timestamp="1540917589517">
         <mark key="'" line="50" column="9" />
@@ -393,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="291" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="154" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="323" column="100" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -493,6 +499,7 @@
       <jump line="84" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
       <jump line="19" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
       <jump line="57" column="49" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/SmsAction.jsx" />
+      <jump line="98" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
