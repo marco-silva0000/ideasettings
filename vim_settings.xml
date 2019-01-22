@@ -52,6 +52,12 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548179823605">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="263" column="0" />
+        <mark key="^" line="263" column="0" />
+        <mark key="." line="263" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542733318047">
         <mark key="'" line="68" column="70" />
         <mark key="[" line="133" column="8" />
@@ -73,9 +79,10 @@
         <mark key="^" line="143" column="140" />
         <mark key="." line="143" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1548177330332">
-        <mark key="[" line="111" column="6" />
-        <mark key="]" line="111" column="23" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1548179784458">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1547655133410">
         <mark key="'" line="267" column="42" />
@@ -114,12 +121,12 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="69" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1542293936705">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548179761736">
         <mark key="'" line="12" column="36" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="160" column="36" />
-        <mark key="^" line="160" column="36" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1547202660138">
         <mark key="'" line="202" column="33" />
@@ -172,6 +179,9 @@
         <mark key="]" line="30" column="36" />
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
+      </file>
+      <file name="/projects/core/fulgurit/organizations/serializers.py" timestamp="1548179732300">
+        <mark key="[" line="366" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/hydrants/src/localization/locales/pt-pt/hydrants.json" timestamp="1542100007936">
         <mark key="'" line="1" column="24" />
@@ -341,12 +351,12 @@
         <mark key="^" line="88" column="33" />
         <mark key="." line="88" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548177230763">
-        <mark key="'" line="33" column="55" />
-        <mark key="[" line="35" column="75" />
-        <mark key="]" line="35" column="55" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="42" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548181345604">
+        <mark key="'" line="18" column="208" />
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" timestamp="1542364625642">
         <mark key="'" line="3" column="32" />
@@ -355,12 +365,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/projects/core/fulgurit/organizations/models.py" timestamp="1548177502277">
-        <mark key="'" line="62" column="34" />
-        <mark key="[" line="368" column="12" />
-        <mark key="]" line="368" column="16" />
-        <mark key="." line="368" column="16" />
-        <mark key="^" line="368" column="16" />
+      <file name="/projects/core/fulgurit/organizations/models.py" timestamp="1548180156792">
+        <mark key="'" line="369" column="19" />
+        <mark key="[" line="373" column="31" />
+        <mark key="]" line="373" column="37" />
+        <mark key="^" line="373" column="37" />
+        <mark key="." line="373" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/urls.py" timestamp="1547202176828">
         <mark key="'" line="6" column="38" />
@@ -391,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="159" column="88" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="177" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="88" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="149" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
@@ -491,6 +499,8 @@
       <jump line="13" column="119" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="29" column="55" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="62" column="34" filename="/projects/core/fulgurit/organizations/models.py" />
+      <jump line="18" column="208" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
+      <jump line="367" column="19" filename="/projects/core/fulgurit/organizations/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1572,7 +1582,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>Client</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1581,7 +1591,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Contact</text>
+        <text>email</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1591,69 +1601,67 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR5cGVfY3VzdG9tID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBudWxsPVRydWUsIGJsYW5rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IG1vZGVscy5Gb3JlaWduS2V5KENsaWVudCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3Rfb2JzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBudWxsPVRydWUsIGJsYW5rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="48" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
           <key char="121" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="112" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="98" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGVfY3VzdG9tID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBudWxsPVRydWUsIGJsYW5rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSwgbWF4X2xlbmd0aD0xMCkKICAgIGNhdGVnb3J5ID0gbW9kZWxzLkNoYXJGaWVsZChudWxsPVRydWUsIGJsYW5rPVRydWUsIG1heF9sZW5ndGg9MTApCiAgICBvYnNlcnZhdGlvbnMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29udGFjdCBpbiBjbGllbnQuY29udGFjdHM6Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IG1vZGVscy5Gb3JlaWduS2V5KENsaWVudCkK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFJlZ2lzdHJhdGlvblN0YXRlLCBQYXJpc2gsIENvdW50eSwgQXNzb2NpYXRpb24sIENvbnRhY3QK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBpZiAnbmFtZScgaW4ga2V5OgogICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGUgPSAgJ2NvbnRhY3QnCiAgICAgICAgICAgICAgICAgZWxpZiAndHlwZScgaW4ga2V5OgogICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGUgPSAgJ3R5cGUnCiAgICAgICAgICAgICAgICAgZWxpZiAncGhvbmVudW1iZXJzJyBpbiBrZXk6CiAgICAgICAgICAgICAgICAgICAgIGF0dHJpYnV0ZSA9ICAncGhvbmVudW1iZXJzJwoKICAgICAgICAgICAgICAgICBxc2V0ID0gY2xpZW50LmNvbnRhY3Rfc2V0Lm9yZGVyX2J5KCdpZCcpLmRpc3RpbmN0KCd0eXBlX2N1c3RvbScpCiAgICAgICAgICAgICAgICAgaWYgJzEnIGluIGtleToKICAgICAgICAgICAgICAgICAgICAgcXNldCA9IHFzZXRbMV0KCiAgICAgICAgICAgICAgICAgdmFsdWUgPSBOb25lCiAgICAgICAgICAgICAjIHNoZWV0LndyaXRlKHJvd19udW0sIGNvbF9udW0sIHZhbHVlKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgQ29udGFjdChtb2RlbHMuTW9kZWwpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY2xpZW50LmNvbnRhY3Rfc2V0Lm9yZGVyX2J5KCdpZCcpLmRpc3RpbmN0KCd0eXBlX2N1c3RvbScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2NsaWVudCA9IEFCQ2xpZW50U2VyaWFsaXplcihjbGllbnQpLmRhdGEK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBwcmludChlLl9fZGljdF9fKQo=</text>
+        <text encoding="base64">ICAgIGNvbnRhY3Rfb2JzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyLCBudWxsPVRydWUsIGJsYW5rPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBtaXNzaW5nX2tleV9saXN0LmFwcGVuZChrZXkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3Rfb2JzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBudWxsPVRydWUsIGJsYW5rPVRydWUpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1663,9 +1671,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Contact</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>Contact</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1673,7 +1681,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</entry>
         <entry>Employ</entry>
         <entry>empl</entry>
         <entry>Promi</entry>
@@ -1693,6 +1700,7 @@
         <entry encoding="base64">XDxfc2tpcF9iZWF0XD4=</entry>
         <entry encoding="base64">XDxjZWxlcnlfZGlzcGF0Y2hfaXJyaWdhdGlvbnNcPg==</entry>
         <entry>Contact</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
@@ -1708,12 +1716,12 @@
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>q</entry>
         <entry>2622</entry>
         <entry>e</entry>
         <entry>141</entry>
         <entry>W</entry>
         <entry>NERDTreeTabsToggle</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
