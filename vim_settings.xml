@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" timestamp="1548072913085" />
       <file name="$USER_HOME$/Projects/core/frontend/appES6/stories/index.stories.js" timestamp="1545930822665">
         <mark key="'" line="60" column="36" />
         <mark key="[" line="57" column="50" />
@@ -53,9 +52,6 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1547727815450">
-        <mark key="'" line="8" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1542733318047">
         <mark key="'" line="68" column="70" />
         <mark key="[" line="133" column="8" />
@@ -76,14 +72,6 @@
         <mark key="]" line="143" column="51" />
         <mark key="^" line="143" column="140" />
         <mark key="." line="143" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmailAction.jsx" timestamp="1547492551512">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="32" column="35" />
-      </file>
-      <file name="/manage.py@core" timestamp="1547211086618">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1547655133410">
         <mark key="'" line="267" column="42" />
@@ -136,6 +124,7 @@
         <mark key="." line="39" column="203" />
         <mark key="^" line="38" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/manage.py" timestamp="1548159047851" />
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1547201962634">
         <mark key="'" line="14" column="25" />
       </file>
@@ -246,7 +235,6 @@
         <mark key="." line="159" column="63" />
         <mark key="^" line="159" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/timers/tasks.py" timestamp="1548072880570" />
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/registries/registrationSteps/registrationBuilding.jsx" timestamp="1541783805166">
         <mark key="'" line="129" column="41" />
         <mark key="[" line="72" column="0" />
@@ -261,12 +249,13 @@
         <mark key="." line="22" column="63" />
         <mark key="^" line="22" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548157810890">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="42" />
+      </file>
       <file name="/SmsAction.jsx" timestamp="1547492259393">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="47" />
-      </file>
-      <file name="/Django Console" timestamp="1547548164080">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
@@ -316,7 +305,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547815465076">
+      <file name="/Dummy.txt" timestamp="1548159035107">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -348,6 +337,13 @@
         <mark key="]" line="88" column="33" />
         <mark key="^" line="88" column="33" />
         <mark key="." line="88" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548160067490">
+        <mark key="'" line="13" column="119" />
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" timestamp="1542364625642">
         <mark key="'" line="3" column="32" />
@@ -385,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="181" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="171" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="100" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="127" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
@@ -467,7 +461,6 @@
       <jump line="135" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="142" column="30" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="10" column="42" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="15" column="15" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="67" column="31" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="117" column="31" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="8" column="34" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
@@ -485,6 +478,9 @@
       <jump line="141" column="27" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
       <jump line="321" column="46" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
       <jump line="131" column="27" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
+      <jump line="5" column="32" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
+      <jump line="15" column="19" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="13" column="119" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1566,7 +1562,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>ll</text>
+        <text>, font_style</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1585,13 +1581,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>availableEmployees</text>
+        <text>columns</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyBCdW5kbGVBbmFseXplclBsdWdpbigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1623,31 +1619,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBCdW5kbGVBbmFseXplclBsdWdpbigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgZW1wbG95ZWVzOiByZXNwb25zZSB9KSkpCg==</text>
+        <text encoding="base64">ZGVmIHNldHVwKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXJyaWdhdG9ycy5tb2RlbHMgaW1wb3J0ICoKICAgIGZyb20gZnVsZ3VyaXQub3JnYW5pemF0aW9ucy5tb2RlbHMgaW1wb3J0ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ZGVmIF9pbXBvcnQoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICAgICBwcmludCgnd2lsbCBleHBvcnQgY2xpZW50cycpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBlbXBsb3llZXM6IHJlc3BvbnNlIH0pKSkK</text>
+        <text encoding="base64">ICAgIG5ldyBCdW5kbGVBbmFseXplclBsdWdpbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1wbG95ZWVGZXRjaChmYWMuaWQpLnRoZW4oKHJlc3BvbnNlKT0+KAo=</text>
+        <text encoding="base64">ICAgIG5ldyBCdW5kbGVBbmFseXplclBsdWdpbigpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
