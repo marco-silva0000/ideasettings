@@ -52,7 +52,7 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548246326129">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548256830655">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="263" column="0" />
@@ -121,7 +121,7 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="69" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548179761736">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548256807132">
         <mark key="'" line="12" column="36" />
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -270,6 +270,9 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="47" />
       </file>
+      <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548256641816">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-frontend/src/irrigators/LandingPage/index.jsx" timestamp="1539100455445">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="38" />
@@ -298,6 +301,9 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="10" column="6" />
       </file>
+      <file name="/dummy.sql" timestamp="1548256644547">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/views.py" timestamp="1538993899192">
         <mark key="'" line="191" column="39" />
         <mark key="[" line="203" column="12" />
@@ -318,7 +324,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548159035107">
+      <file name="/Dummy.txt" timestamp="1548256591516">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -351,12 +357,12 @@
         <mark key="^" line="88" column="33" />
         <mark key="." line="88" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548234292067">
+      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548256400779">
         <mark key="'" line="18" column="208" />
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="31" />
-        <mark key="." line="40" column="31" />
-        <mark key="^" line="40" column="31" />
+        <mark key="[" line="19" column="167" />
+        <mark key="]" line="19" column="167" />
+        <mark key="." line="19" column="167" />
+        <mark key="^" line="19" column="166" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/settings.py" timestamp="1542364625642">
         <mark key="'" line="3" column="32" />
@@ -1582,7 +1588,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1607,7 +1613,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdheV9mb3JjZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnY2VydGlmaWNhdGVfcGVybWFuZW5jZScsICdiaXJ0aF9kYXRlJywgJ2FkbWl0aW9uX2RhdGUnLCAnb2JsaWdlZF9mb3JtJywgJ2lzX3NvY2lldHknLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1637,31 +1643,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzX3NvY2lldHkgPSBtb2RlbHMuQm9vbGVhbkZpZWxkKGRlZmF1bHQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHdheV9mb3JjZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGlzX3NvY2lldHkgPSBtb2RlbHMuQm9vbGVhbkZpZWxkKGRlZmF1bHQ9RmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbGlkaXR5ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGlzX3NvY2lldHkgPSBtb2RlbHMuQm9vbGVhbkZpZWxkKGRlZmF1bHQ9RmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNlcnRpZmljYXRlX3Blcm1hbmVuY2UgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjUsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHZhbGlkaXR5ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNlcnRpZmljYXRlX3Blcm1hbmVuY2UgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjUsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNlcnRpZmljYXRlX3Blcm1hbmVuY2UgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjUsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSwgbWF4X2xlbmd0aD0xMCkKICAgIGNhdGVnb3J5ID0gbW9kZWxzLkNoYXJGaWVsZChudWxsPVRydWUsIGJsYW5rPVRydWUsIG1heF9sZW5ndGg9MTApCiAgICBvYnNlcnZhdGlvbnMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IG1vZGVscy5Gb3JlaWduS2V5KENsaWVudCkK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSwgbWF4X2xlbmd0aD0xMCkKICAgIGNhdGVnb3J5ID0gbW9kZWxzLkNoYXJGaWVsZChudWxsPVRydWUsIGJsYW5rPVRydWUsIG1heF9sZW5ndGg9MTApCiAgICBvYnNlcnZhdGlvbnMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIsIG51bGw9VHJ1ZSwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
