@@ -365,12 +365,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/projects/core/fulgurit/organizations/models.py" timestamp="1548180156792">
+      <file name="/projects/core/fulgurit/organizations/models.py" timestamp="1548247128493">
         <mark key="'" line="369" column="19" />
-        <mark key="[" line="373" column="31" />
-        <mark key="]" line="373" column="37" />
-        <mark key="^" line="373" column="37" />
-        <mark key="." line="373" column="37" />
+        <mark key="[" line="373" column="4" />
+        <mark key="]" line="373" column="10" />
+        <mark key="^" line="373" column="10" />
+        <mark key="." line="373" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/urls.py" timestamp="1547202176828">
         <mark key="'" line="6" column="38" />
@@ -1582,7 +1582,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text>client</text>
       </register>
       <register name="m" type="4">
         <keys>
