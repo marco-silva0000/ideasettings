@@ -26,12 +26,12 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548334905814">
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548346248908">
         <mark key="'" line="54" column="44" />
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="17" />
-        <mark key="^" line="55" column="17" />
-        <mark key="." line="55" column="17" />
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="62" column="92" />
+        <mark key="^" line="62" column="78" />
+        <mark key="." line="62" column="92" />
       </file>
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
@@ -1304,7 +1304,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="m" type="4">
         <keys>
