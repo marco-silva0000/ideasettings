@@ -3,50 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548261052733">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="263" column="0" />
-        <mark key="." line="13" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1548179784458">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1548072458964">
-        <mark key="'" line="723" column="59" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1546434142060">
-        <mark key="'" line="67" column="26" />
-      </file>
-      <file name="/ActionComponentAdding.jsx" timestamp="1547578328989">
-        <mark key="'" line="237" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548256807132">
-        <mark key="'" line="12" column="36" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1547201962634">
-        <mark key="'" line="14" column="25" />
-      </file>
-      <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
+      <file name="/irrigators_contract [abmira@192.168.60.10]" timestamp="1548258083350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/projects/core/fulgurit/organizations/serializers.py" timestamp="1548261081790">
-        <mark key="'" line="372" column="16" />
-        <mark key="[" line="372" column="23" />
-        <mark key="]" line="372" column="23" />
-        <mark key="." line="372" column="23" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1548327693204">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
-      <file name="/projects/core/fulgurit/organizations/migrations/0010_auto_20190122_1756.py" timestamp="1548260844575" />
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
-        <mark key="'" line="98" column="34" />
-      </file>
-      <file name="/irrigators_contract [abmira@192.168.60.10]" timestamp="1548258083350">
+      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548327777692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1545991293376">
@@ -54,6 +19,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548261052733">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="263" column="0" />
+        <mark key="." line="13" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548157810890">
         <mark key="[" line="51" column="0" />
@@ -63,17 +34,30 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="47" />
       </file>
-      <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548256641816">
+      <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1548179784458">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/django_migrations [abmira@192.168.60.10]" timestamp="1548260961059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/projects/core/fulgurit/organizations/migrations/0005_auto_20180622_1634.py" timestamp="1548260858314" />
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1548072458964">
+        <mark key="'" line="723" column="59" />
+      </file>
       <file name="/organizations_contactgroup [abmira@192.168.60.10]" timestamp="1548262288211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1548265601228">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1546434142060">
+        <mark key="'" line="67" column="26" />
+      </file>
+      <file name="/ActionComponentAdding.jsx" timestamp="1547578328989">
+        <mark key="'" line="237" column="2" />
+      </file>
+      <file name="/dummy.sql" timestamp="1548327779825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" timestamp="1547638358158">
@@ -82,7 +66,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548256591516">
+      <file name="/Dummy.txt" timestamp="1548327748060">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -94,11 +78,24 @@
       <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1548072906629">
         <mark key="'" line="131" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548256807132">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548323776450">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="15" />
         <mark key="^" line="38" column="52" />
         <mark key="." line="45" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1547201962634">
+        <mark key="'" line="14" column="25" />
+      </file>
+      <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/projects/core/fulgurit/organizations/models.py" timestamp="1548322009686">
         <mark key="'" line="370" column="52" />
@@ -107,11 +104,20 @@
         <mark key="^" line="370" column="64" />
         <mark key="." line="370" column="64" />
       </file>
+      <file name="/projects/core/fulgurit/organizations/serializers.py" timestamp="1548261081790">
+        <mark key="'" line="372" column="16" />
+        <mark key="[" line="372" column="23" />
+        <mark key="]" line="372" column="23" />
+        <mark key="." line="372" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/urls.py" timestamp="1547202176828">
         <mark key="'" line="6" column="38" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
+        <mark key="'" line="98" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -1296,7 +1302,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>data/</text>
+        <text>_replica</text>
       </register>
       <register name="m" type="4">
         <keys>
