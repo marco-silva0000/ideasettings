@@ -26,13 +26,12 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548157810890">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="42" />
-      </file>
-      <file name="/SmsAction.jsx" timestamp="1547492259393">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="47" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548334905814">
+        <mark key="'" line="54" column="44" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="17" />
       </file>
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
@@ -57,7 +56,7 @@
       <file name="/ActionComponentAdding.jsx" timestamp="1547578328989">
         <mark key="'" line="237" column="2" />
       </file>
-      <file name="/dummy.sql" timestamp="1548327779825">
+      <file name="/dummy.sql" timestamp="1548334545635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" timestamp="1547638358158">
@@ -116,12 +115,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
         <mark key="'" line="98" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
       <jump line="327" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="216" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="1032" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -221,6 +222,7 @@
       <jump line="22" column="20" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="41" column="27" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="43" column="29" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
+      <jump line="54" column="44" filename="$USER_HOME$/Projects/regantes-backend/data/importer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1302,7 +1304,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>_replica</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1331,29 +1333,19 @@
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="84" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
           <key char="108" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="98" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
