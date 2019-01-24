@@ -11,7 +11,7 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548327777692">
+      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548351189064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1545991293376">
@@ -20,18 +20,19 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548261052733">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="74" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1548352381728">
+        <mark key="'" line="21" column="45" />
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="47" />
         <mark key="^" line="263" column="0" />
-        <mark key="." line="13" column="74" />
+        <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548348480260">
-        <mark key="'" line="54" column="44" />
-        <mark key="[" line="61" column="70" />
-        <mark key="]" line="62" column="26" />
-        <mark key="^" line="62" column="26" />
-        <mark key="." line="62" column="26" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548353305315">
+        <mark key="'" line="74" column="36" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="68" column="34" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
@@ -56,8 +57,10 @@
       <file name="/ActionComponentAdding.jsx" timestamp="1547578328989">
         <mark key="'" line="237" column="2" />
       </file>
-      <file name="/dummy.sql" timestamp="1548334545635">
+      <file name="/dummy.sql" timestamp="1548353820283">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/webpack.config.js" timestamp="1547638358158">
         <mark key="'" line="11" column="15" />
@@ -84,9 +87,9 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548323776450">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="15" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548351015541">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="14" />
         <mark key="^" line="38" column="52" />
         <mark key="." line="45" column="15" />
       </file>
@@ -121,10 +124,11 @@
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
         <mark key="'" line="98" column="34" />
       </file>
+      <file name="/organizations_client [abmira@icarus.fulgurit.eu]" timestamp="1548353729764">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="216" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="1032" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="1034" column="50" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="1035" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -223,6 +227,8 @@
       <jump line="41" column="27" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="43" column="29" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="54" column="44" filename="$USER_HOME$/Projects/regantes-backend/data/importer.py" />
+      <jump line="72" column="36" filename="$USER_HOME$/Projects/regantes-backend/data/importer.py" />
+      <jump line="21" column="45" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1304,7 +1310,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>[0</text>
+        <text>'ABEL FER' in name</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1313,7 +1319,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3dfbnVtXD4=</text>
+        <text encoding="base64">XDwzMFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1323,19 +1329,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvb2suc2F2ZSgnZGF0YS9jbGllbnRzLnhscycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgicm93OiAlcyIgJSBjbGllbnRfcm93KQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>abmclient_number=client_row[0], address=client_row[2],
-                                                     localidade=client_row[3][:150],
-                                                     cae=client_row[5], observations=client_row[6],
-                                                     iban=client_row[8][:25],
-                                                     sheet_number=client_row[9], nif=client_row[10][:25],
-                                                     desc_sint=client_row[11],
-                                                     postal_code=client_row[12]</text>
+      <register name="1" type="2">
+        <text encoding="base64">YWJtY2xpZW50X251bWJlciA9IDEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1355,31 +1355,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJzsnLmpvaW4oW2NvbnRhY3QudmFsdWUgZm9yIGNvbnRhY3QgaW4gY29udGFjdF9ncm91cC5lbWFpbHNdKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJzsnLmpvaW4oW2NvbnRhY3QudmFsdWUgZm9yIGNvbnRhY3QgaW4gY29udGFjdF9ncm91cC5waG9uZW51bWJlcnNdKSkK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaV9ncm91cCozKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2lfZ3JvdXAqMycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgicm93OiAlcyIgJSBjbGllbnRfcm93KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm93X251bSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Jvd19udW0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vay5zYXZlKCdjbGllbnRzLnhscycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJyb3c6ICVzIiAlIGNsaWVudF9yb3cpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1389,9 +1389,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3dfbnVtXD4=</last-search>
+      <last-search encoding="base64">XDwzMFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3dfbnVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwzMFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1399,7 +1399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Promi</entry>
         <entry encoding="base64">XDxnZXRGYWNpbGl0eUVtcGxveWVlc0FzeW5jXD4=</entry>
         <entry encoding="base64">XDxlbXBsb3llZUZldGNoXD4=</entry>
         <entry>data</entry>
@@ -1419,6 +1418,7 @@
         <entry>email</entry>
         <entry encoding="base64">XDxDb250YWN0RWxlbWVudFw+</entry>
         <entry encoding="base64">XDxyb3dfbnVtXD4=</entry>
+        <entry encoding="base64">XDwzMFw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
