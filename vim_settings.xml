@@ -48,8 +48,17 @@
       <file name="/django_migrations [abmira@192.168.60.10]" timestamp="1548260961059">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1548072458964">
+        <mark key="'" line="723" column="59" />
+      </file>
       <file name="/organizations_contactgroup [abmira@192.168.60.10]" timestamp="1548262288211">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1546434142060">
+        <mark key="'" line="67" column="26" />
+      </file>
+      <file name="/ActionComponentAdding.jsx" timestamp="1547578328989">
+        <mark key="'" line="237" column="2" />
       </file>
       <file name="/dummy.sql" timestamp="1548417285243">
         <mark key="[" line="0" column="0" />
@@ -68,6 +77,12 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/organizations/serializers.py" timestamp="1547654872393">
+        <mark key="'" line="364" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1548072906629">
+        <mark key="'" line="131" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548256807132">
         <mark key="'" line="12" column="36" />
         <mark key="[" line="4" column="30" />
@@ -80,6 +95,9 @@
         <mark key="]" line="6" column="14" />
         <mark key="^" line="38" column="52" />
         <mark key="." line="45" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1547201962634">
+        <mark key="'" line="14" column="25" />
       </file>
       <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
         <mark key="[" line="0" column="0" />
@@ -103,28 +121,24 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/organizations/urls.py" timestamp="1548429657000">
+        <mark key="'" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" timestamp="1548429867470">
+        <mark key="'" line="45" column="31" />
+        <mark key="m" line="120" column="52" />
+      </file>
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
+        <mark key="'" line="98" column="34" />
       </file>
       <file name="/organizations_client [abmira@icarus.fulgurit.eu]" timestamp="1548353729764">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1032" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1034" column="50" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1035" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1036" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1039" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1040" column="86" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1042" column="57" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1089" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="210" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="226" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="258" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="259" column="57" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="291" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
-      <jump line="24" column="40" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
       <jump line="348" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="793" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="800" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -211,6 +225,20 @@
       <jump line="54" column="44" filename="$USER_HOME$/Projects/regantes-backend/data/importer.py" />
       <jump line="72" column="36" filename="$USER_HOME$/Projects/regantes-backend/data/importer.py" />
       <jump line="21" column="45" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="35" column="58" filename="$USER_HOME$/Projects/core/fulgurit/organizations/urls.py" />
+      <jump line="26" column="41" filename="$USER_HOME$/Projects/core/fulgurit/organizations/urls.py" />
+      <jump line="12" column="44" filename="$USER_HOME$/Projects/core/fulgurit/organizations/urls.py" />
+      <jump line="120" column="52" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="127" column="41" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="192" column="24" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="230" column="24" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="466" column="45" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="482" column="27" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="509" column="20" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="543" column="20" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="967" column="27" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="1485" column="24" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
+      <jump line="45" column="31" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1301,7 +1329,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwzMFw+</text>
+        <text>Role</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1371,9 +1399,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwzMFw+</last-search>
+      <last-search>Role</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwzMFw+</last-pattern>
+      <last-pattern>Role</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1381,9 +1409,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGYWNpbGl0eUVtcGxveWVlc0FzeW5jXD4=</entry>
-        <entry encoding="base64">XDxlbXBsb3llZUZldGNoXD4=</entry>
-        <entry>data</entry>
         <entry encoding="base64">XDxnZXRBdmFpbGFibGVFbXBsb3llZXNcPg==</entry>
         <entry>Action</entry>
         <entry encoding="base64">XDxDbGllbnRFeHRyYURhdGFTZXJpYWxpemVyXD4=</entry>
@@ -1401,6 +1426,9 @@
         <entry encoding="base64">XDxDb250YWN0RWxlbWVudFw+</entry>
         <entry encoding="base64">XDxyb3dfbnVtXD4=</entry>
         <entry encoding="base64">XDwzMFw+</entry>
+        <entry>search</entry>
+        <entry>sear</entry>
+        <entry>Role</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
