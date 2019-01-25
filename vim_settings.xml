@@ -11,7 +11,7 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548351189064">
+      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548417284199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/reusable_components/PinedHeaderListMenu.jsx" timestamp="1545991293376">
@@ -27,12 +27,14 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548353305315">
-        <mark key="'" line="74" column="36" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="68" column="34" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548417756888">
+        <mark key="'" line="73" column="36" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1548417256761">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
@@ -45,19 +47,10 @@
       <file name="/django_migrations [abmira@192.168.60.10]" timestamp="1548260961059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/views.py" timestamp="1548072458964">
-        <mark key="'" line="723" column="59" />
-      </file>
       <file name="/organizations_contactgroup [abmira@192.168.60.10]" timestamp="1548262288211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1546434142060">
-        <mark key="'" line="67" column="26" />
-      </file>
-      <file name="/ActionComponentAdding.jsx" timestamp="1547578328989">
-        <mark key="'" line="237" column="2" />
-      </file>
-      <file name="/dummy.sql" timestamp="1548353820283">
+      <file name="/dummy.sql" timestamp="1548417285243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,17 +61,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548327748060">
+      <file name="/Dummy.txt" timestamp="1548417292782">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/organizations/serializers.py" timestamp="1547654872393">
-        <mark key="'" line="364" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/models.py" timestamp="1548072906629">
-        <mark key="'" line="131" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1548256807132">
         <mark key="'" line="12" column="36" />
@@ -92,9 +79,6 @@
         <mark key="]" line="6" column="14" />
         <mark key="^" line="38" column="52" />
         <mark key="." line="45" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1547201962634">
-        <mark key="'" line="14" column="25" />
       </file>
       <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
         <mark key="[" line="0" column="0" />
@@ -120,9 +104,6 @@
       </file>
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" timestamp="1547575862531">
-        <mark key="'" line="98" column="34" />
       </file>
       <file name="/organizations_client [abmira@icarus.fulgurit.eu]" timestamp="1548353729764">
         <mark key="[" line="0" column="0" />
@@ -1335,7 +1316,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWJtY2xpZW50X251bWJlciA9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1355,31 +1336,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJyb3c6ICVzIiAlIGNsaWVudF9yb3cpCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">YWJtY2xpZW50X251bWJlciA9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgicm93OiAlcyIgJSBjbGllbnRfcm93KQo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgicm93OiAlcyIgJSBjbGllbnRfcm93KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJyb3c6ICVzIiAlIGNsaWVudF9yb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
