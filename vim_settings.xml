@@ -11,7 +11,7 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548777119331">
+      <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548783239946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
@@ -20,10 +20,10 @@
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548759488632">
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548784019828">
         <mark key="'" line="73" column="36" />
-        <mark key="[" line="74" column="79" />
-        <mark key="]" line="74" column="79" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="34" />
         <mark key="." line="74" column="79" />
         <mark key="^" line="74" column="44" />
       </file>
@@ -49,7 +49,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1548777358127">
+      <file name="/dummy.sql" timestamp="1548783241352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,11 +97,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548777485242">
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="32" column="56" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/exporter.py" timestamp="1548784118066">
+        <mark key="[" line="40" column="76" />
+        <mark key="]" line="40" column="109" />
+        <mark key="^" line="40" column="109" />
+        <mark key="." line="40" column="109" />
       </file>
       <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
         <mark key="[" line="0" column="0" />
@@ -122,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="92" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="58" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="63" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
@@ -222,6 +221,7 @@
       <jump line="76" column="11" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="77" column="23" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="91" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="28" column="40" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1303,7 +1303,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>*args,</text>
+        <text>client.admition_date.astimezone(tz).replace(tzinfo=None)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1312,7 +1312,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>timezone</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1321,14 +1321,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>other.equipment.device.facility</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHR6ID0gcHl0ei50aW1lem9uZSgnUG9ydHVnYWwnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtZXRlcmluZy51dGlscyBpbXBvcnQgc3BsaXRfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjbGllbnQuYWRtaXRpb25fZGF0ZS50emluZm8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1348,31 +1348,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmZCIiUGBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtZXRlcmluZy51dGlscyBpbXBvcnQgc3BsaXRfbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaSwgXyA9IEluc3RhbGxhdGlvbkxvY2FsLm9iamVjdHMuZ2V0X29yX2NyZWF0ZShmYWNpbGl0eT1vdGhlci5lcXVpcG1lbnQuZGV2aWNlLmZhY2lsaXR5LCBsb2NhbF9jb2RlPWNvbnN1bWVyX2NvZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmZCIiUGBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaSwgXyA9IEluc3RhbGxhdGlvbkxvY2FsLm9iamVjdHMuZ2V0X29yX2NyZWF0ZShmYWNpbGl0eT1vdGhlci5lcXVpcG1lbnQuZGV2aWNlLmZhY2lsaXR5LCBsb2NhbF9jb2RlPWNvbnN1bWVyX2NvZGUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZV9pZD1lcXVpcG1lbnRfZGF0YV90eXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5fdXNlPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZV9pZD1lcXVpcG1lbnRfZGF0YV90eXBlKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNfcmVhZD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5fdXNlPVRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYml0PW1ldGVyX2JpdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNfcmVhZD1UcnVlLAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1382,9 +1382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>timezone</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>timezone</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,7 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Action</entry>
         <entry encoding="base64">XDxDbGllbnRFeHRyYURhdGFTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxDb250YWN0U2VyaWFsaXplclw+</entry>
         <entry>Name</entry>
@@ -1412,6 +1411,7 @@
         <entry>sear</entry>
         <entry>Role</entry>
         <entry>client</entry>
+        <entry>timezone</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
