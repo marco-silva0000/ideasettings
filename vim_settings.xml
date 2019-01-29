@@ -67,6 +67,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1548772193515">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1548439259736">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
@@ -1309,7 +1314,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>api-integration-latest</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <keys>
