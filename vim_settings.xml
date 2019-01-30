@@ -62,7 +62,7 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548841497832">
+      <file name="/Dummy.txt" timestamp="1548842711087">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1303,7 +1303,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>client.admition_date.astimezone(tz).replace(tzinfo=None)</text>
+        <text>development</text>
       </register>
       <register name="m" type="4">
         <keys>
