@@ -97,6 +97,9 @@
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1548946022595">
+        <mark key="'" line="98" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0007_auto_20180725_1059.py" timestamp="1548437365577">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -117,7 +120,6 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="76" />
       </file>
-      <file name="/0006_contact_contact_name.py" timestamp="1548851277221" />
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="58" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="63" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
       <jump line="75" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
@@ -240,6 +241,7 @@
       <jump line="77" column="23" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="91" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="28" column="40" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
+      <jump line="98" column="27" filename="$USER_HOME$/Projects/core/datalogger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
