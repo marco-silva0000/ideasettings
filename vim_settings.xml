@@ -65,8 +65,10 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549019250566">
+      <file name="/Dummy.txt" timestamp="1549021701514">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/projects/metering/metering/utils.py" timestamp="1548948992923">
         <mark key="[" line="116" column="0" />
@@ -1318,7 +1320,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fix migration file of changes made in master</text>
+        <text>development</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1327,7 +1329,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>timezone</text>
+        <text>save</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1397,9 +1399,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timezone</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>timezone</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1407,8 +1409,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDbGllbnRFeHRyYURhdGFTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxDb250YWN0U2VyaWFsaXplclw+</entry>
         <entry>Name</entry>
         <entry encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</entry>
         <entry>Client</entry>
@@ -1427,6 +1427,8 @@
         <entry>Role</entry>
         <entry>client</entry>
         <entry>timezone</entry>
+        <entry>handle_save</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
