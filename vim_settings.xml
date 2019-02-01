@@ -65,13 +65,8 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548851256006">
-        <mark key="a" line="0" column="10" />
-        <mark key="'" line="0" column="11" />
-        <mark key="i" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1549019250566">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/projects/metering/metering/utils.py" timestamp="1548948992923">
         <mark key="[" line="116" column="0" />
@@ -1323,7 +1318,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>fix migration file of changes made in master</text>
       </register>
       <register name="m" type="4">
         <keys>
