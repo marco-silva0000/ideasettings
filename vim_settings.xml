@@ -14,10 +14,10 @@
       <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548849479758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549276689117">
-        <mark key="[" line="81" column="50" />
-        <mark key="]" line="81" column="66" />
-        <mark key="." line="81" column="66" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549278052114">
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="81" column="13" />
+        <mark key="." line="81" column="132" />
         <mark key="^" line="81" column="66" />
       </file>
       <file name="/a.dummy" timestamp="1548851152435">
@@ -25,6 +25,11 @@
       </file>
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1549277594452">
+        <mark key="'" line="494" column="17" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="97" column="4" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
@@ -152,8 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="27" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="15" column="19" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="13" column="119" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="62" column="34" filename="/projects/core/fulgurit/organizations/models.py" />
@@ -252,6 +255,8 @@
       <jump line="908" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="909" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="81" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="534" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="494" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1333,7 +1338,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>newEvent</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1342,7 +1347,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdFdmVudFw+</text>
+        <text encoding="base64">XDxvcGVyYXRpb25zXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1352,7 +1357,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fZ3JvdXBzOiBbe2NvbmRpdGlvbl9lbGVtZW50czogW119XSwK</text>
+        <text encoding="base64">ICB7CiAgICBpZDogJ25vbmUnLAogICAgbmFtZTogaTE4bi50KCdjb21tb246Tm9uZScpLAogICAgaWNvbjogJycsCiAgICBjb2RlOiAnXHUwMDJiJwogIH0sCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1412,9 +1417,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdFdmVudFw+</last-search>
+      <last-search encoding="base64">XDxvcGVyYXRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdFdmVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcGVyYXRpb25zXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,7 +1427,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2RlbEJhc2VcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX3NjaGVkdWxlZF90YXNrXD4=</entry>
         <entry encoding="base64">XDxfc2tpcF9iZWF0XD4=</entry>
         <entry encoding="base64">XDxjZWxlcnlfZGlzcGF0Y2hfaXJyaWdhdGlvbnNcPg==</entry>
@@ -1442,6 +1446,7 @@
         <entry encoding="base64">XDxoYW5kbGVTYXZlXD4=</entry>
         <entry encoding="base64">XDxldmVudFVwZGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
+        <entry encoding="base64">XDxvcGVyYXRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
