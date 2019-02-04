@@ -14,6 +14,12 @@
       <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548849479758">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549276689117">
+        <mark key="[" line="81" column="50" />
+        <mark key="]" line="81" column="66" />
+        <mark key="." line="81" column="66" />
+        <mark key="^" line="81" column="66" />
+      </file>
       <file name="/a.dummy" timestamp="1548851152435">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,6 +58,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1549276479732" />
       <file name="/dummy.sql" timestamp="1548849484377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -91,6 +98,9 @@
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1549276341323">
+        <mark key="'" line="114" column="44" />
+      </file>
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,6 +127,9 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" timestamp="1549276462536">
+        <mark key="'" line="60" column="35" />
+      </file>
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,46 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="63" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="75" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="101" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="105" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="110" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="111" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="112" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="122" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="123" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="124" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="126" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="130" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="131" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
-      <jump line="390" column="18" filename="$USER_HOME$/Projects/core/fulgurit/organizations/serializers.py" />
-      <jump line="388" column="20" filename="$USER_HOME$/Projects/core/fulgurit/organizations/serializers.py" />
-      <jump line="389" column="13" filename="$USER_HOME$/Projects/core/fulgurit/organizations/serializers.py" />
-      <jump line="364" column="6" filename="$USER_HOME$/Projects/core/fulgurit/organizations/serializers.py" />
-      <jump line="267" column="42" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
-      <jump line="25" column="45" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="119" column="43" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="135" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="142" column="30" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="10" column="42" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="67" column="31" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="117" column="31" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="8" column="34" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="1013" column="26" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
-      <jump line="723" column="59" filename="$USER_HOME$/Projects/core/apps/sprinklers/views.py" />
-      <jump line="136" column="55" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="145" column="15" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="150" column="55" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="191" column="8" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="194" column="5" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="195" column="8" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="316" column="22" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="318" column="49" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="141" column="27" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
-      <jump line="321" column="46" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
       <jump line="131" column="27" filename="$USER_HOME$/Projects/core/apps/sprinklers/models.py" />
       <jump line="5" column="32" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="15" column="19" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
@@ -239,6 +212,46 @@
       <jump line="91" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="28" column="40" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="98" column="27" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="145" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="114" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="793" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="64" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="437" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="324" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="60" column="35" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
+      <jump line="446" column="38" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="469" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="470" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="471" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="472" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="476" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="477" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="478" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="479" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="625" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="626" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="656" column="37" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="657" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="681" column="10" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="682" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="714" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="715" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="719" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="720" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="743" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="744" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="749" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="750" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="753" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="754" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="755" column="33" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="779" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="780" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="906" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="907" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="908" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="909" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="81" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1320,7 +1333,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>newEvent</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1329,7 +1342,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text encoding="base64">XDxuZXdFdmVudFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1339,13 +1352,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR6ID0gcHl0ei50aW1lem9uZSgnUG9ydHVnYWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fZ3JvdXBzOiBbe2NvbmRpdGlvbl9lbGVtZW50czogW119XSwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygnc3BsaXQgbmFtZSBmcm9tICVzIGlzICVzJyAlIChtZXRlcl9yZWZlcmVuY2UsIHJlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fZ3JvdXBzOiBbXSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1365,31 +1378,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb250YWN0X3NldC5maWx0ZXIodHlwZT0nRW1haWwnKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZXZlbnRVcGRhdGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb250YWN0X3NldC5maWx0ZXIodHlwZT0nUGhvbmUnKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygnc3BsaXQgbmFtZSBmcm9tICVzIGlzICVzJyAlIChtZXRlcl9yZWZlcmVuY2UsIHJlc3VsdCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkcyBvcGVuL2Nsb3NlIGZ1bmN0aW9uYWxpdHkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb250YWN0X3NldC5maWx0ZXIodHlwZT0nRW1haWwnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBjbGllbnQuYWRtaXRpb25fZGF0ZS50emluZm8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jb250YWN0X3NldC5maWx0ZXIodHlwZT0nUGhvbmUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtZXRlcmluZy51dGlscyBpbXBvcnQgc3BsaXRfbmFtZQo=</text>
+        <text encoding="base64">YWRkcyBvcGVuL2Nsb3NlIGZ1bmN0aW9uYWxpdHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmZCIiUGBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjbGllbnQuYWRtaXRpb25fZGF0ZS50emluZm8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaSwgXyA9IEluc3RhbGxhdGlvbkxvY2FsLm9iamVjdHMuZ2V0X29yX2NyZWF0ZShmYWNpbGl0eT1vdGhlci5lcXVpcG1lbnQuZGV2aWNlLmZhY2lsaXR5LCBsb2NhbF9jb2RlPWNvbnN1bWVyX2NvZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBtZXRlcmluZy51dGlscyBpbXBvcnQgc3BsaXRfbmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmZCIiUGBbXQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1399,9 +1412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search encoding="base64">XDxuZXdFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdFdmVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1409,10 +1422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Name</entry>
-        <entry encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</entry>
-        <entry>Client</entry>
-        <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxNb2RlbEJhc2VcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX3NjaGVkdWxlZF90YXNrXD4=</entry>
         <entry encoding="base64">XDxfc2tpcF9iZWF0XD4=</entry>
@@ -1429,6 +1438,10 @@
         <entry>timezone</entry>
         <entry>handle_save</entry>
         <entry>save</entry>
+        <entry encoding="base64">XDxBZGRFdmVudEZBQlw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVTYXZlXD4=</entry>
+        <entry encoding="base64">XDxldmVudFVwZGF0ZXJcPg==</entry>
+        <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
