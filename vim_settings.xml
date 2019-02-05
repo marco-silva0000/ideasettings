@@ -17,13 +17,12 @@
       <file name="/Python Console" timestamp="1549364423715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549370332815">
-        <mark key="'" line="491" column="13" />
-        <mark key="[" line="717" column="4" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549384873305">
+        <mark key="'" line="703" column="0" />
+        <mark key="[" line="785" column="0" />
         <mark key="m" line="709" column="25" />
-        <mark key="]" line="717" column="10" />
-        <mark key="." line="717" column="10" />
-        <mark key="^" line="717" column="10" />
+        <mark key="]" line="785" column="0" />
+        <mark key="." line="785" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1548851152435">
         <mark key="[" line="0" column="0" />
@@ -38,8 +37,8 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1549382778468">
-        <mark key="'" line="496" column="17" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1549384810269">
+        <mark key="'" line="535" column="32" />
         <mark key="[" line="271" column="4" />
         <mark key="]" line="271" column="51" />
         <mark key="." line="271" column="51" />
@@ -100,9 +99,9 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549371022447">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1549384907686">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
       <file name="/projects/metering/metering/utils.py" timestamp="1548948992923">
@@ -211,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="73" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="76" column="11" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="77" column="23" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="91" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="28" column="40" filename="$USER_HOME$/Projects/regantes-backend/data/exporter.py" />
       <jump line="98" column="27" filename="$USER_HOME$/Projects/core/datalogger.py" />
@@ -311,6 +307,9 @@
       <jump line="309" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="511" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="372" column="136" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="271" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="703" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="535" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1392,7 +1391,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>post</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1401,7 +1400,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVUZXJtXD4=</text>
+        <text encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1410,14 +1409,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHMuY29udGV4dC51cGRhdGVGYWNpbGl0aWVzT2ZFdmVudChwcm9wcy5ldmVudCkudGhlbigoKSA9PiB0aGlzLnNldFN0YXRlKHtsb2FkZWQ6IHRydWV9KSkK</text>
+      <register name="0" type="4">
+        <text>updateFacilitiesOfEvent</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1437,31 +1436,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmhhbmRsZUVkaXQoJ3NhdmUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2lzRWRpdDogZmFsc2V9KQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmhhbmRsZUVkaXQoJ3NhdmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnRUb1NlbmQuYWN0aW9ucyA9IHRoaXMuc3RhdGUucnVuQXN5bmNBY3Rpb25zVXBkYXRlcigpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2lzRWRpdDogZmFsc2V9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV2ZW50VG9TZW5kLmNvbmRpdGlvbl9ncm91cHMgPSB0aGlzLnN0YXRlLnJ1bkFzeW5jQ29uZGl0aW9uc1VwZGF0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgZXZlbnRUb1NlbmQuYWN0aW9ucyA9IHRoaXMuc3RhdGUucnVuQXN5bmNBY3Rpb25zVXBkYXRlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2ZW50VG9TZW5kLmFjdGlvbnMgPSB0aGlzLnN0YXRlLnJ1bkFzeW5jQWN0aW9uc1VwZGF0ZXIoKQo=</text>
+        <text encoding="base64">ICAgIGV2ZW50VG9TZW5kLmNvbmRpdGlvbl9ncm91cHMgPSB0aGlzLnN0YXRlLnJ1bkFzeW5jQ29uZGl0aW9uc1VwZGF0ZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQuCg==</text>
+        <text encoding="base64">ICAgIGV2ZW50VG9TZW5kLmFjdGlvbnMgPSB0aGlzLnN0YXRlLnJ1bkFzeW5jQWN0aW9uc1VwZGF0ZXIoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXZlbnQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBldmVudCA9IHRoaXMuZmluZEFuZFVwZGF0ZUV2ZW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1471,9 +1470,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVUZXJtXD4=</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVUZXJtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1481,7 +1480,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudFVwZGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25zXD4=</entry>
         <entry>operations2</entry>
@@ -1501,6 +1499,7 @@
         <entry encoding="base64">XDxjaGVja2VkX2hvcmFzXD4=</entry>
         <entry>checked_hora</entry>
         <entry encoding="base64">XDx1cGRhdGVUZXJtXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
