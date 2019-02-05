@@ -98,8 +98,8 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549369006147">
-        <mark key="[" line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1549371022447">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="12" />
       </file>
@@ -111,6 +111,11 @@
       </file>
       <file name="/infrastructure_pipe [abmira@icarus.fulgurit.eu]" timestamp="1548776770451">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/ScheduleList.jsx" timestamp="1549379947795">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="18" />
       </file>
       <file name="/irrigators_contract [abmira@icarus.fulgurit.eu]" timestamp="1548436484617">
         <mark key="[" line="0" column="0" />
@@ -127,8 +132,20 @@
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1549364793532">
         <mark key="'" line="114" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" timestamp="1549379974406">
+        <mark key="'" line="309" column="55" />
+        <mark key="[" line="287" column="41" />
+        <mark key="]" line="287" column="41" />
+        <mark key="." line="287" column="41" />
+      </file>
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1549379672519">
+        <mark key="[" line="236" column="15" />
+        <mark key="]" line="232" column="53" />
+        <mark key="." line="236" column="53" />
+        <mark key="^" line="232" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1548952436013">
         <mark key="'" line="98" column="27" />
@@ -144,8 +161,8 @@
         <mark key="^" line="40" column="109" />
         <mark key="." line="40" column="109" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1549364884724">
-        <mark key="'" line="500" column="65" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1549371085034">
+        <mark key="'" line="452" column="48" />
         <mark key="[" line="500" column="30" />
         <mark key="]" line="500" column="113" />
         <mark key="^" line="488" column="114" />
@@ -192,16 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1485" column="24" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
-      <jump line="45" column="31" filename="$USER_HOME$/Projects/core/fulgurit/organizations/api.py" />
-      <jump line="87" column="12" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="114" column="38" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="165" column="38" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="264" column="38" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="272" column="38" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="29" column="7" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="57" column="35" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="64" column="35" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="69" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="71" column="73" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="76" column="11" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
@@ -248,7 +255,6 @@
       <jump line="494" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
       <jump line="67" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
-      <jump line="511" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="517" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="416" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="427" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -292,6 +298,17 @@
       <jump line="1079" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="108" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="491" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="511" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="452" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="229" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="284" column="53" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="285" column="84" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="286" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="287" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="291" column="59" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="297" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="303" column="59" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
+      <jump line="309" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1373,7 +1390,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>setAsyncActionsUpdater</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1382,7 +1399,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>saveEve</text>
+        <text>checked_hora</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1452,9 +1469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveEve</last-search>
+      <last-search>checked_hora</last-search>
       <last-offset />
-      <last-pattern>saveEve</last-pattern>
+      <last-pattern>checked_hora</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1462,10 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>timezone</entry>
-        <entry>handle_save</entry>
-        <entry>save</entry>
         <entry encoding="base64">XDxBZGRFdmVudEZBQlw+</entry>
         <entry encoding="base64">XDxldmVudFVwZGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
@@ -1482,6 +1495,10 @@
         <entry encoding="base64">XDx0b2dnbGVFZGl0XD4=</entry>
         <entry encoding="base64">XDxmaW5kQW5kVXBkYXRlRXZlbnRcPg==</entry>
         <entry>saveEve</entry>
+        <entry encoding="base64">XDxfRXZlbnRzQ29uZGl0aW9uXD4=</entry>
+        <entry encoding="base64">XDxDaGVja2JveFw+</entry>
+        <entry encoding="base64">XDxjaGVja2VkX2hvcmFzXD4=</entry>
+        <entry>checked_hora</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
