@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549386729403">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549446684684">
         <mark key="'" line="324" column="23" />
-        <mark key="[" line="785" column="0" />
+        <mark key="[" line="650" column="16" />
         <mark key="m" line="709" column="25" />
-        <mark key="]" line="785" column="0" />
-        <mark key="." line="785" column="0" />
+        <mark key="]" line="650" column="16" />
+        <mark key="." line="650" column="16" />
+        <mark key="^" line="649" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1548851152435">
         <mark key="[" line="0" column="0" />
@@ -1409,7 +1410,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>this.state.</text>
       </register>
       <register name="m" type="4">
         <keys>
