@@ -116,7 +116,7 @@
       <file name="/Python Console" timestamp="1549364423715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1549539016045">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1549540432809">
         <mark key="'" line="535" column="32" />
         <mark key="[" line="271" column="4" />
         <mark key="]" line="271" column="51" />
@@ -185,6 +185,9 @@
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1549540932332">
+        <mark key="'" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1548952436013">
         <mark key="'" line="98" column="27" />
       </file>
@@ -228,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="471" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="472" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="476" column="12" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="477" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -328,6 +329,8 @@
       <jump line="316" column="56" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
       <jump line="192" column="4" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
       <jump line="23" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
+      <jump line="88" column="19" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1418,7 +1421,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVFdmVudFw+</text>
+        <text encoding="base64">XDxwZWdhc3VzX3JlcGxpY2FcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1488,9 +1491,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGVFdmVudFw+</last-search>
+      <last-search encoding="base64">XDxwZWdhc3VzX3JlcGxpY2FcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVFdmVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwZWdhc3VzX3JlcGxpY2FcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1498,7 +1501,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdFw+</entry>
         <entry encoding="base64">XDxydW5Bc3luY0FjdGlvbnNVcGRhdGVyXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVTYXZlXD4=</entry>
         <entry>updateEvent</entry>
@@ -1518,6 +1520,7 @@
         <entry>toggle</entry>
         <entry encoding="base64">XDxoYW5kbGVEZWxldGVFdmVudFw+</entry>
         <entry encoding="base64">XDxkZWxldGVFdmVudFw+</entry>
+        <entry encoding="base64">XDxwZWdhc3VzX3JlcGxpY2FcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabfirst</entry>
