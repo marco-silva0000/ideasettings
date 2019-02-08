@@ -62,7 +62,7 @@
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1549629411359">
+      <file name="/Django Console" timestamp="1549644672105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1549364424545">
@@ -148,12 +148,12 @@
         <mark key="." line="535" column="26" />
         <mark key="^" line="535" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549544126484">
-        <mark key="'" line="65" column="22" />
-        <mark key="[" line="65" column="86" />
-        <mark key="]" line="65" column="87" />
-        <mark key="^" line="65" column="86" />
-        <mark key="." line="65" column="87" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549644722883">
+        <mark key="'" line="63" column="22" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="63" column="86" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1549540932332">
         <mark key="'" line="26" column="0" />
@@ -1411,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlID0gdmFsaWRhdGVkX2RhdGEucG9wKCd0eXBlJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1431,31 +1431,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtLnR5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3NjaGVkdWxlczogbmV3U2NoZWR1bGVzfSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXdTY2hlZHVsZXMgPSB1cGRhdGUodGhpcy5zdGF0ZS5zY2hlZHVsZXMsIHsgJHNwbGljZTogW1tpbmRleCwgMV1dIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAndGVybScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoYW5kbGVEZWxldGUgPSAoaW5kZXgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlID0gdmFsaWRhdGVkX2RhdGEucG9wKCd0eXBlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmhhbmRsZUVkaXQoJ3NhdmUnKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3NjaGVkdWxlczogbmV3U2NoZWR1bGVzfSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
