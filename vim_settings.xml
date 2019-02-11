@@ -113,8 +113,10 @@
       <file name="/Python Console" timestamp="1549905938673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1549905963874">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.py" timestamp="1549907319718">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1549544002652">
         <mark key="'" line="325" column="77" />
@@ -1400,7 +1402,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'DEBUG_WITHOUT_PLC': True</text>
+        <text>9229483</text>
       </register>
       <register name="m" type="4">
         <keys>
