@@ -49,6 +49,9 @@
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1549903185883">
+        <mark key="'" line="141" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1548784019828">
         <mark key="'" line="73" column="36" />
         <mark key="[" line="62" column="0" />
@@ -148,12 +151,11 @@
         <mark key="." line="535" column="26" />
         <mark key="^" line="535" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549882049664">
-        <mark key="'" line="64" column="22" />
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="55" column="27" />
-        <mark key="^" line="55" column="27" />
-        <mark key="." line="55" column="27" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549903554858">
+        <mark key="'" line="63" column="22" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1549540932332">
         <mark key="'" line="26" column="0" />
@@ -205,12 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="534" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="494" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="60" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
-      <jump line="517" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="416" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="427" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="199" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="70" column="38" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="334" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -305,6 +301,12 @@
       <jump line="325" column="77" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="67" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" />
       <jump line="511" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="10" column="2" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="44" column="5" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="45" column="5" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="138" column="10" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="198" column="9" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="141" column="11" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1395,7 +1397,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVTZWxlY3RUZXJtVHlwZVw+</text>
+        <text>rest</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1431,31 +1433,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtLnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtLnR5cGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndGVybScK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlID0gdmFsaWRhdGVkX2RhdGEucG9wKCd0eXBlJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAndGVybScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlID0gdmFsaWRhdGVkX2RhdGEucG9wKCd0eXBlJykK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3NjaGVkdWxlczogbmV3U2NoZWR1bGVzfSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1465,9 +1467,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVTZWxlY3RUZXJtVHlwZVw+</last-search>
+      <last-search>rest</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVTZWxlY3RUZXJtVHlwZVw+</last-pattern>
+      <last-pattern>rest</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,7 +1477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kQW5kVXBkYXRlRXZlbnRcPg==</entry>
         <entry>saveEve</entry>
         <entry encoding="base64">XDxfRXZlbnRzQ29uZGl0aW9uXD4=</entry>
         <entry encoding="base64">XDxDaGVja2JveFw+</entry>
@@ -1495,6 +1496,7 @@
         <entry>type</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnRMYXRlc3RWYWx1ZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTZWxlY3RUZXJtVHlwZVw+</entry>
+        <entry>rest</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
