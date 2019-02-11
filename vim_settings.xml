@@ -148,12 +148,12 @@
         <mark key="." line="535" column="26" />
         <mark key="^" line="535" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549644722883">
-        <mark key="'" line="63" column="22" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="63" column="86" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549882049664">
+        <mark key="'" line="64" column="22" />
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="55" column="27" />
+        <mark key="^" line="55" column="27" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1549540932332">
         <mark key="'" line="26" column="0" />
@@ -1405,7 +1405,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRpb24gPSB2YWxpZGF0ZWRfZGF0YS5wb3AoJ29wZXJhdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBfdHlwZSA9IHZhbGlkYXRlZF9kYXRhLnBvcCgndHlwZScpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
