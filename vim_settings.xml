@@ -65,7 +65,7 @@
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1549877378434">
+      <file name="/Django Console" timestamp="1549904095549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1549364424545">
@@ -145,11 +145,12 @@
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1549543536255">
-        <mark key="[" line="533" column="90" />
-        <mark key="]" line="535" column="26" />
-        <mark key="." line="535" column="26" />
-        <mark key="^" line="535" column="26" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1549904683799">
+        <mark key="'" line="199" column="8" />
+        <mark key="[" line="109" column="11" />
+        <mark key="]" line="109" column="30" />
+        <mark key="." line="109" column="30" />
+        <mark key="^" line="109" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549903554858">
         <mark key="'" line="63" column="22" />
@@ -207,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="70" column="38" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="334" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="336" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="71" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="108" column="105" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" />
@@ -307,6 +305,9 @@
       <jump line="138" column="10" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
       <jump line="198" column="9" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
       <jump line="141" column="11" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
+      <jump line="534" column="27" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
+      <jump line="202" column="33" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
+      <jump line="199" column="8" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1397,7 +1398,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>rest</text>
+        <text encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1467,9 +1468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rest</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</last-search>
       <last-offset />
-      <last-pattern>rest</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1477,9 +1478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveEve</entry>
-        <entry encoding="base64">XDxfRXZlbnRzQ29uZGl0aW9uXD4=</entry>
-        <entry encoding="base64">XDxDaGVja2JveFw+</entry>
         <entry encoding="base64">XDxjaGVja2VkX2hvcmFzXD4=</entry>
         <entry>checked_hora</entry>
         <entry encoding="base64">XDx1cGRhdGVUZXJtXD4=</entry>
@@ -1497,6 +1495,9 @@
         <entry encoding="base64">XDxFcXVpcG1lbnRMYXRlc3RWYWx1ZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTZWxlY3RUZXJtVHlwZVw+</entry>
         <entry>rest</entry>
+        <entry>signal</entry>
+        <entry encoding="base64">XDxtYW5hZ2VfZXZlbnRfdGFza1w+</entry>
+        <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
