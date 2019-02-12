@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549542411866">
-        <mark key="'" line="650" column="17" />
-        <mark key="[" line="956" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549992399276">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="84" column="77" />
         <mark key="m" line="710" column="25" />
-        <mark key="]" line="956" column="0" />
-        <mark key="^" line="650" column="31" />
-        <mark key="." line="956" column="0" />
+        <mark key="]" line="84" column="91" />
+        <mark key="^" line="84" column="76" />
+        <mark key="." line="84" column="77" />
       </file>
       <file name="/a.dummy" timestamp="1548851152435">
         <mark key="[" line="0" column="0" />
@@ -63,8 +63,8 @@
       <file name="/irrigators_contract [abmira@icarus.fulgurit.eu]" timestamp="1548436484617">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1549364793532">
-        <mark key="'" line="114" column="44" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1549992370937">
+        <mark key="'" line="105" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" timestamp="1549379974406">
         <mark key="'" line="309" column="55" />
@@ -219,12 +219,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1549990719503">
-        <mark key="'" line="498" column="128" />
-        <mark key="[" line="498" column="116" />
-        <mark key="]" line="498" column="128" />
-        <mark key="^" line="498" column="128" />
-        <mark key="." line="498" column="128" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" timestamp="1549991893403">
+        <mark key="'" line="483" column="93" />
+        <mark key="[" line="483" column="120" />
+        <mark key="]" line="483" column="133" />
+        <mark key="^" line="483" column="121" />
+        <mark key="." line="483" column="122" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0017_historicalabclient_historicalland_historicalregistration.py" timestamp="1548437398691">
         <mark key="[" line="15" column="0" />
@@ -236,18 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="21" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="455" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="81" column="41" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventBody.jsx" />
-      <jump line="729" column="20" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="748" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="498" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="503" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="1079" column="5" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="108" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="491" column="13" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="452" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
-      <jump line="229" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="284" column="53" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="285" column="84" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="286" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
@@ -335,7 +323,19 @@
       <jump line="220" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="221" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="266" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="498" column="128" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="498" column="89" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="321" column="67" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="483" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="105" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
+      <jump line="677" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="701" column="10" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="702" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="738" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="739" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="743" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="744" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="767" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1417,7 +1417,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>9229483</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1426,7 +1426,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVUZXJtXD4=</text>
+        <text encoding="base64">XDxuZXdFdmVudFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1435,8 +1435,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdyZWFjdC1hZGRvbnMtdXBkYXRlJwo=</text>
+      <register name="0" type="4">
+        <text>, type:'Value'</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1496,9 +1496,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVUZXJtXD4=</last-search>
+      <last-search encoding="base64">XDxuZXdFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVUZXJtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdFdmVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1506,8 +1506,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25kaXRpb250ZXJtc19kYXRhXD4=</entry>
-        <entry>toggle</entry>
         <entry encoding="base64">XDxkZWxldGVFdmVudFw+</entry>
         <entry encoding="base64">XDxwZWdhc3VzX3JlcGxpY2FcPg==</entry>
         <entry>del</entry>
@@ -1526,6 +1524,8 @@
         <entry encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</entry>
         <entry>data</entry>
         <entry encoding="base64">XDx1cGRhdGVUZXJtXD4=</entry>
+        <entry>data:</entry>
+        <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
