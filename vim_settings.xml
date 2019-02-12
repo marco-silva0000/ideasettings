@@ -35,6 +35,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmailAction.jsx" timestamp="1549967237154">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1549542352516">
         <mark key="'" line="316" column="64" />
         <mark key="[" line="316" column="76" />
@@ -48,6 +53,9 @@
         <mark key="]" line="67" column="107" />
         <mark key="^" line="67" column="107" />
         <mark key="." line="67" column="107" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" timestamp="1549967054749">
+        <mark key="'" line="19" column="9" />
       </file>
       <file name="/infrastructure_pipe [abmira@icarus.fulgurit.eu]" timestamp="1548776770451">
         <mark key="[" line="0" column="0" />
@@ -64,7 +72,7 @@
         <mark key="]" line="287" column="41" />
         <mark key="." line="287" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1549905776046">
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1549966805922">
         <mark key="'" line="113" column="21" />
         <mark key="[" line="384" column="22" />
         <mark key="]" line="384" column="23" />
@@ -79,6 +87,11 @@
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1549905675242">
         <mark key="'" line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/SmsAction.jsx" timestamp="1549967234399">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
         <mark key="[" line="0" column="0" />
@@ -223,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="342" column="54" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="500" column="65" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="114" column="27" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/Event.jsx" />
@@ -323,6 +335,7 @@
       <jump line="113" column="21" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
       <jump line="211" column="6" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/lib/python2.7/site-packages/rest_framework/exceptions.py" />
       <jump line="219" column="14" filename="$USER_HOME$/.local/share/virtualenvs/core-rqbD-aEd/lib/python2.7/site-packages/rest_framework/exceptions.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionComponentAdding.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1413,7 +1426,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVbnN1cHBvcnRlZE1lZGlhVHlwZVw+</text>
+        <text encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1423,13 +1436,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfdHlwZSA9IHZhbGlkYXRlZF9kYXRhLnBvcCgndHlwZScpCg==</text>
+        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdyZWFjdC1hZGRvbnMtdXBkYXRlJwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1449,31 +1462,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zX3Jlc3VsdC5hcHBlbmQoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zX3Jlc3VsdC5hcHBlbmQoMCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtLnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtLnR5cGUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndGVybScK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlID0gdmFsaWRhdGVkX2RhdGEucG9wKCd0eXBlJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAndGVybScK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1483,9 +1496,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVbnN1cHBvcnRlZE1lZGlhVHlwZVw+</last-search>
+      <last-search encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVbnN1cHBvcnRlZE1lZGlhVHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1493,7 +1506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checked_hora</entry>
         <entry encoding="base64">XDx1cGRhdGVUZXJtXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVGYWNpbGl0aWVzT2ZFdmVudFw+</entry>
         <entry encoding="base64">XDxjb25kaXRpb250ZXJtc19kYXRhXD4=</entry>
@@ -1513,6 +1525,7 @@
         <entry encoding="base64">XDxtYW5hZ2VfZXZlbnRfdGFza1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxVbnN1cHBvcnRlZE1lZGlhVHlwZVw+</entry>
+        <entry encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
