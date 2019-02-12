@@ -66,12 +66,6 @@
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" timestamp="1549992370937">
         <mark key="'" line="105" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" timestamp="1549379974406">
-        <mark key="'" line="309" column="55" />
-        <mark key="[" line="287" column="41" />
-        <mark key="]" line="287" column="41" />
-        <mark key="." line="287" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/models.py" timestamp="1549966805922">
         <mark key="'" line="113" column="21" />
         <mark key="[" line="384" column="22" />
@@ -79,8 +73,8 @@
         <mark key="." line="384" column="23" />
         <mark key="^" line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549903554858">
-        <mark key="'" line="63" column="22" />
+      <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549995789440">
+        <mark key="'" line="59" column="20" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -188,7 +182,7 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549877482726">
+      <file name="/Dummy.txt" timestamp="1549995888275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -236,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="53" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="285" column="84" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="286" column="31" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="287" column="29" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
@@ -272,7 +265,6 @@
       <jump line="650" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="24" column="24" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="22" column="6" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
-      <jump line="55" column="30" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="66" column="20" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="64" column="22" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="57" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -336,6 +328,8 @@
       <jump line="744" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="767" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
+      <jump line="55" column="30" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
+      <jump line="65" column="20" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1417,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>development</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1435,14 +1429,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>, type:'Value'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1462,31 +1456,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zX3Jlc3VsdC5hcHBlbmQoMCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKG9wZXJhdGlvbikgPT0gdW5pY29kZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gQ29uZGl0aW9uVGVybS5OT05FCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gb3BlcmF0aW9uWydpZCddCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtLnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zX3Jlc3VsdC5hcHBlbmQoMCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZXJtCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndGVybScK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
