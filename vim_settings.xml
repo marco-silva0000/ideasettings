@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" timestamp="1550163591888">
-        <mark key="'" line="129" column="26" />
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" timestamp="1550167888936">
+        <mark key="'" line="159" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549992399276">
         <mark key="'" line="39" column="0" />
@@ -240,11 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="535" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="25" column="29" filename="$USER_HOME$/Projects/core/fulgurit/events/api.py" />
-      <jump line="179" column="28" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
-      <jump line="76" column="8" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="84" column="49" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="61" column="28" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="776" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -340,6 +335,11 @@
       <jump line="229" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="17" column="34" filename="$USER_HOME$/Projects/core/apps/sprinklers/settings.py" />
       <jump line="129" column="26" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="137" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="138" column="37" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="151" column="8" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="152" column="21" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
+      <jump line="159" column="42" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1430,7 +1430,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>sleep</text>
+        <text encoding="base64">XDxzZXRwb2ludHNcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1500,9 +1500,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
+      <last-search encoding="base64">XDxzZXRwb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern>sleep</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRwb2ludHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1510,8 +1510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVEZWxldGVcPg==</entry>
-        <entry encoding="base64">XDxHZW5lcmljVGVybURhdGFTZXJpYWxpemVyXD4=</entry>
         <entry>type</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnRMYXRlc3RWYWx1ZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTZWxlY3RUZXJtVHlwZVw+</entry>
@@ -1530,6 +1528,8 @@
         <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50Vmlld1w+</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25cPg==</entry>
         <entry>sleep</entry>
+        <entry encoding="base64">XDxzdGF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzZXRwb2ludHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
