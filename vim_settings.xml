@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" timestamp="1550163591888">
+        <mark key="'" line="129" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549992399276">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="84" column="77" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="703" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="535" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="25" column="29" filename="$USER_HOME$/Projects/core/fulgurit/events/api.py" />
@@ -337,6 +339,7 @@
       <jump line="486" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="229" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="17" column="34" filename="$USER_HOME$/Projects/core/apps/sprinklers/settings.py" />
+      <jump line="129" column="26" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1427,7 +1430,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVyYXRpb25cPg==</text>
+        <text>sleep</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1497,9 +1500,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVyYXRpb25cPg==</last-search>
+      <last-search>sleep</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVyYXRpb25cPg==</last-pattern>
+      <last-pattern>sleep</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1507,7 +1510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWxldGVEaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVEZWxldGVcPg==</entry>
         <entry encoding="base64">XDxHZW5lcmljVGVybURhdGFTZXJpYWxpemVyXD4=</entry>
         <entry>type</entry>
@@ -1527,6 +1529,7 @@
         <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50Vmlld1w+</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25cPg==</entry>
+        <entry>sleep</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
