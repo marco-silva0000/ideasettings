@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" timestamp="1550161859819">
+        <mark key="[" line="223" column="42" />
+        <mark key="]" line="223" column="80" />
+        <mark key="^" line="223" column="80" />
+        <mark key="." line="223" column="80" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549992399276">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="84" column="77" />
@@ -72,6 +78,13 @@
         <mark key="]" line="384" column="23" />
         <mark key="." line="384" column="23" />
         <mark key="^" line="109" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/apps/sprinklers/settings.py" timestamp="1550161616871">
+        <mark key="'" line="17" column="34" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" timestamp="1549995789440">
         <mark key="'" line="59" column="20" />
@@ -230,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="55" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventSchedulePicker.jsx" />
       <jump line="271" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="703" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="535" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -330,6 +342,7 @@
       <jump line="284" column="45" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="486" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="229" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
+      <jump line="17" column="34" filename="$USER_HOME$/Projects/core/apps/sprinklers/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1411,7 +1424,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1430,13 +1443,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">b3BlcmF0aW9ucy5maW5kKChvcGVyYXRpb24pID0+IG9wZXJhdGlvbi5pZC5zdWJzdHJpbmcoMCwgMikgPT09IHRlcm0ub3BlcmF0aW9uLnN1YnN0cmluZygwLCAyKSkuaWNvbg==</text>
+        <text>CONSIDER_FINISH_TIME</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1456,28 +1469,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0eXBlKG9wZXJhdGlvbikgPT0gdW5pY29kZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gQ29uZGl0aW9uVGVybS5OT05FCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gb3BlcmF0aW9uWydpZCddCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKG9wZXJhdGlvbikgPT0gdW5pY29kZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gQ29uZGl0aW9uVGVybS5OT05FCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gb3BlcmF0aW9uWydpZCddCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zX3Jlc3VsdC5hcHBlbmQoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1zX3Jlc3VsdC5hcHBlbmQoMCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1539,8 +1552,8 @@
         <entry>141</entry>
         <entry>W</entry>
         <entry>NERDTreeTabsToggle</entry>
-        <entry>q</entry>
         <entry>30</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
