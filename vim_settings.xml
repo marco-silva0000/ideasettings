@@ -197,12 +197,12 @@
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1551117112387">
+      <file name="$USER_HOME$/Projects/core/simoc/devSettings.py" timestamp="1551461769561">
         <mark key="'" line="86" column="4" />
-        <mark key="[" line="82" column="13" />
-        <mark key="]" line="82" column="30" />
-        <mark key="." line="82" column="30" />
-        <mark key="^" line="82" column="30" />
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1548952436013">
         <mark key="'" line="98" column="27" />
@@ -1403,7 +1403,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.60.10</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
