@@ -22,11 +22,11 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1552063756377">
-        <mark key="[" line="222" column="4" />
-        <mark key="]" line="222" column="9" />
-        <mark key="." line="222" column="9" />
-        <mark key="^" line="222" column="9" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1552064579707">
+        <mark key="[" line="250" column="24" />
+        <mark key="]" line="250" column="36" />
+        <mark key="." line="250" column="36" />
+        <mark key="^" line="250" column="36" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
@@ -34,11 +34,12 @@
       <file name="/models.py" timestamp="1551463219770">
         <mark key="[" line="270" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1552063978796">
-        <mark key="'" line="68" column="17" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="76" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1552064740767">
+        <mark key="'" line="58" column="19" />
+        <mark key="[" line="59" column="57" />
+        <mark key="]" line="59" column="59" />
+        <mark key="." line="59" column="59" />
+        <mark key="^" line="59" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmailAction.jsx" timestamp="1549967237154">
         <mark key="[" line="6" column="0" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="19" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
       <jump line="651" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="195" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" />
@@ -329,6 +329,7 @@
       <jump line="62" column="0" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
       <jump line="86" column="4" filename="$USER_HOME$/Projects/core/simoc/devSettings.py" />
       <jump line="68" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="58" column="19" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1410,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>__all__</text>
+        <text>ssssssssss</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1429,13 +1430,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ2lkJywgJ25hbWUnLCAnY29kZScsICdvd25lcicsICdjb3VudHknLCAncGFyaXNoJywgJ2FyZWEnXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jb2RlID0gc2VsZi5jYWxjdWxhdGVfY29kZSgpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29kZSA9IHNlbGYucGFyaXNoX2lkICsgJy0nICsgc2VsZi5zZWN0aW9uICsgJy0nICsgc2VsZi5hcnRpY2xlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1455,31 +1456,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4ZXMgbm9uIGRpc3BsYXlpbmcgb2Ygc2F2ZWQgb3BlcmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5wYXJpc2hfaWQgKyAnLScgKyBzZWxmLnNlY3Rpb24gKyAnLScgKyBzZWxmLmFydGljbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxmLl9jb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGVkX2RhdGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29kZSA9IHNlbGZzc2VjdGlvbiArICcgJyArIHNlbGYuYXJ0aWNsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0eXBlKG9wZXJhdGlvbikgPT0gdW5pY29kZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gQ29uZGl0aW9uVGVybS5OT05FCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3BlcmF0aW9uID0gb3BlcmF0aW9uWydpZCddCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
+        <text encoding="base64">Zml4ZXMgbm9uIGRpc3BsYXlpbmcgb2Ygc2F2ZWQgb3BlcmF0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1Db250cm9sIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
