@@ -22,12 +22,13 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1552306439822">
-        <mark key="'" line="260" column="26" />
-        <mark key="[" line="303" column="41" />
-        <mark key="]" line="303" column="65" />
-        <mark key="." line="303" column="65" />
-        <mark key="^" line="303" column="65" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1552309842614">
+        <mark key="'" line="321" column="33" />
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="m" line="326" column="22" />
+        <mark key="." line="323" column="0" />
+        <mark key="^" line="15" column="51" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
@@ -230,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="956" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="114" column="25" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="635" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="649" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="650" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="24" column="24" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
@@ -330,6 +328,9 @@
       <jump line="154" column="6" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="157" column="4" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="259" column="26" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="304" column="43" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="54" column="48" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="321" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1411,7 +1412,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>label</text>
+        <text>max_length=128</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1420,7 +1421,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RyaWVzXD4=</text>
+        <text>json</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1429,14 +1430,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhYmVsID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyKQo=</text>
+      <register name="0" type="4">
+        <text>LandAreaCategoryType</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNyZWEgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1456,31 +1457,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuRm9yZWlnbktleShMYW5kQXJlYUNhdGVnb3J5VHlwZSkK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIHNyZWEgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhbmQgPSBtb2RlbHMuRm9yZWlnbktleShMYW5kKQo=</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuRm9yZWlnbktleShMYW5kQXJlYUNhdGVnb3J5VHlwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhbmQgPSBtb2RlbHMuRm9yZWlnbktleShMYW5kKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGFyZWEgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxhbmQgPSBtb2RlbHMuRm9yZWlnbktleShMYW5kKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhbmQgPSBtb2RlbHMuRm9yZWlnbktleShMYW5kKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZWEgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0RvY3VtZW50JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1490,9 +1491,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RyaWVzXD4=</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RyaWVzXD4=</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1500,8 +1501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signal</entry>
-        <entry encoding="base64">XDxtYW5hZ2VfZXZlbnRfdGFza1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxVbnN1cHBvcnRlZE1lZGlhVHlwZVw+</entry>
         <entry encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</entry>
@@ -1520,6 +1519,8 @@
         <entry encoding="base64">XDxSZWdpc3RyYXRpb25TaGVsbFNlcmlhbGl6ZXJTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxMYW5kU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxyZWdpc3RyaWVzXD4=</entry>
+        <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
