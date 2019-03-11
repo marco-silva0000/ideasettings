@@ -156,7 +156,7 @@
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1552068223488">
+      <file name="/Django Console" timestamp="1552319958468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1549364424545">
@@ -168,6 +168,7 @@
       <file name="/django_migrations [abmira@192.168.60.10]" timestamp="1548260961059">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/lora_controller.py" timestamp="1552320092811" />
       <file name="/organizations_contactgroup [abmira@192.168.60.10]" timestamp="1548262288211">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,8 +214,8 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1548952436013">
-        <mark key="'" line="98" column="27" />
+      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1552319938713">
+        <mark key="'" line="25" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0007_auto_20180725_1059.py" timestamp="1548437365577">
         <mark key="[" line="12" column="0" />
@@ -231,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="649" column="2" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="650" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="24" column="24" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="22" column="6" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="66" column="20" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
@@ -331,6 +330,8 @@
       <jump line="304" column="43" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="54" column="48" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="321" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="519" column="32" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="25" column="49" filename="$USER_HOME$/Projects/core/datalogger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1421,7 +1422,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1491,9 +1492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1501,7 +1502,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVfb3JfY3JlYXRlX2V2ZW50X3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxVbnN1cHBvcnRlZE1lZGlhVHlwZVw+</entry>
         <entry encoding="base64">XDxFbXBsb3llZUxpc3RTbXNBY3Rpb25cPg==</entry>
         <entry>data</entry>
@@ -1521,6 +1521,7 @@
         <entry encoding="base64">XDxyZWdpc3RyaWVzXD4=</entry>
         <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
         <entry>json</entry>
+        <entry encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
