@@ -22,8 +22,8 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1552330695151">
-        <mark key="'" line="15" column="43" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1552476851647">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="326" column="0" />
         <mark key="m" line="339" column="22" />
         <mark key="]" line="326" column="0" />
@@ -43,6 +43,11 @@
         <mark key="." line="196" column="45" />
         <mark key="^" line="196" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/EmailAction.jsx" timestamp="1549967237154">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1549542352516">
         <mark key="'" line="316" column="64" />
         <mark key="[" line="316" column="76" />
@@ -50,6 +55,7 @@
         <mark key="." line="316" column="76" />
         <mark key="^" line="316" column="86" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1552476601486" />
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1549544024463">
         <mark key="'" line="67" column="26" />
         <mark key="[" line="67" column="87" />
@@ -93,6 +99,11 @@
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1549905675242">
         <mark key="'" line="14" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/SmsAction.jsx" timestamp="1549967234399">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/organizations_contact [abmira@192.168.60.10]" timestamp="1548264808080">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,11 +117,11 @@
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" timestamp="1552330151068">
-        <mark key="[" line="47" column="104" />
-        <mark key="]" line="48" column="107" />
-        <mark key="^" line="48" column="107" />
-        <mark key="." line="48" column="107" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" timestamp="1552476899568">
+        <mark key="[" line="54" column="95" />
+        <mark key="]" line="54" column="104" />
+        <mark key="^" line="54" column="104" />
+        <mark key="." line="54" column="104" />
       </file>
       <file name="/organizations_client [abmira@icarus.fulgurit.eu]" timestamp="1548759498103">
         <mark key="[" line="0" column="0" />
@@ -124,11 +135,21 @@
       <file name="/irrigators_contract [abmira@192.168.60.10]" timestamp="1548258083350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1552476606051">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+      </file>
       <file name="/irrigators_abclient [abmira@icarus.fulgurit.eu]" timestamp="1548849479758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1552408729000">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1549907319718">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" timestamp="1550045343672">
         <mark key="'" line="229" column="22" />
@@ -176,6 +197,21 @@
       <file name="/organizations_contactgroup [abmira@192.168.60.10]" timestamp="1548262288211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/projects/core/fulgurit/organizations/migrations/0004_client_clientextradata_contact_email_hvdclient_phonenumber.py" timestamp="1548437083834">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1548849484377">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1548772193515">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,6 +220,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/ScheduleList.jsx" timestamp="1549379947795">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="18" />
       </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1548436683245">
         <mark key="[" line="0" column="0" />
@@ -208,12 +249,21 @@
       <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1552471860334">
         <mark key="'" line="523" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0007_auto_20180725_1059.py" timestamp="1548437365577">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0017_historicalabclient_historicalland_historicalregistration.py" timestamp="1548437398691">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/api.py" timestamp="1549385541526">
         <mark key="'" line="25" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="1" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="240" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="256" column="34" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -313,6 +363,7 @@
       <jump line="153" column="27" filename="$USER_HOME$/Projects/codingame/cheff.py" />
       <jump line="161" column="16" filename="$USER_HOME$/Projects/codingame/cheff.py" />
       <jump line="523" column="49" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1394,7 +1445,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IENvbnRyYWN0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1403,7 +1454,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</text>
+        <text>Contract</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1412,14 +1463,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>_croissant</text>
+      <register name="0" type="2">
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihSZWdpc3RyYXRpb24sIFJlZ2lzdHJhdGlvbkFkbWluKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1439,31 +1490,31 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Q0hPUFBJTkdCT0FSRCA9ICdDJwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">QkxVRUJFUlJJRVMpCiAgICAgICAgcmV0dXJuIHNlbGYuX2RvdWdoCgogICAgQHByb3BlcnR5CiAgICBkZWYgYmx1ZWJlcnJpZXMoc2VsZik6CiAgICAgICAgaWYgbm90IHNlbGYuX2JsdWViZXJyaWVzOgogICAgICAgICAgICBzZWxmLl9ibHVlYmVycmllcyA9IHNlbGYuZmluZF9maXJzdChCTFVFQkVSUklFUykKICAgICAgICByZXR1cm4gc2VsZi5fYmx1ZWJlcnJpZXMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBpY2VfY3JlYW0oc2VsZik6CiAgICAgICAgaWYgbm90IHNlbGYuX2ljZV9jcmVhbToKICAgICAgICAgICAgc2VsZi5faWNlX2NyZWFtID0gc2VsZi5maW5kX2ZpcnN0KElDRV9DUkVBTSkKICAgICAgICByZXR1cm4gc2VsZi5faWNlX2NyZWFtCgogICAgQHByb3BlcnR5CiAgICBkZWYgd2luZG93KHNlbGYpOgogICAgICAgIGlmIG5vdCBzZWxmLl93aW5kb3c6CiAgICAgICAgICAgIHNlbGYuX3dpbmRvdyA9IHNlbGYuZmluZF9maXJzdChXSU5ET1cpCiAgICAgICAgcmV0dXJuIHNlbGYuX3dpbmRvdwoKCiAgICBkZWYgZmluZF9maXJzdChzZWxmLCBnb2FsKToKICAgICAgICBmb3IgeSwgbGluZSBpbiBlbnVtZXJhdGUoc2VsZi5ncmlkKToKICAgICAgICAgICAgZm9yIHgsIHZhbHVlIGluIGVudW1lcmF0ZShsaW5lKToKICAgICAgICAgICAgICAgIGlmIHZhbHVlID09IGdvYWw6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHgsIHkKCmJvYXJkID0gQm9hcmQoYm9hcmQpCgojIGdhbWUgbG9vcApjbGFzcyBEaXNoOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvbnRlbnQ9JycpOgogICAgICAgIHNlbGYuY29udGVudCA9IGNvbnRlbnQKCiAgICBkZWYgaGFzX2JsdWViZXJpZXMoc2VsZik6CiAgICAgICAgcmV0dXJuICdCTFVFQkVSUklFUycgaW4gc2VsZi5jb250ZW50LnNwbGl0KCctJykKCiAgICBkZWYgaGFzX3N0cmF3YmVycmllcyhzZWxmKToKICAgICAgICByZXR1cm4gJ1NUUkFXQkVSUklFUycgaW4gc2VsZi5jb250ZW50LnNwbGl0KCctJykKCiAgICBkZWYg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aGFzX2Nob3BwZWRfc3RyYXdiZXJyaWVzKHNlbGYpOgogICAgICAgIHJldHVybiAnQ0hPUFBFRF9TVFJBV0JFUlJJRVMnIGluIHNlbGYuY29udGVudC5zcGxpdCgnLScpCgogICAgZGVmIGhhc19pY2VfY3JlYW0oc2VsZik6CiAgICAgICAgcmV0dXJuICdJQ0VfQ1JFQU0nIGluIHNlbGYuY29udGVudC5zcGxpdCgnLScpCgogICAgZGVmIGhhc19kaXNoKHNlbGYpOgogICAgICAgIHJldHVybiAnRElTSCcgaW4gc2VsZi5jb250ZW50LnNwbGl0KCctJykKCiAgICBkZWYgaXNfZW1wdHkoc2VsZik6CiAgICAgICAgcmV0dXJuICdESVNIJyA9PSBzZWxmLmNvbnRlbnQKCmRpc2ggPSBOb25lCmdvYWwgPSBbRElTSFdBU0hFUiwgQkxVRUJFUlJJRVMsIElDRV9DUkVBTSwgV0lORE9XXQpjdXJyZW50X2dvYWwgPSAwCnByZXZfcGxheWVyX2l0ZW0gPSBOb25lCm9yZGVyID0gTm9uZQoKd2hpbGUgVHJ1ZToKICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQogICAgcGxheWVyX3gsIHBsYXllcl95LCBwbGF5ZXJfaXRlbSA9IGlucHV0KCkuc3BsaXQoKQogICAgcHJpbnQoInBsYXllcl9pdGVtOiVzIiAlIHBsYXllcl9pdGVtLCBmaWxlPXN5cy5zdGRlcnIpCiAgICBwbGF5ZXJfeCA9IGludChwbGF5ZXJfeCkKICAgIHBsYXllcl95ID0gaW50KHBsYXllcl95KQogICAgcGFydG5lcl94LCBwYXJ0bmVyX3ksIHBhcnRuZXJfaXRlbSA9IGlucHV0KCkuc3BsaXQoKQogICAgcGFydG5lcl94ID0gaW50KHBhcnRuZXJfeCkKICAgIHBhcnRuZXJfeSA9IGludChwYXJ0bmVyX3kpCiAgICBudW1fdGFibGVzX3dpdGhfaXRlbXMgPSBpbnQoaW5wdXQoKSkgICMgdGhlIG51bWJlciBvZiB0YWJsZXMgaW4gdGhlIGtpdGNoZW4gdGhhdCBjdXJyZW50bHkgaG9sZCBhbiBpdGVtCiAgICBmb3IgaSBpbiByYW5nZShudW1fdGFibGVzX3dpdGhfaXRlbXMpOgogICAgICAgIHRhYmxlX3gsIHRhYmxlX3ksIGl0ZW0gPSBpbnB1dCgpLnNwbGl0KCkKICAgICAgICB0YWJsZV94ID0gaW50KHRhYmxlX3gpCiAgICAgICAgdGFibGVfeSA9IGludCh0YWJsZV95KQogICAgIyBvdmVuX2NvbnRlbnRzOiBpZ25vcmUgdW50aWwgd29vZCAxIGxlYWd1ZQogICAgb3Zlbl9jb250ZW50cywgb3Zlbl90aW1lciA9IGlucHV0KCkuc3BsaXQoKQogICAgb3Zlbl90aW1lciA9IGludChvdmVuX3RpbWVyKQogICAgbnVtX2N1c3RvbWVycyA9IGludChpbnB1dCgpKSAgIyB0aGUgbnVtYmVyIG9mIGN1c3RvbWVycyBjdXJyZW50bHkgd2FpdGluZyBmb3IgZm9vZAogICAgY3VzdG9tZXJzID0gW10KICAgIGZvciBpIGluIHJhbmdlKG51bV9jdXN0b21lcnMpOgogICAgICAgIGN1c3RvbWVyX2l0ZW0sIGN1c3RvbWVyX2F3YXJkID0gaW5wdXQoKS5zcGxpdCgpCiAgICAgICAgY3VzdG9tZXJfYXdhcmQgPSBpbnQoY3VzdG9tZXJfYXdhcmQpCiAgICAgICAgY3VzdG9tZXJzLmFwcGVuZCgoY3VzdG9tZXJfaXRlbSwgY3VzdG9tZXJfYXdhcmQpKQogICAgY3VzdG9tZXJzLnNvcnQoa2V5PWxhbWJkYSB4OiB4WzFdKQoKCiAgICBwbGF5ZXJfaXRlbSA9IERpc2gocGxheWVyX2l0ZW0pCiAgICBpZiBwbGF5ZXJfaXRlbS5jb250ZW50ID09ICdOT05FJzoKICAgICAgICBvcmRlciA9IE5vbmUKICAgIGlmIG5vdCBvcmRlcjoKICAgICAgICBvcmRlciA9IERpc2goY3VzdG9tZXJzWzFdWzBdKQoKCiAgICBsb2cob3JkZXIuY29udGVudCkKICAgIGlmIG9yZGVyLmhhc19jaG9wcGVkX3N0cmF3YmVycmllcygpOgogICAgICAgIGlmIG5vdCBwbGF5ZXJfaXRlbS5oYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXMoKToKICAgICAgICAgICAgaWYgbm90IHBsYXllcl9pdGVtLmhhc19zdHJhd2JlcnJpZXMoKToKICAgICAgICAgICAgICAgIHByaW50KCdVU0UgJWQgJWQ7IGdldHRpbmcgc3RyYXdiZXJyaWVzJyAlIGJvYXJkLnN0cmF3YmVycmllcykKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByaW50KCdVU0UgJWQgJWQnICUgYm9hcmQuY2hvcHBpbmdfYm9hcmQpCgoKICAgIGlmIG5vdCBwbGF5ZXJfaXRlbS5oYXNfZGlzaCgpOgogICAgICAgIHByaW50KCdVU0UgJWQgJWQ7IGdldHRpbmcg</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZyhzcmRlci5jb250ZW50KQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">aGFzX2Nob3BwZWRfc3RyYXdiZXJyaWVzKHNlbGYpOgogICAgICAgIHJldHVybiAnQ0hPUFBFRF9TVFJBV0JFUlJJRVMnIGluIHNlbGYuY29udGVudC5zcGxpdCgnLScpCgogICAgZGVmIGhhc19pY2VfY3JlYW0oc2VsZik6CiAgICAgICAgcmV0dXJuICdJQ0VfQ1JFQU0nIGluIHNlbGYuY29udGVudC5zcGxpdCgnLScpCgogICAgZGVmIGhhc19kaXNoKHNlbGYpOgogICAgICAgIHJldHVybiAnRElTSCcgaW4gc2VsZi5jb250ZW50LnNwbGl0KCctJykKCiAgICBkZWYgaXNfZW1wdHkoc2VsZik6CiAgICAgICAgcmV0dXJuICdESVNIJyA9PSBzZWxmLmNvbnRlbnQKCmRpc2ggPSBOb25lCmdvYWwgPSBbRElTSFdBU0hFUiwgQkxVRUJFUlJJRVMsIElDRV9DUkVBTSwgV0lORE9XXQpjdXJyZW50X2dvYWwgPSAwCnByZXZfcGxheWVyX2l0ZW0gPSBOb25lCm9yZGVyID0gTm9uZQoKd2hpbGUgVHJ1ZToKICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQogICAgcGxheWVyX3gsIHBsYXllcl95LCBwbGF5ZXJfaXRlbSA9IGlucHV0KCkuc3BsaXQoKQogICAgcHJpbnQoInBsYXllcl9pdGVtOiVzIiAlIHBsYXllcl9pdGVtLCBmaWxlPXN5cy5zdGRlcnIpCiAgICBwbGF5ZXJfeCA9IGludChwbGF5ZXJfeCkKICAgIHBsYXllcl95ID0gaW50KHBsYXllcl95KQogICAgcGFydG5lcl94LCBwYXJ0bmVyX3ksIHBhcnRuZXJfaXRlbSA9IGlucHV0KCkuc3BsaXQoKQogICAgcGFydG5lcl94ID0gaW50KHBhcnRuZXJfeCkKICAgIHBhcnRuZXJfeSA9IGludChwYXJ0bmVyX3kpCiAgICBudW1fdGFibGVzX3dpdGhfaXRlbXMgPSBpbnQoaW5wdXQoKSkgICMgdGhlIG51bWJlciBvZiB0YWJsZXMgaW4gdGhlIGtpdGNoZW4gdGhhdCBjdXJyZW50bHkgaG9sZCBhbiBpdGVtCiAgICBmb3IgaSBpbiByYW5nZShudW1fdGFibGVzX3dpdGhfaXRlbXMpOgogICAgICAgIHRhYmxlX3gsIHRhYmxlX3ksIGl0ZW0gPSBpbnB1dCgpLnNwbGl0KCkKICAgICAgICB0YWJsZV94ID0gaW50KHRhYmxlX3gpCiAgICAgICAgdGFibGVfeSA9IGludCh0YWJsZV95KQogICAgIyBvdmVuX2NvbnRlbnRzOiBpZ25vcmUgdW50aWwgd29vZCAxIGxlYWd1ZQogICAgb3Zlbl9jb250ZW50cywgb3Zlbl90aW1lciA9IGlucHV0KCkuc3BsaXQoKQogICAgb3Zlbl90aW1lciA9IGludChvdmVuX3RpbWVyKQogICAgbnVtX2N1c3RvbWVycyA9IGludChpbnB1dCgpKSAgIyB0aGUgbnVtYmVyIG9mIGN1c3RvbWVycyBjdXJyZW50bHkgd2FpdGluZyBmb3IgZm9vZAogICAgY3VzdG9tZXJzID0gW10KICAgIGZvciBpIGluIHJhbmdlKG51bV9jdXN0b21lcnMpOgogICAgICAgIGN1c3RvbWVyX2l0ZW0sIGN1c3RvbWVyX2F3YXJkID0gaW5wdXQoKS5zcGxpdCgpCiAgICAgICAgY3VzdG9tZXJfYXdhcmQgPSBpbnQoY3VzdG9tZXJfYXdhcmQpCiAgICAgICAgY3VzdG9tZXJzLmFwcGVuZCgoY3VzdG9tZXJfaXRlbSwgY3VzdG9tZXJfYXdhcmQpKQogICAgY3VzdG9tZXJzLnNvcnQoa2V5PWxhbWJkYSB4OiB4WzFdKQoKCiAgICBwbGF5ZXJfaXRlbSA9IERpc2gocGxheWVyX2l0ZW0pCiAgICBpZiBwbGF5ZXJfaXRlbS5jb250ZW50ID09ICdOT05FJzoKICAgICAgICBvcmRlciA9IE5vbmUKICAgIGlmIG5vdCBvcmRlcjoKICAgICAgICBvcmRlciA9IERpc2goY3VzdG9tZXJzWzFdWzBdKQoKCiAgICBsb2cob3JkZXIuY29udGVudCkKICAgIGlmIG9yZGVyLmhhc19jaG9wcGVkX3N0cmF3YmVycmllcygpOgogICAgICAgIGlmIG5vdCBwbGF5ZXJfaXRlbS5oYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXMoKToKICAgICAgICAgICAgaWYgbm90IHBsYXllcl9pdGVtLmhhc19zdHJhd2JlcnJpZXMoKToKICAgICAgICAgICAgICAgIHByaW50KCdVU0UgJWQgJWQ7IGdldHRpbmcgc3RyYXdiZXJyaWVzJyAlIGJvYXJkLnN0cmF3YmVycmllcykKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByaW50KCdVU0UgJWQgJWQnICUgYm9hcmQuY2hvcHBpbmdfYm9hcmQpCgoKICAgIGlmIG5vdCBwbGF5ZXJfaXRlbS5oYXNfZGlzaCgpOgogICAgICAgIHByaW50KCdVU0UgJWQgJWQ7IGdldHRpbmcg</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cyAgIGlmIG9yZGVyLmhhc19jaG9wcGVkX3N0cmF3YmVycmllcygpOgo=</text>
+        <text encoding="base64">ICAgIGxvZyhzcmRlci5jb250ZW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZyhzcmRlci5jb250ZW50KQo=</text>
+        <text encoding="base64">cyAgIGlmIG9yZGVyLmhhc19jaG9wcGVkX3N0cmF3YmVycmllcygpOgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1473,9 +1524,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</last-search>
+      <last-search>Contract</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</last-pattern>
+      <last-pattern>Contract</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1483,7 +1534,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry encoding="base64">XDx1cGRhdGVUZXJtXD4=</entry>
         <entry>data:</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
@@ -1503,6 +1553,7 @@
         <entry encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</entry>
         <entry encoding="base64">XDxKU09ORmllbGRcPg==</entry>
         <entry encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</entry>
+        <entry>Contract</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
