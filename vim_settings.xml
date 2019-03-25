@@ -22,12 +22,12 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553519388374">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553520158208">
         <mark key="'" line="313" column="23" />
-        <mark key="[" line="317" column="17" />
-        <mark key="]" line="317" column="20" />
-        <mark key="." line="317" column="20" />
-        <mark key="^" line="317" column="20" />
+        <mark key="[" line="320" column="17" />
+        <mark key="]" line="319" column="64" />
+        <mark key="." line="319" column="64" />
+        <mark key="^" line="319" column="64" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
@@ -1423,7 +1423,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>self.landareacategory_set</text>
+        <text>LandAreaCategoryType</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
