@@ -22,12 +22,12 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553693448898">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553693699590">
         <mark key="'" line="420" column="31" />
-        <mark key="[" line="427" column="12" />
-        <mark key="]" line="427" column="17" />
-        <mark key="^" line="427" column="17" />
-        <mark key="." line="427" column="17" />
+        <mark key="[" line="431" column="0" />
+        <mark key="]" line="431" column="0" />
+        <mark key="." line="431" column="0" />
+        <mark key="^" line="430" column="35" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
@@ -1397,7 +1397,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>FloatField</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1416,13 +1416,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9ic2VydmF0aW9ucyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDI0KQo=</text>
+        <text encoding="base64">ICAgIGFyZWEgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0RvY3VtZW50JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1441,36 +1441,36 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG9ic2VydmF0aW9ucyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDI0KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTYsIGNob2ljZXM9RURJVElPTl9UWVBFUykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0RvY3VtZW50JykK</text>
+      </register>
+      <register name="5" type="8">
         <text>(
 (
 (
 (
 (</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51cGRhdGUocmVxdWVzdCwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3NbJ3BhcnRpYWwnXSA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
