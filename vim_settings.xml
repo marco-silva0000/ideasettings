@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1548851152435">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/migrations/0043_auto_20190328_1037.py" timestamp="1553770024255" />
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/actions/ActionList.jsx" timestamp="1549364379109">
         <mark key="'" line="108" column="105" />
         <mark key="[" line="101" column="0" />
@@ -22,28 +23,28 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553709008896">
-        <mark key="'" line="436" column="31" />
-        <mark key="[" line="334" column="27" />
-        <mark key="]" line="334" column="45" />
-        <mark key="^" line="334" column="27" />
-        <mark key="." line="334" column="27" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553770162255">
+        <mark key="'" line="438" column="31" />
+        <mark key="[" line="483" column="47" />
+        <mark key="]" line="483" column="57" />
+        <mark key="^" line="483" column="57" />
+        <mark key="." line="483" column="57" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/models.py" timestamp="1551463219770">
+      <file name="/models.py" timestamp="1553770196276">
         <mark key="[" line="270" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1553766855148">
         <mark key="'" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553708819197">
-        <mark key="'" line="235" column="54" />
-        <mark key="[" line="236" column="51" />
-        <mark key="]" line="236" column="63" />
-        <mark key="." line="235" column="53" />
-        <mark key="^" line="236" column="49" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553769809283">
+        <mark key="'" line="234" column="54" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="235" column="49" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/treebeard/mp_tree.py" timestamp="1553766875719" />
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1549542352516">
@@ -148,7 +149,7 @@
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1553698032878">
+      <file name="/Django Console" timestamp="1553770236204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1549364424545">
@@ -178,10 +179,10 @@
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553601110646">
+      <file name="/Dummy.txt" timestamp="1553770314129">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
         <mark key="o" line="0" column="10" />
       </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1548436683245">
@@ -1399,7 +1400,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>soileditions</text>
+        <text>ontrol of allowed patches on land</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1418,13 +1419,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>soil_editions_data</text>
+        <text>self.landsoileditions_set</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1444,35 +1445,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHByb3ZhbF9kYXRlJzogc29pbF9lZGl0aW9uWydhcHByb3ZhbF9kYXRlJ10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9ic2VydmF0aW9ucyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDI0LCBudWxsPVRydWUsIGJsYW5rPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9jZXNzX251bWJlcic6IHNvaWxfZWRpdGlvblsncHJvY2Vzc19udW1iZXInXSwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9ic2VydmF0aW9ucyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDI0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc29pbF9lZGl0aW9uWydhZG1pdGlvbl9kYXRlJ10gbm90IGluIFsnJywgJ0ludmFsaWQgZGF0ZSddOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTYsIGNob2ljZXM9RURJVElPTl9UWVBFUykK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0RvY3VtZW50JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>(
-(
-(
-(
-(</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
