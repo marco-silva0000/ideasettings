@@ -22,12 +22,12 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553708542863">
-        <mark key="'" line="420" column="31" />
-        <mark key="[" line="411" column="6" />
-        <mark key="]" line="411" column="21" />
-        <mark key="." line="431" column="0" />
-        <mark key="^" line="430" column="35" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553709008896">
+        <mark key="'" line="436" column="31" />
+        <mark key="[" line="334" column="27" />
+        <mark key="]" line="334" column="45" />
+        <mark key="^" line="334" column="27" />
+        <mark key="." line="334" column="27" />
       </file>
       <file name="/organizations_contact [abmira@icarus.fulgurit.eu]" timestamp="1548669620063">
         <mark key="[" line="0" column="0" />
@@ -35,12 +35,12 @@
       <file name="/models.py" timestamp="1551463219770">
         <mark key="[" line="270" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553708625609">
-        <mark key="'" line="149" column="14" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="26" />
-        <mark key="." line="219" column="0" />
-        <mark key="^" line="216" column="12" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553708819197">
+        <mark key="'" line="235" column="54" />
+        <mark key="[" line="236" column="51" />
+        <mark key="]" line="236" column="63" />
+        <mark key="." line="235" column="53" />
+        <mark key="^" line="236" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1549542352516">
         <mark key="'" line="316" column="64" />
@@ -81,6 +81,11 @@
         <mark key="]" line="17" column="32" />
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1553708908485">
+        <mark key="'" line="170" column="24" />
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="410" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1549905675242">
         <mark key="'" line="14" column="24" />
@@ -216,10 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="5" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
-      <jump line="45" column="5" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
-      <jump line="138" column="10" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
-      <jump line="198" column="9" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
       <jump line="141" column="11" filename="$USER_HOME$/Projects/core/simoc/settings.py" />
       <jump line="534" column="27" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
       <jump line="202" column="33" filename="$USER_HOME$/Projects/core/fulgurit/events/models.py" />
@@ -316,6 +317,10 @@
       <jump line="102" column="32" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="107" column="35" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="415" column="31" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
+      <jump line="236" column="65" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="235" column="54" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="139" column="17" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
+      <jump line="170" column="24" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1397,7 +1402,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Land</text>
+        <text>soileditions</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1406,7 +1411,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRjaFw+</text>
+        <text encoding="base64">XDx1cGRhdGVfc29pbF9lZGl0aW9uc1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1415,14 +1420,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
+      <register name="0" type="4">
+        <text>soil_editions_data</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1442,35 +1447,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9ic2VydmF0aW9ucyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDI0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTYsIGNob2ljZXM9RURJVElPTl9UWVBFUykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0RvY3VtZW50JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>(
-(
-(
-(
-(</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9ic2VydmF0aW9ucyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMDI0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTYsIGNob2ljZXM9RURJVElPTl9UWVBFUykK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0RvY3VtZW50JykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="8">
+        <text>(
+(
+(
+(
+(</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1480,9 +1485,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRjaFw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfc29pbF9lZGl0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfc29pbF9lZGl0aW9uc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1490,7 +1495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data:</entry>
         <entry encoding="base64">XDxuZXdFdmVudFw+</entry>
         <entry encoding="base64">XDxfRXZlbnRzQ29uZGl0aW9uXD4=</entry>
         <entry encoding="base64">XDxDb25kaXRpb25FbGVtZW50XD4=</entry>
@@ -1510,6 +1514,7 @@
         <entry encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</entry>
         <entry>Contract</entry>
         <entry encoding="base64">XDxwYXRjaFw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVfc29pbF9lZGl0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
