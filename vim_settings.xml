@@ -22,6 +22,7 @@
       <file name="/infrastructure_sensorinfaucet [abmira@icarus.fulgurit.eu]" timestamp="1548776777170">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" timestamp="1553875348388" />
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1553858616842">
         <mark key="'" line="438" column="31" />
         <mark key="[" line="483" column="47" />
@@ -140,6 +141,7 @@
       <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1549903185883">
         <mark key="'" line="141" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/br_uncompress/br_uncompress.c" timestamp="1553875233892" />
       <file name="/a.sql" timestamp="1548437546157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,7 +151,7 @@
       <file name="/irrigators_abclient [abmira@192.168.60.10]" timestamp="1548324876535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1553857872163">
+      <file name="/Django Console" timestamp="1553874872620">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1549364424545">
@@ -196,6 +198,7 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/loggers/gladiator_v2.py" timestamp="1553875301799" />
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,8 +209,8 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1552471860334">
-        <mark key="'" line="523" column="49" />
+      <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1553875045602">
+        <mark key="'" line="473" column="40" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1553859604486">
         <mark key="[" line="24" column="0" />
@@ -218,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="47" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="384" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="385" column="82" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="426" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -318,6 +320,7 @@
       <jump line="80" column="27" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="32" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="0" column="54" filename="/Dummy.txt" />
+      <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1408,7 +1411,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</text>
+        <text encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1471,9 +1474,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</last-search>
+      <last-search encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1481,7 +1484,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRwb2ludHNcPg==</entry>
         <entry encoding="base64">XDxWYXJpYWJsZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxSZWdpc3RyYXRpb25TaGVsbFNlcmlhbGl6ZXJTZXJpYWxpemVyXD4=</entry>
@@ -1501,6 +1503,7 @@
         <entry encoding="base64">XDx1cGRhdGVfYXJlYXNcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2FyZWFzXD4=</entry>
         <entry encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
