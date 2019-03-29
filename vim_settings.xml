@@ -85,12 +85,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1553785670100">
-        <mark key="'" line="137" column="32" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="85" column="37" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1553856552304">
+        <mark key="'" line="143" column="29" />
+        <mark key="[" line="145" column="61" />
+        <mark key="]" line="145" column="62" />
+        <mark key="." line="145" column="62" />
+        <mark key="^" line="145" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1549905675242">
         <mark key="'" line="14" column="24" />
@@ -219,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="127" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="255" column="32" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="265" column="46" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="361" column="14" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -318,7 +317,8 @@
       <jump line="158" column="24" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="100" column="27" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="110" column="32" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="143" column="32" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
+      <jump line="97" column="29" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
+      <jump line="143" column="29" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1400,7 +1400,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>instance</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1419,7 +1419,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>self.landsoileditions_set</text>
+        <text>data_to_patch</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
