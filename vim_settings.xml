@@ -155,11 +155,9 @@
       <file name="/JavaScript Console" timestamp="1549364424545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/cheff.py" timestamp="1552411952700">
+      <file name="$USER_HOME$/Projects/codingame/cheff.py" timestamp="1553873585102">
         <mark key="'" line="179" column="16" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="^" line="140" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipments/models.py" timestamp="1551117032510">
         <mark key="'" line="477" column="38" />
@@ -1401,7 +1399,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>alters d</text>
+        <text>input()</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1420,57 +1418,50 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwZXJmb3JtX2NyZWF0ZShzZWxmLCBzZXJpYWxpemVyKToKICAgICAgICBzZXJpYWxpemVyLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgIHR1cm5zX3JlbWFpbmluZzEwID0gaW50KGlucHV0KCkpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+          <key char="48" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLnVwZGF0ZShnZW5lcmFsX2RhdGEpCiAgICAgICAgZGF0YS51cGRhdGUoZ2VuZXJhbF9kYXRhKQogICAgICAgIGRhdGEudXBkYXRlKGdlbmVyYWxfZGF0YSkKICAgICAgICBkYXRhLnVwZGF0ZShnZW5lcmFsX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHoK</text>
+        <text encoding="base64">ICAgIHR1cm5zX3JlbWFpbmluZzEgPSBpbnQoaW5wdXQoKSkKICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQogICAgdHVybnNfcmVtYWluaW5nID0gaW50KGlucHV0KCkpCiAgICB0dXJuc19yZW1haW5pbmcgPSBpbnQoaW5wdXQoKSkKICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQogICAgdHVybnNfcmVtYWluaW5nID0gaW50KGlucHV0KCkpCiAgICB0dXJuc19yZW1haW5pbmcgPSBpbnQoaW5wdXQoKSkKICAgIHR1cm5zX3JlbWFpbmluZyA9IGludChpbnB1dCgpKQogICAgdHVybnNfcmVtYWluaW5nID0gaW50KGlucHV0KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgei51cGRhdGUoeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeiA9IHguY29weSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLnVwZGF0ZShnZW5lcmFsX2RhdGEpCiAgICAgICAgZGF0YS51cGRhdGUoZ2VuZXJhbF9kYXRhKQogICAgICAgIGRhdGEudXBkYXRlKGdlbmVyYWxfZGF0YSkKICAgICAgICBkYXRhLnVwZGF0ZShnZW5lcmFsX2RhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiR2l2ZW4gdHdvIGRpY3RzLCBtZXJnZSB0aGVtIGludG8gYSBuZXcgZGljdCBhcyBhIHNoYWxsb3cgY29weS4iIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbWVyZ2VfdHdvX2RpY3RzKHgsIHkpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgei51cGRhdGUoeSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gZGljdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeiA9IHguY29weSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiR2l2ZW4gdHdvIGRpY3RzLCBtZXJnZSB0aGVtIGludG8gYSBuZXcgZGljdCBhcyBhIHNoYWxsb3cgY29weS4iIiIK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
