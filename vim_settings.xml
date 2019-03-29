@@ -39,12 +39,12 @@
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1553766855148">
         <mark key="'" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553878356280">
-        <mark key="'" line="225" column="37" />
-        <mark key="[" line="234" column="68" />
-        <mark key="]" line="234" column="79" />
-        <mark key="." line="234" column="79" />
-        <mark key="^" line="234" column="79" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553879537891">
+        <mark key="'" line="233" column="16" />
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1549542352516">
         <mark key="'" line="316" column="64" />
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="266" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="498" column="89" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="321" column="67" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="483" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -272,7 +270,6 @@
       <jump line="53" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="1" column="30" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="134" column="16" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="154" column="6" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="157" column="4" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="259" column="26" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
@@ -325,11 +322,14 @@
       <jump line="0" column="54" filename="/Dummy.txt" />
       <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="229" column="25" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="17" column="43" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="387" column="49" filename="/projects/core/fulgurit/organizations/serializers.py" />
       <jump line="925" column="22" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="225" column="37" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="244" column="35" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/relations.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="136" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="17" column="6" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="230" column="16" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1420,7 +1420,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</text>
+        <text encoding="base64">XDxBQkNsaWVudFNoZWxsU2VyaWFsaXplclw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1483,9 +1483,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxBQkNsaWVudFNoZWxsU2VyaWFsaXplclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBQkNsaWVudFNoZWxsU2VyaWFsaXplclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1493,7 +1493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRwb2ludHNcPg==</entry>
         <entry encoding="base64">XDxWYXJpYWJsZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxSZWdpc3RyYXRpb25TaGVsbFNlcmlhbGl6ZXJTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxMYW5kU2VyaWFsaXplclw+</entry>
@@ -1513,6 +1512,7 @@
         <entry encoding="base64">XDxwcm9jZXNzX2FyZWFzXD4=</entry>
         <entry encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</entry>
         <entry encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</entry>
+        <entry encoding="base64">XDxBQkNsaWVudFNoZWxsU2VyaWFsaXplclw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
