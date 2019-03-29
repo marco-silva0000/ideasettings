@@ -39,12 +39,12 @@
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1553766855148">
         <mark key="'" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553769809283">
-        <mark key="'" line="234" column="54" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="235" column="49" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553878356280">
+        <mark key="'" line="225" column="37" />
+        <mark key="[" line="234" column="68" />
+        <mark key="]" line="234" column="79" />
+        <mark key="." line="234" column="79" />
+        <mark key="^" line="234" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventInfo.jsx" timestamp="1549542352516">
         <mark key="'" line="316" column="64" />
@@ -52,6 +52,9 @@
         <mark key="]" line="316" column="76" />
         <mark key="." line="316" column="76" />
         <mark key="^" line="316" column="86" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1553878180889">
+        <mark key="'" line="925" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditions.jsx" timestamp="1549544024463">
         <mark key="'" line="67" column="26" />
@@ -86,12 +89,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1553859978977">
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1553877885133">
         <mark key="'" line="32" column="33" />
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="14" />
-        <mark key="." line="71" column="14" />
-        <mark key="^" line="71" column="14" />
+        <mark key="[" line="81" column="14" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="17" />
+        <mark key="^" line="81" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tasks.py" timestamp="1549905675242">
         <mark key="'" line="14" column="24" />
@@ -105,6 +108,9 @@
         <mark key="]" line="78" column="98" />
         <mark key="." line="78" column="98" />
         <mark key="^" line="78" column="98" />
+      </file>
+      <file name="/projects/core/fulgurit/organizations/serializers.py" timestamp="1553878056296">
+        <mark key="'" line="387" column="49" />
       </file>
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
@@ -216,17 +222,14 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/relations.py" timestamp="1553878290492">
+        <mark key="'" line="244" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/api.py" timestamp="1549385541526">
         <mark key="'" line="25" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="385" column="82" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="426" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="178" column="53" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="179" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="220" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="221" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="266" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="498" column="89" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -321,6 +324,12 @@
       <jump line="32" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="0" column="54" filename="/Dummy.txt" />
       <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="229" column="25" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="17" column="43" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="387" column="49" filename="/projects/core/fulgurit/organizations/serializers.py" />
+      <jump line="925" column="22" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="225" column="37" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="244" column="35" filename="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/relations.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1402,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>input()</text>
+        <text>ParishSerializer(write_only=True, )</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1421,7 +1430,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR1cm5zX3JlbWFpbmluZzEwID0gaW50KGlucHV0KCkpCg==</text>
+        <text encoding="base64">ICAgIHBhcmlzaCA9IFBhcmlzaFNlcmlhbGl6ZXIoKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
