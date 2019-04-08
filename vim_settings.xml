@@ -137,6 +137,13 @@
       <file name="/Python Console" timestamp="1552408729000">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" timestamp="1554733041393">
+        <mark key="'" line="150" column="37" />
+        <mark key="[" line="170" column="49" />
+        <mark key="]" line="170" column="49" />
+        <mark key="." line="170" column="58" />
+        <mark key="^" line="138" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1549903185883">
         <mark key="'" line="141" column="11" />
       </file>
@@ -218,14 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="385" column="82" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="426" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="178" column="53" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="179" column="17" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="220" column="28" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="221" column="63" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
-      <jump line="266" column="11" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="498" column="89" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="321" column="67" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="483" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -318,6 +317,14 @@
       <jump line="32" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="0" column="54" filename="/Dummy.txt" />
       <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
+      <jump line="77" column="26" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="76" column="66" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="138" column="58" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="145" column="58" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="152" column="33" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="160" column="33" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="153" column="37" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
+      <jump line="150" column="37" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1353,7 +1360,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Pipe</text>
+        <text>get_instance</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1399,7 +1406,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>input()</text>
+        <text>get_instance</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1408,7 +1415,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</text>
+        <text>get_inst</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1471,9 +1478,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</last-search>
+      <last-search>get_inst</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</last-pattern>
+      <last-pattern>get_inst</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1481,7 +1488,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRwb2ludHNcPg==</entry>
         <entry encoding="base64">XDxWYXJpYWJsZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxSZWdpc3RyYXRpb25TaGVsbFNlcmlhbGl6ZXJTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxMYW5kU2VyaWFsaXplclw+</entry>
@@ -1498,9 +1504,10 @@
         <entry encoding="base64">XDxwYXRjaF9sYW5kXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3NvaWxfZWRpdGlvbnNcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfYXJlYXNcPg==</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX2FyZWFzXD4=</entry>
         <entry encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</entry>
         <entry encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX2FyZWFzXD4=</entry>
+        <entry>get_inst</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
