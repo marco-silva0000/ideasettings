@@ -1,0 +1,209 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/frontend/hydrants.git" />
+          <option name="name" value="hydrants" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/frontend/hydrants.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/frontend/metering.git" />
+          <option name="name" value="metering" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/frontend/metering.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/analysis.git" />
+          <option name="name" value="analysis" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/android-fieldwork.git" />
+          <option name="name" value="android-fieldwork" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/android-fieldwork.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/crops.git" />
+          <option name="name" value="crops" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/crops.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fieldwork.git" />
+          <option name="name" value="fieldwork" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fieldwork.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fitmos.git" />
+          <option name="name" value="fitmos" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fitmos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/frontend-reusable-components.git" />
+          <option name="name" value="frontend-reusable-components" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/frontend-reusable-components.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fulgurit-localization.git" />
+          <option name="name" value="fulgurit-localization" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fulgurit-localization.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fullgurit-regantes.git" />
+          <option name="name" value="fullgurit-regantes" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fullgurit-regantes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/gtc.git" />
+          <option name="name" value="gtc" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/gtc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/metering.git" />
+          <option name="name" value="metering" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/metering.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/sensoring.git" />
+          <option name="name" value="sensoring" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/sensoring.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/regantes/regantes-backend.git" />
+          <option name="name" value="regantes-backend" />
+          <option name="namespace" value="regantes" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/regantes/regantes-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/regantes/regantes-frontend.git" />
+          <option name="name" value="regantes-frontend" />
+          <option name="namespace" value="regantes" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/regantes/regantes-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/frontend/hydrants.git" />
+          <option name="name" value="hydrants" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/frontend/hydrants.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/frontend/metering.git" />
+          <option name="name" value="metering" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/frontend/metering.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/analysis.git" />
+          <option name="name" value="analysis" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/android-fieldwork.git" />
+          <option name="name" value="android-fieldwork" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/android-fieldwork.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/core.git" />
+          <option name="name" value="core" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/core.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/crops.git" />
+          <option name="name" value="crops" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/crops.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fieldwork.git" />
+          <option name="name" value="fieldwork" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fieldwork.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fitmos.git" />
+          <option name="name" value="fitmos" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fitmos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/frontend-reusable-components.git" />
+          <option name="name" value="frontend-reusable-components" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/frontend-reusable-components.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fulgurit-localization.git" />
+          <option name="name" value="fulgurit-localization" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fulgurit-localization.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/fullgurit-regantes.git" />
+          <option name="name" value="fullgurit-regantes" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/fullgurit-regantes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/gtc.git" />
+          <option name="name" value="gtc" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/gtc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/metering.git" />
+          <option name="name" value="metering" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/metering.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/sensoring.git" />
+          <option name="name" value="sensoring" />
+          <option name="namespace" value="fulgurit" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/sensoring.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/regantes/regantes-backend.git" />
+          <option name="name" value="regantes-backend" />
+          <option name="namespace" value="regantes" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/regantes/regantes-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/fulgurit/regantes/regantes-frontend.git" />
+          <option name="name" value="regantes-frontend" />
+          <option name="namespace" value="regantes" />
+          <option name="sshUrl" value="git@gitlab.com:fulgurit/regantes/regantes-frontend.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="CEzQz9Age1pvNbGJYewy" />
+          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
