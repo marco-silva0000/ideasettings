@@ -233,6 +233,12 @@
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/relations.py" timestamp="1553878290492">
         <mark key="'" line="244" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/orm/orm/models.py" timestamp="1555361401186">
+        <mark key="[" line="193" column="31" />
+        <mark key="]" line="193" column="30" />
+        <mark key="^" line="193" column="30" />
+        <mark key="." line="193" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/django/tests/cache/tests.py" timestamp="1555152588337">
         <mark key="[" line="1271" column="0" />
         <mark key="m" line="1264" column="21" />
@@ -243,11 +249,11 @@
       <file name="$USER_HOME$/Projects/core/fulgurit/events/api.py" timestamp="1549385541526">
         <mark key="'" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/orm/tests/test_models.py" timestamp="1555359477584">
-        <mark key="[" line="169" column="77" />
-        <mark key="]" line="169" column="81" />
-        <mark key="." line="169" column="81" />
-        <mark key="^" line="169" column="81" />
+      <file name="$USER_HOME$/Projects/orm/tests/test_models.py" timestamp="1555361502889">
+        <mark key="[" line="167" column="63" />
+        <mark key="]" line="167" column="62" />
+        <mark key="." line="167" column="62" />
+        <mark key="^" line="167" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -1432,7 +1438,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>T-Shirt</text>
+        <text>eu</text>
       </register>
       <register name="m" type="4">
         <keys>
