@@ -243,6 +243,12 @@
       <file name="$USER_HOME$/Projects/core/fulgurit/events/api.py" timestamp="1549385541526">
         <mark key="'" line="25" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/orm/tests/test_models.py" timestamp="1555359477584">
+        <mark key="[" line="169" column="77" />
+        <mark key="]" line="169" column="81" />
+        <mark key="." line="169" column="81" />
+        <mark key="^" line="169" column="81" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="498" column="89" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -1426,7 +1432,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>T-Shirt</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1444,14 +1450,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>PyMemcacheCache_params</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYXdhaXQgUHJvZHVjdC5vYmplY3RzLm9yZGVyX2J5KCctbmFtZScpWzBdLm5hbWUgPT0gIlQtU2hpcnQiCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYXdhaXQgVXNlci5vYmplY3RzLmZpbHRlcihuYW1lX19pY29udGFpbnM9IlQiKS5jb3VudCgpID09IDEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1464,31 +1470,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNhY2hlLl9jYWNoZS5zZXJ2ZXJfbWF4X3ZhbHVlX2xlbmd0aCwgOTk5OSkK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBQcm9kdWN0Lm9iamVjdHMuY3JlYXRlKG5hbWU9IlRvbSIpCiAgICAgICAgYXdhaXQgUHJvZHVjdC5vYmplY3RzLmNyZWF0ZShuYW1lPSJKYW5lIikKICAgICAgICBhd2FpdCBQcm9kdWN0Lm9iamVjdHMuY3JlYXRlKG5hbWU9Ikx1Y3kiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X21lbWNhY2hlZF9vcHRpb25zKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNhY2hlLl9jYWNoZS5zZXJ2ZXJfbWF4X3ZhbHVlX2xlbmd0aCwgOTk5OSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPUFRJT05TPXsnc2VydmVyX21heF92YWx1ZV9sZW5ndGgnOiA5OTk5fSwK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21lbWNhY2hlZF9vcHRpb25zKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlPW1lbWNhY2hlZF9leGNsdWRlZF9jYWNoZXMsCg==</text>
+        <text encoding="base64">ICAgICkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlPU1lbWNhY2hlZENhY2hlX3BhcmFtcywK</text>
+        <text encoding="base64">ICAgICAgICBPUFRJT05TPXsnc2VydmVyX21heF92YWx1ZV9sZW5ndGgnOiA5OTk5fSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9Y2FjaGVzX3NldHRpbmdfZm9yX3Rlc3RzKAo=</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlPW1lbWNhY2hlZF9leGNsdWRlZF9jYWNoZXMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlPU1lbWNhY2hlZENhY2hlX3BhcmFtcywK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
