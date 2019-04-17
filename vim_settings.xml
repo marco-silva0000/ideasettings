@@ -72,6 +72,11 @@
       <file name="/infrastructure_pipe [abmira@icarus.fulgurit.eu]" timestamp="1548776770451">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/metering/metering/exporters/aquamatrix.py" timestamp="1555510191360">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/irrigators_contract [abmira@icarus.fulgurit.eu]" timestamp="1548436484617">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,6 +122,12 @@
       </file>
       <file name="/irrigators_land [abmira@icarus.fulgurit.eu]" timestamp="1548334515203">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" timestamp="1552476899568">
+        <mark key="[" line="61" column="95" />
+        <mark key="]" line="61" column="104" />
+        <mark key="^" line="61" column="104" />
+        <mark key="." line="61" column="104" />
       </file>
       <file name="/organizations_client [abmira@icarus.fulgurit.eu]" timestamp="1548759498103">
         <mark key="[" line="0" column="0" />
@@ -176,18 +187,23 @@
       <file name="/django_migrations [abmira@192.168.60.10]" timestamp="1548260961059">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/lora_controller.py" timestamp="1552320737054">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+      </file>
       <file name="/organizations_contactgroup [abmira@192.168.60.10]" timestamp="1548262288211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/infrastructure_faucet [abmira@icarus.fulgurit.eu]" timestamp="1548776765738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555401469887">
+      <file name="/Dummy.txt" timestamp="1555509340447">
         <mark key="'" line="0" column="54" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="10" />
       </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1548436683245">
@@ -195,6 +211,12 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/viewsets.py" timestamp="1553517009813">
         <mark key="'" line="220" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/urls.py" timestamp="1552331261106">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="/organizations_contactgroup [abmira@icarus.fulgurit.eu]" timestamp="1548669619161">
         <mark key="[" line="0" column="0" />
@@ -216,14 +238,6 @@
       <file name="$USER_HOME$/.virtualenvs/regantes-backend-VEQEWK_9/local/lib/python2.7/site-packages/rest_framework/relations.py" timestamp="1553878290492">
         <mark key="'" line="244" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/orm/orm/models.py" timestamp="1555401289186">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="60" />
-        <mark key="]" line="94" column="60" />
-        <mark key="." line="94" column="60" />
-        <mark key="^" line="50" column="32" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/orm-WsXzHoX_/lib/python3.6/site-packages/sqlalchemy/sql/selectable.py" timestamp="1555366518378" />
       <file name="$USER_HOME$/Projects/django/tests/cache/tests.py" timestamp="1555152588337">
         <mark key="[" line="1271" column="0" />
         <mark key="m" line="1264" column="21" />
@@ -234,13 +248,11 @@
       <file name="$USER_HOME$/Projects/core/fulgurit/events/api.py" timestamp="1549385541526">
         <mark key="'" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/orm/tests/test_models.py" timestamp="1555401377464">
-        <mark key="[" line="171" column="63" />
-        <mark key="]" line="171" column="64" />
-        <mark key="." line="171" column="64" />
-      </file>
     </filemarks>
     <jumps>
+      <jump line="498" column="89" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="321" column="67" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
+      <jump line="483" column="93" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="105" column="44" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/EventsGlobalLandPage.jsx" />
       <jump line="677" column="19" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
       <jump line="701" column="10" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
@@ -338,9 +350,6 @@
       <jump line="160" column="33" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
       <jump line="153" column="37" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
       <jump line="150" column="37" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/Projects/orm/orm/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orm/orm/models.py" />
-      <jump line="173" column="17" filename="$USER_HOME$/Projects/orm/tests/test_models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1375,8 +1384,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>get_instance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1422,7 +1431,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>, self.model_cls.fields</text>
+        <text>zmc</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1441,13 +1450,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>master</text>
+        <text>PyMemcacheCache_params</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1460,31 +1469,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2F0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGlydCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNhY2hlLl9jYWNoZS5zZXJ2ZXJfbWF4X3ZhbHVlX2xlbmd0aCwgOTk5OSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkcmVzcykK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21lbWNhY2hlZF9vcHRpb25zKHNlbGYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBhcmcgaW4gb3JkZXJfYXJnczoKICAgICAgICBmaWVsZCA9IGZpZWxkc1thcmddCiAgICAgICAgcHJpbnQoZmllbGQpCiAgICAgICAgcHJpbnQodHlwZShmaWVsZCkpCiAgICAgICAgcHJpbnQoZGlyKGZpZWxkKSkKCgo=</text>
+        <text encoding="base64">ICAgICkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBPUFRJT05TPXsnc2VydmVyX21heF92YWx1ZV9sZW5ndGgnOiA5OTk5fSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWVsZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlPW1lbWNhY2hlZF9leGNsdWRlZF9jYWNoZXMsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBzZWxmLm1vZGVsX2Nscy5maWVsZHMKICAgICAgICBwcmludChmaWVsZHMp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlPU1lbWNhY2hlZENhY2hlX3BhcmFtcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhDQUNIRVM9Y2FjaGVzX3NldHRpbmdfZm9yX3Rlc3RzKAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
