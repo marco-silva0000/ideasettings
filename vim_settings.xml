@@ -50,11 +50,11 @@
       <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1549903185883">
         <mark key="'" line="141" column="11" />
       </file>
-      <file name="/projects/metering/metering/exporters/exporters.py" timestamp="1555920005367">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="60" />
-        <mark key="^" line="46" column="59" />
-        <mark key="." line="47" column="0" />
+      <file name="/projects/metering/metering/exporters/exporters.py" timestamp="1555936805079">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="71" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="/usr/lib64/python2.7/csv.py" timestamp="1555595366022">
         <mark key="[" line="140" column="8" />
@@ -173,6 +173,13 @@
         <mark key="." line="78" column="98" />
         <mark key="^" line="78" column="98" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1555936333618">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/projects/core/fulgurit/organizations/serializers.py" timestamp="1553883208562">
         <mark key="'" line="387" column="52" />
       </file>
@@ -210,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="511" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="452" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="372" column="23" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="539" column="15" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
@@ -310,6 +316,7 @@
       <jump line="38" column="6" filename="/projects/crops/crops/serializers.py" />
       <jump line="71" column="15" filename="/projects/crops/crops/serializers.py" />
       <jump line="8" column="6" filename="/projects/metering/metering/admin.py" />
+      <jump line="22" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1392,7 +1399,7 @@ from a csv file.</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>MeterExtraData</text>
+        <text>id</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1411,50 +1418,67 @@ from a csv file.</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>MetersInDMAInline</text>
+        <text>li__local_code</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnaWQnLCkK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IApZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClkKWQpZClk=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="121" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="65535" code="65" mods="130" />
-          <key char="48" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="89" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
           <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnaWQnLCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQWRtaW5DbGFzc2VzKGFkbWluLk1vZGVsQWRtaW4pOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtZXRlcmluZy5tb2RlbHMgaW1wb3J0IE1ldGVyLCBNZXRlcnNJbkRNQQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQWRtaW5DbGFzc2VzKGFkbWluLk1vZGVsQWRtaW4pOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0X2Zyb21fZG1hKDIyKQo=</text>
+        <text encoding="base64">ZnJvbSBtZXRlcmluZy5tb2RlbHMgaW1wb3J0IE1ldGVyLCBNZXRlcnNJbkRNQQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0X2Zyb21fZG1hKDIyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
