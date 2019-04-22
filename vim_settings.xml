@@ -8,6 +8,9 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
+      <file name="/projects/crops/crops/serializers.py" timestamp="1555928536607">
+        <mark key="'" line="71" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549992399276">
         <mark key="'" line="39" column="0" />
       </file>
@@ -57,15 +60,11 @@
         <mark key="[" line="140" column="8" />
         <mark key="]" line="140" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/cheff.py" timestamp="1553873585102">
-        <mark key="'" line="179" column="16" />
-        <mark key="^" line="140" column="19" />
-      </file>
       <file name="$USER_HOME$/.local/lib/python2.7/site-packages/pipenv/utils.py" timestamp="1555577672620">
         <mark key="'" line="479" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1553769809283">
-        <mark key="'" line="234" column="54" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1555928516403">
+        <mark key="'" line="56" column="0" />
         <mark key="[" line="220" column="0" />
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
@@ -205,11 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="743" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="744" column="26" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="767" column="8" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" />
-      <jump line="55" column="30" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="65" column="20" filename="$USER_HOME$/Projects/core/fulgurit/events/serializers.py" />
       <jump line="511" column="30" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
       <jump line="452" column="48" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/EventsConditionList.jsx" />
@@ -305,6 +299,11 @@
       <jump line="17" column="127" filename="$USER_HOME$/Projects/metering/metering/urls.py" />
       <jump line="561" column="24" filename="$USER_HOME$/Projects/metering/metering/api.py" />
       <jump line="144" column="17" filename="/projects/metering/fulgurit_metering/devSettings.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
+      <jump line="20" column="19" filename="/projects/crops/crops/serializers.py" />
+      <jump line="24" column="15" filename="/projects/crops/crops/serializers.py" />
+      <jump line="38" column="6" filename="/projects/crops/crops/serializers.py" />
+      <jump line="71" column="15" filename="/projects/crops/crops/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1396,7 +1395,7 @@ from a csv file.</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>get_inst</text>
+        <text>Crop</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1459,9 +1458,9 @@ from a csv file.</text>
       </register>
     </registers>
     <search>
-      <last-search>get_inst</last-search>
+      <last-search>Crop</last-search>
       <last-offset />
-      <last-pattern>get_inst</last-pattern>
+      <last-pattern>Crop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,7 +1468,6 @@ from a csv file.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWdpc3RyYXRpb25TaGVsbFNlcmlhbGl6ZXJTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxMYW5kU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxyZWdpc3RyaWVzXD4=</entry>
         <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
@@ -1489,6 +1487,7 @@ from a csv file.</text>
         <entry encoding="base64">XDxkb3dubGlua19sb3JhX2ZyYW1lXD4=</entry>
         <entry encoding="base64">XDxBQkNsaWVudFNoZWxsU2VyaWFsaXplclw+</entry>
         <entry>vali</entry>
+        <entry>Crop</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
@@ -1557,6 +1556,9 @@ from a csv file.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
