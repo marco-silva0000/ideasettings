@@ -176,11 +176,11 @@
       <file name="/projects/core/fulgurit/organizations/serializers.py" timestamp="1553883208562">
         <mark key="'" line="387" column="52" />
       </file>
-      <file name="/projects/metering/metering/admin.py" timestamp="1555934313756">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="35" column="55" />
-        <mark key="." line="8" column="0" />
+      <file name="/projects/metering/metering/admin.py" timestamp="1555934388067">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="75" />
+        <mark key="^" line="35" column="57" />
+        <mark key="." line="35" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -1392,7 +1392,7 @@ from a csv file.</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>MeterDetail</text>
+        <text>MeterExtraData</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1410,8 +1410,8 @@ from a csv file.</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTWV0ZXJFeHRyYURhdGFJbmxpbmUoYWRtaW4uVGFidWxhcklubGluZSk6CiAgICBtb2RlbCA9IE1ldGVyRXh0cmFEYXRhCiAgICBleHRyYSA9IDEKICAgIAoK</text>
+      <register name="0" type="4">
+        <text>MetersInDMAInline</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
