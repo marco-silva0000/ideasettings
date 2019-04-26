@@ -4,9 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1553697996060">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="/projects/crops/crops/serializers.py" timestamp="1555928536607">
         <mark key="'" line="71" column="15" />
@@ -89,8 +89,10 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556015591933">
+      <file name="/Dummy.txt" timestamp="1556275643045">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/urls.py" timestamp="1555603020873">
         <mark key="'" line="17" column="127" />
@@ -1384,7 +1386,7 @@ from a csv file.</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>master</text>
       </register>
       <register name="m" type="4">
         <keys>
