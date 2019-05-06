@@ -6,8 +6,12 @@
       <file name="/projects/crops/crops/serializers.py" timestamp="1555928536607">
         <mark key="'" line="71" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1556898755658">
+      <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1557140464681">
         <mark key="'" line="119" column="20" />
+        <mark key="[" line="193" column="93" />
+        <mark key="]" line="193" column="102" />
+        <mark key="." line="193" column="102" />
+        <mark key="^" line="193" column="102" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/events/events-context.js" timestamp="1549992399276">
         <mark key="'" line="39" column="0" />
@@ -1369,7 +1373,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Multi</text>
+        <text>Canal</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1415,7 +1419,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Multi</text>
+        <text>Canal</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1434,7 +1438,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>channels[key][&quot;geometry&quot;][&quot;coordinates&quot;]</text>
+        <text>obj[&quot;Canal&quot;]</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
