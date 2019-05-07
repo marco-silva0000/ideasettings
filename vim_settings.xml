@@ -34,12 +34,12 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="108" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557247266906">
-        <mark key="'" line="110" column="13" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557248927765">
+        <mark key="'" line="136" column="13" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+        <mark key="^" line="36" column="34" />
       </file>
       <file name="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" timestamp="1554733041393">
         <mark key="'" line="150" column="37" />
@@ -1353,7 +1353,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>rablieen</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1399,7 +1399,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>rablieen</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1408,7 +1408,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsc19tYWtlclw+</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1417,14 +1417,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>obj[&quot;Canal&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlZ2F0b3JfY2hpbGRyZW4gPSBwYXJlbnQuZ2V0X2NoaWxkcmVuKCkuZmlsdGVyKF90eXBlPTMpLm9yZGVyX2J5KCduYW1lJykKICAgIGN1cnJlbnQgPSByZWdhdG9yX2NoaWxkcmVuWzBdCiAgICBsYXN0ID0gY3VycmVudAogICAgZm9yIGNoaWxkIGluIHJlZ2F0b3JfY2hpbGRyZW5bMTpdOgogICAgICAgIGlmIGlzX3BhcmVudChjdXJyZW50LCBjaGlsZCk6CiAgICAgICAgICAgIHByaW50KCclcyBpcyBwYXJlbnQgb2YgJXMnICUgKGN1cnJlbnQubmFtZSwgY2hpbGQubmFtZSkpCiAgICAgICAgICAgIGNoaWxkLnBhcmVudCA9IGN1cnJlbnQKICAgICAgICAgICAgIyBjaGlsZC5zYXZlKCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgnd2lsbCBjaGFuZ2UgY3VycmVudCAlcyB0byBsYXN0ICVzIGJlY2F1c2Ugb2YgY2hpbGQgJXMnICUgKGN1cnJlbnQubmFtZSwgbGFzdC5uYW1lLCBjaGlsZC5uYW1lKSkKICAgICAgICAgICAgY3VycmVudCA9IGxhc3QKICAgICAgICBsYXN0ID0gY2hpbGQK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvcF9sZXZlbCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5kX2NoaWxkcmVuKGN1cnJlbnQsIGl0ZXJhYmxlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1449,31 +1449,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgbm9uX3JlZ2FudGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5uZWxzW2tleV1bImdlb21ldHJ5Il1bImNvb3JkaW5hdGVzIl0gPSBjaGFubmVsc1trZXldWyJnZW9tZXRyeSJdWyJjb29yZGluYXRlcyJdCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5kX2NoaWxkcmVuKGMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEluZnJhc3RydWN0dXJlR2VvSW1wb3J0ZXIoIlJlZGVSZWdhLmdlb2pzb24iKS5ydW4oKQo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQgPSByZWdhdG9yX2NoaWxkcmVuWzBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">ICAgIGxhc3QgPSBjdXJyZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGxvYWRfanNvbl9mcm9tX2ZpbGUoZmlsZW5hbWUpOgo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQgPSByZWdhdG9yX2NoaWxkcmVuWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlbmFtZSwgJ3InKSBhcyBfZmlsZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3NraXBwZWQgJXMgaXMgcGFyZW50IG9mICVzJyAlIChjdXJyZW50LCBjaGlsZCkpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSA9IFsK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1483,17 +1483,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsc19tYWtlclw+</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsc19tYWtlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMYW5kU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxyZWdpc3RyaWVzXD4=</entry>
         <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
         <entry>json</entry>
@@ -1513,6 +1512,7 @@
         <entry encoding="base64">XDxBQkNsaWVudFNoZWxsU2VyaWFsaXplclw+</entry>
         <entry>vali</entry>
         <entry encoding="base64">XDxjaGFubmVsc19tYWtlclw+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
