@@ -34,12 +34,12 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="108" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557245957746">
-        <mark key="'" line="107" column="13" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557247266906">
+        <mark key="'" line="110" column="13" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" timestamp="1554733041393">
         <mark key="'" line="150" column="37" />
@@ -1353,7 +1353,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>print child</text>
+        <text>pass</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1399,7 +1399,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>print child</text>
+        <text>pass</text>
       </register>
       <register name="m" type="4">
         <keys>
