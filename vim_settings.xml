@@ -34,12 +34,12 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="108" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557248927765">
-        <mark key="'" line="136" column="13" />
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="36" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557250717555">
+        <mark key="'" line="134" column="13" />
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="43" column="45" />
+        <mark key="." line="43" column="45" />
+        <mark key="^" line="43" column="45" />
       </file>
       <file name="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" timestamp="1554733041393">
         <mark key="'" line="150" column="37" />
@@ -1353,7 +1353,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>rablieen</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1399,7 +1399,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>rablieen</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1418,7 +1418,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZ2F0b3JfY2hpbGRyZW4gPSBwYXJlbnQuZ2V0X2NoaWxkcmVuKCkuZmlsdGVyKF90eXBlPTMpLm9yZGVyX2J5KCduYW1lJykKICAgIGN1cnJlbnQgPSByZWdhdG9yX2NoaWxkcmVuWzBdCiAgICBsYXN0ID0gY3VycmVudAogICAgZm9yIGNoaWxkIGluIHJlZ2F0b3JfY2hpbGRyZW5bMTpdOgogICAgICAgIGlmIGlzX3BhcmVudChjdXJyZW50LCBjaGlsZCk6CiAgICAgICAgICAgIHByaW50KCclcyBpcyBwYXJlbnQgb2YgJXMnICUgKGN1cnJlbnQubmFtZSwgY2hpbGQubmFtZSkpCiAgICAgICAgICAgIGNoaWxkLnBhcmVudCA9IGN1cnJlbnQKICAgICAgICAgICAgIyBjaGlsZC5zYXZlKCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgnd2lsbCBjaGFuZ2UgY3VycmVudCAlcyB0byBsYXN0ICVzIGJlY2F1c2Ugb2YgY2hpbGQgJXMnICUgKGN1cnJlbnQubmFtZSwgbGFzdC5uYW1lLCBjaGlsZC5uYW1lKSkKICAgICAgICAgICAgY3VycmVudCA9IGxhc3QKICAgICAgICBsYXN0ID0gY2hpbGQK</text>
+        <text encoding="base64">ICAgICAgICBmaW5kX2NoaWxkcmVuKGxhc3QsIGl0ZXJhYmxlLCBjaGlsZD1jaGlsZCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1449,31 +1449,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kX2NoaWxkcmVuKGMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQgPSByZWdhdG9yX2NoaWxkcmVuWzBdCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGxhc3QgPSBjdXJyZW50Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc19wYXJlbnQobGFzdCwgY2hpbGQpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsYXN0ID0gY2hpbGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBjaGlsZCBpbiBpdGVyYWJsZToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQgPSByZWdhdG9yX2NoaWxkcmVuWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3dpbGwgY2hhbmdlIGN1cnJlbnQgJXMgdG8gbGFzdCAlcyBiZWNhdXNlIG9mIGNoaWxkICVzJyAlIChjdXJyZW50Lm5hbWUsIGxhc3QubmFtZSwgY2hpbGQubmFtZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3NraXBwZWQgJXMgaXMgcGFyZW50IG9mICVzJyAlIChjdXJyZW50LCBjaGlsZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCA9IGxhc3QK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBsYXN0ID0gY2hpbGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCA9IGxhc3QK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
