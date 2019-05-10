@@ -164,6 +164,14 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="16" column="46" />
       </file>
+      <file name="/Django Console" timestamp="1557499053233">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python2.7/site-packages/pipenv/utils.py" timestamp="1555577672620">
         <mark key="'" line="479" column="38" />
       </file>
@@ -224,6 +232,11 @@
         <mark key="]" line="18" column="131" />
         <mark key="." line="18" column="131" />
       </file>
+      <file name="/urls.py" timestamp="1557499231460">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/api.py" timestamp="1549385541526">
         <mark key="'" line="25" column="29" />
       </file>
@@ -236,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="45" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="486" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="229" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="17" column="34" filename="$USER_HOME$/Projects/core/apps/sprinklers/settings.py" />
@@ -336,6 +348,7 @@
       <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="87" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="119" column="20" filename="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" />
+      <jump line="13" column="37" filename="/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1371,7 +1384,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15tYWVzdHJvLyQnLCBUZXN0TG9yYS5hc192aWV3KCkpLAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1417,7 +1430,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>sssbs</text>
+        <text>RereadDeviceData.as_view()</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1426,7 +1439,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text encoding="base64">XDxUZXN0TG9yYVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1436,13 +1449,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3VuaWNvZGVfXyhzZWxmKToKICAgICAgICByZXR1cm4gIiVzIiAlIChzZWxmLm5hbWUpCgoK</text>
+        <text encoding="base64">ICAgIHVybChyJ15tYWVzdHJvLyQnLCBUZXN0TG9yYS5hc192aWV3KCkpLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcHAtc2VydmVyLXN0YXR1cy8nLCBTZXJ2ZXJTdGF0dXNWaWV3LmFzX3ZpZXcoeydnZXQnOiAnbGlzdCd9KSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1467,31 +1480,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NoaWxkID0gY2hpbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NoaWxkID0gY2hpbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0LmFwcGVuZChjdXJyZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfZmluZF9jaGlsZHJlbihjaGlsZCwgbGFzdD1sYXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0LmFwcGVuZChjdXJyZW50KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGFzdCBhbmQgaXNfcGFyZW50KGxhc3QsIGNoaWxkKToK</text>
+        <text encoding="base64">ICAgICAgICBfZmluZF9jaGlsZHJlbihjaGlsZCwgbGFzdD1sYXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2ZpbmRfY2hpbGRyZW4oY3VycmVudCwgbGFzdD1jaGlsZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGFzdCBhbmQgaXNfcGFyZW50KGxhc3QsIGNoaWxkKToK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1501,17 +1514,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxUZXN0TG9yYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUZXN0TG9yYVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3RyaWVzXD4=</entry>
         <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</entry>
@@ -1531,6 +1543,7 @@
         <entry>vali</entry>
         <entry encoding="base64">XDxjaGFubmVsc19tYWtlclw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxUZXN0TG9yYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
