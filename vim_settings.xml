@@ -162,7 +162,7 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557500449520">
+      <file name="/Dummy.txt" timestamp="1557500622272">
         <mark key="'" line="0" column="54" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -184,6 +184,12 @@
       </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crops/setup.py" timestamp="1557500618993">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="/projects/metering/fulgurit_metering/devSettings.py" timestamp="1555918434871">
         <mark key="'" line="144" column="17" />
@@ -1353,8 +1359,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, to be imported by modules</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1450,31 +1456,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuNicsCg==</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcHAtc2VydmVyLXN0YXR1cy8nLCBTZXJ2ZXJTdGF0dXNWaWV3LmFzX3ZpZXcoeydnZXQnOiAnbGlzdCd9KSkK</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuNicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcHAtc2VydmVyLXN0YXR1cy8nLCBTZXJ2ZXJTdGF0dXNWaWV3LmFzX3ZpZXcoeydnZXQnOiAnbGlzdCd9KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NoaWxkID0gY2hpbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NoaWxkID0gY2hpbGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0LmFwcGVuZChjdXJyZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
