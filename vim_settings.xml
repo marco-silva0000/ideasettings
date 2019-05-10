@@ -56,11 +56,6 @@
         <mark key="^" line="67" column="107" />
         <mark key="." line="67" column="107" />
       </file>
-      <file name="$USER_HOME$/Projects/metering/metering/exporters/aquamatrix.py" timestamp="1555576396994">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sensoring/.gitignore" timestamp="1557499580596">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -109,6 +104,13 @@
       </file>
       <file name="/Python Console" timestamp="1556897811858">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sensoring/setup.py" timestamp="1557500438791">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/metering/Pipfile" timestamp="1555578474722">
         <mark key="[" line="27" column="0" />
@@ -160,11 +162,11 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557500329282">
+      <file name="/Dummy.txt" timestamp="1557500449520">
         <mark key="'" line="0" column="54" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
         <mark key="o" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/urls.py" timestamp="1555603020873">
@@ -203,11 +205,6 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-postgis/Dockerfile" timestamp="1556292099379">
-        <mark key="[" line="18" column="130" />
-        <mark key="]" line="18" column="131" />
-        <mark key="." line="18" column="131" />
-      </file>
       <file name="/urls.py" timestamp="1557499231460">
         <mark key="'" line="13" column="37" />
         <mark key="[" line="60" column="0" />
@@ -222,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="229" column="22" filename="$USER_HOME$/Projects/core/frontend/appES6/src/events/conditions/DynamicConditionElement.jsx" />
       <jump line="17" column="34" filename="$USER_HOME$/Projects/core/apps/sprinklers/settings.py" />
       <jump line="129" column="26" filename="$USER_HOME$/Projects/core/apps/sprinklers/tasks.py" />
@@ -322,6 +318,7 @@
       <jump line="87" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="119" column="20" filename="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" />
       <jump line="13" column="37" filename="/urls.py" />
+      <jump line="12" column="13" filename="$USER_HOME$/Projects/sensoring/setup.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1356,8 +1353,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuNicsCg==</text>
+      <register name="&quot;" type="4">
+        <text>, to be imported by modules</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1403,7 +1400,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>, to be imported by modules</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1412,7 +1409,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXN0TG9yYVw+</text>
+        <text encoding="base64">XDxmaW5kX3BhY2thZ2VzXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1428,7 +1425,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuNicsCg==</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1453,31 +1450,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcHAtc2VydmVyLXN0YXR1cy8nLCBTZXJ2ZXJTdGF0dXNWaWV3LmFzX3ZpZXcoeydnZXQnOiAnbGlzdCd9KSkK</text>
+        <text encoding="base64">ICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuNicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcHAtc2VydmVyLXN0YXR1cy8nLCBTZXJ2ZXJTdGF0dXNWaWV3LmFzX3ZpZXcoeydnZXQnOiAnbGlzdCd9KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluaXNoZXMgZ2VvIGltcG9ydGVycwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NoaWxkID0gY2hpbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NoaWxkID0gY2hpbGQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0LmFwcGVuZChjdXJyZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfZmluZF9jaGlsZHJlbihjaGlsZCwgbGFzdD1sYXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0LmFwcGVuZChjdXJyZW50KQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1487,9 +1484,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXN0TG9yYVw+</last-search>
+      <last-search encoding="base64">XDxmaW5kX3BhY2thZ2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXN0TG9yYVw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kX3BhY2thZ2VzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1497,7 +1494,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaG9pY2VzXD4=</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</entry>
         <entry encoding="base64">XDxKU09ORmllbGRcPg==</entry>
@@ -1517,6 +1513,7 @@
         <entry encoding="base64">XDxjaGFubmVsc19tYWtlclw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxUZXN0TG9yYVw+</entry>
+        <entry encoding="base64">XDxmaW5kX3BhY2thZ2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
