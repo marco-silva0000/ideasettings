@@ -37,11 +37,11 @@
         <mark key="." line="15" column="39" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/core/test.sh" timestamp="1557765775534">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/Projects/core/test.sh" timestamp="1557825616146">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="6" column="76" />
+        <mark key="." line="6" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/metering/Pipfile" timestamp="1555578474722">
         <mark key="[" line="27" column="0" />
@@ -85,13 +85,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/docker-compose.test.yml" timestamp="1557765481613">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/core/docker-compose.test.yml" timestamp="1557824634528">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
       </file>
-      <file name="/Django Console" timestamp="1557509226276">
+      <file name="/Django Console" timestamp="1557824997944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
@@ -142,11 +142,6 @@
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/MultiTechAPI/test.py" timestamp="1557763874958">
-        <mark key="[" line="41" column="84" />
-        <mark key="]" line="41" column="84" />
-        <mark key="." line="41" column="84" />
       </file>
       <file name="/usr/lib64/python3.7/unittest/mock.py" timestamp="1557764939840">
         <mark key="[" line="830" column="0" />
@@ -1362,7 +1357,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>development</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1403,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1427,7 +1422,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2tpcCgnb3V0ZGF0ZWQnKQo=</text>
+        <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICJzbGVlcCA1OyBwaXBlbnYgcnVuIHB5dGhvbiAvY29kZS9tYW5hZ2UucHkgdGVzdCAtLW5vaW5wdXQiCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1534,7 +1529,6 @@
         <entry>%s/Project/Epic/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>2622</entry>
         <entry>e</entry>
@@ -1543,6 +1537,7 @@
         <entry>30</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
