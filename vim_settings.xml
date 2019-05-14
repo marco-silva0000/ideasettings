@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/utils.py" timestamp="1557314476848">
-        <mark key="[" line="46" column="52" />
-        <mark key="]" line="46" column="57" />
-        <mark key="^" line="46" column="57" />
-        <mark key="." line="46" column="57" />
+      <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/utils.py" timestamp="1557846289937">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/test.py" timestamp="1557764100017">
         <mark key="'" line="10" column="35" />
@@ -163,10 +163,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1557844610791">
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="59" column="32" />
-        <mark key="." line="59" column="32" />
+      <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1557846274596">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
         <mark key="^" line="59" column="32" />
       </file>
       <file name="/Django Console" timestamp="1557834886069">
@@ -180,7 +180,7 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557844456466">
+      <file name="/Dummy.txt" timestamp="1557846382779">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
@@ -1407,8 +1407,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eGx3dCA9ICIqIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVzZXRzIG1pZ3JhdGlvbnMgYW5kIGFkZHMgY292ZXJhZ2UgYW5kIA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1454,7 +1454,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>python3</text>
+        <text encoding="base64">cmVzZXRzIG1pZ3JhdGlvbnMgYW5kIGFkZHMgY292ZXJhZ2UgYW5kIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
