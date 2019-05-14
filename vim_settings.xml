@@ -180,7 +180,7 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557847110103">
+      <file name="/Dummy.txt" timestamp="1557847711232">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
@@ -202,11 +202,11 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1557829238077">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1557847704481">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/test.sh" timestamp="1557847102674">
         <mark key="[" line="4" column="0" />
@@ -1408,7 +1408,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fixes</text>
+        <text>on-failure</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1454,7 +1454,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fixes</text>
+        <text>on-failure</text>
       </register>
       <register name="m" type="4">
         <keys>
