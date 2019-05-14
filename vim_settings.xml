@@ -34,12 +34,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/crops/Pipfile" timestamp="1557835288628">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="13" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1557314508190">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -180,7 +174,8 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557833083792">
+      <file name="/Dummy.txt" timestamp="1557842275774">
+        <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
         <mark key="i" line="0" column="10" />
@@ -221,10 +216,10 @@
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crops/setup.py" timestamp="1557500618993">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+      <file name="$USER_HOME$/Projects/crops/setup.py" timestamp="1557842237197">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/core/datalogger.py" timestamp="1557764549671">
@@ -1405,7 +1400,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>python3</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1451,7 +1446,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>python3</text>
       </register>
       <register name="m" type="4">
         <keys>
