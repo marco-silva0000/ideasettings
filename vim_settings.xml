@@ -20,6 +20,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/crops/Pipfile" timestamp="1557835288628">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="13" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1557314508190">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -125,17 +131,24 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/setup.py" timestamp="1557832893004">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/Projects/core/setup.py" timestamp="1557835869521">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/crops-yaJECw1q/lib/python3.7/site-packages/django/conf/__init__.py" timestamp="1557834980479">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="109" column="28" />
+        <mark key="^" line="109" column="28" />
+        <mark key="." line="109" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1557833025248">
+      <file name="/Django Console" timestamp="1557834886069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
@@ -227,6 +240,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/crops-yaJECw1q/lib/python3.7/importlib/__init__.py" timestamp="1557834929186">
+        <mark key="[" line="125" column="22" />
+        <mark key="]" line="126" column="3" />
+        <mark key="^" line="126" column="3" />
+        <mark key="." line="126" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -1365,7 +1384,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1411,7 +1430,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
