@@ -30,13 +30,6 @@
       <file name="/Python Console" timestamp="1556897811858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sensoring/setup.py" timestamp="1557500438791">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/core/test.sh" timestamp="1557826872184">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="48" />
@@ -60,19 +53,18 @@
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" timestamp="1557764780881">
-        <mark key="'" line="19" column="52" />
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" timestamp="1557764825341">
         <mark key="'" line="689" column="19" />
         <mark key="[" line="677" column="7" />
         <mark key="]" line="677" column="10" />
         <mark key="." line="677" column="10" />
         <mark key="^" line="677" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/.coveragerc" timestamp="1557829414709">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/models.py" timestamp="1557314508190">
         <mark key="[" line="24" column="0" />
@@ -91,7 +83,7 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="/Django Console" timestamp="1557824997944">
+      <file name="/Django Console" timestamp="1557829611502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
@@ -132,16 +124,21 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Pipfile" timestamp="1557510448783">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="56" />
-        <mark key="^" line="1" column="56" />
-        <mark key="." line="1" column="56" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Pipfile" timestamp="1557828776512">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1557763896849">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" timestamp="1557829356628">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/usr/lib64/python3.7/unittest/mock.py" timestamp="1557764939840">
         <mark key="[" line="830" column="0" />
@@ -152,14 +149,19 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1557829238077">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/test.sh" timestamp="1557829280205">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/apps/sprinklers/test.py" timestamp="1557764721626">
-        <mark key="'" line="782" column="20" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="725" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sensoring/.gitignore" timestamp="1557499580596">
         <mark key="[" line="29" column="0" />
@@ -167,11 +169,11 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1557502368809">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Dockerfile" timestamp="1557828948053">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="56" />
+        <mark key="^" line="20" column="56" />
+        <mark key="." line="20" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/crops/setup.py" timestamp="1557500618993">
         <mark key="[" line="29" column="43" />
@@ -1362,8 +1364,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>development</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1409,7 +1411,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1428,13 +1430,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICJzbGVlcCA1OyBwaXBlbnYgcnVuIHB5dGhvbiAvY29kZS9tYW5hZ2UucHkgdGVzdCAtLW5vaW5wdXQiCg==</text>
+        <text encoding="base64">UlVOIHRvdWNoIC92YXIvbG9nL2Z1bGd1cml0L2RlYnVnLmxvZwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiptaWdyYXRpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1459,31 +1461,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1hZ2U6IGdpdGxhYi9kaW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209aW50ZXJtZWRpYXRlIC9wcm9qZWN0cyAvcHJvamVjdHMK</text>
+        <text encoding="base64">dW5zZXQgU1NIX1BVQkxJQ19LRVkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW5zZXQgU1NIX1BSSVZBVEVfS0VZCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V09SS0RJUiAvCg==</text>
+        <text encoding="base64">ZXhwb3J0IFNTSF9QUklWQVRFX0tFWT0ke1NTSF9QUklWQVRFX0tFWTotIiQoIGNhdCB+Ly5zc2gvaWRfcnNhICkifQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvZ3RjLmdpdAo=</text>
+        <text encoding="base64">ZXhwb3J0IFNTSF9QVUJMSUNfS0VZPSR7U1NIX1BVQkxJQ19LRVk6LSIkKCBjYXQgfi8uc3NoL2lkX3JzYS5wdWIgKSJ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2UgLWIgcHl0aG9uMyBzc2g6Ly9naXRAZ2l0bGFiLmNvbS9mdWxndXJpdC9tZXRlcmluZy5naXQK</text>
+        <text encoding="base64">ICBzdGF0aWM6Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvcmVnYW50ZXMvcmVnYW50ZXMtYmFja2VuZC5naXQK</text>
+        <text encoding="base64">ICAgICAgLSBkYi1kYXRhOi92YXIvbGliL3Bvc3RncmVzcWw6cm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGdpdCBjbG9uZSAtLXZlcmJvc2Ugc3NoOi8vZ2l0QGdpdGxhYi5jb20vZnVsZ3VyaXQvYW5hbHlzaXMuZ2l0Cg==</text>
+        <text encoding="base64">ICAgICAgLSBzdGF0aWM6L2NvZGUvc3RhdGljOnJvCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
