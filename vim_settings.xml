@@ -9,6 +9,20 @@
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/test.py" timestamp="1557764100017">
+        <mark key="'" line="10" column="35" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" timestamp="1557764825341">
+        <mark key="'" line="689" column="19" />
+        <mark key="[" line="677" column="7" />
+        <mark key="]" line="677" column="10" />
+        <mark key="." line="677" column="10" />
+        <mark key="^" line="677" column="10" />
+      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/fulgurit/com_devices/migrations/0005_auto_20190514_1058.py" timestamp="1557834340911">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -87,8 +101,12 @@
         <mark key="^" line="20" column="56" />
         <mark key="." line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/core/pyproject.toml" timestamp="1557838495366">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/core/pyproject.toml" timestamp="1557841129649">
+        <mark key="'" line="23" column="58" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="/projects/metering/metering/admin.py" timestamp="1555934388067">
         <mark key="[" line="35" column="58" />
@@ -134,7 +152,7 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/setup.py" timestamp="1557835869521">
+      <file name="$USER_HOME$/Projects/core/setup.py" timestamp="1557841089248">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="38" />
         <mark key="." line="33" column="38" />
@@ -252,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="26" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
-      <jump line="304" column="43" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="54" column="48" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="321" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" />
       <jump line="519" column="32" filename="$USER_HOME$/Projects/core/datalogger.py" />
@@ -352,6 +368,8 @@
       <jump line="687" column="19" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
       <jump line="18" column="52" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" />
       <jump line="23" column="12" filename="$USER_HOME$/Projects/core/.gitlab-ci.yml" />
+      <jump line="1" column="21" filename="$USER_HOME$/Projects/core/pyproject.toml" />
+      <jump line="23" column="58" filename="$USER_HOME$/Projects/core/pyproject.toml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1387,7 +1405,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1433,7 +1451,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1452,7 +1470,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHRvdWNoIC92YXIvbG9nL2Z1bGd1cml0L2RlYnVnLmxvZwo=</text>
+        <text encoding="base64">cmVxdWlyZXMgPSBbImZsaXQiLCAibnVtcHkiLCAicGFuZGFzIl0K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
