@@ -120,7 +120,7 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/setup.py" timestamp="1557762601848">
+      <file name="$USER_HOME$/Projects/core/setup.py" timestamp="1557832893004">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
@@ -130,7 +130,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1557831477191">
+      <file name="/Django Console" timestamp="1557833025248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
@@ -141,10 +141,13 @@
       <file name="/dummy.sql" timestamp="1556015653840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557828170354">
+      <file name="/Dummy.txt" timestamp="1557833083792">
+        <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
+        <mark key="i" line="0" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="m" line="0" column="12" />
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="10" />
       </file>
@@ -170,11 +173,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/dockerun.sh" timestamp="1557832150779">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/Projects/core/dockerun.sh" timestamp="1557832810505">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
         <mark key="[" line="0" column="0" />
@@ -1357,7 +1360,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29yZTokQlJBTkNIIA==</text>
+        <text>development</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1403,7 +1406,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29yZTokQlJBTkNIIA==</text>
+        <text>development</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1519,7 +1522,6 @@
         <entry encoding="base64">XDxleGNsdWRlX2ZpbGVzX2Zyb21fbGlzdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>tabprev</entry>
         <entry>s/UserStory/Epic/g</entry>
         <entry>s/UserStory/Epic/</entry>
         <entry>s/UserStory/Epic/gg</entry>
@@ -1538,6 +1540,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>f</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
