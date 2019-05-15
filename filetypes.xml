@@ -5,6 +5,7 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="orgaizationService.js" type="JavaScript" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="logActions.html" type="PLAIN_TEXT" />
       <mapping pattern="exampleAPIShellRegisters.json" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
