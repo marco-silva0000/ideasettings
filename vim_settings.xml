@@ -376,12 +376,12 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558209453387">
-        <mark key="'" line="111" column="26" />
-        <mark key="[" line="200" column="40" />
-        <mark key="]" line="84" column="22" />
-        <mark key="^" line="187" column="21" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558212949111">
+        <mark key="'" line="256" column="73" />
+        <mark key="[" line="255" column="15" />
+        <mark key="]" line="255" column="33" />
+        <mark key="." line="255" column="33" />
+        <mark key="^" line="255" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -413,15 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="77" column="26" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="76" column="66" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="138" column="58" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="145" column="58" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="152" column="33" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="160" column="33" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="153" column="37" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
-      <jump line="150" column="37" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
       <jump line="384" column="38" filename="$USER_HOME$/.local/lib/python2.7/site-packages/pipenv/utils.py" />
       <jump line="479" column="38" filename="$USER_HOME$/.local/lib/python2.7/site-packages/pipenv/utils.py" />
       <jump line="5" column="15" filename="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" />
@@ -513,6 +504,15 @@
       <jump line="200" column="20" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="71" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="96" column="26" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="258" column="29" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="265" column="31" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="135" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="118" column="21" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="217" column="15" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="256" column="73" filename="$USER_HOME$/Projects/codingame/slayer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,7 +1594,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHtzZWxmLmxldmVsfSwge3NlbGYucG9zfSwge3NlbGYuYWN0aW9ufQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1603,7 +1603,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</text>
+        <text encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1613,13 +1613,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgZW5lbWllcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2lsbCBjYWxjdWxhdGUgbmVhcmVzdF9lbmVteScsIGZpbGU9c3lzLnN0ZGVycikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwb2V0cnkubGVnYWN5X3JlcG9zaXRvcmllcyBpbXBvcnQgTGVnYWN5UmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1644,31 +1644,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eGx3dCA9ICIqIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkQAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1bml0Lm5lYXJlc3RfZW5lbXksIGZpbGU9c3lzLnN0ZGVycikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dW5zZXQgU1NIX1BVQkxJQ19LRVkK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByYW5kb20uY2hvaWNlKFtzZWxmLnhfY3Jhd2wodGhhdCksIHNlbGYueV9jcmF3bCh0aGF0KV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dW5zZXQgU1NIX1BSSVZBVEVfS0VZCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgUG9zaXRpb24oc2VsZi54ICsgMSwgc2VsZi55KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IFNTSF9QVUJMSUNfS0VZPSIkKCBjYXQgfi8uc3NoL2lkX3JzYS5wdWIgKSIK</text>
+        <text encoding="base64">ZnJvbSBwb2V0cnkubGVnYWN5X3JlcG9zaXRvcmllcyBpbXBvcnQgTGVnYWN5UmVwb3NpdG9yeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IFNTSF9QUklWQVRFX0tFWT0iJCggY2F0IH4vLnNzaC9pZF9yc2EgKSIK</text>
+        <text encoding="base64">eGx3dCA9ICIqIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkQAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1hZ2U6IGdpdGxhYi9kaW5kCg==</text>
+        <text encoding="base64">dW5zZXQgU1NIX1BVQkxJQ19LRVkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1678,9 +1678,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</last-search>
+      <last-search encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1688,10 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKU09ORmllbGRcPg==</entry>
-        <entry encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</entry>
-        <entry>Contract</entry>
-        <entry encoding="base64">XDxwYXRjaFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVfc29pbF9lZGl0aW9uc1w+</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxwYXRjaF9sYW5kXD4=</entry>
@@ -1708,10 +1704,12 @@
         <entry encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxzaG91bGRfdHJhaW5cPg==</entry>
         <entry encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</entry>
+        <entry encoding="base64">XDxjcmF3bFw+</entry>
+        <entry>yield</entry>
+        <entry encoding="base64">XDxlbmVtaWVzXD4=</entry>
+        <entry encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>tabprev</entry>
-        <entry>s/UserStory/Epic/g</entry>
         <entry>s/UserStory/Epic/</entry>
         <entry>s/UserStory/Epic/gg</entry>
         <entry>%s/UserStory/Epic/g</entry>
@@ -1729,6 +1727,8 @@
         <entry>30</entry>
         <entry>q</entry>
         <entry>NERDTreeTabsToggle</entry>
+        <entry>133</entry>
+        <entry>259</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
