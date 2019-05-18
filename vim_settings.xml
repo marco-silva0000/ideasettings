@@ -371,17 +371,17 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/usr/lib/python3.6/collections/__init__.py" timestamp="1558214749406" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1555941417317">
         <mark key="'" line="88" column="13" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558212949111">
-        <mark key="'" line="256" column="73" />
-        <mark key="[" line="255" column="15" />
-        <mark key="]" line="255" column="33" />
-        <mark key="." line="255" column="33" />
-        <mark key="^" line="255" column="33" />
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558215395680">
+        <mark key="'" line="285" column="73" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -1594,7 +1594,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1613,13 +1613,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2lsbCBjYWxjdWxhdGUgbmVhcmVzdF9lbmVteScsIGZpbGU9c3lzLnN0ZGVycikK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHgsIHkpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2Nlc3MoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1644,31 +1644,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hcF9kYXRhID0gW1swXSAqIFdJRFRIXSAqIEhFSUdIVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1bml0Lm5lYXJlc3RfZW5lbXksIGZpbGU9c3lzLnN0ZGVycikK</text>
+        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCByYW5kb20uY2hvaWNlKFtzZWxmLnhfY3Jhd2wodGhhdCksIHNlbGYueV9jcmF3bCh0aGF0KV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgUG9zaXRpb24oc2VsZi54ICsgMSwgc2VsZi55KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2Nlc3MoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwb2V0cnkubGVnYWN5X3JlcG9zaXRvcmllcyBpbXBvcnQgTGVnYWN5UmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hcF9kYXRhID0gW1swXSAqIFdJRFRIXSAqIEhFSUdIVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eGx3dCA9ICIqIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXh0X3Bvc2l0aW9uLCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAkQAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1bml0Lm5lYXJlc3RfZW5lbXlbMF0sIGZpbGU9c3lzLnN0ZGVycikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dW5zZXQgU1NIX1BVQkxJQ19LRVkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1bml0Lm5lYXJlc3RfZW5lbXksIGZpbGU9c3lzLnN0ZGVycikK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
