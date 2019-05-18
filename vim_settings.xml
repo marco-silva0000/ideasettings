@@ -207,7 +207,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1556897811858">
+      <file name="/Python Console" timestamp="1558208390181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/test.sh" timestamp="1557826872184">
@@ -376,6 +376,13 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558209453387">
+        <mark key="'" line="111" column="26" />
+        <mark key="[" line="200" column="40" />
+        <mark key="]" line="84" column="22" />
+        <mark key="^" line="187" column="21" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="30" />
@@ -406,10 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="80" column="27" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="32" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="0" column="54" filename="/Dummy.txt" />
       <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
       <jump line="77" column="26" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
       <jump line="76" column="66" filename="&lt;aa77d0e5-9665-45a6-b2be-ff077e51fe8f&gt;/irrigators/api.py" />
@@ -506,6 +509,10 @@
       <jump line="44" column="22" filename="$USER_HOME$/Projects/poetry/poetry/poetry.py" />
       <jump line="9" column="30" filename="$USER_HOME$/Projects/poetry/tests/repositories/test_pool.py" />
       <jump line="17" column="54" filename="$USER_HOME$/Projects/poetry/poetry/poetry.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="200" column="20" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="96" column="26" filename="$USER_HOME$/Projects/codingame/slayer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,7 +1594,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>something</text>
+        <text encoding="base64">IHtzZWxmLmxldmVsfSwge3NlbGYucG9zfSwge3NlbGYuYWN0aW9ufQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1596,7 +1603,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</text>
+        <text encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1605,8 +1612,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>package_not_found_when_no_package_is_found</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgZW5lbWllcwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1671,9 +1678,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</last-search>
+      <last-search encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1681,8 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry encoding="base64">XDxsb2dfbG9yYV9nbGFkaWF0b3JfdjFcPg==</entry>
         <entry encoding="base64">XDxKU09ORmllbGRcPg==</entry>
         <entry encoding="base64">XDxoYXNfY2hvcHBlZF9zdHJhd2JlcnJpZXNcPg==</entry>
         <entry>Contract</entry>
@@ -1701,6 +1706,8 @@
         <entry encoding="base64">XDxBZG1pbkNsYXNzZXNcPg==</entry>
         <entry>many</entry>
         <entry encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</entry>
+        <entry encoding="base64">XDxzaG91bGRfdHJhaW5cPg==</entry>
+        <entry encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>tabprev</entry>
