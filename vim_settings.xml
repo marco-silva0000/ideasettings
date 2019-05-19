@@ -370,17 +370,20 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/usr/lib/python3.6/collections/__init__.py" timestamp="1558274589999">
+        <mark key="'" line="1107" column="24" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1555941417317">
         <mark key="'" line="88" column="13" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558273906322">
-        <mark key="'" line="274" column="13" />
-        <mark key="[" line="265" column="48" />
-        <mark key="]" line="265" column="47" />
-        <mark key="^" line="265" column="47" />
-        <mark key="." line="265" column="47" />
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558277096459">
+        <mark key="'" line="281" column="8" />
+        <mark key="[" line="444" column="14" />
+        <mark key="]" line="444" column="20" />
+        <mark key="." line="444" column="20" />
+        <mark key="^" line="444" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -412,42 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="35" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/test.py" />
-      <jump line="28" column="34" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
-      <jump line="23" column="30" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="364" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="451" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="518" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="241" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="281" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="494" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="497" column="60" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="535" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="788" column="20" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="46" column="15" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="54" column="7" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="53" column="32" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="57" column="69" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="33" column="24" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="687" column="19" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
-      <jump line="18" column="52" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/Projects/core/.gitlab-ci.yml" />
-      <jump line="1" column="21" filename="$USER_HOME$/Projects/core/pyproject.toml" />
-      <jump line="23" column="58" filename="$USER_HOME$/Projects/core/pyproject.toml" />
-      <jump line="47" column="27" filename="/tmp/pipenv/pipenv/cli/command.py" />
-      <jump line="66" column="15" filename="/tmp/pipenv/pipenv/cli/command.py" />
-      <jump line="73" column="4" filename="/tmp/pipenv/pipenv/cli/command.py" />
-      <jump line="207" column="12" filename="/tmp/pipenv/pipenv/cli/command.py" />
-      <jump line="235" column="14" filename="/tmp/pipenv/pipenv/cli/command.py" />
-      <jump line="233" column="23" filename="/tmp/pipenv/pipenv/cli/command.py" />
-      <jump line="158" column="12" filename="/tmp/pipenv/pipenv/patched/pipfile/api.py" />
-      <jump line="114" column="19" filename="/tmp/pipenv/pipenv/patched/pipfile/api.py" />
-      <jump line="105" column="15" filename="/tmp/pipenv/pipenv/patched/pipfile/api.py" />
-      <jump line="98" column="24" filename="/tmp/pipenv/pipenv/patched/pipfile/api.py" />
-      <jump line="32" column="25" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="1289" column="4" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="1378" column="7" filename="/tmp/pipenv/pipenv/core.py" />
       <jump line="1380" column="33" filename="/tmp/pipenv/pipenv/core.py" />
       <jump line="1748" column="41" filename="/tmp/pipenv/pipenv/core.py" />
       <jump line="1766" column="49" filename="/tmp/pipenv/pipenv/core.py" />
@@ -482,7 +449,6 @@
       <jump line="71" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="96" column="26" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="258" column="29" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="265" column="31" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="135" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="118" column="21" filename="$USER_HOME$/Projects/codingame/slayer.py" />
@@ -493,7 +459,6 @@
       <jump line="299" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="286" column="23" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="248" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="314" column="40" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="309" column="23" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="244" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="77" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
@@ -505,13 +470,51 @@
       <jump line="86" column="7" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="252" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="247" column="30" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="275" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="305" column="36" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="375" column="14" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="320" column="19" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="262" column="27" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="272" column="13" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="250" column="18" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="1025" column="33" filename="/usr/lib/python3.6/collections/__init__.py" />
+      <jump line="1102" column="27" filename="/usr/lib/python3.6/collections/__init__.py" />
+      <jump line="1108" column="10" filename="/usr/lib/python3.6/collections/__init__.py" />
+      <jump line="1107" column="24" filename="/usr/lib/python3.6/collections/__init__.py" />
+      <jump line="275" column="20" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="326" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="407" column="20" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="368" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="464" column="13" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="451" column="23" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="384" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="314" column="27" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="303" column="29" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="283" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="304" column="29" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="262" column="13" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="277" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="284" column="34" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="75" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="482" column="2" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="484" column="6" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="293" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="295" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="422" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="424" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="475" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="477" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="160" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="162" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="172" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="441" column="17" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="281" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1593,7 +1596,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>[j]</text>
+        <text>self.map.borders</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1612,43 +1615,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChpLCBqLCBzZWxmLm1hcF9kYXRhW2ldW2pdLCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1hcC5ib3JkZXJzLCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnXG4tLS0tLS0tXG4nLCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2Nlc3NfYm9yZGVycygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5tYXAuZGF0YSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1hcC5tYXBfZGF0YSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5tYXBfZGF0YSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1hcC5tYXBfZGF0YSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5tYXBfZGF0YSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tYXBfZGF0YVtpXSA9IGN1cnJlbnRfbHN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGosIGZpbGU9c3lzLnN0ZGVycikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3VycmVudF9sc3QsIGZpbGU9c3lzLnN0ZGVycikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGksIGZpbGU9c3lzLnN0ZGVycikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9sc3QgPSBzZWxmLm1hcF9kYXRhW2ldCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRfbHN0ID0gc2VsZi5tYXBfZGF0YVtpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1xuJywgZmlsZT1zeXMuc3RkZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJycsIGZpbGU9c3lzLnN0ZGVycikK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1668,30 +1671,28 @@
     </search>
     <history>
       <history-search>
-        <entry>Crop</entry>
-        <entry encoding="base64">XDxBZG1pbkNsYXNzZXNcPg==</entry>
-        <entry>many</entry>
-        <entry encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</entry>
-        <entry encoding="base64">XDxzaG91bGRfdHJhaW5cPg==</entry>
-        <entry encoding="base64">XDxjcmF3bFw+</entry>
-        <entry>yield</entry>
-        <entry encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</entry>
-        <entry encoding="base64">XDxnZXRfdHJhaW5fcG9zaXRpb25cPg==</entry>
         <entry encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</entry>
-        <entry encoding="base64">XDxnZXRfY3JlYXRlX3Bvc2l0aW9uXD4=</entry>
-        <entry encoding="base64">XDxjb2xkX2JvcmRlclw+</entry>
-        <entry encoding="base64">XDxuZWlnaGJvdXJzXD4=</entry>
         <entry encoding="base64">XDxtb3ZlXD4=</entry>
         <entry encoding="base64">XDxuZWFyZXN0X2JvcmRlclw+</entry>
         <entry encoding="base64">XDxlbmVtaWVzXD4=</entry>
         <entry>candidate</entry>
         <entry encoding="base64">XDxmaW5kX2F0dGFja2VyXD4=</entry>
         <entry encoding="base64">XDxWT0lEXD4=</entry>
+        <entry>str</entry>
+        <entry encoding="base64">XDxhdHRhY2tlclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfdW5pdHNcPg==</entry>
+        <entry encoding="base64">XDxnZXRfY3JlYXRlX3Bvc2l0aW9uXD4=</entry>
+        <entry encoding="base64">XDxjb2xkX2JvcmRlclw+</entry>
+        <entry encoding="base64">XDxib3JkZXJzXD4=</entry>
+        <entry encoding="base64">XDxhbGxpZWRfaXRlbXNcPg==</entry>
+        <entry encoding="base64">XDxuZWlnaGJvdXJzXD4=</entry>
+        <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry encoding="base64">XDxwb3B1bGF0ZVw+</entry>
+        <entry>print</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2JvcmRlcnNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/UserStories/Epics/g</entry>
-        <entry>%s/Project/Epic/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/RemoteControlAction/EquipmentDataWriteAction/gg</entry>
         <entry>wq</entry>
@@ -1709,6 +1710,8 @@
         <entry>289</entry>
         <entry>276</entry>
         <entry>86</entry>
+        <entry>319</entry>
+        <entry>369</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
