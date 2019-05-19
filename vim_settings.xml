@@ -377,11 +377,12 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558215395680">
-        <mark key="'" line="285" column="73" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558218541027">
+        <mark key="'" line="77" column="8" />
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="9" />
+        <mark key="^" line="137" column="57" />
+        <mark key="." line="72" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -413,13 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="38" filename="$USER_HOME$/.local/lib/python2.7/site-packages/pipenv/utils.py" />
-      <jump line="479" column="38" filename="$USER_HOME$/.local/lib/python2.7/site-packages/pipenv/utils.py" />
-      <jump line="5" column="15" filename="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" />
-      <jump line="8" column="71" filename="$USER_HOME$/Projects/metering/metering/urls.py" />
-      <jump line="63" column="37" filename="$USER_HOME$/Projects/metering/metering/api.py" />
-      <jump line="69" column="32" filename="$USER_HOME$/Projects/metering/metering/api.py" />
-      <jump line="17" column="127" filename="$USER_HOME$/Projects/metering/metering/urls.py" />
       <jump line="561" column="24" filename="$USER_HOME$/Projects/metering/metering/api.py" />
       <jump line="144" column="17" filename="/projects/metering/fulgurit_metering/devSettings.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
@@ -513,6 +507,13 @@
       <jump line="246" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="256" column="73" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="299" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="286" column="23" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="248" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="314" column="40" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="309" column="23" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="244" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,7 +1595,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>.neutral</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1603,7 +1604,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</text>
+        <text encoding="base64">XDxuZWlnaGJvdXJzXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1613,62 +1614,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHgsIHkpCg==</text>
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBOKHNlbGYpOgogICAgICAgIGlmIHNlbGYueCA+IDA6CiAgICAgICAgICAgIHJldHVybiBQb3NpdGlvbihzZWxmLngtMSwgc2VsZi55KQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2Nlc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5wb3MuY3Jhd2wodGhhdC5wb3MpCg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="73" code="0" mods="0" />
-          <key char="42" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hcF9kYXRhID0gW1swXSAqIFdJRFRIXSAqIEhFSUdIVAo=</text>
+        <text encoding="base64">ICAgIGRlZiBjcmF3bChzZWxmLCB0aGF0KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcm9jZXNzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIG5ldXRyYWwgPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldXRyYWwgPSBUcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2Nlc3MoKQo=</text>
+        <text encoding="base64">ICAgICA9IFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hcF9kYXRhID0gW1swXSAqIFdJRFRIXSAqIEhFSUdIVAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXh0X3Bvc2l0aW9uLCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhbGxpZWRfaXRlbXM6Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1bml0Lm5lYXJlc3RfZW5lbXlbMF0sIGZpbGU9c3lzLnN0ZGVycikK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1bml0Lm5lYXJlc3RfZW5lbXksIGZpbGU9c3lzLnN0ZGVycikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcG9zaXRpb24K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1678,9 +1660,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</last-search>
+      <last-search encoding="base64">XDxuZWlnaGJvdXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZWlnaGJvdXJzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1688,10 +1670,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVfc29pbF9lZGl0aW9uc1w+</entry>
-        <entry>update</entry>
-        <entry encoding="base64">XDxwYXRjaF9sYW5kXD4=</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX3NvaWxfZWRpdGlvbnNcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfYXJlYXNcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2FyZWFzXD4=</entry>
         <entry encoding="base64">XDxwYXRjaF9zb2lsX2VkaXRpb25zXD4=</entry>
@@ -1703,14 +1681,17 @@
         <entry>many</entry>
         <entry encoding="base64">XDxQeVBpUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxzaG91bGRfdHJhaW5cPg==</entry>
-        <entry encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</entry>
         <entry encoding="base64">XDxjcmF3bFw+</entry>
         <entry>yield</entry>
         <entry encoding="base64">XDxlbmVtaWVzXD4=</entry>
         <entry encoding="base64">XDxjb3N0X3RvX3RyYWluXD4=</entry>
+        <entry encoding="base64">XDxnZXRfdHJhaW5fcG9zaXRpb25cPg==</entry>
+        <entry encoding="base64">XDxuZWFyZXN0X2VuZW15XD4=</entry>
+        <entry encoding="base64">XDxnZXRfY3JlYXRlX3Bvc2l0aW9uXD4=</entry>
+        <entry encoding="base64">XDxjb2xkX2JvcmRlclw+</entry>
+        <entry encoding="base64">XDxuZWlnaGJvdXJzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/UserStory/Epic/</entry>
         <entry>s/UserStory/Epic/gg</entry>
         <entry>%s/UserStory/Epic/g</entry>
         <entry>%s/user_story/epic/g</entry>
@@ -1729,6 +1710,7 @@
         <entry>NERDTreeTabsToggle</entry>
         <entry>133</entry>
         <entry>259</entry>
+        <entry>311</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
