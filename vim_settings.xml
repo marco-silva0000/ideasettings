@@ -280,12 +280,12 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558379454339">
-        <mark key="'" line="373" column="34" />
-        <mark key="[" line="482" column="43" />
-        <mark key="]" line="483" column="35" />
-        <mark key="^" line="483" column="35" />
-        <mark key="." line="483" column="35" />
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558426867355">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -310,12 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="265" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="268" column="25" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="365" column="28" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="320" column="52" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="379" column="45" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="369" column="30" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="85" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="321" column="42" filename="$USER_HOME$/Projects/codingame/slayer.py" />
@@ -337,7 +331,6 @@
       <jump line="402" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="405" column="16" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="470" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
-      <jump line="475" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="482" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="506" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="508" column="12" filename="$USER_HOME$/Projects/codingame/slayer.py" />
@@ -410,6 +403,13 @@
       <jump line="480" column="29" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="79" column="24" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="373" column="34" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="630" column="15" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="347" column="14" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="475" column="30" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="476" column="40" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="278" column="11" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="473" column="43" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1491,7 +1491,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>BASE</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1500,7 +1500,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZWlnaGJvdXJzXD4=</text>
+        <text encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1509,20 +1509,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>neighbour</text>
+      <register name="0" type="2">
+        <text encoding="base64">TUlORV9CQVNFX0NPU1QgPSA0Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">TUlORSA9IDIwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1556,9 +1556,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZWlnaGJvdXJzXD4=</last-search>
+      <last-search encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZWlnaGJvdXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1566,11 +1566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>upkeep</entry>
-        <entry encoding="base64">XDxtb3ZlXD4=</entry>
-        <entry encoding="base64">XDxuZWFyZXN0X2JvcmRlclw+</entry>
-        <entry encoding="base64">XDxnZXRfb3Bwb25lbnRfSFFcPg==</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZVw+</entry>
         <entry>Build</entry>
@@ -1586,6 +1581,11 @@
         <entry encoding="base64">XDxQYWNrYWdlTm90Rm91bmRcPg==</entry>
         <entry encoding="base64">XDx0ZXN0X3Bvb2xfcmFpc2VzX2Nvbm5lY3Rpb25fZXJyb3Jfd2hlbl9vZmZsaW5lXD4=</entry>
         <entry encoding="base64">XDxuZWlnaGJvdXJzXD4=</entry>
+        <entry>owened</entry>
+        <entry encoding="base64">XDxtaW5lXD4=</entry>
+        <entry encoding="base64">XDxNSU5FX0FESVRJT05BTF9DT1NUXD4=</entry>
+        <entry>MINE_</entry>
+        <entry encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
