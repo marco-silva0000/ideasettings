@@ -280,12 +280,11 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="90" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558426867355">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+      <file name="$USER_HOME$/Projects/codingame/slayer.py" timestamp="1558429649718">
+        <mark key="[" line="495" column="58" />
+        <mark key="]" line="495" column="58" />
+        <mark key="^" line="494" column="16" />
+        <mark key="." line="495" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/metering/metering/exporters/exporters.py" timestamp="1555606229035">
         <mark key="[" line="11" column="30" />
@@ -310,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="369" column="30" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="85" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="321" column="42" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="307" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
@@ -410,6 +408,7 @@
       <jump line="278" column="11" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="473" column="43" filename="$USER_HOME$/Projects/codingame/slayer.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/codingame/slayer.py" />
+      <jump line="301" column="8" filename="$USER_HOME$/Projects/codingame/slayer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1491,7 +1490,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>BASE</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1500,7 +1499,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</text>
+        <text encoding="base64">XDxbXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1510,43 +1509,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TUlORV9CQVNFX0NPU1QgPSA0Cg==</text>
+        <text encoding="base64">CmNsYXNzIEFsbHkoKToKICAgIG93bmVyID0gTUUKICAgIAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TUlORSA9IDIwCg==</text>
+        <text encoding="base64">ICAgIG93bmVyID0gT1BQT05FTlQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBNSU5FCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG93bmVyID0gT1BQT05FTlQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG93bmVyID0gTUUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG93bmVyID0gT1BQT05FTlQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG93bmVyID0gT1BQT05FTlQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUlORSA9IDIwCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1556,17 +1555,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</last-search>
+      <last-search encoding="base64">XDxbXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxbXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZVw+</entry>
         <entry>Build</entry>
         <entry encoding="base64">XDxCdWlsZGluZ1w+</entry>
@@ -1586,6 +1584,7 @@
         <entry encoding="base64">XDxNSU5FX0FESVRJT05BTF9DT1NUXD4=</entry>
         <entry>MINE_</entry>
         <entry encoding="base64">XDxNSU5FX0FERElUSU9OQUxfQ09TVFw+</entry>
+        <entry encoding="base64">XDxbXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
