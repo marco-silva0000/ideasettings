@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/utils.py" timestamp="1557846289937">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/fulgurit/com_devices/migrations/0005_auto_20190514_1058.py" timestamp="1557834340911">
         <mark key="[" line="5" column="36" />
@@ -152,9 +152,9 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1557846274596">
-        <mark key="[" line="76" column="21" />
-        <mark key="]" line="76" column="21" />
-        <mark key="." line="76" column="21" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="32" />
       </file>
       <file name="/Django Console" timestamp="1557834886069">
@@ -179,28 +179,16 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Pipfile" timestamp="1557845516864">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Pipfile" timestamp="1558629912714">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1557763896849">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.test.yml" timestamp="1557847704481">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/test.sh" timestamp="1557847102674">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockerun.sh" timestamp="1557832810505">
         <mark key="[" line="2" column="23" />
@@ -1401,7 +1389,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>HEIGHT*WIDTH</text>
+        <text>192.168.60.9:4041</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1447,7 +1435,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>192.168.60.9:4041</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1465,8 +1453,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>HEIGHT*WIDTH</text>
+      <register name="0" type="2">
+        <text encoding="base64">W1tzb3VyY2VdXQp1cmwgPSAiaHR0cDovLzE5Mi4xNjguNjAuOTo0MDQxL2Z1bGd1cml0L2Z1bGd1cml0LytzaW1wbGUiCnZlcmlmeV9zc2wgPSBmYWxzZQpuYW1lID0gImZ1bGd1cml0IgoK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
