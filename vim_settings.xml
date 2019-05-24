@@ -134,6 +134,13 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/frontend/fulgurit-localization/package.json" timestamp="1558711839237">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/frontend/fulgurit-localization/src/i18n.js" timestamp="1558711709365" />
       <file name="/Dummy.txt" timestamp="1558527136699">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
@@ -1342,7 +1349,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>src/EgTranslatableComponent.jsx</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1388,7 +1395,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>src/EgTranslatableComponent.jsx</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1406,8 +1413,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W1tzb3VyY2VdXQp1cmwgPSAiaHR0cDovLzE5Mi4xNjguNjAuOTo0MDQxL2Z1bGd1cml0L2Z1bGd1cml0LytzaW1wbGUiCnZlcmlmeV9zc2wgPSBmYWxzZQpuYW1lID0gImZ1bGd1cml0IgoK</text>
+      <register name="0" type="4">
+        <text>src/i18n.js</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
