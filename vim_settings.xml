@@ -9,11 +9,6 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/fulgurit/com_devices/migrations/0005_auto_20190514_1058.py" timestamp="1557834340911">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/.coveragerc" timestamp="1557829414709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="19" />
@@ -44,6 +39,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1558693718983">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tests.py" timestamp="1557765086786">
         <mark key="[" line="369" column="0" />
         <mark key="]" line="370" column="14" />
@@ -56,21 +57,9 @@
         <mark key="." line="225" column="14" />
         <mark key="^" line="225" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/core/apps/timers/test.py" timestamp="1557764796831">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1558692874313" />
       <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
         <mark key="'" line="233" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" timestamp="1557829356628">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/usr/lib64/python3.7/unittest/mock.py" timestamp="1557764939840">
-        <mark key="[" line="830" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/.gitlab-ci.yml" timestamp="1557822730738">
         <mark key="[" line="36" column="0" />
@@ -108,19 +97,12 @@
       <file name="/tmp/pipenv/pipenv/core.py" timestamp="1557852652636">
         <mark key="'" line="557" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1557502752235">
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1558693758919" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1558692379936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1557763799472">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1556897811858">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/test.sh" timestamp="1557826872184">
         <mark key="[" line="6" column="46" />
@@ -146,27 +128,11 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/importer.py" timestamp="1557846274596">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="59" column="21" />
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="32" />
-      </file>
-      <file name="/Django Console" timestamp="1557834886069">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1556015653840">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558527136699">
         <mark key="r" line="0" column="6" />
@@ -179,25 +145,17 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/Pipfile" timestamp="1558629912714">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1557763896849">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/Pipfile" timestamp="1558692039531">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/dockerun.sh" timestamp="1557832810505">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
-      </file>
-      <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crops/setup.py" timestamp="1557842237197">
         <mark key="[" line="11" column="17" />
@@ -234,11 +192,6 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/simoc/test_utils.py" timestamp="1557765156976">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/tmp/pipenv/pipenv/patched/pipfile/api.py" timestamp="1557853166216">
         <mark key="'" line="98" column="24" />
@@ -1389,7 +1342,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>192.168.60.9:4041</text>
+        <text>:</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1435,7 +1388,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.60.9:4041</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
