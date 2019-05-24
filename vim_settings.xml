@@ -39,11 +39,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1558693718983">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
+      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1558714854438">
+        <mark key="'" line="18" column="80" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/events/tests.py" timestamp="1557765086786">
         <mark key="[" line="369" column="0" />
@@ -141,7 +142,7 @@
         <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/fulgurit-localization/src/i18n.js" timestamp="1558711709365" />
-      <file name="/Dummy.txt" timestamp="1558527136699">
+      <file name="/Dummy.txt" timestamp="1558715344970">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
@@ -214,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="45" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="153" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="80" column="27" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
@@ -314,6 +314,7 @@
       <jump line="557" column="24" filename="/tmp/pipenv/pipenv/core.py" />
       <jump line="6" column="13" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
       <jump line="5" column="11" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
+      <jump line="18" column="80" filename="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1349,7 +1350,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>src/EgTranslatableComponent.jsx</text>
+        <text>cleanup on test runne</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1395,7 +1396,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>src/EgTranslatableComponent.jsx</text>
+        <text>cleanup on test runne</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1404,7 +1405,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcmNcPg==</text>
+        <text encoding="base64">XDxtYWluXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1414,7 +1415,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>src/i18n.js</text>
+        <text>; sed -i 's/\&quot;main/\&quot;static\/main/g' static_dev/index.html</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1479,9 +1480,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcmNcPg==</last-search>
+      <last-search encoding="base64">XDxtYWluXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcmNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1489,8 +1490,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxUZXN0TG9yYVw+</entry>
         <entry encoding="base64">XDxmaW5kX3BhY2thZ2VzXD4=</entry>
         <entry encoding="base64">XDxEdW1teUF1dGhvcml6ZXJcPg==</entry>
         <entry encoding="base64">XDxTTUJDb25uZWN0aW9uXD4=</entry>
@@ -1509,6 +1508,8 @@
         <entry encoding="base64">XDxpbnN0YWxsX2t3YXJnc1w+</entry>
         <entry encoding="base64">XDxweXBpX21pcnJvclw+</entry>
         <entry encoding="base64">XDxzcmNcPg==</entry>
+        <entry encoding="base64">XDxzZWRcPg==</entry>
+        <entry encoding="base64">XDxtYWluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/g</entry>
