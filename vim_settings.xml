@@ -3,11 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" timestamp="1558970644164">
+        <mark key="'" line="18" column="20" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1558970141201">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/codingame/codingame/slayer.py" timestamp="1558605271383">
         <mark key="[" line="506" column="30" />
         <mark key="]" line="506" column="30" />
         <mark key="^" line="506" column="30" />
         <mark key="." line="506" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1558970539556">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1558714854438">
         <mark key="'" line="18" column="80" />
@@ -16,17 +31,49 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1558692874313" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1558971680860">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="99" column="31" />
+      </file>
       <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
         <mark key="'" line="233" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/tests.py" timestamp="1558971047835" />
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1558970352474">
+        <mark key="[" line="765" column="0" />
+        <mark key="]" line="768" column="53" />
+        <mark key="." line="25" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/core/pyproject.toml" timestamp="1557841129649">
         <mark key="'" line="1" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/admin.py" timestamp="1558970740700">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/models.py" timestamp="1558970649227">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/admin.py" timestamp="1558970693903">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="20" />
+      </file>
       <file name="/tmp/pipenv/pipenv/core.py" timestamp="1557852652636">
         <mark key="'" line="557" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1558693758919" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1558970888457">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="48" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" timestamp="1558712125177">
         <mark key="'" line="5" column="11" />
       </file>
@@ -35,6 +82,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" timestamp="1558971329547">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/fulgurit-localization/package.json" timestamp="1558711839237">
         <mark key="^" line="2" column="23" />
@@ -58,6 +111,18 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/urls.py" timestamp="1558970828497">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="18" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/serializers.py" timestamp="1558970621614">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/tmp/pipenv/pipenv/patched/pipfile/api.py" timestamp="1557853166216">
         <mark key="'" line="98" column="24" />
       </file>
@@ -66,7 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="153" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="80" column="27" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="32" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
@@ -166,6 +230,7 @@
       <jump line="6" column="13" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
       <jump line="5" column="11" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
       <jump line="18" column="80" filename="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" />
+      <jump line="18" column="20" filename="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1200,8 +1265,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>cleanup on test runne</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1247,7 +1312,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>cleanup on test runne</text>
+        <text>infrastructure</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1256,7 +1321,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluXD4=</text>
+        <text>Can</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1265,14 +1330,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>; sed -i 's/\&quot;main/\&quot;static\/main/g' static_dev/index.html</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJpbmZyYXN0cnVjdHVyZSIsCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eGx3dCA9ICIqIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1297,31 +1362,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkQAo=</text>
+        <text encoding="base64">ICAgICAgICAjYXJyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dW5zZXQgU1NIX1BVQkxJQ19LRVkK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gZmFjdG9yeS5wb3N0KCcvYXBwcy9jYW50b2VzL2Nvcm5lcicsIHsndGl0bGUnOiAnbmV3IGlkZWEnfSwgZm9ybWF0PSdqc29uJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dW5zZXQgU1NIX1BSSVZBVEVfS0VZCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IFNTSF9QVUJMSUNfS0VZPSIkKCBjYXQgfi8uc3NoL2lkX3JzYS5wdWIgKSIK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IFNTSF9QUklWQVRFX0tFWT0iJCggY2F0IH4vLnNzaC9pZF9yc2EgKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncmVnaXN0cmF0aW9ucycsIGFwaS5SZWdpc3RyYXRpb25WaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidyZWdpc3RyYXRpb24tc3RhdGUnLCBhcGkuUmVnaXN0cmF0aW9uU3RhdGVWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidjbGllbnQnLCBhcGkuQUJDbGllbnRWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidwYXJpc2gnLCBhcGkuUGFyaXNoVmlld1NldCkKcm91dGVyLnJlZ2lzdGVyKHInY291bnR5JywgYXBpLkNvdW50eVZpZXdTZXQpCnJvdXRlci5yZWdpc3RlcihyJ2NhdGVnb3J5JywgYXBpLkNhdGVnb3J5Vmlld1NldCkKcm91dGVyLnJlZ2lzdGVyKHInY29udHJhY3RzJywgYXBpLkNvbnRyYWN0c1ZpZXdTZXQpCnJvdXRlci5yZWdpc3RlcihyJ2RvY3VtZW50cycsIGFwaS5Eb2N1bWVudHNWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidsYW5kLWRvY3VtZW50JywgYXBpLkxhbmREb2N1bWVudFZpZXdTZXQpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1hZ2U6IGdpdGxhYi9kaW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dW5zZXQgU1NIX1BVQkxJQ19LRVkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1331,9 +1396,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluXD4=</last-search>
+      <last-search>Can</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
+      <last-pattern>Can</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1341,7 +1406,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kX3BhY2thZ2VzXD4=</entry>
         <entry encoding="base64">XDxEdW1teUF1dGhvcml6ZXJcPg==</entry>
         <entry encoding="base64">XDxTTUJDb25uZWN0aW9uXD4=</entry>
         <entry>01</entry>
@@ -1361,10 +1425,9 @@
         <entry encoding="base64">XDxzcmNcPg==</entry>
         <entry encoding="base64">XDxzZWRcPg==</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry>Can</entry>
       </history-search>
       <history-cmd>
-        <entry>s/UserStory/Epic/g</entry>
-        <entry>s/UserStory/Epic/</entry>
         <entry>s/UserStory/Epic/gg</entry>
         <entry>%s/UserStory/Epic/g</entry>
         <entry>%s/user_story/epic/g</entry>
@@ -1382,6 +1445,8 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>f</entry>
+        <entry>25</entry>
+        <entry>7</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
