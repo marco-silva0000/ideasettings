@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/metering/fulgurit_metering/settings.py" timestamp="1558971758162">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="103" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" timestamp="1558970644164">
         <mark key="'" line="18" column="20" />
         <mark key="[" line="13" column="21" />
@@ -31,11 +35,12 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1558971680860">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="99" column="31" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1558971778472">
+        <mark key="'" line="211" column="4" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
         <mark key="'" line="233" column="23" />
@@ -131,8 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="8" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
-      <jump line="80" column="27" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="32" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" />
       <jump line="0" column="54" filename="/Dummy.txt" />
       <jump line="473" column="40" filename="$USER_HOME$/Projects/core/datalogger.py" />
@@ -231,6 +234,8 @@
       <jump line="5" column="11" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
       <jump line="18" column="80" filename="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" />
       <jump line="18" column="20" filename="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" />
+      <jump line="111" column="24" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
+      <jump line="210" column="4" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1265,8 +1270,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>os</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1312,7 +1317,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>infrastructure</text>
+        <text>os</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1331,7 +1336,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJpbmZyYXN0cnVjdHVyZSIsCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1362,28 +1367,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjYXJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gZmFjdG9yeS5wb3N0KCcvYXBwcy9jYW50b2VzL2Nvcm5lcicsIHsndGl0bGUnOiAnbmV3IGlkZWEnfSwgZm9ybWF0PSdqc29uJykK</text>
+        <text encoding="base64">ICAgICAgICAjYXJyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gZmFjdG9yeS5wb3N0KCcvYXBwcy9jYW50b2VzL2Nvcm5lcicsIHsndGl0bGUnOiAnbmV3IGlkZWEnfSwgZm9ybWF0PSdqc29uJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncmVnaXN0cmF0aW9ucycsIGFwaS5SZWdpc3RyYXRpb25WaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidyZWdpc3RyYXRpb24tc3RhdGUnLCBhcGkuUmVnaXN0cmF0aW9uU3RhdGVWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidjbGllbnQnLCBhcGkuQUJDbGllbnRWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidwYXJpc2gnLCBhcGkuUGFyaXNoVmlld1NldCkKcm91dGVyLnJlZ2lzdGVyKHInY291bnR5JywgYXBpLkNvdW50eVZpZXdTZXQpCnJvdXRlci5yZWdpc3RlcihyJ2NhdGVnb3J5JywgYXBpLkNhdGVnb3J5Vmlld1NldCkKcm91dGVyLnJlZ2lzdGVyKHInY29udHJhY3RzJywgYXBpLkNvbnRyYWN0c1ZpZXdTZXQpCnJvdXRlci5yZWdpc3RlcihyJ2RvY3VtZW50cycsIGFwaS5Eb2N1bWVudHNWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidsYW5kLWRvY3VtZW50JywgYXBpLkxhbmREb2N1bWVudFZpZXdTZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncmVnaXN0cmF0aW9ucycsIGFwaS5SZWdpc3RyYXRpb25WaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidyZWdpc3RyYXRpb24tc3RhdGUnLCBhcGkuUmVnaXN0cmF0aW9uU3RhdGVWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidjbGllbnQnLCBhcGkuQUJDbGllbnRWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidwYXJpc2gnLCBhcGkuUGFyaXNoVmlld1NldCkKcm91dGVyLnJlZ2lzdGVyKHInY291bnR5JywgYXBpLkNvdW50eVZpZXdTZXQpCnJvdXRlci5yZWdpc3RlcihyJ2NhdGVnb3J5JywgYXBpLkNhdGVnb3J5Vmlld1NldCkKcm91dGVyLnJlZ2lzdGVyKHInY29udHJhY3RzJywgYXBpLkNvbnRyYWN0c1ZpZXdTZXQpCnJvdXRlci5yZWdpc3RlcihyJ2RvY3VtZW50cycsIGFwaS5Eb2N1bWVudHNWaWV3U2V0KQpyb3V0ZXIucmVnaXN0ZXIocidsYW5kLWRvY3VtZW50JywgYXBpLkxhbmREb2N1bWVudFZpZXdTZXQpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
