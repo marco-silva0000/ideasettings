@@ -10,6 +10,11 @@
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" timestamp="1559055383341">
         <mark key="]" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/fulgurit/com_devices/migrations/0005_auto_20190514_1058.py" timestamp="1557834340911">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1558970141201">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="40" />
@@ -37,18 +42,28 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1558979588098">
-        <mark key="'" line="211" column="4" />
-        <mark key="[" line="108" column="21" />
-        <mark key="]" line="108" column="58" />
-        <mark key="^" line="108" column="58" />
-        <mark key="." line="108" column="58" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1559058380941">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="19" />
       </file>
       <file name="/abmira.public.django_migrations [PostgreSQL - abmira@icarus.fulgurit.eu]" timestamp="1558973157131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/apps/timers/test.py" timestamp="1557764796831">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
         <mark key="'" line="233" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" timestamp="1557829356628">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/tests.py" timestamp="1558971047835" />
       <file name="/usr/lib64/python3.7/unittest/mock.py" timestamp="1557764939840">
@@ -89,11 +104,15 @@
       <file name="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" timestamp="1558712125177">
         <mark key="'" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1558972976887">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1559058407382">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1557763799472">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/Python Console" timestamp="1559055070969">
         <mark key="[" line="0" column="0" />
@@ -101,10 +120,16 @@
       <file name="/fragment.py" timestamp="1559044913636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" timestamp="1559055324316">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" timestamp="1559057962883">
+        <mark key="'" line="8" column="43" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/serializers.py" timestamp="1558974303492" />
       <file name="/a.sql" timestamp="1558973137823">
@@ -112,6 +137,11 @@
       </file>
       <file name="/Django Console" timestamp="1558975075797">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/dockerbuild.sh" timestamp="1558717188726" />
       <file name="/dummy.sql" timestamp="1558973162526">
@@ -121,7 +151,7 @@
       <file name="/abmira.public.django_content_type [PostgreSQL - abmira@icarus.fulgurit.eu]" timestamp="1558973154159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558979663673">
+      <file name="/Dummy.txt" timestamp="1559058442420">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
@@ -138,14 +168,18 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1557763896849">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+      </file>
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/urls.py" timestamp="1559057008128">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/urls.py" timestamp="1559059131246">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/mixins.py" timestamp="1559045261254">
         <mark key="[" line="95" column="0" />
@@ -157,6 +191,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/simoc/test_utils.py" timestamp="1557765156976">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/tmp/pipenv/pipenv/patched/pipfile/api.py" timestamp="1557853166216">
         <mark key="'" line="98" column="24" />
       </file>
@@ -165,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="20" column="19" filename="/projects/crops/crops/serializers.py" />
-      <jump line="24" column="15" filename="/projects/crops/crops/serializers.py" />
       <jump line="38" column="6" filename="/projects/crops/crops/serializers.py" />
       <jump line="71" column="15" filename="/projects/crops/crops/serializers.py" />
       <jump line="8" column="6" filename="/projects/metering/metering/admin.py" />
@@ -265,6 +301,9 @@
       <jump line="30" column="21" filename="$USER_HOME$/Projects/regantes-backend/cantoes/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" />
+      <jump line="8" column="43" filename="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" />
+      <jump line="112" column="26" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1300,7 +1339,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>master</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1346,7 +1385,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>master</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1355,7 +1394,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc1w+</text>
+        <text encoding="base64">XDxBTExPV0VEX0hPU1RTXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1371,7 +1410,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVybHBhdHRlcm4uX19kaWN0X18pCg==</text>
+        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9IFsnbG9jYWxob3N0JywgJzEyNy4wLjAuMSddCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1396,31 +1435,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdHRlcm5zPXIiY29ybmVyIiwK</text>
+        <text encoding="base64">c3RvcCBjaGFuZ2luZyB0byBzcWxpdGUgb24gZG9ja2VyIGVudiB3aGlsZSB0ZXN0aW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybD0iL2FwcHMvY2FudG9lcy9hcGkvIiwK</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdC5tb2NrIGltcG9ydCBwYXRjaCwgUHJvcGVydHlNb2NrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbSwgYyA9IGNyZWF0ZV9jb3JuZXJtYW5fYW5kX2Nvcm5lcigpCg==</text>
+        <text encoding="base64">ZnJvbSBjYW50b2VzLnNlcmlhbGl6ZXJzIGltcG9ydCBDb3JuZXJTZXJpYWxpemVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHJlc3RfZnJhbWV3b3JrX2dpcy5maWVsZHMgaW1wb3J0IEdlb21ldHJ5RmllbGQK</text>
+        <text encoding="base64">ICAgIHBhdHRlcm5zPVsiY2FudCJdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVybHBhdHRlcm4uX19kaWN0X18pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHBhdHRlcm5zPXIiY29ybmVyIiwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVybD0iL2FwcHMvY2FudG9lcy9hcGkvIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGMuY29ybmVycy5maXJzdCgpLCBjKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbSwgYyA9IGNyZWF0ZV9jb3JuZXJtYW5fYW5kX2Nvcm5lcigpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1430,9 +1469,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
+      <last-search encoding="base64">XDxBTExPV0VEX0hPU1RTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxBTExPV0VEX0hPU1RTXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1440,8 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxITUFDXD4=</entry>
-        <entry encoding="base64">XDxTSEEyNTZcPg==</entry>
         <entry encoding="base64">XDxleGNsdWRlX2ZpbGVzX2Zyb21fbGlzdFw+</entry>
         <entry>pypi</entry>
         <entry encoding="base64">XDxkb19pbnN0YWxsXD4=</entry>
@@ -1460,6 +1497,8 @@
         <entry>Shape</entry>
         <entry>shape</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry>ALL</entry>
+        <entry encoding="base64">XDxBTExPV0VEX0hPU1RTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/UserStory/Epic/gg</entry>
