@@ -19,7 +19,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/compat.py" timestamp="1559056950165">
+      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/compat.py" timestamp="1559060816526">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -95,11 +95,11 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/viewsets.py" timestamp="1559045250033">
         <mark key="'" line="221" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1558970888457">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="51" column="11" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="48" column="42" />
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1559061343091">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="56" column="1" />
+        <mark key="." line="49" column="45" />
+        <mark key="^" line="49" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" timestamp="1558712125177">
         <mark key="'" line="5" column="11" />
@@ -176,7 +176,7 @@
       <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/urls.py" timestamp="1559059131246">
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/urls.py" timestamp="1559060851610">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -1338,8 +1338,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>master</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXJscGF0dGVybnMgPSBbCiAgICBwYXRoKCJhZG1pbi8iLCBhZG1pbi5zaXRlLnVybHMpLAogICAgcGF0aCgiYXBwcy9pcnJpZ2F0b3JzLyIsIGluY2x1ZGUoImlycmlnYXRvcnMudXJscyIpKSwKICAgIHBhdGgoImFwcHMvY3JvcHMvIiwgaW5jbHVkZSgiY3JvcHMudXJscyIpKSwKICAgIHBhdGgoImFwcHMvaW5mcmFzdHJ1Y3R1cmUvIiwgaW5jbHVkZSgiaW5mcmFzdHJ1Y3R1cmUudXJscyIpKSwKICAgIHBhdGgoImFwcHMvY2FudG9lcy8iLCBpbmNsdWRlKCJjYW50b2VzLnVybHMiKSksCiAgICBwYXRoKCJpcnJpZ2F0b3JzLyIsIGluY2x1ZGUoImlycmlnYXRvcnMudXJscyIpKSwKICAgIHBhdGgoImluZnJhc3RydWN0dXJlLyIsIGluY2x1ZGUoImluZnJhc3RydWN0dXJlLnVybHMiKSksCiAgICBwYXRoKCJjYW50b2VzLyIsIGluY2x1ZGUoImNhbnRvZXMudXJscyIpKSwKICAgIHBhdGgoIiQiLCBSb290Vmlldy5hc192aWV3KCkpLAogICAgcGF0aCgiaWZyYW1lLmh0bWwiLCBJZnJhbWVWaWV3LmFzX3ZpZXcoKSksCiAgICBwYXRoKCJ0ZXN0IiwgdGVzdF92aWV3KSwKXQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1385,7 +1385,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>^</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1404,7 +1404,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVybHBhdHRlcm4pCg==</text>
+        <text encoding="base64">dXJscGF0dGVybnMgPSBbCiAgICBwYXRoKCJhZG1pbi8iLCBhZG1pbi5zaXRlLnVybHMpLAogICAgcGF0aCgiYXBwcy9pcnJpZ2F0b3JzLyIsIGluY2x1ZGUoImlycmlnYXRvcnMudXJscyIpKSwKICAgIHBhdGgoImFwcHMvY3JvcHMvIiwgaW5jbHVkZSgiY3JvcHMudXJscyIpKSwKICAgIHBhdGgoImFwcHMvaW5mcmFzdHJ1Y3R1cmUvIiwgaW5jbHVkZSgiaW5mcmFzdHJ1Y3R1cmUudXJscyIpKSwKICAgIHBhdGgoImFwcHMvY2FudG9lcy8iLCBpbmNsdWRlKCJjYW50b2VzLnVybHMiKSksCiAgICBwYXRoKCJpcnJpZ2F0b3JzLyIsIGluY2x1ZGUoImlycmlnYXRvcnMudXJscyIpKSwKICAgIHBhdGgoImluZnJhc3RydWN0dXJlLyIsIGluY2x1ZGUoImluZnJhc3RydWN0dXJlLnVybHMiKSksCiAgICBwYXRoKCJjYW50b2VzLyIsIGluY2x1ZGUoImNhbnRvZXMudXJscyIpKSwKICAgIHBhdGgoIiQiLCBSb290Vmlldy5hc192aWV3KCkpLAogICAgcGF0aCgiaWZyYW1lLmh0bWwiLCBJZnJhbWVWaWV3LmFzX3ZpZXcoKSksCiAgICBwYXRoKCJ0ZXN0IiwgdGVzdF92aWV3KSwKXQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1414,24 +1414,24 @@
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="73" code="0" mods="0" />
-          <key char="42" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="100" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="48" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
@@ -1501,7 +1501,6 @@
         <entry encoding="base64">XDxBTExPV0VEX0hPU1RTXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/UserStory/Epic/gg</entry>
         <entry>%s/UserStory/Epic/g</entry>
         <entry>%s/user_story/epic/g</entry>
         <entry>%s/UserStories/Epics/g</entry>
@@ -1520,6 +1519,7 @@
         <entry>25</entry>
         <entry>7</entry>
         <entry>q</entry>
+        <entry>registers</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
