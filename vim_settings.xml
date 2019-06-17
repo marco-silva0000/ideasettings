@@ -183,10 +183,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1560782186779">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="41" />
-        <mark key="." line="33" column="41" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1560784965466">
+        <mark key="[" line="92" column="29" />
+        <mark key="]" line="92" column="39" />
+        <mark key="." line="92" column="39" />
+        <mark key="^" line="92" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/test_utils.py" timestamp="1557765156976">
         <mark key="[" line="6" column="0" />
@@ -1346,7 +1347,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Regantes</text>
+        <text>production</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1392,7 +1393,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Regantes</text>
+        <text>production</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1401,7 +1402,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxndXJpdFw+</text>
+        <text>produ</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1540,9 +1541,9 @@ LOGGING = {
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdWxndXJpdFw+</last-search>
+      <last-search>produ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxndXJpdFw+</last-pattern>
+      <last-pattern>produ</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1550,7 +1551,6 @@ LOGGING = {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUX1NPVVJDRVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfbWlycm9yX3NvdXJjZVw+</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
@@ -1570,6 +1570,7 @@ LOGGING = {
         <entry encoding="base64">XDxUaW1lcnNTZXJ2aWNlXD4=</entry>
         <entry>exxor</entry>
         <entry encoding="base64">XDxmdWxndXJpdFw+</entry>
+        <entry>produ</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserStory/Epic/g</entry>
