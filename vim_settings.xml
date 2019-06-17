@@ -25,19 +25,10 @@
         <mark key="^" line="506" column="30" />
         <mark key="." line="506" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1558714854438">
-        <mark key="'" line="18" column="80" />
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1559058380941">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/.gitignore" timestamp="1560791706619">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1560786232099">
         <mark key="[" line="64" column="58" />
@@ -89,12 +80,20 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" timestamp="1560796837590">
+        <mark key="'" line="93" column="31" />
+        <mark key="[" line="153" column="51" />
+        <mark key="]" line="153" column="51" />
+        <mark key="." line="153" column="51" />
+        <mark key="^" line="153" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/models.py" timestamp="1559045236173">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="51" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="10" column="49" />
       </file>
+      <file name="/LoginPage.jsx" timestamp="1560792315572" />
       <file name="$USER_HOME$/Projects/core/frontend/core/src/index.js" timestamp="1560770039259">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="14" />
@@ -126,6 +125,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/.gitignore" timestamp="1560791748748">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" timestamp="1559064113515">
         <mark key="'" line="118" column="6" />
         <mark key="[" line="25" column="0" />
@@ -149,7 +154,18 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560530266456">
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" timestamp="1560796311639">
+        <mark key="'" line="46" column="43" />
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+        <mark key="^" line="58" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/app/main/auth/services/authService.js" timestamp="1560793840184">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="66" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560797038732">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
@@ -183,12 +199,6 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1560784965466">
-        <mark key="[" line="92" column="29" />
-        <mark key="]" line="92" column="39" />
-        <mark key="." line="92" column="39" />
-        <mark key="^" line="92" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/core/simoc/test_utils.py" timestamp="1557765156976">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -200,41 +210,18 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560786088136">
-        <mark key="'" line="3" column="45" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560796919285">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="60" column="30" />
+        <mark key="." line="60" column="31" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="35" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/test.py" />
-      <jump line="28" column="34" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
-      <jump line="23" column="30" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="364" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="451" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="518" column="41" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="241" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="281" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="494" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="497" column="60" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="535" column="70" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="788" column="20" filename="$USER_HOME$/Projects/core/apps/sprinklers/test.py" />
-      <jump line="46" column="15" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="54" column="7" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="53" column="32" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="57" column="69" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="33" column="24" filename="$USER_HOME$/Projects/core/datalogger.py" />
-      <jump line="687" column="19" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
-      <jump line="18" column="52" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/test.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/Projects/core/.gitlab-ci.yml" />
-      <jump line="1" column="21" filename="$USER_HOME$/Projects/core/pyproject.toml" />
-      <jump line="23" column="58" filename="$USER_HOME$/Projects/core/pyproject.toml" />
       <jump line="47" column="27" filename="/tmp/pipenv/pipenv/cli/command.py" />
       <jump line="66" column="15" filename="/tmp/pipenv/pipenv/cli/command.py" />
       <jump line="73" column="4" filename="/tmp/pipenv/pipenv/cli/command.py" />
@@ -312,6 +299,29 @@
       <jump line="33" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
       <jump line="30" column="18" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
       <jump line="3" column="45" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="103" column="13" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="112" column="23" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="123" column="23" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="135" column="17" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="6" column="7" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="160" column="19" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="183" column="0" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="4" column="36" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="10" column="21" filename="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" />
+      <jump line="46" column="43" filename="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" />
+      <jump line="86" column="70" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="83" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="142" column="63" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="47" column="9" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="65" column="13" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="66" column="76" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="70" column="35" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="71" column="31" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="79" column="32" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="85" column="24" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="93" column="31" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
+      <jump line="25" column="8" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1347,8 +1357,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,
-            require('@babel/plugin-proposal-export-default-from')</text>
+        <text>server-side-changes5</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1394,7 +1403,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>@babel/plugin-syntax-dynamic-import</text>
+        <text>server-side-changes5</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1403,7 +1412,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>produ</text>
+        <text encoding="base64">XDxzZXRDcmVkZW50aWFsc1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1413,14 +1422,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>,
-            require('@babel/plugin-proposal-export-default-from')</text>
+        <text>handleOnClickLogin</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3N0YXRpYy9kaXN0LzEuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgZmV0Y2hTdGF0dXM6IHJlc3BvbnNlLnN0YXR1cyB9KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1445,95 +1453,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2dpbkRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3N0YXRpYy9kaXN0LzEuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICBoYW5kbGVPbkNsaWNrTG9naW4gPSAobG9naW5EYXRhKSA9PiB7CiAgICBnZXRMb2dpbkFjY2Vzcyhsb2dpbkRhdGEpCiAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgIGNvbnN0IGRhdGEgPSByZXNwb25zZS5yZXN1bHRzCiAgICAgICAgICBzZXRDcmVkZW50aWFscyhkYXRhLnVzZXIudXNlcm5hbWUsIGRhdGEucGssIGRhdGEubmFtZSkKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBmZXRjaFN0YXR1czogcmVzcG9uc2Uuc3RhdHVzIH0pCiAgICAgIH0pCiAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>public&quot;),
-    #    os.path.join(BASE_DIR, &quot;frontend/app/i18n&quot;),
-    #    os.path.join(BASE_DIR, &quot;frontend/app/main&quot;),
-    #    os.path.join(BASE_DIR, &quot;frontend/app/templates&quot;),
-    os.path.join(BASE_DIR, &quot;frontend/static&quot;),
-    os.path.join(BASE_DIR, &quot;docs/build/docs&quot;),
-]
-
-MEDIA_ROOT = &quot;/var/www/simoc/media/&quot;
-
-MEDIA_URL = &quot;/media/&quot;
-
-
-REST_FRAMEWORK = {
-    &quot;DEFAULT_AUTHENTICATION_CLASSES&quot;: (
-        &quot;rest_framework.authentication.TokenAuthentication&quot;,
-        &quot;rest_framework.authentication.BasicAuthentication&quot;,
-        &quot;rest_framework.authentication.SessionAuthentication&quot;,
-    )
-}
-
-# TODO get sendgrid hubel username
-EMAIL_BACKEND = &quot;django.core.mail.backends.smtp.EmailBackend&quot;
-EMAIL_HOST = &quot;smtp.sendgrid.net&quot;
-EMAIL_HOST_USER = &quot;simoc&quot;
-EMAIL_HOST_PASSWORD = &quot;2w3e4r5t&quot;
-EMAIL_PORT = 587
-EMAIL_USE_TLS = True
-SIMOC_EMAIL = &quot;simoc@hubel.pt&quot;
-
-# SMS WEB SERVICE CREDENTIALS
-SMS_WEB_URL = &quot;http://sms.server.ip&quot;
-SMS_WEB_USER = &quot;user&quot;
-SMS_WEB_PASS = &quot;pass&quot;
-
-CACHES = {
-    &quot;default&quot;: {
-        &quot;BACKEND&quot;: &quot;django.core.cache.backends.filebased.FileBasedCache&quot;,
-        &quot;LOCATION&quot;: &quot;/var/tmp/django_cache&quot;,
-        &quot;TIMEOUT&quot;: None,
-        &quot;OPTIONS&quot;: {&quot;MAX_ENTRIES&quot;: 1000},
-    },
-    &quot;sprinklers&quot;: {
-        &quot;BACKEND&quot;: &quot;django.core.cache.backends.memcached.PyLibMCCache&quot;,
-        &quot;LOCATION&quot;: &quot;/tmp/memcached.sock&quot;,
-        &quot;TIMEOUT&quot;: 60 * 60 * 24,
-    },
-    &quot;trends&quot;: {
-        &quot;BACKEND&quot;: &quot;django.core.cache.backends.memcached.PyLibMCCache&quot;,
-        &quot;LOCATION&quot;: &quot;/tmp/memcached.sock&quot;,
-        &quot;TIMEOUT&quot;: None,
-    },
-}
-
-LOGGING = {
-    &quot;version&quot;: 1,
-    &quot;disable_existing_loggers&quot;: False,
-    &quot;formatters&quot;: {
-        &quot;module&quot;: {&quot;format&quot;: &quot;%(levelname)s %(asctime)s %(name)s %(message)s&quot;}
-    },
-    &quot;handlers&quot;: {
-        &quot;file_info&quot;: {
-            &quot;level&quot;: &quot;DEBUG&quot;,
-            &quot;class&quot;: &quot;logging.FileHandler&quot;,
-            &quot;filename&quot;: &quot;/var/log/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtZmllbGR3b3JrIjogIjAuMi40IiwK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5qc29uKCkudGhlbihkYXRhID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFzdFVwZGF0ZUNoZWNrOiAxNTU5MTMwOTQyMTExCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDcmVkZW50aWFscyhyZXNwb25zZS4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgZmV0Y2hTdGF0dXM6IHJlc3BvbnNlLnN0YXR1cyB9KQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1543,9 +1487,9 @@ LOGGING = {
       </register>
     </registers>
     <search>
-      <last-search>produ</last-search>
+      <last-search encoding="base64">XDxzZXRDcmVkZW50aWFsc1w+</last-search>
       <last-offset />
-      <last-pattern>produ</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRDcmVkZW50aWFsc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1553,13 +1497,6 @@ LOGGING = {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX1NPVVJDRVw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVfbWlycm9yX3NvdXJjZVw+</entry>
-        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
-        <entry encoding="base64">XDxmYWlsZWRfZGVwc19xdWV1ZVw+</entry>
-        <entry encoding="base64">XDxpbnN0YWxsX2t3YXJnc1w+</entry>
-        <entry encoding="base64">XDxweXBpX21pcnJvclw+</entry>
-        <entry encoding="base64">XDxzcmNcPg==</entry>
         <entry encoding="base64">XDxzZWRcPg==</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
         <entry>Can</entry>
@@ -1573,6 +1510,13 @@ LOGGING = {
         <entry>exxor</entry>
         <entry encoding="base64">XDxmdWxndXJpdFw+</entry>
         <entry>produ</entry>
+        <entry encoding="base64">XDxpMThuXD4=</entry>
+        <entry encoding="base64">XDxMb2dpblBhZ2VcPg==</entry>
+        <entry encoding="base64">XDxjb29raWVcPg==</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrTG9naW5cPg==</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
+        <entry encoding="base64">XDxzZXRDcmVkZW50aWFsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserStory/Epic/g</entry>
