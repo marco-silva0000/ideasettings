@@ -3,29 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" timestamp="1558712125177">
-        <mark key="'" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1559058407382">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/metering/fulgurit_metering/settings.py" timestamp="1558971758162">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="103" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1557763799472">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1559055070969">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1559044913636">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/mainES6.js" timestamp="1560765458354" />
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" timestamp="1559064126168">
         <mark key="[" line="33" column="0" />
@@ -37,16 +14,6 @@
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" timestamp="1559064113515">
-        <mark key="'" line="118" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1558970141201">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="40" />
-      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/compat.py" timestamp="1559063133266">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -57,27 +24,6 @@
         <mark key="]" line="506" column="30" />
         <mark key="^" line="506" column="30" />
         <mark key="." line="506" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1558973137823">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1558975075797">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1557499208140">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" timestamp="1558977411598">
-        <mark key="'" line="295" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" timestamp="1558714854438">
         <mark key="'" line="18" column="80" />
@@ -93,19 +39,114 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="19" />
       </file>
-      <file name="/abmira.public.django_migrations [PostgreSQL - abmira@icarus.fulgurit.eu]" timestamp="1558973157131">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1558973162526">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1560770215446">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/core/apps/timers/test.py" timestamp="1557764796831">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/abmira.public.django_content_type [PostgreSQL - abmira@icarus.fulgurit.eu]" timestamp="1558973154159">
+      <file name="$USER_HOME$/Projects/core/frontend/core/public/index.html" timestamp="1560770219287">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
+        <mark key="'" line="233" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" timestamp="1557829356628">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1558970352474">
+        <mark key="[" line="765" column="0" />
+        <mark key="]" line="768" column="53" />
+        <mark key="." line="25" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/.yarnrc" timestamp="1559135322328">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/pyproject.toml" timestamp="1557841129649">
+        <mark key="'" line="1" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/organizations/views.py" timestamp="1560769730850">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/admin.py" timestamp="1558970740700">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/models.py" timestamp="1559045236173">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/index.js" timestamp="1560770039259">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="/tmp/pipenv/pipenv/core.py" timestamp="1557852652636">
+        <mark key="'" line="557" column="24" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/viewsets.py" timestamp="1559045250033">
+        <mark key="'" line="221" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1559063785931">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="49" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" timestamp="1558712125177">
+        <mark key="'" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/regantes/devSettings.py" timestamp="1559058407382">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/Pipfile" timestamp="1557763799472">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" timestamp="1559064113515">
+        <mark key="'" line="118" column="6" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/settings.py" timestamp="1560769797805">
+        <mark key="[" line="171" column="41" />
+        <mark key="]" line="171" column="41" />
+        <mark key="." line="171" column="41" />
+        <mark key="^" line="171" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/simoc/urls.py" timestamp="1560769695330">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1560530266456">
         <mark key="r" line="0" column="6" />
@@ -124,34 +165,10 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
-        <mark key="'" line="233" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/.gitlab-ci.yml" timestamp="1557829356628">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/com_manager/ThingParkDXAPI/models.py" timestamp="1557763896849">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
-      </file>
-      <file name="/usr/lib64/python3.7/unittest/mock.py" timestamp="1557764939840">
-        <mark key="[" line="830" column="0" />
-      </file>
-      <file name="/django_migrations [abmira@icarus.fulgurit.eu]" timestamp="1556015651886">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/irrigators/api.py" timestamp="1558970352474">
-        <mark key="[" line="765" column="0" />
-        <mark key="]" line="768" column="53" />
-        <mark key="." line="25" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/.yarnrc" timestamp="1559135322328">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/urls.py" timestamp="1559062382846">
         <mark key="[" line="13" column="0" />
@@ -159,30 +176,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/core/pyproject.toml" timestamp="1557841129649">
-        <mark key="'" line="1" column="58" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/mixins.py" timestamp="1559045261254">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="96" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/admin.py" timestamp="1558970740700">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/cantoes/serializers.py" timestamp="1559045583702">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/cantoes/models.py" timestamp="1559045236173">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="10" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/core/simoc/test_utils.py" timestamp="1557765156976">
         <mark key="[" line="6" column="0" />
@@ -195,24 +193,17 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560770081619">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
-      <file name="/tmp/pipenv/pipenv/core.py" timestamp="1557852652636">
-        <mark key="'" line="557" column="24" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/regantes-backend-VEQEWK_9/lib/python3.7/site-packages/rest_framework/viewsets.py" timestamp="1559045250033">
-        <mark key="'" line="221" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/regantes/urls.py" timestamp="1559063785931">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-        <mark key="^" line="49" column="45" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="37" filename="/urls.py" />
       <jump line="12" column="13" filename="$USER_HOME$/Projects/sensoring/setup.py" />
       <jump line="10" column="35" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/test.py" />
       <jump line="28" column="34" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
@@ -312,6 +303,7 @@
       <jump line="35" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
       <jump line="34" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
       <jump line="33" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
+      <jump line="30" column="18" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1346,8 +1338,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fulgurit-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3N0YXRpYy9kaXN0LzEuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1393,7 +1385,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fulgurit-</text>
+        <text>will declare app</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1412,13 +1404,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0tbW9kZSBwcm9kdWN0aW9uIE5PREVfT1BUSU9OUz1cIi0tcmVxdWlyZSAucG5wLmpzXCIiLAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3dpbGwgZGVjbGFyZSBhcHAnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtZmllbGR3b3JrIjogIjAuMi40IiwK</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3N0YXRpYy9kaXN0LzEuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1446,28 +1438,92 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGFzdFVwZGF0ZUNoZWNrOiAxNTU5MTMwOTQyMTExCg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3N0YXRpYy9kaXN0LzEuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>public&quot;),
+    #    os.path.join(BASE_DIR, &quot;frontend/app/i18n&quot;),
+    #    os.path.join(BASE_DIR, &quot;frontend/app/main&quot;),
+    #    os.path.join(BASE_DIR, &quot;frontend/app/templates&quot;),
+    os.path.join(BASE_DIR, &quot;frontend/static&quot;),
+    os.path.join(BASE_DIR, &quot;docs/build/docs&quot;),
+]
+
+MEDIA_ROOT = &quot;/var/www/simoc/media/&quot;
+
+MEDIA_URL = &quot;/media/&quot;
+
+
+REST_FRAMEWORK = {
+    &quot;DEFAULT_AUTHENTICATION_CLASSES&quot;: (
+        &quot;rest_framework.authentication.TokenAuthentication&quot;,
+        &quot;rest_framework.authentication.BasicAuthentication&quot;,
+        &quot;rest_framework.authentication.SessionAuthentication&quot;,
+    )
+}
+
+# TODO get sendgrid hubel username
+EMAIL_BACKEND = &quot;django.core.mail.backends.smtp.EmailBackend&quot;
+EMAIL_HOST = &quot;smtp.sendgrid.net&quot;
+EMAIL_HOST_USER = &quot;simoc&quot;
+EMAIL_HOST_PASSWORD = &quot;2w3e4r5t&quot;
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+SIMOC_EMAIL = &quot;simoc@hubel.pt&quot;
+
+# SMS WEB SERVICE CREDENTIALS
+SMS_WEB_URL = &quot;http://sms.server.ip&quot;
+SMS_WEB_USER = &quot;user&quot;
+SMS_WEB_PASS = &quot;pass&quot;
+
+CACHES = {
+    &quot;default&quot;: {
+        &quot;BACKEND&quot;: &quot;django.core.cache.backends.filebased.FileBasedCache&quot;,
+        &quot;LOCATION&quot;: &quot;/var/tmp/django_cache&quot;,
+        &quot;TIMEOUT&quot;: None,
+        &quot;OPTIONS&quot;: {&quot;MAX_ENTRIES&quot;: 1000},
+    },
+    &quot;sprinklers&quot;: {
+        &quot;BACKEND&quot;: &quot;django.core.cache.backends.memcached.PyLibMCCache&quot;,
+        &quot;LOCATION&quot;: &quot;/tmp/memcached.sock&quot;,
+        &quot;TIMEOUT&quot;: 60 * 60 * 24,
+    },
+    &quot;trends&quot;: {
+        &quot;BACKEND&quot;: &quot;django.core.cache.backends.memcached.PyLibMCCache&quot;,
+        &quot;LOCATION&quot;: &quot;/tmp/memcached.sock&quot;,
+        &quot;TIMEOUT&quot;: None,
+    },
+}
+
+LOGGING = {
+    &quot;version&quot;: 1,
+    &quot;disable_existing_loggers&quot;: False,
+    &quot;formatters&quot;: {
+        &quot;module&quot;: {&quot;format&quot;: &quot;%(levelname)s %(asctime)s %(name)s %(message)s&quot;}
+    },
+    &quot;handlers&quot;: {
+        &quot;file_info&quot;: {
+            &quot;level&quot;: &quot;DEBUG&quot;,
+            &quot;class&quot;: &quot;logging.FileHandler&quot;,
+            &quot;filename&quot;: &quot;/var/log/</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtZmllbGR3b3JrIjogIjAuMi40IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuX3ByZWZldGNoZWRfb2JqZWN0c19jYWNoZSA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKGluc3RhbmNlLCAiX3ByZWZldGNoZWRfb2JqZWN0c19jYWNoZSIsIE5vbmUpOgo=</text>
+        <text encoding="base64">bGFzdFVwZGF0ZUNoZWNrOiAxNTU5MTMwOTQyMTExCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQ29ybmVyQVBJVGVzdENhc2UoVGVzdENhc2UpOgogICAgZGVmIHRlc3RfZ2V0X2xpc3Qoc2VsZik6CiAgICAgICAgY2xpZW50ID0gQVBJQ2xpZW50KCkKICAgICAgICByZXF1ZXN0ID0gY2xpZW50LmdldCgiL2FwcHMvY2FudG9lcy9hcGkvY29ybmVyLyIsIGZvcm1hdD0ianNvbiIpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVxdWVzdC5zdGF0dXNfY29kZSwgMjAwKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
