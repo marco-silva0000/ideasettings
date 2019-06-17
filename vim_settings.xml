@@ -39,11 +39,11 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1560771936990">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="19" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1560786232099">
+        <mark key="[" line="64" column="58" />
+        <mark key="]" line="65" column="65" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="64" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/core/apps/timers/test.py" timestamp="1557764796831">
         <mark key="[" line="15" column="0" />
@@ -200,12 +200,12 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560772771096">
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560786088136">
         <mark key="'" line="3" column="45" />
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="29" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
         <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
@@ -1347,7 +1347,8 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>,
+            require('@babel/plugin-proposal-export-default-from')</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1393,7 +1394,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>@babel/plugin-syntax-dynamic-import</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1412,7 +1413,8 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>RegantesLandingPage</text>
+        <text>,
+            require('@babel/plugin-proposal-export-default-from')</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
