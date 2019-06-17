@@ -39,21 +39,22 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1560770215446">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1560771936990">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/core/apps/timers/test.py" timestamp="1557764796831">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/public/index.html" timestamp="1560770219287">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/public/index.html" timestamp="1560772059525">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
+        <mark key="^" line="36" column="35" />
       </file>
       <file name="/tmp/pipenv/pipenv/cli/command.py" timestamp="1557851956826">
         <mark key="'" line="233" column="23" />
@@ -182,6 +183,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1560772491011">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/core/simoc/test_utils.py" timestamp="1557765156976">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -193,18 +199,18 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560770081619">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560772771096">
+        <mark key="'" line="3" column="45" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/Projects/sensoring/setup.py" />
       <jump line="10" column="35" filename="$USER_HOME$/Projects/core/fulgurit/com_manager/test.py" />
       <jump line="28" column="34" filename="$USER_HOME$/Projects/core/fulgurit/com_devices/tests.py" />
       <jump line="23" column="30" filename="$USER_HOME$/Projects/core/datalogger.py" />
@@ -304,6 +310,7 @@
       <jump line="34" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
       <jump line="33" column="6" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
       <jump line="30" column="18" filename="$USER_HOME$/Projects/core/simoc/urls.py" />
+      <jump line="3" column="45" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1338,8 +1345,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL3N0YXRpYy9kaXN0LzEuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>Regantes</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1385,7 +1392,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>will declare app</text>
+        <text>Regantes</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1403,8 +1410,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3dpbGwgZGVjbGFyZSBhcHAnKQo=</text>
+      <register name="0" type="4">
+        <text>RegantesLandingPage</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
