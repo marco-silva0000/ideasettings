@@ -140,16 +140,20 @@
         <mark key="." line="171" column="41" />
         <mark key="^" line="171" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560865141645">
-        <mark key="[" line="334" column="19" />
-        <mark key="]" line="334" column="28" />
-        <mark key="." line="241" column="11" />
-        <mark key="^" line="241" column="11" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560870548071">
+        <mark key="'" line="32" column="2" />
+        <mark key="[" line="148" column="4" />
+        <mark key="]" line="148" column="3" />
+        <mark key="." line="148" column="3" />
+        <mark key="^" line="148" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" timestamp="1560865627470">
+        <mark key="'" line="56" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" timestamp="1560855908504">
         <mark key="'" line="46" column="43" />
@@ -220,49 +224,18 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560865145443">
-        <mark key="'" line="25" column="19" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="23" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560870992081">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="76" column="24" />
+        <mark key="]" line="79" column="40" />
+        <mark key="^" line="79" column="40" />
+        <mark key="." line="79" column="40" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1289" column="4" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="1378" column="7" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="1380" column="33" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="1748" column="41" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="1766" column="49" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="720" column="25" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="721" column="42" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="722" column="31" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="723" column="49" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="724" column="26" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="725" column="35" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="726" column="15" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="772" column="71" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="832" column="37" filename="/tmp/pipenv/pipenv/project.py" />
-      <jump line="666" column="12" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="676" column="36" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="755" column="52" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="816" column="4" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="831" column="26" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="835" column="42" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="851" column="18" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="852" column="70" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="822" column="31" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="768" column="4" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="745" column="16" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="678" column="54" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="557" column="24" filename="/tmp/pipenv/pipenv/core.py" />
-      <jump line="6" column="13" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
-      <jump line="5" column="11" filename="$USER_HOME$/Projects/frontend/frontend-reusable-components/package.json" />
-      <jump line="18" column="80" filename="$USER_HOME$/Projects/regantes-backend/docker-compose.yml" />
-      <jump line="18" column="20" filename="$USER_HOME$/Projects/regantes-backend/cantoes/api.py" />
       <jump line="111" column="24" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
       <jump line="210" column="4" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
       <jump line="9" column="38" filename="$USER_HOME$/Projects/regantes-backend/cantoes/serializers.py" />
@@ -331,7 +304,38 @@
       <jump line="31" column="31" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
       <jump line="61" column="29" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
-      <jump line="25" column="19" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="328" column="56" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="169" column="38" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="259" column="53" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="262" column="53" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="306" column="17" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="307" column="17" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="338" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="339" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="340" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="341" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="349" column="46" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="351" column="19" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="50" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="51" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="52" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="53" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="54" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="55" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="56" column="15" filename="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/mainController.js" />
+      <jump line="151" column="27" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="25" column="20" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="129" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="152" column="30" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="262" column="45" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="102" column="12" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="5" column="9" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="80" column="14" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="73" column="12" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="146" column="4" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="38" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="132" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="32" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1367,7 +1371,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>showNavBar</text>
+        <text>'flex'</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1413,7 +1417,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>SideDrawer</text>
+        <text>'flex'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1422,7 +1426,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaWRlRHJhd2VyXD4=</text>
+        <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1432,13 +1436,13 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>showNavBar</text>
+        <text>RegantesLandingPage</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCb3ggZGlzcGxheT0iZmxleCIganVzdGlmeUNvbnRlbnQ9ImZsZXgtc3RhcnQiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1463,31 +1467,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNpZGVEcmF3ZXIgLz4K</text>
+        <text encoding="base64">aW1wb3J0IE1haWxJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9NYWlsJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICg8ZGl2PiBjZW5hYXMgPC9kaXY+KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aFNpZGViYXIgPSBXcmFwcGVkQ29tcG9uZW50ICA9PgogICAgICAgKDxSZWFjdC5SZWFjdEZyYWdtZW50PgogICAgICAgICAgPEJveCBkaXNwbGF5PSJmbGV4IiBqdXN0aWZ5Q29udGVudD0iZmxleC1zdGFydCI+CiAgICAgICAgICAgIDxTaWRlRHJhd2VyIC8+CiAgICAgICAgICA8L0JveD4KICAgICAgICAgIDxCb3ggZGlzcGxheT0iZmxleCIganVzdGlmeUNvbnRlbnQ9ImZsZXgtc3RhcnQiPgogICAgICAgICAgICB7Lyp7PFdyYXBwZWRDb21wb25lbnQgIC8+fSovfQogICAgICAgICAgPC9Cb3g+CiAgICAgICAgPC9SZWFjdC5SZWFjdEZyYWdtZW50PgogICAgICApCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgTWFpblBhZ2UgPSAoKSA9PiB7CiAgY29uc29sZS5sb2coU2lkZURyYXdlcikKICBjb25zb2xlLmxvZyh3aXRoU2lkZWJhcihTaWRlRHJhd2VyKSkKICByZXR1cm4gd2l0aFNpZGViYXIoU2lkZURyYXdlcikKfQo=</text>
+        <text encoding="base64">ICBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ01haW5QYWdlJywgTWFpblBhZ2UpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICcnCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FsYXJtSGVhZGVySE9DLnByb3BzJywgdGhpcy5wcm9wcykK</text>
+        <text encoding="base64">ICBpZiAocHJvcHMuc2hvd05hdkJhcikgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FsYXJtSGVhZGVySE9DLnN0YXRlJywgdGhpcy5zdGF0ZSkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIG5hdkJhcgogICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1497,9 +1501,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaWRlRHJhd2VyXD4=</last-search>
+      <last-search encoding="base64">XDxyb290XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaWRlRHJhd2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1507,15 +1511,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc1w+</entry>
-        <entry>ALL</entry>
-        <entry encoding="base64">XDxBTExPV0VEX0hPU1RTXD4=</entry>
-        <entry encoding="base64">XDxDb3JuZXJBUElUZXN0Q2FzZVw+</entry>
-        <entry encoding="base64">XDxUaW1lcnNTZXJ2aWNlXD4=</entry>
-        <entry>exxor</entry>
-        <entry encoding="base64">XDxmdWxndXJpdFw+</entry>
-        <entry>produ</entry>
-        <entry encoding="base64">XDxpMThuXD4=</entry>
         <entry encoding="base64">XDxMb2dpblBhZ2VcPg==</entry>
         <entry encoding="base64">XDxjb29raWVcPg==</entry>
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
@@ -1527,6 +1522,15 @@
         <entry encoding="base64">XDxXcmFwcGVkQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDx3aXRoU2lkZWJhclw+</entry>
         <entry encoding="base64">XDxTaWRlRHJhd2VyXD4=</entry>
+        <entry>facilit</entry>
+        <entry>reactPr</entry>
+        <entry encoding="base64">XDxhcHBMaXN0XD4=</entry>
+        <entry encoding="base64">XDxnbG9iYWxBcHBzXD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUFwcExpc3RcPg==</entry>
+        <entry encoding="base64">XDxNYWluUGFnZVw+</entry>
+        <entry encoding="base64">XDxtYWtlU3R5bGVzXD4=</entry>
+        <entry encoding="base64">XDxmbGV4R3Jvd1w+</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserStory/Epic/g</entry>
