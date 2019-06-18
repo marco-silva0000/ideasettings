@@ -140,12 +140,12 @@
         <mark key="." line="171" column="41" />
         <mark key="^" line="171" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560876833263">
-        <mark key="'" line="32" column="2" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="30" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="148" column="3" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560880439692">
+        <mark key="'" line="17" column="40" />
+        <mark key="[" line="156" column="49" />
+        <mark key="]" line="159" column="16" />
+        <mark key="." line="159" column="16" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
         <mark key="[" line="13" column="0" />
@@ -224,24 +224,18 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560877508424">
-        <mark key="'" line="74" column="12" />
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="37" column="18" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560880453277">
+        <mark key="'" line="0" column="48" />
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+        <mark key="^" line="59" column="20" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="24" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
-      <jump line="210" column="4" filename="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" />
-      <jump line="9" column="38" filename="$USER_HOME$/Projects/regantes-backend/cantoes/serializers.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="205" column="0" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="316" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="377" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="103" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="295" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
@@ -329,13 +323,19 @@
       <jump line="152" column="30" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="262" column="45" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="102" column="12" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="80" column="14" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
       <jump line="73" column="12" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
       <jump line="146" column="4" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="38" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="132" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="32" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="3" column="25" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="162" column="36" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="163" column="30" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="153" column="34" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="5" column="7" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="17" column="40" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
+      <jump line="0" column="48" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1370,8 +1370,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IE1lbnVMaXN0IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVMaXN0Jwo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1417,7 +1417,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>List</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1426,7 +1426,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290XD4=</text>
+        <text encoding="base64">XDxMaW5rXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1436,13 +1436,13 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IGRyYXdlcldpZHRoLAo=</text>
+        <text encoding="base64">aW1wb3J0IE1lbnVMaXN0IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVMaXN0Jwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcoMyksCg==</text>
+        <text encoding="base64">aW1wb3J0IE1lbnVJdGVtIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVJdGVtJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1467,31 +1467,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpY29uOiAncmVnYW50ZXMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPERpdmlkZXIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPExpc3Q+CiAgICAgICAge1snQWxsIG1haWwnLCAnVHJhc2gnLCAnU3BhbSddLm1hcCgodGV4dCwgaW5kZXgpID0+ICgKICAgICAgICAgIDxMaXN0SXRlbSBidXR0b24ga2V5PXt0ZXh0fT4KICAgICAgICAgICAgPExpc3RJdGVtSWNvbj57aW5kZXggJSAyID09PSAwID8gPEluYm94SWNvbiAvPiA6IDxNYWlsSWNvbiAvPn08L0xpc3RJdGVtSWNvbj4KICAgICAgICAgICAgPExpc3RJdGVtVGV4dCBwcmltYXJ5PXt0ZXh0fSAvPgogICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICApKX0KICAgICAgPC9MaXN0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgPERpdmlkZXIgLz4KICAgICAgPExpc3Q+CiAgICAgICAge1snQWxsIG1haWwnLCAnVHJhc2gnLCAnU3BhbSddLm1hcCgodGV4dCwgaW5kZXgpID0+ICgKICAgICAgICAgIDxMaXN0SXRlbSBidXR0b24ga2V5PXt0ZXh0fT4KICAgICAgICAgICAgPExpc3RJdGVtSWNvbj57aW5kZXggJSAyID09PSAwID8gPEluYm94SWNvbiAvPiA6IDxNYWlsSWNvbiAvPn08L0xpc3RJdGVtSWNvbj4KICAgICAgICAgICAgPExpc3RJdGVtVGV4dCBwcmltYXJ5PXt0ZXh0fSAvPgogICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICApKX0KICAgICAgPC9MaXN0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2UK</text>
+        <text encoding="base64">ICAgICAgICB7cHJvcHMuZ2xvYmFsQXBwcy5tYXAoKHRleHQsIGluZGV4KSA9PiAoCiAgICAgICAgICA8TGlzdEl0ZW0gYnV0dG9uIGtleT17dGV4dH0+CiAgICAgICAgICAgIDxMaXN0SXRlbUljb24+e2luZGV4ICUgMiA9PT0gMCA/IDxJbmJveEljb24gLz4gOiA8TWFpbEljb24gLz59PC9MaXN0SXRlbUljb24+CiAgICAgICAgICAgIDxMaXN0SXRlbVRleHQgcHJpbWFyeT17dGV4dH0gLz4KICAgICAgICAgIDwvTGlzdEl0ZW0+CiAgICAgICAgKSl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb250ZW50OiB7CiAgICAvLyBmbGV4R3JvdzogMSwKICAgIC8vIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcoMyksCiAgfSwK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcoMyksCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L0dyaWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8R3JpZCBjb250YWluZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1501,9 +1501,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290XD4=</last-search>
+      <last-search encoding="base64">XDxMaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMaW5rXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1511,9 +1511,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dpblBhZ2VcPg==</entry>
-        <entry encoding="base64">XDxjb29raWVcPg==</entry>
-        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrTG9naW5cPg==</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDxzZXRDcmVkZW50aWFsc1w+</entry>
@@ -1525,12 +1522,15 @@
         <entry>facilit</entry>
         <entry>reactPr</entry>
         <entry encoding="base64">XDxhcHBMaXN0XD4=</entry>
-        <entry encoding="base64">XDxnbG9iYWxBcHBzXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUFwcExpc3RcPg==</entry>
         <entry encoding="base64">XDxNYWluUGFnZVw+</entry>
         <entry encoding="base64">XDxtYWtlU3R5bGVzXD4=</entry>
         <entry encoding="base64">XDxmbGV4R3Jvd1w+</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry>t(</entry>
+        <entry encoding="base64">XDxnbG9iYWxBcHBzXD4=</entry>
+        <entry encoding="base64">XDxNZW51SXRlbVw+</entry>
+        <entry encoding="base64">XDxMaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserStory/Epic/g</entry>
