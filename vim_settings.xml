@@ -140,12 +140,12 @@
         <mark key="." line="171" column="41" />
         <mark key="^" line="171" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560880439692">
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560882943817">
         <mark key="'" line="17" column="40" />
-        <mark key="[" line="156" column="49" />
-        <mark key="]" line="159" column="16" />
-        <mark key="." line="159" column="16" />
-        <mark key="^" line="16" column="14" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
         <mark key="[" line="13" column="0" />
@@ -224,20 +224,17 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560880453277">
-        <mark key="'" line="0" column="48" />
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="59" column="20" />
-        <mark key="." line="59" column="20" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560883086682">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
         <mark key="^" line="59" column="20" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
-      <jump line="103" column="33" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="295" column="13" filename="$USER_HOME$/Projects/regantes-backend/irrigators/serializers.py" />
       <jump line="6" column="21" filename="$USER_HOME$/Projects/regantes-backend/cantoes/serializers.py" />
       <jump line="75" column="39" filename="$USER_HOME$/Projects/regantes-backend/cantoes/tests.py" />
@@ -335,7 +332,9 @@
       <jump line="153" column="34" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="5" column="7" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
       <jump line="17" column="40" filename="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" />
-      <jump line="0" column="48" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="0" column="8" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="152" column="46" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
+      <jump line="128" column="24" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1371,7 +1370,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IE1lbnVMaXN0IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVMaXN0Jwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ01haW5QYWdlJywgTWFpblBhZ2UpCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1417,7 +1416,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>MainPage</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1426,7 +1425,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaW5rXD4=</text>
+        <text>Main</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1435,14 +1434,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE1lbnVMaXN0IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVMaXN0Jwo=</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1lbnVJdGVtIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVJdGVtJwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ01haW5QYWdlJywgTWFpblBhZ2UpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1467,31 +1466,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpY29uOiAncmVnYW50ZXMnLAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA8TWFpblBhZ2UgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPERpdmlkZXIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPExpc3Q+CiAgICAgICAge1snQWxsIG1haWwnLCAnVHJhc2gnLCAnU3BhbSddLm1hcCgodGV4dCwgaW5kZXgpID0+ICgKICAgICAgICAgIDxMaXN0SXRlbSBidXR0b24ga2V5PXt0ZXh0fT4KICAgICAgICAgICAgPExpc3RJdGVtSWNvbj57aW5kZXggJSAyID09PSAwID8gPEluYm94SWNvbiAvPiA6IDxNYWlsSWNvbiAvPn08L0xpc3RJdGVtSWNvbj4KICAgICAgICAgICAgPExpc3RJdGVtVGV4dCBwcmltYXJ5PXt0ZXh0fSAvPgogICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICApKX0KICAgICAgPC9MaXN0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPERpdmlkZXIgLz4KICAgICAgPExpc3Q+CiAgICAgICAge1snQWxsIG1haWwnLCAnVHJhc2gnLCAnU3BhbSddLm1hcCgodGV4dCwgaW5kZXgpID0+ICgKICAgICAgICAgIDxMaXN0SXRlbSBidXR0b24ga2V5PXt0ZXh0fT4KICAgICAgICAgICAgPExpc3RJdGVtSWNvbj57aW5kZXggJSAyID09PSAwID8gPEluYm94SWNvbiAvPiA6IDxNYWlsSWNvbiAvPn08L0xpc3RJdGVtSWNvbj4KICAgICAgICAgICAgPExpc3RJdGVtVGV4dCBwcmltYXJ5PXt0ZXh0fSAvPgogICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICApKX0KICAgICAgPC9MaXN0Pgo=</text>
+        <text encoding="base64">Y29uc3QgTWFpblBhZ2UgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7cHJvcHMuZ2xvYmFsQXBwcy5tYXAoKHRleHQsIGluZGV4KSA9PiAoCiAgICAgICAgICA8TGlzdEl0ZW0gYnV0dG9uIGtleT17dGV4dH0+CiAgICAgICAgICAgIDxMaXN0SXRlbUljb24+e2luZGV4ICUgMiA9PT0gMCA/IDxJbmJveEljb24gLz4gOiA8TWFpbEljb24gLz59PC9MaXN0SXRlbUljb24+CiAgICAgICAgICAgIDxMaXN0SXRlbVRleHQgcHJpbWFyeT17dGV4dH0gLz4KICAgICAgICAgIDwvTGlzdEl0ZW0+CiAgICAgICAgKSl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlcicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcoMyksCg==</text>
+        <text encoding="base64">aW1wb3J0IE1lbnVJdGVtIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVJdGVtJwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpY29uOiAncmVnYW50ZXMnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPERpdmlkZXIgLz4K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
@@ -1501,9 +1500,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaW5rXD4=</last-search>
+      <last-search>Main</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaW5rXD4=</last-pattern>
+      <last-pattern>Main</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1511,9 +1510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrTG9naW5cPg==</entry>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
-        <entry encoding="base64">XDxzZXRDcmVkZW50aWFsc1w+</entry>
         <entry>sideD</entry>
         <entry encoding="base64">XDxFeHBhbmRhYmxlUm93SE9DXD4=</entry>
         <entry encoding="base64">XDxXcmFwcGVkQ29tcG9uZW50XD4=</entry>
@@ -1531,6 +1527,9 @@
         <entry encoding="base64">XDxnbG9iYWxBcHBzXD4=</entry>
         <entry encoding="base64">XDxNZW51SXRlbVw+</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
+        <entry encoding="base64">XDxCcm93c2VyUm91dGVyXD4=</entry>
+        <entry>rout</entry>
+        <entry>Main</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserStory/Epic/g</entry>
