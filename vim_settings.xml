@@ -140,11 +140,11 @@
         <mark key="." line="171" column="41" />
         <mark key="^" line="171" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560870548071">
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/SideDrawer/SideDrawer.jsx" timestamp="1560876833263">
         <mark key="'" line="32" column="2" />
-        <mark key="[" line="148" column="4" />
-        <mark key="]" line="148" column="3" />
-        <mark key="." line="148" column="3" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="30" />
+        <mark key="." line="145" column="0" />
         <mark key="^" line="148" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/core/fulgurit/equipment_datalog/test.py" timestamp="1557764844767">
@@ -224,12 +224,12 @@
       <file name="$USER_HOME$/Projects/core/frontend/app/main/main/controllers/timersControllers.js" timestamp="1559124989636">
         <mark key="'" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560876099073">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="69" column="44" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="73" column="26" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1560877508424">
+        <mark key="'" line="74" column="12" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="18" />
       </file>
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
@@ -1370,8 +1370,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L0dyaWQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1417,7 +1417,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1435,14 +1435,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>justify=&quot;flex-start&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IGRyYXdlcldpZHRoLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L0dyaWQ+Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcoMyksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1467,31 +1467,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8R3JpZCBjb250YWluZXI+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L0dyaWQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IE1haWxJY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9NYWlsJzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBjbGFzc2VzID0gdXNlU3R5bGVzKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB1c2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbHNlIHsK</text>
+        <text encoding="base64">ICBjb250ZW50OiB7CiAgICAvLyBmbGV4R3JvdzogMSwKICAgIC8vIHBhZGRpbmc6IHRoZW1lLnNwYWNpbmcoMyksCiAgfSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICcnCg==</text>
+        <text encoding="base64">ICAgICAgICA8R3JpZCBjb250YWluZXI+Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
