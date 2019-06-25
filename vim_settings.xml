@@ -7,12 +7,12 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="103" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1561470942252">
+      <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1561476285193">
         <mark key="'" line="234" column="44" />
-        <mark key="[" line="247" column="34" />
-        <mark key="]" line="247" column="34" />
-        <mark key="." line="247" column="41" />
-        <mark key="^" line="235" column="41" />
+        <mark key="[" line="263" column="36" />
+        <mark key="]" line="263" column="36" />
+        <mark key="^" line="272" column="9" />
+        <mark key="." line="263" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/irrigators/models.py" timestamp="1558970141201">
         <mark key="[" line="7" column="0" />
@@ -1317,7 +1317,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>descendants</text>
+        <text>_attr</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1363,7 +1363,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>descendants</text>
+        <text>_attr</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1382,81 +1382,43 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>LOGGING = {
-    &quot;version&quot;: 1,
-    &quot;disable_existing_loggers&quot;: False,
-    &quot;handlers&quot;: {
-        &quot;file_info&quot;: {
-            &quot;level&quot;: &quot;DEBUG&quot;,
-            &quot;class&quot;: &quot;logging.FileHandler&quot;,
-            &quot;filename&quot;: &quot;/var/log/fulgurit/info.log&quot;,
-        },
-        &quot;file_debug&quot;: {
-            &quot;level&quot;: &quot;DEBUG&quot;,
-            &quot;class&quot;: &quot;logging.FileHandler&quot;,
-            &quot;filename&quot;: &quot;/var/log/fulgurit/debug.log&quot;,
-        },
-        &quot;file_plc&quot;: {
-            &quot;level&quot;: &quot;DEBUG&quot;,
-            &quot;class&quot;: &quot;logging.FileHandler&quot;,
-            &quot;filename&quot;: &quot;/var/log/fulgurit/plc.log&quot;,
-        },
-        &quot;console&quot;: {&quot;class&quot;: &quot;logging.StreamHandler&quot;},
-    },
-    &quot;loggers&quot;: {
-        &quot;django&quot;: {
-            &quot;handlers&quot;: [&quot;file_info&quot;, &quot;console&quot;],
-            &quot;level&quot;: &quot;DEBUG&quot;,
-            &quot;propagate&quot;: True,
-        },
-        &quot;django.db&quot;: {
-            &quot;handlers&quot;: [&quot;file_info&quot;, &quot;console&quot;],
-            &quot;level&quot;: &quot;INFO&quot;,
-            &quot;propagate&quot;: True,
-        },
-        &quot;irrigators&quot;: {
-            &quot;handlers&quot;: [&quot;file_info&quot;, &quot;console&quot;],
-            &quot;level&quot;: &quot;DEBUG&quot;,
-            &quot;propagate&quot;: True,
-        },
-    },
-}</text>
+        <text>filter(name=name_changer(parent_key)).order_by('level_attr').first()</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuYW1lCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IG9ialsicHJvcGVydGllcyJdWyJOb21lIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IG9ialsicHJvcGVydGllcyJdWyJOb21lIl0KICAgICAgICAgICAgaWYgbmFtZSA9PSAiQm9hdmlzdGEgZG9zIFBpbmhlaXJvcyI6CiAgICAgICAgICAgICAgICBuYW1lID0gIkJvYXZpc3RhIFBpbmhlaXJvIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiJXMgaGFzIHRvbyBtYW55IGNhbmRpZGF0ZSBwYXJlbnRzIiAlIG9iaikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5ID0gaW5mcmFfY29kZV9nZW5lcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBQaXBlLk11bHRpcGxlT2JqZWN0c1JldHVybmVkOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJwYXJlbnRfa2V5OntwYXJlbnRfa2V5fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJ7cGFyZW50X2tleX0iKQogICAgICAgICAgICBwcmludChmIntwYXJlbnRzX3FzZXR9IikKICAgICAgICAgICAgcHJpbnQoZiJ7bGFzdF9wYXJlbnRfa2V5fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IG9ialsicHJvcGVydGllcyJdWyJOb21lIl0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid7cGFyZW50X2tleX0nKQogICAgICAgICAgICBwcmludChmJ3twYXJlbnRzX3FzZXR9JykKICAgICAgICAgICAgcHJpbnQoZid7bGFzdF9wYXJlbnRfa2V5fScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid7cGFyZW50fScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IG9ialsicHJvcGVydGllcyJdWyJOb21lIl0KICAgICAgICAgICAgaWYgbmFtZSA9PSAiQm9hdmlzdGEgZG9zIFBpbmhlaXJvcyI6CiAgICAgICAgICAgICAgICBuYW1lID0gIkJvYXZpc3RhIFBpbmhlaXJvIgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
