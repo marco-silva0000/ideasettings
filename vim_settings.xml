@@ -16,6 +16,12 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="103" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/Dockerfile" timestamp="1561984320167">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1561483039745">
         <mark key="'" line="228" column="38" />
         <mark key="[" line="145" column="18" />
@@ -74,6 +80,12 @@
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/infrastructure/urls.py" timestamp="1561459853165">
         <mark key="'" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/dockerbuild.sh" timestamp="1561984064799">
+        <mark key="[" line="2" column="127" />
+        <mark key="]" line="2" column="139" />
+        <mark key="." line="2" column="139" />
+        <mark key="^" line="2" column="139" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/regantes/settings.py" timestamp="1561465926045">
         <mark key="[" line="161" column="0" />
@@ -1320,8 +1332,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>black</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09QWSAueWFybiAvY29kZS8K</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1367,7 +1379,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>regantes-</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1386,43 +1398,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYXVjZXRzPVRydWUsCg==</text>
+        <text encoding="base64">Q09QWSAueWFybiAvY29kZS8K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmF1Y2V0Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmF1Y2V0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBGYXVjZXQub2JqZWN0cy51cGRhdGVfb3JfY3JlYXRlKGNvZGU9a2V5LCBkZWZhdWx0cz1kZWZhdWx0cylbMF0KICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmF1Y2V0Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGVmYXVsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmF1Y2V0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBGYXVjZXQub2JqZWN0cy51cGRhdGVfb3JfY3JlYXRlKGNvZGU9a2V5LCBkZWZhdWx0cz1kZWZhdWx0cylbMF0KICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGVmYXVsdHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5KQo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
