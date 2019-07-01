@@ -22,6 +22,11 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/package.json" timestamp="1561991596418">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1561483039745">
         <mark key="'" line="228" column="38" />
         <mark key="[" line="145" column="18" />
@@ -160,7 +165,8 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1561990210186">
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1561991501261">
+        <mark key="'" line="39" column="24" />
         <mark key="[" line="37" column="40" />
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="41" />
@@ -210,17 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
-      <jump line="160" column="19" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
-      <jump line="183" column="0" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
-      <jump line="4" column="36" filename="$USER_HOME$/Projects/core/frontend/core/src/App.js" />
-      <jump line="10" column="21" filename="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" />
-      <jump line="46" column="43" filename="$USER_HOME$/Projects/core/frontend/core/src/login/loginServices.js" />
-      <jump line="86" column="70" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
-      <jump line="83" column="2" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
-      <jump line="142" column="63" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
-      <jump line="47" column="9" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
       <jump line="65" column="13" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
       <jump line="66" column="76" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
       <jump line="70" column="35" filename="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" />
@@ -310,6 +305,17 @@
       <jump line="225" column="38" filename="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" />
       <jump line="66" column="70" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
       <jump line="65" column="8" filename="$USER_HOME$/Projects/regantes-backend/infrastructure/api.py" />
+      <jump line="37" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
+      <jump line="39" column="24" filename="$USER_HOME$/Projects/core/frontend/appES6/package.json" />
+      <jump line="4" column="11" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="4447" column="6" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="4460" column="15" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="4461" column="6" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="1465" column="11" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="1467" column="25" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="1470" column="6" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="1515" column="2" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
+      <jump line="1517" column="16" filename="$USER_HOME$/Projects/core/frontend/core/yarn.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1400,7 +1406,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmlvblw+</text>
+        <text encoding="base64">XDxmdWxndXJpdFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1456,9 +1462,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmlvblw+</last-search>
+      <last-search encoding="base64">XDxmdWxndXJpdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxmdWxndXJpdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRFdmVudE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1466,10 +1472,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZUFwcExpc3RcPg==</entry>
-        <entry encoding="base64">XDxNYWluUGFnZVw+</entry>
-        <entry encoding="base64">XDxtYWtlU3R5bGVzXD4=</entry>
-        <entry encoding="base64">XDxmbGV4R3Jvd1w+</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry>t(</entry>
         <entry encoding="base64">XDxnbG9iYWxBcHBzXD4=</entry>
@@ -1486,6 +1488,10 @@
         <entry encoding="base64">XDxJbmZyYXN0cnVjdHVyZUdlb0ltcG9ydGVyXD4=</entry>
         <entry encoding="base64">XDxGYXVjZXRWaWV3U2V0XD4=</entry>
         <entry encoding="base64">XDx1bmlvblw+</entry>
+        <entry encoding="base64">XDxyZWdhbnRlc1w+</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRzXD4=</entry>
+        <entry>reusable</entry>
+        <entry encoding="base64">XDxmdWxndXJpdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UserStory/Epic/g</entry>
