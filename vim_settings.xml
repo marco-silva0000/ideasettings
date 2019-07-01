@@ -16,11 +16,11 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="103" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/Dockerfile" timestamp="1561986325222">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/Dockerfile" timestamp="1561988186283">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/regantes-backend/data/geojson_importer.py" timestamp="1561483039745">
         <mark key="'" line="228" column="38" />
@@ -98,7 +98,13 @@
       <file name="$USER_HOME$/Projects/core/frontend/appES6/src/alarms/AlarmsBanner.jsx" timestamp="1560861362979">
         <mark key="'" line="70" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561483121092">
+      <file name="$USER_HOME$/Projects/core/frontend/core/webpack.config.js" timestamp="1561989268668">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="18" />
+        <mark key="." line="58" column="18" />
+        <mark key="^" line="45" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561988372324">
         <mark key="r" line="0" column="6" />
         <mark key="s" line="0" column="10" />
         <mark key="'" line="0" column="54" />
@@ -154,10 +160,10 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1561986784816">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="43" />
-        <mark key="." line="39" column="43" />
+      <file name="$USER_HOME$/Projects/core/frontend/appES6/package.json" timestamp="1561990210186">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/core/frontend/core/src/login/LoginPage.jsx" timestamp="1560857292858">
         <mark key="'" line="93" column="31" />
@@ -192,6 +198,7 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/core/frontend/core/src/App.js" timestamp="1561989081325" />
       <file name="/tmp/pipenv/pipenv/project.py" timestamp="1557852399664">
         <mark key="'" line="832" column="37" />
       </file>
@@ -1337,8 +1344,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmVnYW50ZXMiOiAiMC41LjEiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1384,7 +1391,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1403,43 +1410,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvZnVsZ3VyaXQtcmVnYW50ZXMiOiAiMC41LjEiLAo=</text>
+        <text encoding="base64">Q09QWSAueWFybiAvY29kZS8ueWFybgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGxzIC55YXJuL3JlbGVhc2VzCg==</text>
+        <text encoding="base64">ICAgICJAZnVsZ3VyaXQvbG9jYWxpemF0aW9uIjogIjIuMS4xIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHlhcm4gcG9saWNpZXMgc2V0LXZlcnNpb24gYmVycnkK</text>
+        <text encoding="base64">UlVOIGxzIC55YXJuL3JlbGVhc2VzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHlhcm4gcG9saWNpZXMgc2V0LXZlcnNpb24gbGF0ZXN0Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4gcG9saWNpZXMgc2V0LXZlcnNpb24gYmVycnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHlhcm4K</text>
+        <text encoding="base64">UlVOIHlhcm4gcG9saWNpZXMgc2V0LXZlcnNpb24gbGF0ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmF1Y2V0Lm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmF1Y2V0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBGYXVjZXQub2JqZWN0cy51cGRhdGVfb3JfY3JlYXRlKGNvZGU9a2V5LCBkZWZhdWx0cz1kZWZhdWx0cylbMF0KICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmF1Y2V0Lm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGVmYXVsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmF1Y2V0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBGYXVjZXQub2JqZWN0cy51cGRhdGVfb3JfY3JlYXRlKGNvZGU9a2V5LCBkZWZhdWx0cz1kZWZhdWx0cylbMF0KICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGVmYXVsdHMpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIFsnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJ10sCg==</text>
