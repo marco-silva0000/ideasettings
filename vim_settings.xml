@@ -16,9 +16,9 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="103" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/core/frontend/core/Dockerfile" timestamp="1561988186283">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="5" />
+      <file name="$USER_HOME$/Projects/core/frontend/core/Dockerfile" timestamp="1562064036590">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="27" column="16" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="5" />
       </file>
@@ -1350,8 +1350,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09QWSAueWFybiAvY29kZS8ueWFybgpDT1BZIHlhcm4ubG9jayAvY29kZS8KQ09QWSAueWFybnJjIC9jb2RlLwpDT1BZIHB1YmxpYyAvY29kZS9wdWJsaWMKQ09QWSBwYWNrYWdlLmpzb24gL2NvZGUvCkNPUFkgd2VicGFjay5jb25maWcuanMgL2NvZGUvCgpXT1JLRElSIC9jb2RlCgpSVU4gbHMKUlVOIHlhcm4gY29uZmlnIC12ClJVTiB5YXJuIGluc3RhbGwK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1416,7 +1416,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSAueWFybiAvY29kZS8ueWFybgo=</text>
+        <text encoding="base64">Q09QWSAueWFybiAvY29kZS8ueWFybgpDT1BZIHlhcm4ubG9jayAvY29kZS8KQ09QWSAueWFybnJjIC9jb2RlLwpDT1BZIHB1YmxpYyAvY29kZS9wdWJsaWMKQ09QWSBwYWNrYWdlLmpzb24gL2NvZGUvCkNPUFkgd2VicGFjay5jb25maWcuanMgL2NvZGUvCgpXT1JLRElSIC9jb2RlCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
