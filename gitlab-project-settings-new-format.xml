@@ -905,6 +905,11 @@
           <option name="apiUrl" value="https://gitlab.com" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="WHcBdFWvggQ1Rd4vkQb3" />
+          <option name="apiUrl" value="https://sig-gitlab.internal.synopsys.com" />
+          <option name="repositoryUrl" value="sig-gitlab.internal.synopsys.com" />
+        </GitlabServer>
       </list>
     </option>
   </component>
