@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="/projects/core/frontend/appES6" />
     </exec>
   </tool>
+  <tool name="futurize" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/futurize" />
+      <option name="PARAMETERS" value="$FilePath$ -w" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
