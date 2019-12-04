@@ -2,4 +2,7 @@
   <component name="DockerSettings">
     <option name="dockerMachinePath" value="" />
   </component>
+  <component name="DockerTreeFilter">
+    <option name="myStoppedContainersHidden" value="true" />
+  </component>
 </application>
