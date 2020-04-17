@@ -118,10 +118,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587025208410">
+      <file name="/rpt_vw_qr_bdsa_count [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125748680">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      </file>
+      <file name="/trims.public.rpt_vw_active_va_users" timestamp="1587125684207">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scrapenotifier/scraper/spiders/jobs.py" timestamp="1586596745860">
         <mark key="'" line="103" column="35" />
@@ -130,11 +131,11 @@
         <mark key="." line="103" column="40" />
         <mark key="^" line="103" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/urls.py" timestamp="1586516837386">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="42" />
+      <file name="/rpt_vw_bdsa_all_status [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125692740">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/rpt_vw_code_signature [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125755634">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scrapenotifier/scraper/views.py" timestamp="1586526032696">
         <mark key="'" line="22" column="33" />
@@ -143,24 +144,12 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scrapenotifier/urls.py" timestamp="1586517096617">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/scrapenotifier/notifier/models.py" timestamp="1586596727307">
         <mark key="'" line="68" column="14" />
         <mark key="[" line="38" column="36" />
         <mark key="]" line="41" column="18" />
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scrapyscraper/spiders/__init__.py" timestamp="1586525025379">
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scrapenotifier/scrapenotifier/settings.py" timestamp="1586595905020">
         <mark key="'" line="88" column="0" />
@@ -174,16 +163,28 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/serializers.py" timestamp="1586525580267">
-        <mark key="'" line="11" column="45" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="2" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/core/simoc/settings.py" timestamp="1586595510613">
         <mark key="[" line="193" column="0" />
         <mark key="]" line="199" column="30" />
+      </file>
+      <file name="/rpt_vw_active_va_users [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125684190">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.rpt_vw_bdsa_all_status" timestamp="1587125692754">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scrapenotifier/scraper/consumers.py" timestamp="1586532517917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1587125764784">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587025208410">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/projects/scrapenotifier/notifier/admin.py" timestamp="1586593811327">
         <mark key="[" line="7" column="41" />
@@ -191,42 +192,14 @@
         <mark key="^" line="7" column="56" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/tests/conftest.py" timestamp="1586464011752">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="37" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/scrapenotifier-eVaenQLM-py3.8/lib/python3.8/site-packages/rest_framework/views.py" timestamp="1586518028372">
-        <mark key="[" line="423" column="37" />
-        <mark key="]" line="423" column="61" />
-        <mark key="^" line="423" column="61" />
-        <mark key="." line="423" column="60" />
-      </file>
-      <file name="/Django Console" timestamp="1586525263941">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/spiders/__init__.py" timestamp="1586525046829">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/scrapenotifier-eVaenQLM-py3.8/lib/python3.8/site-packages/rest_framework/serializers.py" timestamp="1586525826875">
         <mark key="'" line="348" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/consumers.py" timestamp="1586532517917">
+      <file name="/trims.public.rpt_vw_qr_bdsa_count" timestamp="1587125748692">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/tests/test_models.py" timestamp="1586464563593">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="11" column="25" />
+      <file name="/trims.public.rpt_vw_code_signature" timestamp="1587125755647">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
