@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
-        <entry>context</entry>
         <entry encoding="base64">XDxzaG93X3NhdmVfYW5kX2FkZF9hbm90aGVyXD4=</entry>
         <entry>login</entry>
         <entry>code</entry>
@@ -25,6 +23,8 @@
         <entry>data</entry>
         <entry>EMAI</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>export</entry>
+        <entry encoding="base64">XDxjdXN0b21lcl9yaXNrX2xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -113,18 +113,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/models.py" timestamp="1586593629400">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/rpt_vw_qr_bdsa_count [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125748680">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587025208410">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
       </file>
       <file name="/trims.public.rpt_vw_active_va_users" timestamp="1587125684207">
         <mark key="[" line="0" column="0" />
@@ -142,18 +132,8 @@
       <file name="/rpt_vw_code_signature [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125755634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/notifier/models.py" timestamp="1586596727307">
-        <mark key="'" line="68" column="14" />
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="41" column="18" />
-        <mark key="^" line="41" column="18" />
-        <mark key="." line="41" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scrapenotifier/settings.py" timestamp="1586595905020">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="132" column="23" />
-        <mark key="]" line="132" column="92" />
-        <mark key="." line="132" column="23" />
+      <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587404039859">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1587386441867">
         <mark key="'" line="412" column="30" />
@@ -166,34 +146,39 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/core/simoc/settings.py" timestamp="1586595510613">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="199" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/notifier/admin.py" timestamp="1586593811327">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="55" />
-      </file>
       <file name="/rpt_vw_active_va_users [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125684190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/trims.public.rpt_vw_bdsa_all_status" timestamp="1587125692754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1587386335632">
+      <file name="/Django Console" timestamp="1587396437333">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1587404062743">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1587404039871">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587025208410">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1587396469773">
+        <mark key="'" line="836" column="20" />
+      </file>
+      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587403728647">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587403697712">
+        <mark key="'" line="855" column="42" />
       </file>
       <file name="/trims.public.rpt_vw_qr_bdsa_count" timestamp="1587125748692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scrapenotifier/scraper/consumers.py" timestamp="1586532517917">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1587125764784">
+      <file name="/TRIMSserver_historicalcvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587403728568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/trims.public.rpt_vw_code_signature" timestamp="1587125755647">
@@ -201,10 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="376" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="371" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="366" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="361" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="356" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="351" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
@@ -301,6 +282,10 @@
       <jump line="338" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
       <jump line="341" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
       <jump line="412" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
+      <jump line="773" column="5" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="829" column="76" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="836" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="855" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1444,7 +1429,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDxjdXN0b21lcl9yaXNrX2xpc3RcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1833,9 +1818,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDxjdXN0b21lcl9yaXNrX2xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjdXN0b21lcl9yaXNrX2xpc3RcPg==</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
