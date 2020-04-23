@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>code</entry>
         <entry encoding="base64">XDxlZGl0ZWRfYnlcPg==</entry>
         <entry>test</entry>
         <entry>TEST</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjdXN0b21lcl9yaXNrX2xpc3RcPg==</entry>
         <entry>Vuln</entry>
         <entry>612</entry>
+        <entry>chan</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -154,13 +154,13 @@
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1587571353522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1587396469773">
-        <mark key="'" line="836" column="20" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1587657410878">
+        <mark key="'" line="819" column="28" />
       </file>
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587574481317">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587657111829">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587657395949">
         <mark key="'" line="703" column="33" />
         <mark key="[" line="1013" column="0" />
         <mark key="]" line="1014" column="13" />
@@ -182,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="316" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="311" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="306" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="301" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
@@ -272,7 +270,6 @@
       <jump line="412" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
       <jump line="773" column="5" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="829" column="76" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="836" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="855" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="703" column="33" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="12" column="2" filename="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" />
@@ -282,6 +279,9 @@
       <jump line="13" column="22" filename="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" />
       <jump line="177" column="31" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="241" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="836" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="327" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="819" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1425,7 +1425,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>612</text>
+        <text>chan</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1814,9 +1814,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>612</last-search>
+      <last-search>chan</last-search>
       <last-offset />
-      <last-pattern>612</last-pattern>
+      <last-pattern>chan</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
