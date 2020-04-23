@@ -160,8 +160,12 @@
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587574481317">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587651780685">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587657111829">
         <mark key="'" line="703" column="33" />
+        <mark key="[" line="1013" column="0" />
+        <mark key="]" line="1014" column="13" />
+        <mark key="." line="1013" column="0" />
+        <mark key="^" line="1007" column="32" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1587635109788" />
       <file name="/trims.public.rpt_vw_qr_bdsa_count" timestamp="1587125748692">
@@ -1315,7 +1319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWNlbnRfdmVyc2lvbi5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmVhdGVkX2J5PXNlbGYucmVxdWVzdC51c2VyLAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1397,7 +1401,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>pk</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1431,7 +1435,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LmV4Y2x1ZGUoY3ZkX2lkX19pbj1jdXJyZW50bHlfZGVsZXRlZF9pZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmVhdGVkX2J5PXNlbGYucmVxdWVzdC51c2VyLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
