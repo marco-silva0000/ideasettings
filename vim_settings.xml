@@ -116,8 +116,8 @@
       <file name="/rpt_vw_qr_bdsa_count [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125748680">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587727918672">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1587729634613">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -130,17 +130,15 @@
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587571136386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1587727770042">
-        <mark key="e" line="183" column="29" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1587729613046">
         <mark key="[" line="169" column="0" />
-        <mark key="]" line="190" column="9" />
-        <mark key="." line="189" column="35" />
-        <mark key="^" line="172" column="20" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" timestamp="1587571330405">
         <mark key="'" line="6558" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587658094603">
+      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587729594688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1587386441867">
@@ -159,7 +157,7 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1587571729756">
         <mark key="'" line="13" column="22" />
       </file>
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1587658094597">
+      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1587729594650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587575341177">
@@ -179,10 +177,10 @@
       <file name="/trims.public.rpt_vw_code_signature" timestamp="1587125755647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1587658094602">
+      <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1587729594678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1587658094601">
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1587729594663">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -1324,7 +1322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBsYXRlc3RfdmVyc2lvbihjbHMpOgogICAgICAgIHJlY2VudF92ZXJzaW9uID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgiY3JlYXRlZF9hdCIpCiAgICAgICAgIyBnZXRzIGFsbCBvZiB0aGUgQ29tcGxldGUgb3IgRGVsZXRlZCBmcm9tIGhpc3RvcnkKICAgICAgICBxdWVyeXNldCA9IGNscy5oaXN0b3J5LmZpbHRlcigKICAgICAgICAgICAgc3RhdHVzX19pbj1bZW51bXMuQ09NUExFVEUsIGVudW1zLkRFTEVURURdLAogICAgICAgICAgICBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgICMgZXhjbHVkZXMgdGhlIGhpc3RvcmllcyB0aGF0IGhhdmUgc3Rhc2hlZCBmaWVsZHMgdG8gZXhjbHVkZSBhbnkgQ29tcGxldGUgdG8KICAgICAgICAjIENvbXBsZXRlIHdpdGggc3Rhc2hlZF9maWVsZHMgc3RpbGwgdG8gYmUgYXBwcm92ZWQKICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LmV4Y2x1ZGUoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKQogICAgICAgICMgb3JkZXJzIGJ5IGVkaXRlZF9hdCBkYXRlIHRvIGFuZCBkaXN0aW5jdHMgYnkgY3ZkX2lkIHRvIGdldCB0aGUgbGF0ZXN0IHZlcnNpb24sCiAgICAgICAgIyB0aGlzIG1ha2VzIGEgbGlzdCBvZiBhbGwgY3ZkcyBvbiBpdCdzIGxhdGVzdCBDb21wbGV0ZSBvciBEZWxldGUgc3RhdHVzCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICAjIGZvcmNlcyB0aGUgcXVlcnkgdG8gYmUgZXhlY3V0ZWQgaGVyZSwgb3RoZXJ3aXNlIHRoZSBkamFuZ28gbGF6eSBxdWVyaWVzIHdpbGwKICAgICAgICAjIG1ha2UgaXQgYWxsIGluIG9uZSBxdWVyeSBhbmQgbWVzcyB1cCB0aGUgb3JkZXIgb2YgZXhlY3V0aW9uIG9mIHRoZSBleGNsdWRlCiAgICAgICAgIyBhbmQgZGlzdGluY3QKICAgICAgICBoaXN0b3J5X2lkcyA9IHF1ZXJ5c2V0LnZhbHVlc19saXN0KCJoaXN0b3J5X2lkIiwgZmxhdD1UcnVlKQogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGNscy5oaXN0b3J5LmZpbHRlcihoaXN0b3J5X2lkX19pbj1oaXN0b3J5X2lkcykKICAgICAgICAgICAgICAgIC5leGNsdWRlKHN0YXR1cz1lbnVtcy5ERUxFVEVEKSAjIGV4Y2x1ZGVzIGFsbCBvZiB0aGUgZGVsZXRlZCBoaXN0b3JpZXMKICAgICAgICAgICAgICAgIC5vcmRlcl9ieSgiY3ZkX2lkIikKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1384,7 +1382,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGRlZiBsYXRlc3RfdmVyc2lvbihjbHMpOgogICAgICAgIHJlY2VudF92ZXJzaW9uID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgiY3JlYXRlZF9hdCIpCiAgICAgICAgIyBnZXRzIGFsbCBvZiB0aGUgQ29tcGxldGUgb3IgRGVsZXRlZCBmcm9tIGhpc3RvcnkKICAgICAgICBxdWVyeXNldCA9IGNscy5oaXN0b3J5LmZpbHRlcigKICAgICAgICAgICAgc3RhdHVzX19pbj1bZW51bXMuQ09NUExFVEUsIGVudW1zLkRFTEVURURdLAogICAgICAgICAgICBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgICMgZXhjbHVkZXMgdGhlIGhpc3RvcmllcyB0aGF0IGhhdmUgc3Rhc2hlZCBmaWVsZHMgdG8gZXhjbHVkZSBhbnkgQ29tcGxldGUgdG8KICAgICAgICAjIENvbXBsZXRlIHdpdGggc3Rhc2hlZF9maWVsZHMgc3RpbGwgdG8gYmUgYXBwcm92ZWQKICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LmV4Y2x1ZGUoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKQogICAgICAgICMgb3JkZXJzIGJ5IGVkaXRlZF9hdCBkYXRlIHRvIGFuZCBkaXN0aW5jdHMgYnkgY3ZkX2lkIHRvIGdldCB0aGUgbGF0ZXN0IHZlcnNpb24sCiAgICAgICAgIyB0aGlzIG1ha2VzIGEgbGlzdCBvZiBhbGwgY3ZkcyBvbiBpdCdzIGxhdGVzdCBDb21wbGV0ZSBvciBEZWxldGUgc3RhdHVzCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICAjIGZvcmNlcyB0aGUgcXVlcnkgdG8gYmUgZXhlY3V0ZWQgaGVyZSwgb3RoZXJ3aXNlIHRoZSBkamFuZ28gbGF6eSBxdWVyaWVzIHdpbGwKICAgICAgICAjIG1ha2UgaXQgYWxsIGluIG9uZSBxdWVyeSBhbmQgbWVzcyB1cCB0aGUgb3JkZXIgb2YgZXhlY3V0aW9uIG9mIHRoZSBleGNsdWRlCiAgICAgICAgIyBhbmQgZGlzdGluY3QKICAgICAgICBoaXN0b3J5X2lkcyA9IHF1ZXJ5c2V0LnZhbHVlc19saXN0KCJoaXN0b3J5X2lkIiwgZmxhdD1UcnVlKQogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGNscy5oaXN0b3J5LmZpbHRlcihoaXN0b3J5X2lkX19pbj1oaXN0b3J5X2lkcykKICAgICAgICAgICAgICAgIC5leGNsdWRlKHN0YXR1cz1lbnVtcy5ERUxFVEVEKSAjIGV4Y2x1ZGVzIGFsbCBvZiB0aGUgZGVsZXRlZCBoaXN0b3JpZXMKICAgICAgICAgICAgICAgIC5vcmRlcl9ieSgiY3ZkX2lkIikKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGxhdGVzdF92ZXJzaW9uKGNscyk6CiAgICAgICAgcmVjZW50X3ZlcnNpb24gPSBDVkRWZXJzaW9uLm9iamVjdHMubGF0ZXN0KCJjcmVhdGVkX2F0IikKICAgICAgICAjIEdldHMgYWxsIG9mIHRoZSBDT01QTEVURSBvciBERUxFVEVEIGZyb20gaGlzdG9yeSwgc28gdGhhdCB3ZSBjYW4gZmluZCB0aGUKICAgICAgICAjIGxhdGVzdCBhbmQgZGVsZXRlIHRoZW0gaW0gaXMgaW4gYSBERUxFVEVEIHN0YXR1cyBUUklNUy0xOTMKICAgICAgICBxdWVyeXNldCA9IGNscy5oaXN0b3J5LmZpbHRlcigKICAgICAgICAgICAgc3RhdHVzX19pbj1bZW51bXMuQ09NUExFVEUsIGVudW1zLkRFTEVURURdLAogICAgICAgICAgICBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgICMgRXhjbHVkZXMgdGhlIGhpc3RvcmllcyB0aGF0IGhhdmUgc3Rhc2hlZCBmaWVsZHMgdG8gZXhjbHVkZSBhbnkgQ09NUExFVEUgdG8KICAgICAgICAjIENPTVBMRVRFIHdpdGggc3Rhc2hlZF9maWVsZHMgc3RpbGwgdG8gYmUgYXBwcm92ZWQKICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LmV4Y2x1ZGUoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKQogICAgICAgICMgT3JkZXJzIGJ5IGVkaXRlZF9hdCBkYXRlIHRvIGFuZCBkaXN0aW5jdHMgYnkgY3ZkX2lkIHRvIGdldCB0aGUgbGF0ZXN0IHZlcnNpb24sCiAgICAgICAgIyB0aGlzIG1ha2VzIGEgbGlzdCBvZiBhbGwgY3ZkcyBvbiBpdCdzIGxhdGVzdCBDb21wbGV0ZSBvciBEZWxldGUgc3RhdHVzCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICAjIEZvcmNlcyB0aGUgcXVlcnkgdG8gYmUgZXhlY3V0ZWQgaGVyZSwgb3RoZXJ3aXNlIHRoZSBkamFuZ28gbGF6eSBxdWVyaWVzIHdpbGwKICAgICAgICAjIG1ha2UgaXQgYWxsIGluIG9uZSBxdWVyeSBhbmQgbWVzcyB1cCB0aGUgb3JkZXIgb2YgZXhlY3V0aW9uIG9mIHRoZSBleGNsdWRlCiAgICAgICAgIyBhbmQgZGlzdGluY3QgVFJJTVMtMTkzCiAgICAgICAgaGlzdG9yeV9pZHMgPSBxdWVyeXNldC52YWx1ZXNfbGlzdCgiaGlzdG9yeV9pZCIsIGZsYXQ9VHJ1ZSkKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBjbHMuaGlzdG9yeS5maWx0ZXIoaGlzdG9yeV9pZF9faW49aGlzdG9yeV9pZHMpCiAgICAgICAgICAgICAgICAuZXhjbHVkZShzdGF0dXM9ZW51bXMuREVMRVRFRCkgIyBFeGNsdWRlcyBhbGwgb2YgdGhlIERFTEVURUQgaGlzdG9yaWVzCiAgICAgICAgICAgICAgICAub3JkZXJfYnkoImN2ZF9pZCIpCiAgICAgICAgKQo=</text>
       </register>
       <register name="+" type="4">
         <text>SELECT 
@@ -1446,7 +1444,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlZm9yZSB0aGUgZGlzdGluY3QsIHNvIGFsbCBvZiB0aGUgZGVsZXRlZCB3aWxsIGJlIHJlbW92ZWQgZnJvbSB0aGUgbGlzdAo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1459,24 +1457,24 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>and
-        # the distinct grabs the last COMPLETE statu</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBsYXRlc3RfdmVyc2lvbihjbHMpOgogICAgICAgIHJlY2VudF92ZXJzaW9uID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgiY3JlYXRlZF9hdCIpCiAgICAgICAgcXVlcnlzZXQgPSBjbHMuaGlzdG9yeS5maWx0ZXIoCiAgICAgICAgICAgIHN0YXR1cz0iQ09NUExFVEUiLCBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9RmFsc2UpCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
+        <text encoding="base64">ICAgICAgICAjIGJlZm9yZSB0aGUgZGlzdGluY3QsIHNvIGFsbCBvZiB0aGUgZGVsZXRlZCB3aWxsIGJlIHJlbW92ZWQgZnJvbSB0aGUgbGlzdAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBsYXRlc3RfdmVyc2lvbihjbHMpOgogICAgICAgIHJlY2VudF92ZXJzaW9uID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgiY3JlYXRlZF9hdCIpCiAgICAgICAgcXVlcnlzZXQgPSBjbHMuaGlzdG9yeS5maWx0ZXIoCiAgICAgICAgICAgIHN0YXR1cz0iQ09NUExFVEUiLCBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9RmFsc2UpCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
+      <register name="4" type="4">
+        <text>and
+        # the distinct grabs the last COMPLETE statu</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50bHlfZGVsZXRlZF9pZHMgPSBjbHMub2JqZWN0cy5maWx0ZXIoc3RhdHVzPWVudW1zLkRFTEVURUQpLnZhbHVlc19saXN0KAogICAgICAgICAgICAiY3ZkX2lkIiwKICAgICAgICAgICAgZmxhdD1UcnVlCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsYXRlc3RfdmVyc2lvbihjbHMpOgogICAgICAgIHJlY2VudF92ZXJzaW9uID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgiY3JlYXRlZF9hdCIpCiAgICAgICAgcXVlcnlzZXQgPSBjbHMuaGlzdG9yeS5maWx0ZXIoCiAgICAgICAgICAgIHN0YXR1cz0iQ09NUExFVEUiLCBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9RmFsc2UpCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
       <register name="7" type="2">
-        <text>add docstring and jira reference on cassius bypass fixture</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnlzZXQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1791,7 +1789,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWNlbnRfdmVyc2lvbi5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50bHlfZGVsZXRlZF9pZHMgPSBjbHMub2JqZWN0cy5maWx0ZXIoc3RhdHVzPWVudW1zLkRFTEVURUQpLnZhbHVlc19saXN0KAogICAgICAgICAgICAiY3ZkX2lkIiwKICAgICAgICAgICAgZmxhdD1UcnVlCiAgICAgICAgKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1805,7 +1803,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChxdWVyeXNldC5sYXN0KCkuc3RhdHVzKQo=</text>
+        <text>add docstring and jira reference on cassius bypass fixture</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
