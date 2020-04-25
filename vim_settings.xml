@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TEST</entry>
-        <entry>DATA</entry>
-        <entry encoding="base64">XDxjdXN0b21fZGphbmdvX2RiXD4=</entry>
         <entry encoding="base64">XDxkamFuZ29fZGJfc2V0dXBcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUX0RCXD4=</entry>
         <entry>cass</entry>
@@ -25,6 +22,9 @@
         <entry>chan</entry>
         <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzXD4=</entry>
+        <entry encoding="base64">XDxCQVNFX0hBTkRMRVJTXD4=</entry>
+        <entry encoding="base64">XDxDb21tYW5kSGFuZGxlclw+</entry>
+        <entry>Comm</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -113,9 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/rpt_vw_qr_bdsa_count [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125748680">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587729634613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -138,13 +135,20 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" timestamp="1587571330405">
         <mark key="'" line="6558" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587729948360">
+      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1587812992400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1587386441867">
         <mark key="'" line="412" column="30" />
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587814869996">
+        <mark key="'" line="132" column="31" />
+        <mark key="[" line="103" column="4" />
+        <mark key="]" line="99" column="6" />
+        <mark key="^" line="99" column="6" />
+        <mark key="." line="99" column="5" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587741209852">
         <mark key="'" line="949" column="16" />
@@ -157,7 +161,7 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1587571729756">
         <mark key="'" line="13" column="22" />
       </file>
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1587729948312">
+      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1587812992394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587575341177">
@@ -165,8 +169,8 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/trims.public.rpt_vw_qr_bdsa_count" timestamp="1587125748692">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/mieet-app/quotes/management/commands/start_bot.py" timestamp="1587813440422">
+        <mark key="'" line="8" column="8" />
       </file>
       <file name="/TRIMSserver_historicalcvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587571136380">
         <mark key="[" line="0" column="0" />
@@ -177,21 +181,14 @@
       <file name="/trims.public.rpt_vw_code_signature" timestamp="1587125755647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1587729948337">
+      <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1587812992399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1587729948321">
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1587812992398">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="62" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" />
-      <jump line="25" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="31" column="10" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="28" column="40" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="15" column="47" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
       <jump line="4" column="24" filename="$USER_HOME$/projects/scrapenotifier/scrapyscraper/scrapyscraper/spiders/jobs.py" />
       <jump line="18" column="49" filename="$USER_HOME$/projects/scrapenotifier/scraper/models.py" />
       <jump line="19" column="21" filename="$USER_HOME$/projects/scrapenotifier/scraper/models.py" />
@@ -285,6 +282,13 @@
       <jump line="846" column="63" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="942" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="949" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/projects/mieet-app/quotes/management/commands/start_bot.py" />
+      <jump line="115" column="30" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="2" column="34" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="21" column="17" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="22" column="33" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="126" column="31" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1322,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stashed_release_fields</text>
+        <text>&quot;echooo&quot;</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1404,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text>&quot;echooo&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1428,7 +1432,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzXD4=</text>
+        <text>Comm</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1438,7 +1442,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>stashed_release_fields</text>
+        <text>update.message.text</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1817,9 +1821,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzXD4=</last-search>
+      <last-search>Comm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzXD4=</last-pattern>
+      <last-pattern>Comm</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
