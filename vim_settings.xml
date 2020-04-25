@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkamFuZ29fZGJfc2V0dXBcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUX0RCXD4=</entry>
         <entry>cass</entry>
         <entry encoding="base64">XDxIYXNTaWduYXR1cmVDU1JcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxCQVNFX0hBTkRMRVJTXD4=</entry>
         <entry encoding="base64">XDxDb21tYW5kSGFuZGxlclw+</entry>
         <entry>Comm</entry>
+        <entry encoding="base64">XDxxdW90ZV9tYWtlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -143,8 +143,8 @@
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587815590837">
-        <mark key="'" line="130" column="31" />
+      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587816473650">
+        <mark key="'" line="110" column="4" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="24" filename="$USER_HOME$/projects/scrapenotifier/scrapyscraper/scrapyscraper/spiders/jobs.py" />
       <jump line="18" column="49" filename="$USER_HOME$/projects/scrapenotifier/scraper/models.py" />
       <jump line="19" column="21" filename="$USER_HOME$/projects/scrapenotifier/scraper/models.py" />
       <jump line="4" column="27" filename="$USER_HOME$/projects/scrapenotifier/scrapyscraper/spiders/jobs.py" />
@@ -288,6 +287,7 @@
       <jump line="21" column="17" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
       <jump line="22" column="33" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
       <jump line="126" column="31" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="110" column="4" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1431,7 +1431,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Comm</text>
+        <text encoding="base64">XDxxdW90ZV9tYWtlclw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1820,9 +1820,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Comm</last-search>
+      <last-search encoding="base64">XDxxdW90ZV9tYWtlclw+</last-search>
       <last-offset />
-      <last-pattern>Comm</last-pattern>
+      <last-pattern encoding="base64">XDxxdW90ZV9tYWtlclw+</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
