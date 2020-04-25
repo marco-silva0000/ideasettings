@@ -124,12 +124,11 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" timestamp="1587571330405">
         <mark key="'" line="6558" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587823447732">
-        <mark key="'" line="104" column="26" />
-        <mark key="[" line="104" column="27" />
-        <mark key="]" line="104" column="36" />
-        <mark key="^" line="104" column="36" />
-        <mark key="." line="104" column="35" />
+      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587830690582">
+        <mark key="[" line="112" column="40" />
+        <mark key="]" line="112" column="49" />
+        <mark key="." line="112" column="48" />
+        <mark key="^" line="112" column="49" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1587571729756">
         <mark key="'" line="13" column="22" />
@@ -1332,7 +1331,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>message.entities</text>
+        <text>forward_from</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1414,7 +1413,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>message.entities</text>
+        <text>forward_from</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1448,13 +1447,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJlY2hvaW5nIikK</text>
+        <text encoding="base64">ICAgIHByaW50ZXIodXBkYXRlLm1lc3NhZ2UuX19kaWN0X18pCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGF1dGhvcl91c2VyLl9fZGljdF9fKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRlcih1cGRhdGUubWVzc2FnZS5fX2RpY3RfXykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1468,22 +1467,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVwZGF0ZS5tZXNzYWdlLl9fZGljdF9fKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdW90ZSA9ICJlcnJvciIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJlY2hvaW5nIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoY29udGV4dC5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQodXBkYXRlLl9fZGljdF9fKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICMgcXVvdGVkIHVzZXIgcHJpbnQodXBkYXRlLm1lc3NhZ2UuZm9yd2FyZF9mcm9tLl9fZGljdF9fKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChlKQogICAgICAgIHF1b3RlID0gImVycm9yIgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGF1dGhvcl91c2VyLl9fZGljdF9fKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1798,7 +1797,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiSXMgcmVwbHkgbWVzc2FnZSIpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1812,7 +1811,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG93bmVyID0gbW9kZWxzLkZvcmVpZ25LZXkoVXNlciwgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlLCBvbl9kZWxldGU9bW9kZWxzLlNFVF9OVUxMKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
