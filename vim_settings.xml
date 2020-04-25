@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX0RCXD4=</entry>
         <entry>cass</entry>
         <entry encoding="base64">XDxIYXNTaWduYXR1cmVDU1JcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxDb21tYW5kSGFuZGxlclw+</entry>
         <entry>Comm</entry>
         <entry encoding="base64">XDxxdW90ZV9tYWtlclw+</entry>
+        <entry encoding="base64">XDxVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -121,9 +121,6 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1587657410878">
         <mark key="'" line="819" column="28" />
       </file>
-      <file name="/rpt_vw_code_signature [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587125755634">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587571136386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,11 +140,12 @@
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587816473650">
-        <mark key="'" line="110" column="4" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1587817719697">
+        <mark key="'" line="88" column="28" />
+        <mark key="[" line="108" column="30" />
+        <mark key="]" line="92" column="25" />
+        <mark key="." line="92" column="24" />
+        <mark key="^" line="92" column="25" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587741209852">
         <mark key="'" line="949" column="16" />
@@ -174,10 +172,14 @@
       <file name="/TRIMSserver_historicalcvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587571136380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1587652339408">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/mieet-app/quotes/models.py" timestamp="1587818495069">
+        <mark key="'" line="51" column="30" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="73" column="21" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="/trims.public.rpt_vw_code_signature" timestamp="1587125755647">
+      <file name="/dummy.sql" timestamp="1587652339408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1587812992399">
@@ -186,14 +188,14 @@
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1587812992398">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mieet-app/.env" timestamp="1587816745098">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="1" column="62" />
+        <mark key="^" line="1" column="62" />
+        <mark key="." line="1" column="61" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="49" filename="$USER_HOME$/projects/scrapenotifier/scraper/models.py" />
-      <jump line="19" column="21" filename="$USER_HOME$/projects/scrapenotifier/scraper/models.py" />
-      <jump line="4" column="27" filename="$USER_HOME$/projects/scrapenotifier/scrapyscraper/spiders/jobs.py" />
-      <jump line="24" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" />
-      <jump line="218" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
-      <jump line="211" column="5" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="51" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/permissions.py" />
       <jump line="640" column="43" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1123" column="38" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -288,6 +290,12 @@
       <jump line="22" column="33" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
       <jump line="126" column="31" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
       <jump line="110" column="4" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="1" column="39" filename="$USER_HOME$/projects/mieet-app/quotes/models.py" />
+      <jump line="16" column="30" filename="$USER_HOME$/projects/mieet-app/quotes/models.py" />
+      <jump line="29" column="46" filename="$USER_HOME$/projects/mieet-app/quotes/models.py" />
+      <jump line="41" column="30" filename="$USER_HOME$/projects/mieet-app/quotes/models.py" />
+      <jump line="107" column="18" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
+      <jump line="88" column="28" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1325,7 +1333,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtZXNzYWdlKQogICAgICAgIHByaW50KG1lc3NhZ2UuZm9yd2FyZF9kYXRlKQogICAgICAgIHByaW50KG1lc3NhZ2UuZm9yd2FyZF9mcm9tX21lc3NhZ2VfaWQpCiAgICAgICAgcHJpbnQobWVzc2FnZS50ZXh0KQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1407,7 +1415,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;echooo&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1431,7 +1439,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdW90ZV9tYWtlclw+</text>
+        <text encoding="base64">XDxVc2VyXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1441,13 +1449,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>update.message.text</text>
+        <text>blank=True, null=True</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtZXNzYWdlKQogICAgICAgIHByaW50KG1lc3NhZ2UuZm9yd2FyZF9kYXRlKQogICAgICAgIHByaW50KG1lc3NhZ2UuZm9yd2FyZF9mcm9tX21lc3NhZ2VfaWQpCiAgICAgICAgcHJpbnQobWVzc2FnZS50ZXh0KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1461,22 +1469,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF0ZXN0X3ZlcnNpb24gPSBDVkRWZXJzaW9uLm9iamVjdHMubGF0ZXN0KCJjcmVhdGVkX2F0IikKICAgICAgICAgICAgQ1ZEVmVyc2lvbi5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgIG1ham9yPWxhdGVzdF92ZXJzaW9uLm1ham9yLAogICAgICAgICAgICAgICAgbWlub3I9bGF0ZXN0X3ZlcnNpb24ubWlub3IsCiAgICAgICAgICAgICAgICBwYXRjaD1sYXRlc3RfdmVyc2lvbi5wYXRjaCArIDEsCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdHMgPSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyA9IHNlbGYub2JqZWN0LnN0YXNoZWRfcmVsZWFzZV9maWVsZHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF1dGhvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHRzPWRlZmF1bHRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJuYW1lIjogZiJ7dXNlci5maXJzdF9uYW1lfSB7dXNlci5sYXN0X25hbWV9IiwKICAgICAgICAgICAgICAgICJrZXkiOiB1c2VyLmZpcnN0X25hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdmRfdXRpbHMud3JpdGVDVkRMaXN0VG9YTUxGaWxlKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHVwZGF0ZS5tZXNzYWdlLmZvcndhcmRfZGF0ZSkKICAgIHByaW50KHVwZGF0ZS5tZXNzYWdlLmZvcndhcmRfZnJvbV9tZXNzYWdlX2lkKQogICAgcHJpbnQodXBkYXRlLm1lc3NhZ2UudGV4dCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1791,7 +1799,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEtCREVWU0VDLTEwNTEK</text>
+        <text encoding="base64">ICAgIGZyb20gcXVvdGVzLm1vZGVscyBpbXBvcnQgQXV0aG9yCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1805,7 +1813,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlbGVhc2UgcGF0Y2ggdmVyc2lvbiBpZiBpdCBoYXMgZXZlciBiZWVuIGluIENPTVBMRVRFIHN0YXR1cyBLQkRFVlNFQy0xMzE0CiAgICAgICAgaWYgQ1ZELmhpc3RvcnkuZmlsdGVyKHBrPXNlbGYub2JqZWN0LnBrLCBzdGF0dXM9ZW51bXMuQ09NUExFVEUpLmV4aXN0cygpOgogICAgICAgICAgICBsYXRlc3RfdmVyc2lvbiA9IENWRFZlcnNpb24ub2JqZWN0cy5sYXRlc3QoImNyZWF0ZWRfYXQiKQogICAgICAgICAgICBDVkRWZXJzaW9uLm9iamVjdHMuY3JlYXRlKAogICAgICAgICAgICAgICAgbWFqb3I9bGF0ZXN0X3ZlcnNpb24ubWFqb3IsCiAgICAgICAgICAgICAgICBtaW5vcj1sYXRlc3RfdmVyc2lvbi5taW5vciwKICAgICAgICAgICAgICAgIHBhdGNoPWxhdGVzdF92ZXJzaW9uLnBhdGNoICsgMSwKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gcXVvdGVzLm1vZGVscyBpbXBvcnQgQXV0aG9yCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -1820,9 +1828,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdW90ZV9tYWtlclw+</last-search>
+      <last-search encoding="base64">XDxVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdW90ZV9tYWtlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxVc2VyXD4=</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
