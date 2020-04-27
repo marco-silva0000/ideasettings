@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIYXNTaWduYXR1cmVDU1JcPg==</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry>Respon</entry>
         <entry>timedelta</entry>
         <entry>data</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxxdW90ZV9tYWtlclw+</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>admin</entry>
+        <entry encoding="base64">XDxTaWduYXR1cmVDb2RlUmVtZWRpYXRpb25BYnN0cmFjdE1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxhc19tYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -124,11 +124,12 @@
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1587571136386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1587981179289">
-        <mark key="[" line="187" column="8" />
-        <mark key="]" line="187" column="24" />
-        <mark key="." line="188" column="47" />
-        <mark key="^" line="188" column="48" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1587983487508">
+        <mark key="'" line="175" column="26" />
+        <mark key="[" line="175" column="36" />
+        <mark key="]" line="175" column="37" />
+        <mark key="^" line="175" column="37" />
+        <mark key="." line="175" column="36" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" timestamp="1587571330405">
         <mark key="'" line="6558" column="0" />
@@ -142,16 +143,19 @@
         <mark key="." line="112" column="48" />
         <mark key="^" line="112" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587981233682">
-        <mark key="'" line="949" column="16" />
-        <mark key="[" line="1024" column="19" />
-        <mark key="]" line="1024" column="19" />
-        <mark key="^" line="1009" column="47" />
-        <mark key="." line="1024" column="19" />
-        <mark key="o" line="765" column="36" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587983891525">
+        <mark key="'" line="947" column="16" />
+        <mark key="[" line="787" column="65" />
+        <mark key="]" line="787" column="65" />
+        <mark key="^" line="787" column="65" />
+        <mark key="." line="787" column="64" />
+        <mark key="o" line="763" column="36" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1587571729756">
         <mark key="'" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1587983528363">
+        <mark key="'" line="290" column="35" />
       </file>
       <file name="$USER_HOME$/projects/mieet-app/mieet_app/settings.py" timestamp="1587819188182">
         <mark key="'" line="38" column="20" />
@@ -194,10 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="24" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/scrapenotifier-eVaenQLM-py3.8/lib/python3.8/site-packages/scrapy/spiders/__init__.py" />
-      <jump line="10" column="41" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/scrapenotifier-eVaenQLM-py3.8/lib/python3.8/site-packages/scrapy/spiders/__init__.py" />
-      <jump line="53" column="21" filename="$USER_HOME$/projects/scrapenotifier/scraper/spiders/jobs.py" />
-      <jump line="64" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/scrapenotifier-eVaenQLM-py3.8/lib/python3.8/site-packages/scrapy/spiders/__init__.py" />
       <jump line="30" column="9" filename="$USER_HOME$/projects/scrapenotifier/scraper/spiders/jobs.py" />
       <jump line="56" column="10" filename="$USER_HOME$/projects/scrapenotifier/scraper/spiders/jobs.py" />
       <jump line="55" column="4" filename="$USER_HOME$/projects/scrapenotifier/scraper/spiders/jobs.py" />
@@ -294,6 +294,10 @@
       <jump line="94" column="23" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
       <jump line="104" column="26" filename="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" />
       <jump line="340" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="406" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="175" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="42" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" />
+      <jump line="290" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1331,7 +1335,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self.</text>
+        <text>None</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1413,7 +1417,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>None</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1437,7 +1441,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text encoding="base64">XDxhc19tYW5hZ2VyXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1446,14 +1450,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>was_ever_released</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3ZkLnN0YXNoZWRfcmVsZWFzZV9maWVsZHMgPSBOb25lCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9iamVjdC5zdGFzaGVkX3JlbGVhc2VfZmllbGRzID0gc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5LmFsbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1466,25 +1470,25 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9maWVsZHMgPSBbIkRlbGV0ZWQiXQo=</text>
+      <register name="2" type="4">
+        <text>filter(status__in=[&quot;COMPLETE&quot;, &quot;DELETED&quot;]).exclude(
+            stashed_release_fields=None
+        )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Y2xhc3MgQ1ZEUXVlcnlTZXQobW9kZWxzLlF1ZXJ5U2V0KToKICAgIGRlZiBhbGxfc3Rhc2hlZChzZWxmKToKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgc2VsZi5maWx0ZXIoc3RhdHVzPWVudW1zLkNPTVBMRVRFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKQogICAgICAgICAgICAgICAgICAgIC51bmlvbihzZWxmLmZpbHRlcihzdGF0dXM9ZW51bXMuREVMRVRFRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Rhc2hlZF9mcm9tX2RlbGV0aW9uPVRydWUpKQogICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9maWVsZHMuYXBwZW5kKCJEZWxldGVkIikK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGFyZV9zdGFzaGVkKGNscywgKiprd2FyZ3MpOgogICAgICAgIGNscy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiB3YXNfZXZlcl9yZWxlYXNlZChjbHMsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gY2xzLmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAqKmt3YXJncywKICAgICAgICAgICAgc3RhdHVzPWVudW1zLkNPTVBMRVRFLAogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9VHJ1ZQogICAgICAgICkuZXhpc3RzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9iamVjdC5zdGFzaGVkX3JlbGVhc2VfZmllbGRzID0gc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9maWVsZHMgPSBbIkRlbGV0ZWQiXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>history.filter(id=object.id,
-                              status=enums.COMPLETE,
-                              stashed_release_fields__isnull=True).exists()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1799,7 +1803,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzID0gc2VsZi5vYmplY3Quc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9maWVsZHMuYXBwZW5kKCJEZWxldGVkIikK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1813,7 +1817,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRlcih1cGRhdGUubWVzc2FnZS5fX2RpY3RfXykK</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiB3YXNfZXZlcl9yZWxlYXNlZChjbHMsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gY2xzLmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAqKmt3YXJncywKICAgICAgICAgICAgc3RhdHVzPWVudW1zLkNPTVBMRVRFLAogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9VHJ1ZQogICAgICAgICkuZXhpc3RzKCkK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -1828,9 +1832,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>admin</last-search>
+      <last-search encoding="base64">XDxhc19tYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern encoding="base64">XDxhc19tYW5hZ2VyXD4=</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
