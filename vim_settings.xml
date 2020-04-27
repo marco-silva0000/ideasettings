@@ -140,12 +140,12 @@
         <mark key="." line="112" column="48" />
         <mark key="^" line="112" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587995492533">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587996881932">
         <mark key="'" line="425" column="0" />
-        <mark key="[" line="793" column="0" />
-        <mark key="]" line="793" column="50" />
-        <mark key="." line="793" column="0" />
-        <mark key="^" line="667" column="61" />
+        <mark key="[" line="936" column="65" />
+        <mark key="]" line="937" column="50" />
+        <mark key="." line="937" column="49" />
+        <mark key="^" line="937" column="50" />
         <mark key="o" line="763" column="36" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1587983528363">
@@ -1331,8 +1331,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkgPSBDVkQuZmlsdGVyX29ubHlfc3Rhc2hlZChxdWVyeSkK</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1414,7 +1414,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>dd filter_only_stashed to DRY getting stashed objects</text>
+        <text>\</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1448,13 +1448,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmVyc2lvbl9kYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0aW9uPXN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0aW9uLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkgPSBDVkQuZmlsdGVyX29ubHlfc3Rhc2hlZChxdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0ZWQ9c3Rhc2hlZF9yZWxlYXNlX2Zyb21fZGVsZXRlZCwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1468,22 +1468,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text>a</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0ZWQ9c3Rhc2hlZF9yZWxlYXNlX2Zyb21fZGVsZXRlZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBhbGxfc3Rhc2hlZChjbHMpOgogICAgICAgIHJldHVybiBjbHMuZmlsdGVyX29ubHlfc3Rhc2hlZChjbHMub2JqZWN0cy5hbGwoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZnJvbV9kZWxldGVkIl0gPSBGYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJldl92ZXJzaW9uX2RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFJlc2V0IHN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0ZWQgaWYgaXQncyBldmVyIHVwZGF0ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmVyc2lvbl9kYXRlKQo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBSZXNldCBzdGFzaGVkX3JlbGVhc2VfZnJvbV9kZWxldGVkIGlmIGl0J3MgZXZlciB1cGRhdGVkCiAgICAgICAgc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YVsic3Rhc2hlZF9yZWxlYXNlX2Zyb21fZGVsZXRlZCJdID0gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaS5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkgPSBDVkQuZmlsdGVyX29ubHlfc3Rhc2hlZChxdWVyeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBxdWVyeToK</text>
+        <text>a</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1798,7 +1798,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBhbGxfc3Rhc2hlZChjbHMpOgogICAgICAgIHJldHVybiBjbHMuZmlsdGVyX29ubHlfc3Rhc2hlZChjbHMub2JqZWN0cy5hbGwoKSkK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1812,7 +1812,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJldl92ZXJzaW9uX2RhdGUpCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
