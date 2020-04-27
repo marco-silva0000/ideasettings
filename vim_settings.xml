@@ -140,11 +140,11 @@
         <mark key="." line="112" column="48" />
         <mark key="^" line="112" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587988851566">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1587991415199">
         <mark key="'" line="648" column="17" />
-        <mark key="[" line="1006" column="35" />
-        <mark key="]" line="1006" column="35" />
-        <mark key="." line="1006" column="35" />
+        <mark key="[" line="794" column="0" />
+        <mark key="]" line="794" column="0" />
+        <mark key="." line="794" column="0" />
         <mark key="^" line="667" column="22" />
         <mark key="o" line="763" column="36" />
       </file>
@@ -1331,8 +1331,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0gQ1ZELmZpbHRlcl9vbmx5X3N0YXNoZWQocXVlcnkpCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1454,7 +1454,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHMgPSBDVkRRdWVyeVNldC5hc19tYW5hZ2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0gQ1ZELmZpbHRlcl9vbmx5X3N0YXNoZWQocXVlcnkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1468,7 +1468,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0gQ1ZELmZpbHRlcl9vbmx5X3N0YXNoZWQocXVlcnkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIG9iamVjdHMgPSBDVkRRdWVyeVNldC5hc19tYW5hZ2VyKCkK</text>
@@ -1477,13 +1477,13 @@ WHERE `type` = 0</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQ1ZEUXVlcnlTZXQobW9kZWxzLlF1ZXJ5U2V0KToKICAgIGRlZiBhbGxfc3Rhc2hlZChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5maWx0ZXIoCiAgICAgICAgICAgIHN0YXR1cz1lbnVtcy5DT01QTEVURSwgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlCiAgICAgICAgKS51bmlvbihzZWxmLmZpbHRlcihzdGF0dXM9ZW51bXMuREVMRVRFRCwgc3Rhc2hlZF9mcm9tX2RlbGV0aW9uPVRydWUpKQoKCg==</text>
+        <text encoding="base64">ICAgIG9iamVjdHMgPSBDVkRRdWVyeVNldC5hc19tYW5hZ2VyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IENWRC5vbmo7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ1ZEUXVlcnlTZXQobW9kZWxzLlF1ZXJ5U2V0KToKICAgIGRlZiBhbGxfc3Rhc2hlZChzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5maWx0ZXIoCiAgICAgICAgICAgIHN0YXR1cz1lbnVtcy5DT01QTEVURSwgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlCiAgICAgICAgKS51bmlvbihzZWxmLmZpbHRlcihzdGF0dXM9ZW51bXMuREVMRVRFRCwgc3Rhc2hlZF9mcm9tX2RlbGV0aW9uPVRydWUpKQoKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1798,7 +1798,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IENWRC5vbmo7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1812,7 +1812,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZpbHRlcl9vbmx5X3N0YXNoZWQoY2xzLCBxc2V0KToKICAgICAgICByZXR1cm4gQ1ZECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
