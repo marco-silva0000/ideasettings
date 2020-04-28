@@ -126,6 +126,12 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query.py" timestamp="1587988281155">
         <mark key="'" line="910" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1588108649099">
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="105" column="9" />
+        <mark key="." line="105" column="9" />
+        <mark key="^" line="115" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/conftest.py" timestamp="1588002593703">
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
@@ -142,9 +148,6 @@
         <mark key="]" line="49" column="47" />
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1587983528363">
-        <mark key="'" line="290" column="35" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1588083238292">
         <mark key="'" line="147" column="24" />
@@ -1320,8 +1323,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ1ZESGlzdG9yeUZpbHRlciA9IENWREZpbHRlcgogICAgICAgICAgICBDVkRIaXN0b3J5RmlsdGVyLl9tZXRhLm1vZGVsID0gcXVlcnlzZXQubW9kZWwKICAgICAgICAgICAgc2VsZi5maWx0ZXJfY2xhc3MgPSBDVkRIaXN0b3J5RmlsdGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>er</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1403,7 +1406,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>er</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1436,14 +1439,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ1ZESGlzdG9yeUZpbHRlciA9IENWREZpbHRlcgogICAgICAgICAgICBDVkRIaXN0b3J5RmlsdGVyLl9tZXRhLm1vZGVsID0gcXVlcnlzZXQubW9kZWwKICAgICAgICAgICAgc2VsZi5maWx0ZXJfY2xhc3MgPSBDVkRIaXN0b3J5RmlsdGVyCg==</text>
+      <register name="0" type="4">
+        <text>update</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkLl9fZGljdF9fKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVwbHlfbWVzc2FnZS5fX2RpY3RfXykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1457,22 +1460,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkLl9fZGljdF9fKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAgICAgaWQ9cGssCiAgICAgICAgICAgICAgICBzdGF0dXM9ZW51bXMuQ09NUExFVEUsCiAgICAgICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9VHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZ2V0UERGKHJlcXVlc3QsIHBrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAgICAgaWQ9cGssCiAgICAgICAgICAgICAgICBzdGF0dXM9ZW51bXMuQ09NUExFVEUsCiAgICAgICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9VHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZ2V0UERGKHJlcXVlc3QsIHBrKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1787,7 +1790,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ1ZESGlzdG9yeUZpbHRlcihmaWx0ZXJzLkZpbHRlclNldCk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gQ1ZELmhpc3RvcnkubW9kZWwKICAgICAgICAjIGZpZWxkcyA9IFsnc3RhdHVzJywgJ2VkaXRlZF9hdCcsICdvd25lZF9ieScsICdzY3JhcGVkdnVsbl9fc291cmNlX19pZCcsICdzY3JhcGVkdnVsbl9fc291cmNlX19oaXN0b3JpY2FsJ10KICAgICAgICBmaWVsZHMgPSBbInN0YXR1cyIsICJlZGl0ZWRfYXQiLCAib3duZWRfYnkiXQoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwaykK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1801,7 +1804,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocXVlcnlzZXQubW9kZWwpCg==</text>
+        <text encoding="base64">Y2xhc3MgQ1ZESGlzdG9yeUZpbHRlcihmaWx0ZXJzLkZpbHRlclNldCk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gQ1ZELmhpc3RvcnkubW9kZWwKICAgICAgICAjIGZpZWxkcyA9IFsnc3RhdHVzJywgJ2VkaXRlZF9hdCcsICdvd25lZF9ieScsICdzY3JhcGVkdnVsbl9fc291cmNlX19pZCcsICdzY3JhcGVkdnVsbl9fc291cmNlX19oaXN0b3JpY2FsJ10KICAgICAgICBmaWVsZHMgPSBbInN0YXR1cyIsICJlZGl0ZWRfYXQiLCAib3duZWRfYnkiXQoK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
