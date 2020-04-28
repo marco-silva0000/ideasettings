@@ -116,7 +116,7 @@
       <file name="/a.dummy" timestamp="1588002870325">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588066246823">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588088792417">
         <mark key="'" line="81" column="14" />
         <mark key="[" line="71" column="28" />
         <mark key="]" line="71" column="71" />
@@ -166,12 +166,12 @@
         <mark key="." line="840" column="39" />
         <mark key="^" line="835" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1588087851588">
-        <mark key="'" line="409" column="24" />
-        <mark key="[" line="370" column="21" />
-        <mark key="]" line="375" column="23" />
-        <mark key="^" line="375" column="23" />
-        <mark key="." line="375" column="22" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1588089499573">
+        <mark key="'" line="370" column="29" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="^" line="689" column="66" />
+        <mark key="." line="371" column="0" />
       </file>
       <file name="/" timestamp="1588007309496">
         <mark key="[" line="0" column="0" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="33" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="12" column="2" filename="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" />
       <jump line="6523" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" />
       <jump line="6559" column="1396" filename="$USER_HOME$/projects/trims/server/TRIMSserver/static/files/cvdxmlexport/cvd_export_20200422-155735.xml" />
@@ -282,6 +281,7 @@
       <jump line="59" column="46" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_filters/rest_framework/backends.py" />
       <jump line="840" column="46" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="409" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="370" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1319,7 +1319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBIdHRwNDA0KCdObyAlcyBtYXRjaGVzIHRoZSBnaXZlbiBxdWVyeS4nICUgcXVlcnlzZXQubW9kZWwuX21ldGEub2JqZWN0X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkLl9fZGljdF9fKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1401,7 +1401,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>==</text>
+        <text>b</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1435,13 +1435,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBIdHRwNDA0KCdObyAlcyBtYXRjaGVzIHRoZSBnaXZlbiBxdWVyeS4nICUgcXVlcnlzZXQubW9kZWwuX21ldGEub2JqZWN0X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZ2V0UERGKHJlcXVlc3QsIHBrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkLl9fZGljdF9fKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1455,22 +1455,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY3ZkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ1ZESGlzdG9yeUZpbHRlcihmaWx0ZXJzLkZpbHRlclNldCk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gQ1ZELmhpc3RvcnkubW9kZWwKICAgICAgICAjIGZpZWxkcyA9IFsnc3RhdHVzJywgJ2VkaXRlZF9hdCcsICdvd25lZF9ieScsICdzY3JhcGVkdnVsbl9fc291cmNlX19pZCcsICdzY3JhcGVkdnVsbl9fc291cmNlX19oaXN0b3JpY2FsJ10KICAgICAgICBmaWVsZHMgPSBbInN0YXR1cyIsICJlZGl0ZWRfYXQiLCAib3duZWRfYnkiXQoK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocXVlcnlzZXQubW9kZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ1ZESGlzdG9yeUZpbHRlci5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAgICAgaWQ9cGssCiAgICAgICAgICAgICAgICBzdGF0dXM9ZW51bXMuQ09NUExFVEUsCiAgICAgICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9VHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ1ZESGlzdG9yeUZpbHRlci5NZXRhLl9fZGljdF9fKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuZ2V0UERGKHJlcXVlc3QsIHBrKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ1ZESGlzdG9yeUZpbHRlci5NZXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwaykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1785,7 +1785,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ1ZESGlzdG9yeUZpbHRlci5NZXRhLm1vZGVsKQo=</text>
+        <text encoding="base64">Y2xhc3MgQ1ZESGlzdG9yeUZpbHRlcihmaWx0ZXJzLkZpbHRlclNldCk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gQ1ZELmhpc3RvcnkubW9kZWwKICAgICAgICAjIGZpZWxkcyA9IFsnc3RhdHVzJywgJ2VkaXRlZF9hdCcsICdvd25lZF9ieScsICdzY3JhcGVkdnVsbl9fc291cmNlX19pZCcsICdzY3JhcGVkdnVsbl9fc291cmNlX19oaXN0b3JpY2FsJ10KICAgICAgICBmaWVsZHMgPSBbInN0YXR1cyIsICJlZGl0ZWRfYXQiLCAib3duZWRfYnkiXQoK</text>
       </register>
       <register name="x" type="4">
         <keys>
