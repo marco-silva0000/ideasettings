@@ -113,10 +113,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587994761380">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1588077812486">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1588002870325">
         <mark key="[" line="0" column="0" />
@@ -145,9 +145,9 @@
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1588075645055">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1588077339362">
         <mark key="'" line="990" column="35" />
-        <mark key="[" line="638" column="33" />
+        <mark key="[" line="920" column="51" />
         <mark key="]" line="638" column="33" />
         <mark key="^" line="638" column="33" />
         <mark key="." line="638" column="32" />
@@ -1328,8 +1328,10 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>DELETED</text>
+      <register name="&quot;" type="2">
+        <text>mark deleted CVD for minor version release
+
+add stashed_release_from_deletion field on CVD</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1451,7 +1453,9 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCAoUShzdGF0dXM9ZW51bXMuREVMRVRFRCkgJiBRKHN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0aW9uPVRydWUpKSwK</text>
+        <text>mark deleted CVD for minor version release
+
+add stashed_release_from_deletion field on CVD</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1465,22 +1469,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFEoc3RhdHVzPWVudW1zLkNPTVBMRVRFKSAmIFEoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCAoUShzdGF0dXM9ZW51bXMuREVMRVRFRCkgJiBRKHN0YXNoZWRfcmVsZWFzZV9mcm9tX2RlbGV0aW9uPVRydWUpKSwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKFEoc3RhdHVzPWVudW1zLkNPTVBMRVRFKSAmIFEoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKSkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfYWxsX3N0YXNoZWQoY2xzKToKICAgICAgICByZXR1cm4gQ1ZELmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAoUShzdGF0dXM9ZW51bXMuQ09NUExFVEUpICYgUShzdGFzaGVkX3JlbGVhc2VfZmllbGRzX19pc251bGw9RmFsc2UpKQogICAgICAgICAgICB8IChRKHN0YXR1cz1lbnVtcy5ERUxFVEVEKSAmIFEoc3Rhc2hlZF9yZWxlYXNlX2Zyb21fZGVsZXRpb249VHJ1ZSkpLAogICAgICAgICAgICApCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Lmhpc3RvcnkuZmlsdGVyKAogICAgICAgICAgICAgICAgKFEoc3RhdHVzPWVudW1zLkNPTVBMRVRFKSAmIFEoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKSkKICAgICAgICAgICAgICAgIHwgKFEoc3RhdHVzPWVudW1zLkRFTEVURUQpICYgUShzdGFzaGVkX3JlbGVhc2VfZnJvbV9kZWxldGlvbj1UcnVlKSksCiAgICAgICAgICAgICk=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENWRC5oaXN0b3J5LmZpbHRlcihlZGl0ZWRfYXRfX2x0ZT1zZWxmLmNyZWF0ZWRfYXQpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9hbGxfc3Rhc2hlZChjbHMpOgoK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENWRC5oaXN0b3J5LmZpbHRlcihlZGl0ZWRfYXRfX2x0ZT1zZWxmLmNyZWF0ZWRfYXQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1795,7 +1799,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9hbGxfc3Rhc2hlZChjbHMpOgoK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1809,7 +1813,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyX2NvbXBsZXRlX2N2ZF9pZHMgPSAoCiAgICAgICAgICAgIENWRC5oaXN0b3J5LmZpbHRlcihzdGF0dXM9ZW51bXMuQ09NUExFVEUpCiAgICAgICAgICAgICAgICAub3JkZXJfYnkoImN2ZF9pZCIpCiAgICAgICAgICAgICAgICAuZGlzdGluY3QoImN2ZF9pZCIpCiAgICAgICAgICAgICAgICAudmFsdWVzX2xpc3QoImN2ZF9pZCIsIGZsYXQ9VHJ1ZSkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
