@@ -113,33 +113,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588172956631">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1588237259018">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
-      <file name="/vendor_product.py" timestamp="1588157921849">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="80" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1588087217525">
-        <mark key="'" line="847" column="46" />
-        <mark key="[" line="847" column="39" />
-        <mark key="]" line="847" column="39" />
-        <mark key="." line="847" column="39" />
-        <mark key="^" line="836" column="42" />
-      </file>
-      <file name="/0336_auto_20200427_1318.py" timestamp="1588175842126" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588162395670">
         <mark key="'" line="75" column="22" />
         <mark key="[" line="65" column="8" />
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
-      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1588173392648">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0336_auto_20200427_1318.py" timestamp="1588236571919">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="48" />
+        <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0336_auto_20200427_1318.py" timestamp="1588236215311" />
       <file name="$USER_HOME$/projects/mieet-app/quotes/telegram_bot.py" timestamp="1588108649099">
         <mark key="[" line="105" column="9" />
         <mark key="]" line="105" column="9" />
@@ -157,15 +146,6 @@
         <mark key="." line="151" column="20" />
         <mark key="^" line="151" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1588083238292">
-        <mark key="'" line="147" column="24" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1588155236722">
-        <mark key="'" line="42" column="43" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/mixins.py" timestamp="1588155201113">
-        <mark key="'" line="37" column="34" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/shortcuts.py" timestamp="1588087679813">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="90" />
@@ -174,6 +154,35 @@
         <mark key="'" line="57" column="15" />
         <mark key="[" line="164" column="0" />
         <mark key="]" line="165" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588237294172">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/vendor_product.py" timestamp="1588157921849">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="80" />
+      </file>
+      <file name="/0336_auto_20200427_1318.py" timestamp="1588175842126" />
+      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1588173392648">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0334_auto_20200309_1026.py" timestamp="1588237454067">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="85" />
+        <mark key="." line="8" column="82" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1588155236722">
+        <mark key="'" line="42" column="43" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/mixins.py" timestamp="1588155201113">
+        <mark key="'" line="37" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0334_delete_forecast.py" timestamp="1588237458816">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="85" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1588173392400">
         <mark key="[" line="0" column="0" />
@@ -1316,9 +1325,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Note that if you need to change the returned
-        items you are changing the history and not the CVD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzNfYXV0b18yMDIwMDIxOV8xNTUzJyksCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1400,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>y</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1433,15 +1441,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>released</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzRfQ1ZEX2FkZF9zdGFzaGVkX3JlbGVhc2VkX2Zyb21fZGVsZXRpb25fMjAyMDA0MjdfMTMxOCcpLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>Note that if you need to change the returned
-        items you are changing the history and not the CVD</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzNfYXV0b18yMDIwMDIxOV8xNTUzJyksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1455,26 +1462,25 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzNfYXV0b18yMDIwMDIxOV8xNTUzJyksCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>Note that if you need to change the returned
+        items you are changing the history and not the CVD</text>
+      </register>
+      <register name="4" type="2">
         <text>changes cvd list api released query param
 
 add missing frontend query</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZWxlYXNlZF9wYXJhbSA9IHNlbGYucmVxdWVzdC5xdWVyeV9wYXJhbXMuZ2V0KCJyZWxlYXNlZCIsIE5vbmUpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text>changes CVDList read only mode to display latest released data</text>
-      </register>
-      <register name="5" type="2">
-        <text>changes CVDList read only mode to display latest released data</text>
-      </register>
       <register name="6" type="2">
-        <text>mark deleted CVD for minor version release
-
-add stashed_release_from_deletion field on CVD</text>
+        <text>changes CVDList read only mode to display latest released data</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fZmlsdGVycyBpbXBvcnQgcmVzdF9mcmFtZXdvcmsgYXMgZmlsdGVycwo=</text>
+        <text>changes CVDList read only mode to display latest released data</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1789,7 +1795,9 @@ add stashed_release_from_deletion field on CVD</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text>mark deleted CVD for minor version release
+
+add stashed_release_from_deletion field on CVD</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1802,8 +1810,8 @@ add stashed_release_from_deletion field on CVD</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAjICMgZGphbmdvLWZpbHRlciBmb3JjZXMgdGhlIG1vZGVsIHNldCBpbiBmaWx0ZXIgY2xhc3MgdG8gYmUgdGhlIHNhbWUgYXMgaW4KICAgICAgICAgICAgIyAjIHF1ZXJ5c2V0LCB0aGUgZm9sbG93aW5nIHNldHMgdGhpcyBpbnN0YW5jZSdzIGZpbHRlcl9jbGFzcyB0byBhIHBhdGNoZWQKICAgICAgICAgICAgIyAjIHZlcnNpb24gbyB0aGUgb3JpZ2luYWwgQ1ZERmlsdGVyIHRvIGJ5cGFzcyBhc3NlcnRpb24KICAgICAgICAgICAgIyBDVkRIaXN0b3J5RmlsdGVyID0gQ1ZERmlsdGVyCiAgICAgICAgICAgICMgQ1ZESGlzdG9yeUZpbHRlci5fbWV0YS5tb2RlbCA9IHF1ZXJ5c2V0Lm1vZGVsCiAgICAgICAgICAgICMgc2VsZi5maWx0ZXJfY2xhc3MgPSBDVkRIaXN0b3J5RmlsdGVy</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ29fZmlsdGVycyBpbXBvcnQgcmVzdF9mcmFtZXdvcmsgYXMgZmlsdGVycwo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
