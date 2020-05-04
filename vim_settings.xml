@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>only</entry>
-        <entry>stashed_from</entry>
         <entry>all_sta</entry>
         <entry encoding="base64">XDxmYWtlXD4=</entry>
         <entry>print</entry>
@@ -25,6 +23,8 @@
         <entry>status</entry>
         <entry>assign</entry>
         <entry>weas</entry>
+        <entry encoding="base64">XDxIVE1MXD4=</entry>
+        <entry>cairo</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -149,14 +149,17 @@
         <mark key="]" line="8" column="85" />
         <mark key="." line="8" column="82" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1588596917073">
+        <mark key="'" line="12" column="23" />
+      </file>
       <file name="/trims.public.TRIMSserver_cvdversion" timestamp="1588581480500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TRIMSserver_cvdversion [trims@localhost]" timestamp="1588581480499">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/poetry.lock" timestamp="1588596853492">
-        <mark key="'" line="1463" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/poetry.lock" timestamp="1588596966374">
+        <mark key="'" line="1005" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0334_delete_forecast.py" timestamp="1588237458816">
         <mark key="[" line="8" column="0" />
@@ -173,16 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="788" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="794" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="646" column="58" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="648" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="331" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="425" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="793" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="66" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="80" column="39" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="44" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="9" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="10" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="11" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
@@ -271,8 +264,18 @@
       <jump line="315" column="61" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="316" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="572" column="22" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
-      <jump line="926" column="8" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
       <jump line="1463" column="0" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="361" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="12" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="926" column="8" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="934" column="0" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="89" column="0" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="83" column="8" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="66" column="8" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="65" column="26" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="1008" column="0" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="1006" column="13" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
+      <jump line="1005" column="0" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1416,7 +1419,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>weas</text>
+        <text>cairo</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1806,9 +1809,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>weas</last-search>
+      <last-search>cairo</last-search>
       <last-offset />
-      <last-pattern>weas</last-pattern>
+      <last-pattern>cairo</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
