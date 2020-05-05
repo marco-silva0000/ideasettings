@@ -127,8 +127,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588671992123">
-        <mark key="'" line="104" column="35" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588673623976">
+        <mark key="'" line="93" column="71" />
+        <mark key="[" line="93" column="19" />
+        <mark key="]" line="93" column="21" />
+        <mark key="^" line="93" column="21" />
+        <mark key="." line="93" column="20" />
       </file>
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1588670422615">
         <mark key="[" line="0" column="0" />
@@ -181,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="11" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="28" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="29" column="49" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
@@ -281,6 +284,7 @@
       <jump line="1006" column="13" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
       <jump line="1005" column="0" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
       <jump line="104" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="93" column="71" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1318,7 +1322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>WeasyPrint</text>
+        <text>is</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1400,7 +1404,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>dependency</text>
+        <text>is</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1433,14 +1437,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>WeasyPrint</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmIGlzIENWRFZlcnNpb24ub2JqZWN0cy5hbGwoKS5vcmRlcl9ieSgiY3JlYXRlZF9hdCIpLmZpcnN0KCkpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKm5nSWY9InJlYWRPbmx5IiBocmVmPSJ7e0FQSV9IT1NUfX0vZXhwb3J0Y3ZkL2N2ZHByZXZpZXcve3tpdGVtLmlkfX0iPiZuYnNwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1453,23 +1457,28 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKm5nSWY9InJlYWRPbmx5IiBocmVmPSJ7e0FQSV9IT1NUfX0vZXhwb3J0Y3ZkL2N2ZHByZXZpZXcve3tpdGVtLmlkfX0iPlZpZXc8L2E+Cg==</text>
+      <register name="2" type="4">
+        <text>(
+                CVDVersion.objects
+                    .filter(created_at__lt=self.created_at)
+                    .order_by(&quot;created_at&quot;)
+                    .last()
+            )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhICpuZ0lmPSJyZWFkT25seSIgaHJlZj0ie3tBUElfSE9TVH19L2V4cG9ydGN2ZC9jdmRwcmV2aWV3L3t7aXRlbS5pZH19Ij57e2l0ZW0/LnRpdGxlfX08L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKm5nSWY9InJlYWRPbmx5IiBocmVmPSJ7e0FQSV9IT1NUfX0vZXhwb3J0Y3ZkL2N2ZHByZXZpZXcve3tpdGVtLmlkfX0iPiZuYnNwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9Int7QVBJX0hPU1R9fS9leHBvcnRjdmQvY3ZkcHJldmlldy97e2l0ZW0uaWR9fSI+Jm5ic3A7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKm5nSWY9InJlYWRPbmx5IiBocmVmPSJ7e0FQSV9IT1NUfX0vZXhwb3J0Y3ZkL2N2ZHByZXZpZXcve3tpdGVtLmlkfX0iPlZpZXc8L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9Int7QVBJX0hPU1R9fS9leHBvcnRjdmQvY3ZkcHJldmlldy97e2l0ZW0uaWR9fSI+VmlldzwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxhICpuZ0lmPSJyZWFkT25seSIgaHJlZj0ie3tBUElfSE9TVH19L2V4cG9ydGN2ZC9jdmRwcmV2aWV3L3t7aXRlbS5pZH19Ij57e2l0ZW0/LnRpdGxlfX08L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgKm5nSWY9InJlYWRPbmx5IiBocmVmPSJ7e0FQSV9IT1NUfX0vZXhwb3J0Y3ZkL2N2ZHByZXZpZXcve3tpdGVtLmlkfX0iPnt7aXRlbT8udGl0bGV9fTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9Int7QVBJX0hPU1R9fS9leHBvcnRjdmQvY3ZkcHJldmlldy97e2l0ZW0uaWR9fSI+Jm5ic3A7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzNfYXV0b18yMDIwMDIxOV8xNTUzJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9Int7QVBJX0hPU1R9fS9leHBvcnRjdmQvY3ZkcHJldmlldy97e2l0ZW0uaWR9fSI+VmlldzwvYT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1784,7 +1793,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzNfYXV0b18yMDIwMDIxOV8xNTUzJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgKm5nSWY9InJlYWRPbmx5IiBocmVmPSJ7e0FQSV9IT1NUfX0vZXhwb3J0Y3ZkL2N2ZHByZXZpZXcve3tpdGVtLmlkfX0iPnt7aXRlbT8udGl0bGV9fTwvYT4K</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1797,9 +1806,8 @@ WHERE `type` = 0</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="4">
-        <text>Note that if you need to change the returned
-        items you are changing the history and not the CVD</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzNfYXV0b18yMDIwMDIxOV8xNTUzJyksCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
