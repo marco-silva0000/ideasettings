@@ -113,20 +113,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1588788656130" />
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1588758762988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588786135226">
+      <file name="/console" timestamp="1588788528461">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1588788452991">
         <mark key="'" line="93" column="71" />
         <mark key="[" line="94" column="16" />
         <mark key="]" line="94" column="18" />
         <mark key="^" line="94" column="18" />
         <mark key="." line="94" column="17" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvdversion" timestamp="1588581480500">
+      <file name="/TRIMSserver_historicalcvd [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1588670422441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_historicalcvd [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1588670422441">
+      <file name="/a.sql" timestamp="1588788742756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Django Console" timestamp="1588758209939">
@@ -138,13 +142,13 @@
       <file name="/dummy.sql" timestamp="1588758835535">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad04cce0-8c71-47d0-a195-2a4e54967185/console.sql" timestamp="1588788663692">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1588758763003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588325343688">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/TRIMSserver_cvdversion [trims@bdsr-dev-trims-db01.dc1.lan]" timestamp="1588581480490">
+      <file name="/Dummy.txt" timestamp="1588788742765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1588596342965">
@@ -172,16 +176,8 @@
       <file name="/console_2" timestamp="1588758976159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_cvdversion [trims@localhost]" timestamp="1588581480499">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/poetry.lock" timestamp="1588596966374">
         <mark key="'" line="1005" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/client/src/app/cvd/cvd-list.component.html" timestamp="1588324926261">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="210" column="72" />
-        <mark key="." line="209" column="0" />
       </file>
     </filemarks>
     <jumps>
