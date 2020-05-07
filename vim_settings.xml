@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>xml</entry>
         <entry>REND</entry>
         <entry encoding="base64">XDxDVkRGaWx0ZXJcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>cairo</entry>
         <entry>matched</entry>
         <entry>kbcom</entry>
+        <entry>cvd</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -119,7 +119,7 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1588758762988">
+      <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1588855065027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1588847969555">
@@ -132,8 +132,8 @@
         <mark key="^" line="94" column="18" />
         <mark key="." line="94" column="17" />
       </file>
-      <file name="/TRIMSserver_historicalcvd [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1588670422441">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/dashboard.py" timestamp="1588855613710">
+        <mark key="'" line="47" column="43" />
       </file>
       <file name="/a.sql" timestamp="1588841015377">
         <mark key="[" line="0" column="0" />
@@ -144,13 +144,13 @@
       <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1588848840720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1588848841124">
+      <file name="/dummy.sql" timestamp="1588855236258">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad04cce0-8c71-47d0-a195-2a4e54967185/console.sql" timestamp="1588788663692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1588848840730">
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1588855065043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588841015384">
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="55" column="7" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="292" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="1014" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -290,6 +289,7 @@
       <jump line="197" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="196" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="193" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="47" column="43" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/dashboard.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1433,7 +1433,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>kbcom</text>
+        <text>cvd</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1840,9 +1840,9 @@ SELECT setval('auth_permission_id_seq', (SELECT MAX(id) FROM auth_permission));<
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>kbcom</last-search>
+      <last-search>cvd</last-search>
       <last-offset />
-      <last-pattern>kbcom</last-pattern>
+      <last-pattern>cvd</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
