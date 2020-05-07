@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>all_sta</entry>
-        <entry encoding="base64">XDxmYWtlXD4=</entry>
         <entry>print</entry>
         <entry>xml</entry>
         <entry>REND</entry>
@@ -25,6 +23,8 @@
         <entry>weas</entry>
         <entry encoding="base64">XDxIVE1MXD4=</entry>
         <entry>cairo</entry>
+        <entry>matched</entry>
+        <entry>kbcom</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -151,8 +151,8 @@
       <file name="/Dummy.txt" timestamp="1588788742765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1588596342965">
-        <mark key="'" line="316" column="28" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1588839852412">
+        <mark key="'" line="193" column="36" />
       </file>
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1588670422615">
         <mark key="[" line="0" column="0" />
@@ -181,10 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
-      <jump line="29" column="49" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
-      <jump line="46" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="8" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="55" column="7" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_cvd.py" />
       <jump line="292" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
@@ -281,6 +277,10 @@
       <jump line="104" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="93" column="71" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="502" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="334" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="197" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="196" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="193" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1424,7 +1424,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>cairo</text>
+        <text>kbcom</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1818,9 +1818,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cairo</last-search>
+      <last-search>kbcom</last-search>
       <last-offset />
-      <last-pattern>cairo</last-pattern>
+      <last-pattern>kbcom</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
