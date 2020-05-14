@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDVkRIaXN0b3J5SXRlbVw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJzXD4=</entry>
         <entry>Hist</entry>
         <entry encoding="base64">XDxIdHRwNDA0XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>path</entry>
         <entry encoding="base64">IHBhdGg=</entry>
         <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
+        <entry>scrapedvuln</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -1416,7 +1416,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaXN0b3J5XD4=</text>
+        <text>scrapedvuln</text>
       </register>
       <register name="o" type="4">
         <keys>
