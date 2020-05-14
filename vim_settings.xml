@@ -116,6 +116,9 @@
       <file name="/Dummy.txt" timestamp="1589443141423">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1589446947229">
+        <mark key="'" line="210" column="35" />
+      </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1589443130034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,6 +147,9 @@
         <mark key="." line="1105" column="0" />
         <mark key="^" line="1108" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1589446949623">
+        <mark key="'" line="57" column="46" />
+      </file>
       <file name="/a.sql" timestamp="1589443141383">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,10 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="840" column="46" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="409" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="370" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="61" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="20" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="688" column="44" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="443" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -267,6 +269,10 @@
       <jump line="804" column="25" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="793" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="803" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="800" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="200" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="210" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="57" column="46" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1799,9 +1805,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoaXN0b3J5XD4=</last-search>
+      <last-search>scrapedvuln</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaXN0b3J5XD4=</last-pattern>
+      <last-pattern>scrapedvuln</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
