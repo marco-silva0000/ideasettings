@@ -1,5 +1,5 @@
 <toolSet name="deployments">
-  <tool name="Pegasus(linode1)" description="linode1" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="30ca8734-5d9f-475e-95c4-491415584fa6">
+  <tool name="Pegasus(linode1)" description="linode1" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG">
     <exec>
       <option name="COMMAND" />
       <option name="PARAMETERS" />
