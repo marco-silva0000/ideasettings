@@ -134,11 +134,11 @@
         <mark key="." line="8" column="82" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1590074927868">
-        <mark key="'" line="1135" column="16" />
-        <mark key="[" line="1070" column="0" />
-        <mark key="]" line="1070" column="0" />
-        <mark key="^" line="1066" column="43" />
-        <mark key="." line="1070" column="0" />
+        <mark key="'" line="1137" column="16" />
+        <mark key="[" line="1072" column="0" />
+        <mark key="]" line="1072" column="0" />
+        <mark key="^" line="1068" column="43" />
+        <mark key="." line="1072" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1589446949623">
         <mark key="'" line="57" column="46" />
@@ -158,7 +158,6 @@
       <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1589295656224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/shortcuts.py" timestamp="1590074798972" />
       <file name="/TRIMSserver_historicalcvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1590069585469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1811,7 +1810,7 @@ WHERE `type` = 0</text>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
