@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>statuss</entry>
         <entry>status</entry>
         <entry>assign</entry>
         <entry>weas</entry>
@@ -25,6 +24,7 @@
         <entry>request\.</entry>
         <entry>external</entry>
         <entry>order</entry>
+        <entry>changes</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
@@ -121,29 +121,27 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/viewsets.py" timestamp="1590071521287">
         <mark key="'" line="219" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1590754521097">
+      <file name="/Python Console" timestamp="1591100151392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1590749425496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1589443130034">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591100595094">
+        <mark key="[" line="351" column="69" />
+        <mark key="]" line="351" column="69" />
+        <mark key="." line="351" column="69" />
+        <mark key="^" line="337" column="74" />
       </file>
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1590069585545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1590751160260">
         <mark key="'" line="104" column="16" />
-        <mark key="[" line="1079" column="44" />
-        <mark key="]" line="1080" column="43" />
-        <mark key="^" line="1080" column="43" />
-        <mark key="." line="1080" column="42" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1589446949623">
         <mark key="'" line="57" column="46" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_filters/rest_framework/backends.py" timestamp="1590751912053" />
       <file name="/" timestamp="1590069701806">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,10 +157,12 @@
       <file name="/foo.bar" timestamp="1590069585561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1590071774710">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591100191940">
+        <mark key="'" line="592" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1591100275247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/filters.py" timestamp="1590752169560" />
       <file name="/TRIMSserver_historicalcvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1590069585469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -177,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="970" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1100" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1108" column="45" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1114" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -277,6 +276,7 @@
       <jump line="783" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="649" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="622" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
+      <jump line="592" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1314,7 +1314,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFRSSU1TLTI0Mg==</text>
+        <text>Summary</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1396,7 +1396,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRSSU1TLTI0Mg==</text>
+        <text>Summary</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1420,7 +1420,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>changes</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1430,7 +1430,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>filtered_queryset</text>
+        <text encoding="base64">dmVyYm9zZV9uYW1lPSJTdW1tYXJ5Iiwg</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1809,9 +1809,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>order</last-search>
+      <last-search>changes</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>changes</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
