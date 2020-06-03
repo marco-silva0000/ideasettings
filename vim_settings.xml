@@ -136,11 +136,12 @@
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1590069585545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591188584985">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591188899873">
         <mark key="'" line="598" column="25" />
-        <mark key="[" line="704" column="45" />
-        <mark key="]" line="704" column="45" />
-        <mark key="." line="704" column="45" />
+        <mark key="[" line="1182" column="17" />
+        <mark key="]" line="1181" column="29" />
+        <mark key="." line="1181" column="29" />
+        <mark key="^" line="975" column="38" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1589446949623">
         <mark key="'" line="57" column="46" />
@@ -1325,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IFRPRE8gY2hlY2sgd2h5IGNyZWF0ZWQgMiBub3Rlcw==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1407,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IFRPRE8gY2hlY2sgd2h5IGNyZWF0ZWQgMiBub3Rlcw==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1447,7 +1448,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENWREhpc3RvcnlJdGVtLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1464,19 +1465,19 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgIENWREhpc3RvcnlJdGVtLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENWREhpc3RvcnlJdGVtLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQ1ZESGlzdG9yeUl0ZW0obW9kZWxzLk1vZGVsKToKICAgIGlkID0gbW9kZWxzLlVVSURGaWVsZChwcmltYXJ5X2tleT1UcnVlLCBlZGl0YWJsZT1GYWxzZSwgZGVmYXVsdD11dWlkLnV1aWQ0KQogICAgY3ZkX2lkID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICB0aXRsZSA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgaGlzdG9yeV9pZCA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgdmVyc2lvbiA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgaGlzdG9yeV9kYXRlID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBlZGl0ZWRfYnkgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIG93bmVkX2J5ID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBzdGF0dXMgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIHByZXZpb3VzX3N0YXR1cyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgc3ViX3N0YXR1cyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgcHJldmlvdXNfc3ViX3N0YXR1cyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgY2hhbmdlcyA9IEpTT05GaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtYW5hZ2VkID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZmlsdGVyX2JhY2tlbmRzID0gKGZpbHRlcnMuRGphbmdvRmlsdGVyQmFja2VuZCxmaWx0ZXJzLk9yZGVyaW5nRmlsdGVyLGZpbHRlcnMuU2VhcmNoRmlsdGVyKQogICAgZmlsdGVyX2NsYXNzID0gVnVsbkZpbHRlcgo=</text>
+        <text encoding="base64">Y2xhc3MgQ1ZESGlzdG9yeUl0ZW0obW9kZWxzLk1vZGVsKToKICAgIGlkID0gbW9kZWxzLlVVSURGaWVsZChwcmltYXJ5X2tleT1UcnVlLCBlZGl0YWJsZT1GYWxzZSwgZGVmYXVsdD11dWlkLnV1aWQ0KQogICAgY3ZkX2lkID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICB0aXRsZSA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgaGlzdG9yeV9pZCA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgdmVyc2lvbiA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgaGlzdG9yeV9kYXRlID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBlZGl0ZWRfYnkgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIG93bmVkX2J5ID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBzdGF0dXMgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIHByZXZpb3VzX3N0YXR1cyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgc3ViX3N0YXR1cyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgcHJldmlvdXNfc3ViX3N0YXR1cyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgY2hhbmdlcyA9IEpTT05GaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtYW5hZ2VkID0gRmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b19iZV91cGRhdGVkID0gaGlzdG9yeV9vYmouaW5zdGFuY2UKICAgICAgICB0b19iZV91cGRhdGVkLnNhdmUoZm9yY2VfdXBkYXRlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICMgZmlsdGVyX2JhY2tlbmRzID0gKGZpbHRlcnMuRGphbmdvRmlsdGVyQmFja2VuZCxmaWx0ZXJzLk9yZGVyaW5nRmlsdGVyLGZpbHRlcnMuU2VhcmNoRmlsdGVyKQogICAgZmlsdGVyX2NsYXNzID0gVnVsbkZpbHRlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1791,7 +1792,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b19iZV91cGRhdGVkID0gaGlzdG9yeV9vYmouaW5zdGFuY2UKICAgICAgICB0b19iZV91cGRhdGVkLnNhdmUoZm9yY2VfdXBkYXRlPVRydWUpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1805,7 +1806,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrd2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
