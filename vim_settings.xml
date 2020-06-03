@@ -127,6 +127,11 @@
       <file name="/fragment.py" timestamp="1590749425496">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1591194906416">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591188500327">
         <mark key="'" line="389" column="4" />
         <mark key="[" line="248" column="30" />
@@ -160,9 +165,6 @@
         <mark key="^" line="620" column="15" />
         <mark key="." line="806" column="18" />
       </file>
-      <file name="/a.sql" timestamp="1589443141383">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1590069585561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,13 +180,11 @@
       <file name="/TRIMSserver_historicalcvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1590069585469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0339_auto_20200603_1434.py" timestamp="1591194890380" />
       <file name="/dummy.sql" timestamp="1589978946360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1590069585531">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1589443130039">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -1326,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFRPRE8gY2hlY2sgd2h5IGNyZWF0ZWQgMiBub3Rlcw==</text>
+        <text>20200603_1434</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRPRE8gY2hlY2sgd2h5IGNyZWF0ZWQgMiBub3Rlcw==</text>
+        <text>20200603_1434</text>
       </register>
       <register name="m" type="4">
         <keys>
