@@ -16,7 +16,6 @@
         <entry>related</entry>
         <entry>put</entry>
         <entry>stashed</entry>
-        <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</entry>
         <entry encoding="base64">XDx3YXNfZXZlcl9yZWxlYXNlZFw+</entry>
         <entry>Prima</entry>
         <entry>CWE</entry>
@@ -25,6 +24,7 @@
         <entry>CVD</entry>
         <entry encoding="base64">XDxDVkRcPg==</entry>
         <entry encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</entry>
+        <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
@@ -137,12 +137,20 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591262244677" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591262232464">
-        <mark key="[" line="420" column="0" />
-        <mark key="]" line="420" column="0" />
-        <mark key="." line="420" column="0" />
-        <mark key="^" line="421" column="52" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591292300171">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1591292339062">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591292082103">
+        <mark key="'" line="919" column="35" />
+        <mark key="[" line="857" column="0" />
+        <mark key="]" line="857" column="0" />
+        <mark key="." line="857" column="0" />
+        <mark key="^" line="855" column="51" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1591196682248">
         <mark key="[" line="31" column="0" />
@@ -157,14 +165,14 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591197657553">
+      <file name="/foo.bar" timestamp="1591292339076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591262379980">
-        <mark key="'" line="271" column="15" />
-        <mark key="[" line="485" column="0" />
-        <mark key="]" line="485" column="0" />
-        <mark key="." line="485" column="0" />
+        <mark key="'" line="272" column="15" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1591195868821">
         <mark key="[" line="102" column="27" />
@@ -173,16 +181,17 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1591261370700">
         <mark key="'" line="338" column="18" />
       </file>
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1591197657460">
+      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1591292126255">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1591197657493">
+      <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1591292339048">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1591292126295">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="536" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="1032" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1033" column="57" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1068" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1042" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -281,6 +290,8 @@
       <jump line="249" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="486" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
       <jump line="271" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
+      <jump line="859" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="922" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1317,8 +1328,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>TRIMS-213: Ignore stashed_release_fields if CVD haven't been released</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1400,7 +1411,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1424,7 +1435,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</text>
+        <text encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1433,14 +1444,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjd2VzID0gQ1dFLm9iamVjdHMuZmlsdGVyKGlkX19pbj1jdmQuYWxsX2N3ZSkK</text>
+      <register name="0" type="4">
+        <text>before_update_cvd.was_ever_released</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text>TRIMS-213: Ignore stashed_release_fields if CVD haven't been released</text>
+        <text>null</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1454,22 +1465,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfQ1dFTnVtYmVycyhzZWxmLCBvYmopOgogICAgICAgIHByaW50KG9iai5hbGxfY3dlKQogICAgICAgIHJldHVybiAiLCIuam9pbihzdHIoeCkgZm9yIHggaW4gb2JqLmFsbF9jd2UpCg==</text>
+        <text>{}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0bXBfQ1dFX2xpc3QgPSBjdmQuQ1dFX2xpc3QgaWYgY3ZkLkNXRV9saXN0ICE9IE5vbmUgZWxzZSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gb2JqLmFsbF9jd2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYmVmb3JlX3VwZGF0ZV9jdmQud2FzX2V2ZXJfcmVsZWFzZWQ6CiAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9maWVsZHNfbGlzdCA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvYmouQ1dFX3ByaW1hcnkgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuICIiCiAgICAgICAgZGF0YSA9IFtvYmouQ1dFX3ByaW1hcnldICMgS0JERVZTRUMtMTM5NQogICAgICAgIGlmIG9iai5DV0VfbGlzdCBpcyBub3QgTm9uZToKICAgICAgICAgICAgZGF0YSArPSBvYmouQ1dFX2xpc3QK</text>
+        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0bXBfY3dlX2xpc3QgPSBjdmQuYWxsX2N3ZQo=</text>
+        <text>TRIMS-213: Ignore stashed_release_fields if CVD haven't been released</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1784,7 +1795,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIElmIENXRSBsaXN0IGluIFZ1bG4gaXMgZW1wdHkgdGhlIE5vbmUgZ2l2ZXMgYW4gZXJyb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1798,7 +1809,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRlcm5hcnkgb3BlcmF0b3IgdXNlZCB0byBzZXQgYW4gZW1wdHkgbGlzdCBpbnN0ZWFkCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfQ1dFTnVtYmVycyhzZWxmLCBvYmopOgogICAgICAgIHByaW50KG9iai5hbGxfY3dlKQogICAgICAgIHJldHVybiAiLCIuam9pbihzdHIoeCkgZm9yIHggaW4gb2JqLmFsbF9jd2UpCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -1813,9 +1824,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</last-search>
+      <last-search encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
