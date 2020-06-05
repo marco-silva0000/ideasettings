@@ -145,13 +145,6 @@
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1591292339062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591292082103">
-        <mark key="'" line="919" column="35" />
-        <mark key="[" line="857" column="0" />
-        <mark key="]" line="857" column="0" />
-        <mark key="." line="857" column="0" />
-        <mark key="^" line="855" column="51" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1591196682248">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -169,10 +162,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591262379980">
-        <mark key="'" line="272" column="15" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="486" column="0" />
-        <mark key="." line="486" column="0" />
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="0" />
+        <mark key="." line="493" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1591195868821">
         <mark key="[" line="102" column="27" />
@@ -1328,8 +1320,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCiAgICAgICAgaWYgYmVmb3JlX3VwZGF0ZV9jdmQud2FzX2V2ZXJfcmVsZWFzZWQgYW5kIGxlbihzdGFzaGVkX3JlbGVhc2VfZmllbGRzX3NldCkgPiAwOgogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3QgPSBsaXN0KHN0YXNoZWRfcmVsZWFzZV9maWVsZHNfc2V0KQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1444,8 +1436,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>before_update_cvd.was_ever_released</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCiAgICAgICAgaWYgYmVmb3JlX3VwZGF0ZV9jdmQud2FzX2V2ZXJfcmVsZWFzZWQgYW5kIGxlbihzdGFzaGVkX3JlbGVhc2VfZmllbGRzX3NldCkgPiAwOgogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3QgPSBsaXN0KHN0YXNoZWRfcmVsZWFzZV9maWVsZHNfc2V0KQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
