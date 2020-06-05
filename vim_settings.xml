@@ -113,10 +113,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591262590011">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591353751410">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="69" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1591196722218">
         <mark key="[" line="830" column="0" />
@@ -145,6 +145,11 @@
       <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1591292339062">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591353850617">
+        <mark key="[" line="857" column="0" />
+        <mark key="]" line="857" column="0" />
+        <mark key="." line="857" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1591196682248">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -162,9 +167,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591262379980">
-        <mark key="[" line="493" column="0" />
-        <mark key="]" line="493" column="0" />
-        <mark key="." line="493" column="0" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1591195868821">
         <mark key="[" line="102" column="27" />
@@ -1321,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCiAgICAgICAgaWYgYmVmb3JlX3VwZGF0ZV9jdmQud2FzX2V2ZXJfcmVsZWFzZWQgYW5kIGxlbihzdGFzaGVkX3JlbGVhc2VfZmllbGRzX3NldCkgPiAwOgogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3QgPSBsaXN0KHN0YXNoZWRfcmVsZWFzZV9maWVsZHNfc2V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1403,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>r</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1443,7 +1448,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text>null</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1457,22 +1462,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text>{}</text>
+        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCiAgICAgICAgaWYgbm90IGJlZm9yZV91cGRhdGVfY3ZkLndhc19ldmVyX3JlbGVhc2VkOgogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3QgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text>{}</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">VFJJTVMtMjIzOiBGaXggQ1ZEUHJldmlldyB0byB1c2UgQ1ZELmFsbF9jd2UgdG8gaW5jbHVkZSBDV0VfcHJpbWFyeQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYmVmb3JlX3VwZGF0ZV9jdmQud2FzX2V2ZXJfcmVsZWFzZWQ6CiAgICAgICAgICAgIHN0YXNoZWRfcmVsZWFzZV9maWVsZHNfbGlzdCA9IFtdCg==</text>
+        <text>Remove unused get_CWENumbers on CVDXMLSerializeTRIMS-213: Ignore stashed_release_fields if CVD haven't been releasedr</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCg==</text>
+        <text>null</text>
       </register>
       <register name="7" type="2">
-        <text>TRIMS-213: Ignore stashed_release_fields if CVD haven't been released</text>
+        <text>{}</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1787,7 +1792,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{}</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1801,7 +1806,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfQ1dFTnVtYmVycyhzZWxmLCBvYmopOgogICAgICAgIHByaW50KG9iai5hbGxfY3dlKQogICAgICAgIHJldHVybiAiLCIuam9pbihzdHIoeCkgZm9yIHggaW4gb2JqLmFsbF9jd2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
