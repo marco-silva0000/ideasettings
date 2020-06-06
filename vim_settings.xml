@@ -155,11 +155,6 @@
       <file name="/" timestamp="1591188646532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" timestamp="1591187919700">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1591292339076">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,12 +187,16 @@
       <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1591292339048">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1591481402219">
+        <mark key="'" line="166" column="5" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="376" column="34" />
+      </file>
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1591292126295">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1033" column="57" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1068" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1042" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1036" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -297,6 +296,7 @@
       <jump line="271" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
       <jump line="859" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="922" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="166" column="5" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1333,8 +1333,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>shaddy_joe</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhjZXB0IE1vZHVsZU5vdEZvdW5kRXJyb3IgYXMgZToKICAgIHByaW50KCJObyBkZXYgc2V0dGluZ3MgZm91bmQiKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1450,7 +1450,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRSSU1TLTIxMyBJZ25vcmUgc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkcyBpZiBDVkQgaGF2ZW4ndCBiZWVuIHJlbGVhc2VkCiAgICAgICAgaWYgYmVmb3JlX3VwZGF0ZV9jdmQud2FzX2V2ZXJfcmVsZWFzZWQgYW5kIGxlbihzdGFzaGVkX3JlbGVhc2VfZmllbGRzX3NldCkgPiAwOgogICAgICAgICAgICBzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3QgPSBsaXN0KHN0YXNoZWRfcmVsZWFzZV9maWVsZHNfc2V0KQo=</text>
+        <text encoding="base64">ZXhjZXB0IE1vZHVsZU5vdEZvdW5kRXJyb3IgYXMgZToKICAgIHByaW50KCJObyBkZXYgc2V0dGluZ3MgZm91bmQiKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
