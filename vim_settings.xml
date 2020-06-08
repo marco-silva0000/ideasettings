@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591642900184">
+      <file name="/Python Console" timestamp="1591645381212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591642058274">
@@ -154,12 +154,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591643955820">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591646037733">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="65" column="149" />
-        <mark key="]" line="65" column="149" />
-        <mark key="^" line="65" column="150" />
-        <mark key="." line="65" column="149" />
+        <mark key="[" line="74" column="65" />
+        <mark key="]" line="75" column="32" />
+        <mark key="^" line="75" column="32" />
+        <mark key="." line="75" column="31" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" timestamp="1591619373805">
         <mark key="'" line="51" column="37" />
@@ -1309,8 +1309,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZwX2NoYW5nZV9uZXcK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1392,7 +1392,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>match_vendor_product</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1426,13 +1426,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>vendor_product_version_list</text>
+        <text>match_vendor_product_maker</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB2YWx1ZSAhPSBjaGFuZ2UubmV3WzBdW2tleV06CiAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5nZXMuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmaWVsZCI6IGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAib2xkX3ZhbHVlIjogdmFsdWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5ld192YWx1ZSI6IGNoYW5nZS5uZXdbMF1ba2V5XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZwX2NoYW5nZV9uZXcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1447,22 +1447,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5ID0gdnBfY2hhbmdlX25ld1sndmVuZG9yJ10gKyAnOjonICsgdnBfY2hhbmdlX25ld1sncHJvZHVjdCddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihjaGFuZ2Uub2xkKSA9PSAxOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ29kZVNpZy52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIExpYnJhcnkgcmV0dXJucyBvYmplY3RzIHJlcHJlc2VudGVkIGluIEpTT04gaW5zaWRlIGxpc3RzLCBidXQgd2Ugb25seSBldmVyIHdhbnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHRoZSBmaXJzdCBlbGVtZW50IG9mIHRoYXQgbGlzdCBpbiBBbmd1bGFyLCBzbyBqdXN0IHJldHVybiB0aGF0IHRvIG1ha2UgdGhpbmdzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBjbGVhcmVyIHdoZW4gd2UgY29tZSB0byBwYXJzZSBpdCBvdmVyIHRoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbWF0Y2hfdmVuZG9yX3Byb2R1Y3QodGhpcywgdGhhdCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoa2V5KQogICAgICAgICAgICAgICAgICAgICAgICBwcmludCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoX3ZlbmRvcl9wcm9kdWN0ID0gbGFtYmRhIHg6IHhbJ3ZlbmRvciddID09IHZwX2NoYW5nZV9uZXdbJ3ZlbmRvciddIGFuZCB4Wydwcm9kdWN0J10gPT0gdnBfY2hhbmdlX25ld1sncHJvZHVjdCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5vbGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1776,8 +1776,9 @@ WHERE `type` = 0</text>
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ29kZVNpZy5fbWV0YS52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QubmFtZSkK</text>
+      <register name="8" type="4">
+        <text># new version added
+                        pass</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1791,7 +1792,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
