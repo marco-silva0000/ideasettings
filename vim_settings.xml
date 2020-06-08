@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZnJvbV9kZWxldGlvblw+</entry>
         <entry>amx_</entry>
         <entry>max_</entry>
         <entry>History</entry>
@@ -25,6 +24,7 @@
         <entry>cvss</entry>
         <entry>cwes</entry>
         <entry>Remed</entry>
+        <entry encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /</entry>
@@ -113,16 +113,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1591197202001">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591615177553">
         <mark key="[" line="323" column="0" />
         <mark key="]" line="323" column="11" />
         <mark key="^" line="323" column="11" />
         <mark key="." line="323" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591619367987">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/cvd.py" timestamp="1591611701160" />
       <file name="/Django Console" timestamp="1591611655056">
@@ -153,22 +153,23 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591292300171">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/trims.public.TRIMSserver_historicalcvd" timestamp="1591292339062">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591617267894">
-        <mark key="'" line="752" column="6" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591619401433">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="21" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/api/test_cvd_api.py" timestamp="1591607892386">
         <mark key="[" line="250" column="67" />
         <mark key="]" line="251" column="67" />
         <mark key="." line="251" column="66" />
         <mark key="^" line="251" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" timestamp="1591619373805">
+        <mark key="'" line="51" column="37" />
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/enums.py" timestamp="1591610304513">
         <mark key="'" line="4" column="0" />
@@ -183,19 +184,8 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591617260249">
         <mark key="'" line="879" column="53" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/cache/backends/memcached.py" timestamp="1591364574538">
-        <mark key="[" line="175" column="8" />
-        <mark key="]" line="175" column="19" />
-        <mark key="." line="175" column="18" />
-        <mark key="^" line="175" column="19" />
-      </file>
-      <file name="/TRIMSserver_historicalcvd [trims@localhost]" timestamp="1591292339048">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1039" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="74" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="104" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="807" column="25" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="809" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
@@ -294,6 +284,8 @@
       <jump line="752" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="128" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="126" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="51" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1330,8 +1322,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ClJlbmFtZSBTaWduYXR1cmUgYW5kIENTUiB0aXRsZSBvbiBDVkRQcmV2aWV3</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1413,7 +1405,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlkPSJyZW1lZGlhdGlvbi1zZWN0aW9uIg==</text>
+        <text>None</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1437,7 +1429,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Remed</text>
+        <text encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1453,7 +1445,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ClJlbmFtZSBTaWduYXR1cmUgYW5kIENTUiB0aXRsZSBvbiBDVkRQcmV2aWV3</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1468,22 +1460,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text>TRIMS-199: move CVD STASHED_FIELDS to enums.py</text>
+        <text encoding="base64">Y2xhc3MgQ29kZVNpZ0hpc3RvcnlJdGVtKG1vZGVscy5Nb2RlbCk6CiAgICBpZCA9IG1vZGVscy5VVUlERmllbGQocHJpbWFyeV9rZXk9VHJ1ZSwgZWRpdGFibGU9RmFsc2UsIGRlZmF1bHQ9dXVpZC51dWlkNCkKICAgIGhpc3RvcnlfZGF0ZSA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgaGlzdG9yeV9pZCA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgaGVhZGluZyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgdmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0ID0gSlNPTkZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIHZ1bG5lcmFibGVfc2lnbmF0dXJlX2xpc3QgPSBKU09ORmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgYmRzYV9pZCA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgZWRpdGVkX2J5ID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBvd25lZF9ieSA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgc3RhdHVzID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBwcmV2aW91c19zdGF0dXMgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIHN1Yl9zdGF0dXMgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIHByZXZpb3VzX3N1Yl9zdGF0dXMgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIGNoYW5nZXMgPSBKU09ORmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbWFuYWdlZCA9IEZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcmlkID0gJ3JlbWVkaWF0aW9uLXNlY3Rpb24nCg==</text>
+        <text encoding="base64">ClJlbmFtZSBTaWduYXR1cmUgYW5kIENTUiB0aXRsZSBvbiBDVkRQcmV2aWV3</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2Uuc2VsZWN0Tm9kZShkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycpKTsK</text>
+        <text>TRIMS-199: move CVD STASHED_FIELDS to enums.py</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcmlkID0gJ3JlbWVkaWF0aW9uLXNlY3Rpb24nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgcmFuZ2Uuc2VsZWN0Tm9kZShkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2Uuc2VsZWN0Tm9kZShkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycpKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1798,7 +1790,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmFuZ2Uuc2VsZWN0Tm9kZShkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycpKTsK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1812,7 +1804,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIENWRChWdWxuU3RhdHVzLCBDV0VDQVBFQ0NWU1MsIENWREJhc2UpOgo=</text>
+        <text encoding="base64">ICAgICAgcmFuZ2Uuc2VsZWN0Tm9kZShkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -1827,9 +1819,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Remed</last-search>
+      <last-search encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern>Remed</last-pattern>
+      <last-pattern encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
