@@ -124,10 +124,10 @@
         <mark key="]" line="116" column="19" />
         <mark key="." line="116" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1591714756276">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/a.dummy" timestamp="1591715813909">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591693654996">
         <mark key="[" line="87" column="0" />
@@ -142,11 +142,11 @@
         <mark key="'" line="116" column="6" />
         <mark key="[" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591714326833">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="32" column="67" />
-        <mark key="^" line="32" column="67" />
-        <mark key="." line="32" column="66" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591715804617">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="29" column="47" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0339_historicalcodesig.py" timestamp="1591630504986">
@@ -154,18 +154,18 @@
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591714853894">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1591715829884">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591714213178">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591715601277">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="37" />
-        <mark key="^" line="57" column="58" />
-        <mark key="." line="54" column="28" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="63" column="79" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1591696769778">
         <mark key="[" line="440" column="0" />
@@ -1326,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Fix Verbose Names</text>
+        <text>history-list-internal-table css class on codesig-history.component.html</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>Fix Verbose Names</text>
+        <text>history-list-internal-table css class on codesig-history.component.html</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1442,15 +1442,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>field_name</text>
+        <text encoding="base64">dmVyYm9zZV9uYW1lPSJWdWxuZXJhYmxlIENvZGUgTGlzdCIsIA==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>Updates codesig-history.component.html with new fields and requirements
-
-adds verbose names to CodeSig model</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkX25hbWUgPSBmaWVsZC5fdmVyYm9zZV9uYW1lIGlmIGZpZWxkLl92ZXJib3NlX25hbWUgZWxzZSBmaWVsZC52ZXJib3NlX25hbWUudGl0bGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1464,23 +1462,25 @@ adds verbose names to CodeSig model</text>
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjaGFuZ2UuZmllbGQgPT0gQ29kZVNpZy52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QuX19kaWN0X19bJ2ZpZWxkJ10ubmFtZToKICAgICAgICAgICAgICAgIHBhc3MgICMgQnlwYXNzIENoYW5nZXMgZm9yIHRoaXMgZmllbGQKICAgICAgICAgICAgICAgICMgdnB2X2NoYW5nZXMgPSB7fQogICAgICAgICAgICAgICAgIyBmb3IgdnBfY2hhbmdlX25ldyBpbiBjaGFuZ2UubmV3OgogICAgICAgICAgICAgICAgIyAgICAgcHJpbnQodnBfY2hhbmdlX25ldykKICAgICAgICAgICAgICAgICMgICAgIGtleSA9IHZwX2NoYW5nZV9uZXdbJ3ZlbmRvciddICsgJzo6JyArIHZwX2NoYW5nZV9uZXdbJ3Byb2R1Y3QnXQogICAgICAgICAgICAgICAgIwogICAgICAgICAgICAgICAgIyAgICAgdnBfY2hhbmdlX29sZCA9IGxpc3QoZmlsdGVyKG1hdGNoX3ZlbmRvcl9wcm9kdWN0X21ha2VyKHZwX2NoYW5nZV9uZXcpLCBjaGFuZ2Uub2xkKSkKICAgICAgICAgICAgICAgICMgICAgIGlmIG5vdCB2cF9jaGFuZ2Vfb2xkOgogICAgICAgICAgICAgICAgIyAgICAgICAgICMgQSBuZXcgVlBWIHdhcyBhZGRlZAogICAgICAgICAgICAgICAgIyAgICAgICAgIHZwdl9jaGFuZ2VzW2tleV0gPSB7InR5cGUiOiAiTkVXX1ZQViJ9CiAgICAgICAgICAgICAgICAjICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyAgICAgICAgIHZwX2NoYW5nZV9vbGQgPSB2cF9jaGFuZ2Vfb2xkWzBdCiAgICAgICAgICAgICAgICAjICAgICAgICAgcHJpbnQodnBfY2hhbmdlX25ldykKICAgICAgICAgICAgICAgICMgICAgICAgICBmb3IgdmVyc2lvbiBpbiB2cF9jaGFuZ2VfbmV3Wyd2ZXJzaW9ucyddOgogICAgICAgICAgICAgICAgIyAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGVsaWYgY2hhbmdlLmZpZWxkID09IENvZGVTaWcudmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0X2JlZm9yZV9iZHNhX2NoYW5nZS5fX2RpY3RfX1snZmllbGQnXS5uYW1lOgogICAgICAgICAgICAgICAgcGFzcyAgIyBCeXBhc3MgQ2hhbmdlcyBmb3IgdGhpcyBmaWVsZAo=</text>
+      <register name="2" type="4">
+        <text>Updates codesig-history.component.html with new fields and requirements
+
+adds verbose names to CodeSig model</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjaGFuZ2UuZmllbGQgPT0gQ29kZVNpZy52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QuX19kaWN0X19bJ2ZpZWxkJ10ubmFtZToKICAgICAgICAgICAgICAgIHBhc3MgICMgQnlwYXNzIENoYW5nZXMgZm9yIHRoaXMgZmllbGQKICAgICAgICAgICAgICAgICMgdnB2X2NoYW5nZXMgPSB7fQogICAgICAgICAgICAgICAgIyBmb3IgdnBfY2hhbmdlX25ldyBpbiBjaGFuZ2UubmV3OgogICAgICAgICAgICAgICAgIyAgICAgcHJpbnQodnBfY2hhbmdlX25ldykKICAgICAgICAgICAgICAgICMgICAgIGtleSA9IHZwX2NoYW5nZV9uZXdbJ3ZlbmRvciddICsgJzo6JyArIHZwX2NoYW5nZV9uZXdbJ3Byb2R1Y3QnXQogICAgICAgICAgICAgICAgIwogICAgICAgICAgICAgICAgIyAgICAgdnBfY2hhbmdlX29sZCA9IGxpc3QoZmlsdGVyKG1hdGNoX3ZlbmRvcl9wcm9kdWN0X21ha2VyKHZwX2NoYW5nZV9uZXcpLCBjaGFuZ2Uub2xkKSkKICAgICAgICAgICAgICAgICMgICAgIGlmIG5vdCB2cF9jaGFuZ2Vfb2xkOgogICAgICAgICAgICAgICAgIyAgICAgICAgICMgQSBuZXcgVlBWIHdhcyBhZGRlZAogICAgICAgICAgICAgICAgIyAgICAgICAgIHZwdl9jaGFuZ2VzW2tleV0gPSB7InR5cGUiOiAiTkVXX1ZQViJ9CiAgICAgICAgICAgICAgICAjICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyAgICAgICAgIHZwX2NoYW5nZV9vbGQgPSB2cF9jaGFuZ2Vfb2xkWzBdCiAgICAgICAgICAgICAgICAjICAgICAgICAgcHJpbnQodnBfY2hhbmdlX25ldykKICAgICAgICAgICAgICAgICMgICAgICAgICBmb3IgdmVyc2lvbiBpbiB2cF9jaGFuZ2VfbmV3Wyd2ZXJzaW9ucyddOgogICAgICAgICAgICAgICAgIyAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGVsaWYgY2hhbmdlLmZpZWxkID09IENvZGVTaWcudmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0X2JlZm9yZV9iZHNhX2NoYW5nZS5fX2RpY3RfX1snZmllbGQnXS5uYW1lOgogICAgICAgICAgICAgICAgcGFzcyAgIyBCeXBhc3MgQ2hhbmdlcyBmb3IgdGhpcyBmaWVsZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3lzdGVtQ2hlY2tFcnJvcihtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3lzdGVtQ2hlY2tFcnJvcihtc2cpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1795,7 +1795,7 @@ adds verbose names to CodeSig model</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1809,7 +1809,7 @@ adds verbose names to CodeSig model</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
