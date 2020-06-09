@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDVkRTZXJpYWxpemVyXD4=</entry>
-        <entry>related</entry>
-        <entry>put</entry>
         <entry>stashed</entry>
         <entry encoding="base64">XDx3YXNfZXZlcl9yZWxlYXNlZFw+</entry>
         <entry>Prima</entry>
@@ -25,6 +22,9 @@
         <entry>Def</entry>
         <entry>writeX</entry>
         <entry>write</entry>
+        <entry>verbose_name</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /</entry>
@@ -134,28 +134,25 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" timestamp="1591713314914">
+        <mark key="'" line="335" column="28" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/simple_history/models.py" timestamp="1591642222831" />
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" timestamp="1591641760738">
         <mark key="'" line="116" column="6" />
         <mark key="[" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591711764843">
-        <mark key="[" line="20" column="63" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591714228480">
+        <mark key="[" line="13" column="35" />
         <mark key="]" line="20" column="86" />
         <mark key="^" line="20" column="86" />
         <mark key="." line="20" column="85" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1591629884612">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0339_historicalcodesig.py" timestamp="1591630504986">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
-      </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1591629884622">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591709090930">
         <mark key="[" line="0" column="11" />
@@ -163,12 +160,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591711891189">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591714213178">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="64" column="64" />
-        <mark key="^" line="64" column="64" />
-        <mark key="." line="64" column="63" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="37" />
+        <mark key="^" line="57" column="58" />
+        <mark key="." line="54" column="28" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1591696769778">
         <mark key="[" line="440" column="0" />
@@ -186,41 +183,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591700126350" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" timestamp="1591713788569">
+        <mark key="'" line="884" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0401_add_codesig_verbose_names.py" timestamp="1591711658326" />
     </filemarks>
     <jumps>
-      <jump line="592" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="85" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="326" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="327" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="374" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="380" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="386" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="400" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="401" column="33" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="402" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="413" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="419" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="425" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="429" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="430" column="33" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="431" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="457" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="465" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="497" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="252" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="391" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="517" column="87" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="81" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="594" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="595" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="598" column="25" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="1289" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="407" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="393" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="444" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="499" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="627" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="631" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1034" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="626" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -289,6 +257,38 @@
       <jump line="269" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="363" column="10" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="491" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="549" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="28" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="83" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="84" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="157" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="189" column="14" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="191" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="192" column="67" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="201" column="63" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="258" column="33" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="332" column="30" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="335" column="28" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="890" column="35" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="1096" column="23" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="1102" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="134" column="23" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="142" column="28" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="143" column="29" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="451" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="476" column="30" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="749" column="49" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="750" column="37" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="752" column="39" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="759" column="38" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="764" column="66" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="769" column="56" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="772" column="44" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="781" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="784" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
+      <jump line="884" column="31" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1326,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>adds missing migration file, frontend formating changes</text>
+        <text>printable_key</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>adds missing migration file, frontend formating changes</text>
+        <text>printable_key</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1432,7 +1432,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>title</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1441,8 +1441,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZpZWxkIjogQ29kZVNpZy5fbWV0YS5nZXRfZmllbGQoZmllbGQpLnZlcmJvc2VfbmFtZSwK</text>
+      <register name="0" type="4">
+        <text>field_name</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1822,9 +1822,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>write</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
