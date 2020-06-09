@@ -134,15 +134,13 @@
         <mark key="'" line="116" column="6" />
         <mark key="[" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591642605354" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1591618299481">
-        <mark key="'" line="126" column="29" />
-        <mark key="[" line="126" column="24" />
-        <mark key="]" line="126" column="24" />
-        <mark key="." line="126" column="24" />
-        <mark key="^" line="189" column="38" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591700250254">
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="86" />
+        <mark key="^" line="20" column="86" />
+        <mark key="." line="20" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
       <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1591629884612">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,12 +158,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591700068604">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591700180519">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="53" column="46" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="64" />
+        <mark key="^" line="64" column="64" />
+        <mark key="." line="64" column="63" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1591696769778">
         <mark key="[" line="440" column="0" />
@@ -188,6 +186,7 @@
       <file name="/foo.bar" timestamp="1591629884632">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591700126350" />
     </filemarks>
     <jumps>
       <jump line="592" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
@@ -1327,7 +1326,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjaGFuZ2UuZmllbGQgPT0gQ29kZVNpZy52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QuX19kaWN0X19bJ2ZpZWxkJ10ubmFtZToKICAgICAgICAgICAgICAgIHBhc3MgICMgQnlwYXNzIENoYW5nZXMgZm9yIHRoaXMgZmllbGQKICAgICAgICAgICAgICAgICMgdnB2X2NoYW5nZXMgPSB7fQogICAgICAgICAgICAgICAgIyBmb3IgdnBfY2hhbmdlX25ldyBpbiBjaGFuZ2UubmV3OgogICAgICAgICAgICAgICAgIyAgICAgcHJpbnQodnBfY2hhbmdlX25ldykKICAgICAgICAgICAgICAgICMgICAgIGtleSA9IHZwX2NoYW5nZV9uZXdbJ3ZlbmRvciddICsgJzo6JyArIHZwX2NoYW5nZV9uZXdbJ3Byb2R1Y3QnXQogICAgICAgICAgICAgICAgIwogICAgICAgICAgICAgICAgIyAgICAgdnBfY2hhbmdlX29sZCA9IGxpc3QoZmlsdGVyKG1hdGNoX3ZlbmRvcl9wcm9kdWN0X21ha2VyKHZwX2NoYW5nZV9uZXcpLCBjaGFuZ2Uub2xkKSkKICAgICAgICAgICAgICAgICMgICAgIGlmIG5vdCB2cF9jaGFuZ2Vfb2xkOgogICAgICAgICAgICAgICAgIyAgICAgICAgICMgQSBuZXcgVlBWIHdhcyBhZGRlZAogICAgICAgICAgICAgICAgIyAgICAgICAgIHZwdl9jaGFuZ2VzW2tleV0gPSB7InR5cGUiOiAiTkVXX1ZQViJ9CiAgICAgICAgICAgICAgICAjICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyAgICAgICAgIHZwX2NoYW5nZV9vbGQgPSB2cF9jaGFuZ2Vfb2xkWzBdCiAgICAgICAgICAgICAgICAjICAgICAgICAgcHJpbnQodnBfY2hhbmdlX25ldykKICAgICAgICAgICAgICAgICMgICAgICAgICBmb3IgdmVyc2lvbiBpbiB2cF9jaGFuZ2VfbmV3Wyd2ZXJzaW9ucyddOgogICAgICAgICAgICAgICAgIyAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGVsaWYgY2hhbmdlLmZpZWxkID09IENvZGVTaWcudmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0X2JlZm9yZV9iZHNhX2NoYW5nZS5fX2RpY3RfX1snZmllbGQnXS5uYW1lOgogICAgICAgICAgICAgICAgcGFzcyAgIyBCeXBhc3MgQ2hhbmdlcyBmb3IgdGhpcyBmaWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZpZWxkIjogQ29kZVNpZy5fbWV0YS5nZXRfZmllbGQoZmllbGQpLnZlcmJvc2VfbmFtZSwK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1409,7 +1408,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>CVD</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1443,7 +1442,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MgICMgQnlwYXNzIENoYW5nZXMgZm9yIHRoaXMgZmllbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZpZWxkIjogQ29kZVNpZy5fbWV0YS5nZXRfZmllbGQoZmllbGQpLnZlcmJvc2VfbmFtZSwK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
