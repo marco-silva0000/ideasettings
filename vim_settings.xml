@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>History</entry>
-        <entry encoding="base64">XDxDVkRIaXN0b3J5SXRlbVNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxDVkRTZXJpYWxpemVyXD4=</entry>
         <entry>related</entry>
         <entry>put</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</entry>
         <entry>DeferedAttr</entry>
         <entry>Def</entry>
+        <entry>writeX</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /</entry>
@@ -113,16 +113,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591645381212">
+      <file name="/Python Console" timestamp="1591693503007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1591642058274">
-        <mark key="[" line="0" column="44" />
+      <file name="/fragment.py" timestamp="1591693318912">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1591630517536">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591693654996">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/simple_history/models.py" timestamp="1591642222831" />
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" timestamp="1591641760738">
@@ -130,6 +135,7 @@
         <mark key="[" line="155" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591642605354" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1591618299481">
         <mark key="'" line="126" column="29" />
         <mark key="[" line="126" column="24" />
@@ -161,6 +167,13 @@
         <mark key="^" line="75" column="32" />
         <mark key="." line="75" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591694000933">
+        <mark key="'" line="491" column="37" />
+        <mark key="[" line="1088" column="11" />
+        <mark key="]" line="1088" column="36" />
+        <mark key="^" line="1088" column="36" />
+        <mark key="." line="1088" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" timestamp="1591619373805">
         <mark key="'" line="51" column="37" />
         <mark key="[" line="51" column="35" />
@@ -173,11 +186,6 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591617260249" />
     </filemarks>
     <jumps>
-      <jump line="808" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
-      <jump line="652" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
-      <jump line="783" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
-      <jump line="649" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
-      <jump line="622" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="592" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
       <jump line="85" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="326" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -273,6 +281,11 @@
       <jump line="155" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" />
       <jump line="116" column="6" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" />
       <jump line="50" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" />
+      <jump line="10" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="268" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="269" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="363" column="10" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="491" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1309,8 +1322,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZwX2NoYW5nZV9uZXcK</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1392,7 +1405,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>match_vendor_product</text>
+        <text>get</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1416,7 +1429,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Def</text>
+        <text>write</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -1426,13 +1439,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>match_vendor_product_maker</text>
+        <text>released_version_items</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZwX2NoYW5nZV9uZXcK</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlZF92ZXJzaW9uX2l0ZW1zID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgnY3JlYXRlZF9hdCcpLmdldF9yZWxlYXNlZF9pdGVtcygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1447,22 +1460,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5ID0gdnBfY2hhbmdlX25ld1sndmVuZG9yJ10gKyAnOjonICsgdnBfY2hhbmdlX25ld1sncHJvZHVjdCddCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfYWxsX3B1Ymxpc2hlZChzZWxmKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbWF0Y2hfdmVuZG9yX3Byb2R1Y3QodGhpcywgdGhhdCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZwX2NoYW5nZV9uZXcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoX3ZlbmRvcl9wcm9kdWN0ID0gbGFtYmRhIHg6IHhbJ3ZlbmRvciddID09IHZwX2NoYW5nZV9uZXdbJ3ZlbmRvciddIGFuZCB4Wydwcm9kdWN0J10gPT0gdnBfY2hhbmdlX25ld1sncHJvZHVjdCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5ID0gdnBfY2hhbmdlX25ld1sndmVuZG9yJ10gKyAnOjonICsgdnBfY2hhbmdlX25ld1sncHJvZHVjdCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1776,9 +1789,8 @@ WHERE `type` = 0</text>
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text># new version added
-                        pass</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1792,7 +1804,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbWF0Y2hfdmVuZG9yX3Byb2R1Y3QodGhpcywgdGhhdCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -1807,9 +1819,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Def</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>Def</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
