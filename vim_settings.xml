@@ -119,10 +119,15 @@
       <file name="/fragment.py" timestamp="1591693318912">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1591630517536">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/projects/trims/client/src/app/codesig/codesig-history.component.html" timestamp="1591708947693">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="19" />
+        <mark key="." line="116" column="20" />
+      </file>
+      <file name="/a.dummy" timestamp="1591709041838">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591693654996">
         <mark key="[" line="87" column="0" />
@@ -152,7 +157,7 @@
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1591629884622">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591632259923">
+      <file name="/Dummy.txt" timestamp="1591709090930">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -1325,8 +1330,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZpZWxkIjogQ29kZVNpZy5fbWV0YS5nZXRfZmllbGQoZmllbGQpLnZlcmJvc2VfbmFtZSwK</text>
+      <register name="&quot;" type="4">
+        <text>adds missing migration file, frontend formating changes</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1408,7 +1413,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>CVD</text>
+        <text>adds missing migration file, frontend formating changes</text>
       </register>
       <register name="m" type="4">
         <keys>
