@@ -160,12 +160,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591696777740">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591696910701">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="77" column="87" />
-        <mark key="." line="80" column="0" />
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="46" />
+        <mark key="^" line="53" column="46" />
+        <mark key="." line="53" column="45" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1591696769778">
         <mark key="[" line="440" column="0" />
@@ -1326,8 +1326,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
+      <register name="&quot;" type="4">
+        <text>new</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1409,7 +1409,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>vendor_product_version_list</text>
+        <text>new</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1443,13 +1443,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjaGFuZ2UuZmllbGQgPT0gQ29kZVNpZy52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QuX19kaWN0X19bJ2ZpZWxkJ10ubmFtZToKICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MgICMgQnlwYXNzIENoYW5nZXMgZm9yIHRoaXMgZmllbGQK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1464,22 +1464,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3lzdGVtQ2hlY2tFcnJvcihtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3lzdGVtQ2hlY2tFcnJvcihtc2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlZF92ZXJzaW9uX2l0ZW1zID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgnY3JlYXRlZF9hdCcpLmdldF9yZWxlYXNlZF9pdGVtcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1794,7 +1794,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlZF92ZXJzaW9uX2l0ZW1zID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgnY3JlYXRlZF9hdCcpLmdldF9yZWxlYXNlZF9pdGVtcygpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1808,7 +1808,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
