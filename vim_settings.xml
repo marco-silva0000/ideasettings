@@ -139,7 +139,7 @@
         <mark key="'" line="116" column="6" />
         <mark key="[" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591700250254">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591711764843">
         <mark key="[" line="20" column="63" />
         <mark key="]" line="20" column="86" />
         <mark key="^" line="20" column="86" />
@@ -163,7 +163,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591700180519">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591711891189">
         <mark key="'" line="50" column="20" />
         <mark key="[" line="64" column="57" />
         <mark key="]" line="64" column="64" />
@@ -182,16 +182,11 @@
         <mark key="^" line="1086" column="36" />
         <mark key="." line="1086" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" timestamp="1591619373805">
-        <mark key="'" line="51" column="37" />
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
-      </file>
       <file name="/foo.bar" timestamp="1591629884632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591700126350" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0401_add_codesig_verbose_names.py" timestamp="1591711658326" />
     </filemarks>
     <jumps>
       <jump line="592" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
