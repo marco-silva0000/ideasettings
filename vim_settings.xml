@@ -40,12 +40,12 @@
         <entry>%s/force_login(user)/force_authenticate(user, fake.sha256())/g</entry>
         <entry>tablast</entry>
         <entry>f</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry>set showmode</entry>
         <entry>422</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591693503007">
+      <file name="/Python Console" timestamp="1591696776084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591693318912">
@@ -160,12 +160,17 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591646037733">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591696777740">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="74" column="65" />
-        <mark key="]" line="75" column="32" />
-        <mark key="^" line="75" column="32" />
-        <mark key="." line="75" column="31" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="77" column="87" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1591696769778">
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="440" column="0" />
+        <mark key="." line="440" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591694000933">
         <mark key="'" line="491" column="37" />
@@ -183,7 +188,6 @@
       <file name="/foo.bar" timestamp="1591629884632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591617260249" />
     </filemarks>
     <jumps>
       <jump line="592" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
@@ -1322,8 +1326,8 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -1405,7 +1409,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>vendor_product_version_list</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1438,14 +1442,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>released_version_items</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjaGFuZ2UuZmllbGQgPT0gQ29kZVNpZy52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QuX19kaWN0X19bJ2ZpZWxkJ10ubmFtZToKICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlZF92ZXJzaW9uX2l0ZW1zID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgnY3JlYXRlZF9hdCcpLmdldF9yZWxlYXNlZF9pdGVtcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoYW5nZS5fX2RpY3RfXykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1460,22 +1464,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3lzdGVtQ2hlY2tFcnJvcihtc2cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYWxsX3B1Ymxpc2hlZChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZwX2NoYW5nZV9uZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgRmFsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5ID0gdnBfY2hhbmdlX25ld1sndmVuZG9yJ10gKyAnOjonICsgdnBfY2hhbmdlX25ld1sncHJvZHVjdCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlZF92ZXJzaW9uX2l0ZW1zID0gQ1ZEVmVyc2lvbi5vYmplY3RzLmxhdGVzdCgnY3JlYXRlZF9hdCcpLmdldF9yZWxlYXNlZF9pdGVtcygpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1790,7 +1794,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1804,7 +1808,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbWF0Y2hfdmVuZG9yX3Byb2R1Y3QodGhpcywgdGhhdCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzWyd2ZW5kb3InXSA9PSB0aGF0Wyd2ZW5kb3InXSBhbmQgdGhpc1sncHJvZHVjdCddID09IHRoYXRbJ3Byb2R1Y3QnXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
