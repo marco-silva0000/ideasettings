@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDVkRcPg==</entry>
         <entry encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</entry>
         <entry>cvss</entry>
@@ -24,6 +23,7 @@
         <entry encoding="base64">XDxjb250ZW50dHlwZV9vYmpcPg==</entry>
         <entry encoding="base64">XDxDb250ZW50VHlwZVw+</entry>
         <entry encoding="base64">XDxCeXBhc3NcPg==</entry>
+        <entry encoding="base64">XDxnZXRfdmFsaWRfZGF0YVw+</entry>
         <entry encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</entry>
       </history-search>
       <history-cmd>
@@ -145,12 +145,12 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591785716954">
-        <mark key="'" line="26" column="51" />
-        <mark key="[" line="25" column="70" />
-        <mark key="]" line="25" column="113" />
-        <mark key="^" line="25" column="113" />
-        <mark key="." line="25" column="112" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591786511894">
+        <mark key="'" line="1255" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591715829884">
         <mark key="[" line="0" column="16" />
@@ -208,115 +208,115 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="338" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="711" column="22" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="385" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="466" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="502" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="534" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="45" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="49" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="60" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="84" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="197" column="38" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="198" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="222" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="240" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="248" column="33" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="249" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
-      <jump line="486" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="271" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="859" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="922" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="166" column="5" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/enums.py" />
-      <jump line="12" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="872" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="876" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="879" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="752" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="128" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="126" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="51" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/__init__.py" />
-      <jump line="41" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" />
-      <jump line="116" column="6" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" />
-      <jump line="50" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" />
-      <jump line="10" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="268" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="269" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="363" column="10" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="491" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="549" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="28" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="83" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="84" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="157" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="189" column="14" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="191" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="192" column="67" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="201" column="63" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="258" column="33" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="332" column="30" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="335" column="28" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="890" column="35" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="1096" column="23" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="1102" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="134" column="23" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="142" column="28" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="143" column="29" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="451" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="476" column="30" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="749" column="49" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="750" column="37" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="752" column="39" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="759" column="38" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="764" column="66" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="769" column="56" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="772" column="44" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="781" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="784" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="884" column="31" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" />
-      <jump line="314" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="582" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="515" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="558" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="565" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="519" column="31" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="588" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" />
-      <jump line="60" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" />
-      <jump line="65" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" />
-      <jump line="27" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" />
-      <jump line="31" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" />
-      <jump line="61" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" />
-      <jump line="44" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/tri.py" />
-      <jump line="51" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/tri.py" />
-      <jump line="792" column="80" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="794" column="82" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="835" column="80" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="837" column="82" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="64" column="13" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="77" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="92" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="788" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
-      <jump line="40" column="31" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/tri.py" />
-      <jump line="30" column="64" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="29" column="60" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="21" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="22" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="26" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="733" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="735" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="744" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="748" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="750" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="759" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="766" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="767" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="769" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="778" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="781" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="783" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="791" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="793" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="799" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="801" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="812" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="813" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="815" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="817" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="828" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="831" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="833" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="844" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="847" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="849" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="860" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="863" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="865" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="876" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="879" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="881" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="891" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="892" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="897" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="907" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="910" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="912" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="923" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="926" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="928" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="940" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="943" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="945" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="957" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="960" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="962" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="971" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="975" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="974" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="976" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="986" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="989" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="991" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1001" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1007" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1017" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1020" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1022" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1032" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1035" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1037" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1049" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1052" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1054" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1066" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1069" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1071" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1082" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1085" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1087" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1098" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1099" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1102" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1104" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1116" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1121" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1133" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1137" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1139" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1150" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1153" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1155" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1166" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1169" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1171" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1184" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1187" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1189" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1203" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1206" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1208" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1221" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1224" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1226" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1240" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1243" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1245" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1254" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="1255" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzdXBlcihTY3JhcGVkVnVsblNlcmlhbGl6ZXIsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICBzZWxmLmNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChTY3JhcGVkVnVsbikK</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -398,7 +398,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>, bypass_serializer_init_and_validate_query</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -432,33 +432,33 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-        </keys>
+      <register name="q" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcy5tb2RlbHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcy5tb2RlbHMK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIodHJhbnNhY3Rpb249VHJ1ZSkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>Bypass serializer __init__
                 VulnStatusAuditModelMockObjects.exists = mock.Mock(return_value=False)
                 data = {'id': 1, 'status': 'DRAFT', 'CVSS3': None}
@@ -469,15 +469,6 @@ WHERE `type` = 0</text>
         from TRIMSserver.webapp.serializers import VulnItemSerializer
         contentTypeModelMockObjects = mocker.patch('django.contrib.contenttypes.models.ContentType.objects')
         contentTypeModelMockObjects.filter = mock.Mock(return_value=1)</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGVNb2RlbE1vY2tPYmplY3RzLmZpbHRlciA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9MSkgIyBCeXBhc3Mgc2VyaWFsaXplciBfX2luaXRfXwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIFRSSU1Tc2VydmVyLndlYmFwcC5tb2RlbHMuZ2VuZXJpYyBpbXBvcnQgVnVsblN0YXR1c0F1ZGl0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -792,7 +783,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGVNb2RlbE1vY2tPYmplY3RzLmZpbHRlciA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9MSkgIyBCeXBhc3Mgc2VyaWFsaXplciBfX2luaXRfXwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -806,7 +797,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChWdWxuKSAgIyBGb3IgR2VuZXJpY1JlbGF0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -814,8 +805,8 @@ WHERE `type` = 0</text>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="z" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
+      <register name="z" type="4">
+        <text>&quot;id&quot;: 1,</text>
       </register>
     </registers>
   </component>
