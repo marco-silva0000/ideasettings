@@ -145,17 +145,17 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591786511894">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591787493522">
         <mark key="'" line="1255" column="30" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591715829884">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1591787692280">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591715601277">
@@ -316,7 +316,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
+        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -398,7 +398,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>, bypass_serializer_init_and_validate_query</text>
+        <text>_manager</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -438,37 +438,28 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
+        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcy5tb2RlbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIodHJhbnNhY3Rpb249VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGRqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcy5tb2RlbHMK</text>
       </register>
-      <register name="7" type="4">
-        <text>Bypass serializer __init__
-                VulnStatusAuditModelMockObjects.exists = mock.Mock(return_value=False)
-                data = {'id': 1, 'status': 'DRAFT', 'CVSS3': None}
-                serialized_data = VulnItemSerializer(data=data).validate(data)
-                assert serialized_data['CVSS2'] == 0.0
-
-    def test_default_cvss3_value_assigned_when_none_and_draft_with_mocker(self, mocker):
-        from TRIMSserver.webapp.serializers import VulnItemSerializer
-        contentTypeModelMockObjects = mocker.patch('django.contrib.contenttypes.models.ContentType.objects')
-        contentTypeModelMockObjects.filter = mock.Mock(return_value=1)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIodHJhbnNhY3Rpb249VHJ1ZSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -782,8 +773,17 @@ WHERE `type` = 0</text>
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGVNb2RlbE1vY2tPYmplY3RzLmZpbHRlciA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9MSkgIyBCeXBhc3Mgc2VyaWFsaXplciBfX2luaXRfXwo=</text>
+      <register name="8" type="4">
+        <text>Bypass serializer __init__
+                VulnStatusAuditModelMockObjects.exists = mock.Mock(return_value=False)
+                data = {'id': 1, 'status': 'DRAFT', 'CVSS3': None}
+                serialized_data = VulnItemSerializer(data=data).validate(data)
+                assert serialized_data['CVSS2'] == 0.0
+
+    def test_default_cvss3_value_assigned_when_none_and_draft_with_mocker(self, mocker):
+        from TRIMSserver.webapp.serializers import VulnItemSerializer
+        contentTypeModelMockObjects = mocker.patch('django.contrib.contenttypes.models.ContentType.objects')
+        contentTypeModelMockObjects.filter = mock.Mock(return_value=1)</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -797,7 +797,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGVNb2RlbE1vY2tPYmplY3RzLmZpbHRlciA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9MSkgIyBCeXBhc3Mgc2VyaWFsaXplciBfX2luaXRfXwo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
