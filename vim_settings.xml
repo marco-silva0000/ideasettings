@@ -140,6 +140,7 @@
       <file name="/file []" timestamp="1591800908598">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/api/test_general.py" timestamp="1591803855135" />
       <file name="/" timestamp="1591801014534">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,7 +154,6 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" timestamp="1591713788569">
         <mark key="'" line="884" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0401_add_codesig_verbose_names.py" timestamp="1591711658326" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" timestamp="1591782806772">
         <mark key="'" line="61" column="13" />
         <mark key="[" line="60" column="25" />
@@ -161,17 +161,18 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/trims/client/src/app/codesig/codesig-history.component.html" timestamp="1591708947693">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="19" />
-        <mark key="." line="116" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591787493522">
         <mark key="'" line="1255" column="30" />
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="16" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/pytest.ini" timestamp="1591804221971">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1591800978037">
         <mark key="[" line="0" column="0" />
@@ -312,8 +313,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHByb2plY3QtbmFtZT4=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -395,7 +396,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>_manager</text>
+        <text encoding="base64">PHByb2plY3QtbmFtZT4=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -428,8 +429,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
+      <register name="0" type="4">
+        <text>TRIMSserver</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
