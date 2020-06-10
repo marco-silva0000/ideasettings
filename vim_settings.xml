@@ -113,23 +113,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591696776084">
+      <file name="/main.sqlite_master" timestamp="1591800901867">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/client/src/app/codesig/codesig-history.component.html" timestamp="1591708947693">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="19" />
-        <mark key="." line="116" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1591715813909">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1591693654996">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" timestamp="1591713314914">
         <mark key="'" line="335" column="28" />
@@ -144,42 +134,14 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591715804617">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591787493522">
-        <mark key="'" line="1255" column="30" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591787692280">
+      <file name="/main.file" timestamp="1591800908612">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591715601277">
-        <mark key="'" line="50" column="20" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="63" column="79" />
-        <mark key="." line="64" column="0" />
+      <file name="/file []" timestamp="1591800908598">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1591696769778">
-        <mark key="[" line="440" column="0" />
-        <mark key="]" line="440" column="0" />
-        <mark key="." line="440" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_vuln.py" timestamp="1591782999118">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="73" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1591694000933">
-        <mark key="'" line="491" column="37" />
-        <mark key="[" line="1086" column="11" />
-        <mark key="]" line="1086" column="36" />
-        <mark key="^" line="1086" column="36" />
-        <mark key="." line="1086" column="35" />
+      <file name="/" timestamp="1591801014534">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591782714346">
         <mark key="'" line="588" column="0" />
@@ -192,19 +154,54 @@
         <mark key="'" line="884" column="31" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0401_add_codesig_verbose_names.py" timestamp="1591711658326" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/tri.py" timestamp="1591783068554">
-        <mark key="'" line="40" column="31" />
-        <mark key="[" line="40" column="65" />
-        <mark key="]" line="40" column="68" />
-        <mark key="." line="40" column="67" />
-        <mark key="^" line="40" column="68" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/scraped_vuln.py" timestamp="1591782806772">
         <mark key="'" line="61" column="13" />
         <mark key="[" line="60" column="25" />
         <mark key="]" line="60" column="43" />
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/client/src/app/codesig/codesig-history.component.html" timestamp="1591708947693">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="19" />
+        <mark key="." line="116" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591787493522">
+        <mark key="'" line="1255" column="30" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591800978037">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591715601277">
+        <mark key="'" line="50" column="20" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="63" column="79" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/models/test_vuln.py" timestamp="1591782999118">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="73" />
+      </file>
+      <file name="/sqlite_master []" timestamp="1591800901849">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1591800908621">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/tri.py" timestamp="1591783068554">
+        <mark key="'" line="40" column="31" />
+        <mark key="[" line="40" column="65" />
+        <mark key="]" line="40" column="68" />
+        <mark key="." line="40" column="67" />
+        <mark key="^" line="40" column="68" />
       </file>
     </filemarks>
     <jumps>
