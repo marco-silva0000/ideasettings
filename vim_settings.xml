@@ -142,14 +142,16 @@
         <mark key="'" line="116" column="6" />
         <mark key="[" line="155" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1591780988087" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/code_signature.py" timestamp="1591715804617">
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0339_historicalcodesig.py" timestamp="1591630504986">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591781069807">
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="28" column="54" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="28" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1591715829884">
         <mark key="[" line="0" column="16" />
@@ -175,9 +177,6 @@
         <mark key="]" line="1086" column="36" />
         <mark key="^" line="1086" column="36" />
         <mark key="." line="1086" column="35" />
-      </file>
-      <file name="/foo.bar" timestamp="1591629884632">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" timestamp="1591713788569">
         <mark key="'" line="884" column="31" />
