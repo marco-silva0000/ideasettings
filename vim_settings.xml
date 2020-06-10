@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjd2VzXD4=</entry>
-        <entry>CVD</entry>
         <entry encoding="base64">XDxDVkRcPg==</entry>
         <entry encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxGb3JcPg==</entry>
         <entry encoding="base64">XDxjb250ZW50dHlwZV9vYmpcPg==</entry>
         <entry encoding="base64">XDxDb250ZW50VHlwZVw+</entry>
+        <entry encoding="base64">XDxCeXBhc3NcPg==</entry>
+        <entry encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /</entry>
@@ -134,10 +134,10 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/options.py" timestamp="1591713314914">
         <mark key="'" line="335" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1591782911951">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1591783347157">
         <mark key="'" line="788" column="6" />
-        <mark key="[" line="64" column="65" />
-        <mark key="]" line="64" column="69" />
+        <mark key="[" line="334" column="24" />
+        <mark key="]" line="334" column="38" />
         <mark key="^" line="64" column="69" />
         <mark key="." line="64" column="68" />
       </file>
@@ -145,11 +145,12 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/cvd_utils.py" timestamp="1591693570884" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591783162448">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="11" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" timestamp="1591785716954">
+        <mark key="'" line="26" column="51" />
+        <mark key="[" line="25" column="70" />
+        <mark key="]" line="25" column="113" />
+        <mark key="^" line="25" column="113" />
+        <mark key="." line="25" column="112" />
       </file>
       <file name="/Dummy.txt" timestamp="1591715829884">
         <mark key="[" line="0" column="16" />
@@ -207,11 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="195" column="44" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="336" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="347" column="21" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="143" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="129" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="338" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="711" column="22" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -307,6 +303,11 @@
       <jump line="92" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
       <jump line="788" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" />
       <jump line="40" column="31" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/tri.py" />
+      <jump line="30" column="64" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="29" column="60" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="21" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="22" column="26" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="26" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +315,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzdXBlcihTY3JhcGVkVnVsblNlcmlhbGl6ZXIsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICBzZWxmLmNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChTY3JhcGVkVnVsbikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sbide_effect=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -397,7 +398,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>sbide_effect=</text>
+        <text>a</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -421,7 +422,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb250ZW50VHlwZVw+</text>
+        <text encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -431,7 +432,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggbW9jay5wYXRjaCgnVFJJTVNzZXJ2ZXIud2ViYXBwLm1vZGVscy5Ucmkub2JqZWN0cycpIGFzIFRyaU1vZGVsTW9ja09iamVjdHM6CiAgICAgICAgVHJpTW9kZWxNb2NrT2JqZWN0cy5nZXQgPSBtb2NrLk1vY2soc2lkZV9lZmZlY3Q9VHJpLkRvZXNOb3RFeGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -452,26 +453,31 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChWdWxuKSAgIyBGb3IgR2VuZXJpY1JlbGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgIGRqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcy5tb2RlbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIodHJhbnNhY3Rpb249VHJ1ZSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChUcmkpICAjIEZvciBHZW5lcmljUmVsYXRpb25zCg==</text>
+      <register name="4" type="4">
+        <text>Bypass serializer __init__
+                VulnStatusAuditModelMockObjects.exists = mock.Mock(return_value=False)
+                data = {'id': 1, 'status': 'DRAFT', 'CVSS3': None}
+                serialized_data = VulnItemSerializer(data=data).validate(data)
+                assert serialized_data['CVSS2'] == 0.0
+
+    def test_default_cvss3_value_assigned_when_none_and_draft_with_mocker(self, mocker):
+        from TRIMSserver.webapp.serializers import VulnItemSerializer
+        contentTypeModelMockObjects = mocker.patch('django.contrib.contenttypes.models.ContentType.objects')
+        contentTypeModelMockObjects.filter = mock.Mock(return_value=1)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbCgKICAgICAgICBTY3JhcGVkVnVsbgogICAgKSAgIyBGb3IgR2VuZXJpY1JlbGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGVNb2RlbE1vY2tPYmplY3RzLmZpbHRlciA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9MSkgIyBCeXBhc3Mgc2VyaWFsaXplciBfX2luaXRfXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbCgKICAgICAgICBTY3JhcGVkVnVsbgogICAgKSAgIyBGb3IgR2VuZXJpY1JlbGF0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>For GenericRelations
-
-    def __init__(self, *args, **kwargs):
-        super(ScrapedVulnSerializer, self).__init__(*args, **kwargs)
-        self.contenttype_obj = ContentType.objects.get_for_model(CVD)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIFRSSU1Tc2VydmVyLndlYmFwcC5tb2RlbHMuZ2VuZXJpYyBpbXBvcnQgVnVsblN0YXR1c0F1ZGl0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -786,7 +792,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -800,7 +806,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnR0eXBlX29iaiA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChWdWxuKSAgIyBGb3IgR2VuZXJpY1JlbGF0aW9ucwo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -808,16 +814,16 @@ WHERE `type` = 0</text>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="z" type="4">
-        <text encoding="base64">PHN0cjpwYXJlbnRfdHlwZT4vPHN0cjpwaz4=</text>
+      <register name="z" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb250ZW50VHlwZVw+</last-search>
+      <last-search encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb250ZW50VHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
