@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfQ1dFTnVtYmVyc1w+</entry>
-        <entry encoding="base64">XDxzdGFzaGVkX3JlbGVhc2VfZmllbGRzX2xpc3RcPg==</entry>
         <entry>cvss</entry>
         <entry>cwes</entry>
         <entry>Remed</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxCeXBhc3NcPg==</entry>
         <entry encoding="base64">XDxnZXRfdmFsaWRfZGF0YVw+</entry>
         <entry encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</entry>
+        <entry encoding="base64">XDxwb3N0X21pZ3JhdGVfc2lnbmFsX3RvX2d1YXJhbnRlZV9jb250ZW50X3R5cGVzXD4=</entry>
+        <entry encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /</entry>
@@ -155,10 +155,12 @@
       <file name="/django_content_type [trims@localhost]" timestamp="1591880818785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591887132512">
-        <mark key="[" line="145" column="38" />
-        <mark key="]" line="145" column="38" />
-        <mark key="." line="145" column="38" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591887211832">
+        <mark key="'" line="158" column="32" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="/dummy.sql" timestamp="1591880821403">
         <mark key="[" line="0" column="0" />
@@ -177,9 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="733" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="735" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="744" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="748" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="750" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="759" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -277,6 +276,9 @@
       <jump line="1245" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1254" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1255" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
+      <jump line="150" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
+      <jump line="156" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,8 +286,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzRfc2V0X2dyb3VwX3Blcm1pc3Npb25zJyksCg==</text>
+      <register name="&quot;" type="4">
+        <text>group_name</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -367,7 +369,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>333_auto_20200219_1553</text>
+        <text>group_name</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -391,7 +393,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</text>
+        <text encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -401,7 +403,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGRlcnIud3JpdGUoc2VsZi5zdHlsZS5GQUlMKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChncm91cF9uYW1lKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -772,9 +774,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
