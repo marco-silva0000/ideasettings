@@ -113,10 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1591880970921">
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1591883635547">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="53" />
       </file>
       <file name="/main.file" timestamp="1591800908612">
         <mark key="[" line="0" column="0" />
@@ -128,9 +129,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0400_historicalcodesig.py" timestamp="1591875015481" />
-      <file name="/file []" timestamp="1591800908598">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/api/test_general.py" timestamp="1591803855135" />
       <file name="/" timestamp="1591875517038">
         <mark key="[" line="0" column="0" />
@@ -147,6 +145,9 @@
         <mark key="." line="9" column="50" />
         <mark key="^" line="9" column="51" />
       </file>
+      <file name="/Python Console" timestamp="1591883643441">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0334_set_group_permissions.py" timestamp="1591874681085" />
       <file name="/django_content_type [trims@localhost]" timestamp="1591880818785">
         <mark key="[" line="0" column="0" />
@@ -160,7 +161,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591880710225">
+      <file name="/Dummy.txt" timestamp="1591883571021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -282,7 +283,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>== 1</text>
+        <text>name</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -364,7 +365,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>== 1</text>
+        <text>name</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -398,34 +399,34 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBxc2V0LmNvdW50KCkgPT0gMDoKICAgICAgICAgICAgZXhpdCgyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGRlcnIud3JpdGUoc2VsZi5zdHlsZS5GQUlMKCcnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGVudFR5cGUub2JqZWN0cy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIHFzZXQuY291bnQoKSA9PSAwOgoKICAgIGVsaWYgcXNldC5jb3VudCgpID4gMToKICAgICAgICBleGl0KDMpCiAgICByZXR1cm4gcXNldC5maXJzdCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGVudFR5cGUub2JqZWN0cy5nZXQoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcy5tb2RlbHMK</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -740,7 +741,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5kamFuZ29fZGIodHJhbnNhY3Rpb249VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -753,17 +754,8 @@ WHERE `type` = 0</text>
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="4">
-        <text>Bypass serializer __init__
-                VulnStatusAuditModelMockObjects.exists = mock.Mock(return_value=False)
-                data = {'id': 1, 'status': 'DRAFT', 'CVSS3': None}
-                serialized_data = VulnItemSerializer(data=data).validate(data)
-                assert serialized_data['CVSS2'] == 0.0
-
-    def test_default_cvss3_value_assigned_when_none_and_draft_with_mocker(self, mocker):
-        from TRIMSserver.webapp.serializers import VulnItemSerializer
-        contentTypeModelMockObjects = mocker.patch('django.contrib.contenttypes.models.ContentType.objects')
-        contentTypeModelMockObjects.filter = mock.Mock(return_value=1)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
