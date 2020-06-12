@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cvss</entry>
         <entry>cwes</entry>
         <entry>Remed</entry>
         <entry encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxwb3N0X21pZ3JhdGVfc2lnbmFsX3RvX2d1YXJhbnRlZV9jb250ZW50X3R5cGVzXD4=</entry>
         <entry encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</entry>
+        <entry>sites</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /</entry>
@@ -145,22 +145,27 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0401_add_codesig_verbose_names.py" timestamp="1591951012523" />
       <file name="/Python Console" timestamp="1591883643441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1591885737811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0334_set_group_permissions.py" timestamp="1591874681085" />
       <file name="/django_content_type [trims@localhost]" timestamp="1591880818785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591887211832">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591951385886">
         <mark key="'" line="158" column="32" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="19" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1591951572383">
+        <mark key="'" line="54" column="20" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="376" column="34" />
       </file>
       <file name="/dummy.sql" timestamp="1591880821403">
         <mark key="[" line="0" column="0" />
@@ -179,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="748" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="750" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="759" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="766" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="767" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -279,6 +282,8 @@
       <jump line="150" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
       <jump line="3" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
       <jump line="156" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
+      <jump line="374" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
+      <jump line="54" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -393,7 +398,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</text>
+        <text>sites</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -403,34 +408,34 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cF9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmImdyb3VwX25hbWU6IHtncm91cF9uYW1lfSIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzRfc2V0X2dyb3VwX3Blcm1pc3Npb25zJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwZXJtcykK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChncm91cF9uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzRfc2V0X2dyb3VwX3Blcm1pc3Npb25zJyksCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHFzZXQuY291bnQoKSA9PSAwOgoKICAgIGVsaWYgcXNldC5jb3VudCgpID4gMToKICAgICAgICBleGl0KDMpCiAgICByZXR1cm4gcXNldC5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGVudFR5cGUub2JqZWN0cy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
+        <text encoding="base64">ICAgIGlmIHFzZXQuY291bnQoKSA9PSAwOgoKICAgIGVsaWYgcXNldC5jb3VudCgpID4gMToKICAgICAgICBleGl0KDMpCiAgICByZXR1cm4gcXNldC5maXJzdCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -745,7 +750,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoKS52YWxpZGF0ZShkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGVudFR5cGUub2JqZWN0cy5nZXQoKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -759,7 +764,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9kYXRhID0gVnVsbkl0ZW1TZXJpYWxpemVyKCkudmFsaWRhdGUoZGF0YSkK</text>
+        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -774,9 +779,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</last-search>
+      <last-search>sites</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</last-pattern>
+      <last-pattern>sites</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
