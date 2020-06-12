@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cwes</entry>
-        <entry>Remed</entry>
         <entry encoding="base64">XDxDb2RlU2lnSGlzdG9yeUl0ZW1cPg==</entry>
         <entry>DeferedAttr</entry>
         <entry>Def</entry>
@@ -24,6 +22,8 @@
         <entry encoding="base64">XDxWdWxuSXRlbVNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxwb3N0X21pZ3JhdGVfc2lnbmFsX3RvX2d1YXJhbnRlZV9jb250ZW50X3R5cGVzXD4=</entry>
         <entry encoding="base64">XDxncm91cHNfYW5kX3Blcm1zXD4=</entry>
+        <entry>TESTI</entry>
+        <entry>TEST</entry>
         <entry>sites</entry>
       </history-search>
       <history-cmd>
@@ -118,11 +118,11 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1591885780440">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-        <mark key="." line="12" column="53" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1591954195958">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="28" column="32" />
       </file>
       <file name="/trims.public.TRIMSserver_cvdversion" timestamp="1591875680072">
         <mark key="[" line="0" column="0" />
@@ -130,8 +130,10 @@
       <file name="/trims.public.django_content_type" timestamp="1591880818796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0400_historicalcodesig.py" timestamp="1591875015481" />
-      <file name="/" timestamp="1591875517038">
+      <file name="/trims.public.django_site" timestamp="1591953208089">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/django_site [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1591953208078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1591875855295">
@@ -155,17 +157,19 @@
       <file name="/django_content_type [trims@localhost]" timestamp="1591880818785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591951385886">
-        <mark key="'" line="158" column="32" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591952679072">
+        <mark key="'" line="159" column="32" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1591951572383">
-        <mark key="'" line="54" column="20" />
-        <mark key="[" line="375" column="0" />
-        <mark key="]" line="376" column="34" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1591953226376">
+        <mark key="'" line="53" column="20" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1591880821403">
         <mark key="[" line="0" column="0" />
@@ -176,18 +180,15 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="/foo.bar" timestamp="1591880818808">
+      <file name="/foo.bar" timestamp="1591953208100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_cvdversion [trims@localhost]" timestamp="1591875680055">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0324_make_views.py" timestamp="1591952402284">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="759" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="766" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="767" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="769" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="778" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="781" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="783" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -284,6 +285,10 @@
       <jump line="156" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
       <jump line="374" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="54" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
+      <jump line="52" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
+      <jump line="221" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
+      <jump line="49" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
+      <jump line="53" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,8 +296,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>group_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -408,34 +413,34 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmImdyb3VwX25hbWU6IHtncm91cF9uYW1lfSIpCg==</text>
+        <text encoding="base64">aWYgbm90IGdldGF0dHIoc2V0dGluZ3MsICJURVNUSU5HIiwgRmFsc2UpOgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwZXJtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cF9uYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzRfc2V0X2dyb3VwX3Blcm1pc3Npb25zJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb250ZW50X3R5cGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9jb250ZW50X3R5cGUobW9kZWxfaW5wdXQ6IHN0ciwgKiprd2FyZ3MpOgogICAgcHJpbnQoQ29udGVudFR5cGUub2JqZWN0cy5hbGwoKS52YWx1ZXNfbGlzdCgnbW9kZWwnLCBmbGF0PVRydWUpKQogICAgcmV0dXJuIENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0KG1vZGVsX19pc3RhcnRzd2l0aD1tb2RlbF9pbnB1dCwgKiprd2FyZ3MpCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zaXRlcycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0lURV9JRCA9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHFzZXQuY291bnQoKSA9PSAwOgoKICAgIGVsaWYgcXNldC5jb3VudCgpID4gMToKICAgICAgICBleGl0KDMpCiAgICByZXR1cm4gcXNldC5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwZXJtcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -750,7 +755,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29udGVudFR5cGUub2JqZWN0cy5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChncm91cF9uYW1lKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -764,7 +769,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text>TRIMS-201: Adds explicit verbose_name on CodeSig</text>
+        <text encoding="base64">ICAgICAgICAoJ1RSSU1Tc2VydmVyJywgJzAzMzRfc2V0X2dyb3VwX3Blcm1pc3Npb25zJyksCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
