@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Def</entry>
-        <entry>writeX</entry>
         <entry>write</entry>
         <entry>verbose_name</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -25,6 +23,8 @@
         <entry>sites</entry>
         <entry encoding="base64">XDxkamFuZ29fZGJfc2V0dXBcPg==</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxjb2xvcl9zdHlsZVw+</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\/r/g</entry>
@@ -123,20 +123,18 @@
         <mark key="[" line="50" column="65" />
         <mark key="]" line="50" column="86" />
       </file>
-      <file name="/django_migrations [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1591955340470">
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1592213169218">
+        <mark key="'" line="355" column="25" />
+      </file>
+      <file name="/django_migrations [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592212858673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1591886029588">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1592212295633">
-        <mark key="'" line="17" column="9" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="46" column="69" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1592213314099">
+        <mark key="'" line="58" column="35" />
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="20" />
+        <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1592211033612">
         <mark key="[" line="326" column="4" />
@@ -150,17 +148,17 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/pytest_django/fixtures.py" timestamp="1591955156266">
         <mark key="'" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1592212599253">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1592213384225">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591955340494">
+      <file name="/foo.bar" timestamp="1592212858958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1591974276105" />
-      <file name="/trims.public.django_migrations" timestamp="1591955340485">
+      <file name="/trims.public.django_migrations" timestamp="1592212858904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/trims.public.django_site" timestamp="1591953208089">
@@ -192,12 +190,9 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/color.py" timestamp="1592213197679" />
     </filemarks>
     <jumps>
-      <jump line="791" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="793" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="799" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="801" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="812" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="813" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="815" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -294,6 +289,10 @@
       <jump line="16" column="5" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/pytest_django/fixtures.py" />
       <jump line="15" column="10" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
       <jump line="16" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
+      <jump line="237" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
+      <jump line="355" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
+      <jump line="71" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
+      <jump line="55" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,8 +300,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>StringIO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHB5dGVzdC5tYXJrLmRqYW5nb19kYgo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -384,7 +383,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>StringIO</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -408,7 +407,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>style</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -418,7 +417,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWZpbmQiLCB0eXBlPXN0ciwgaGVscD0idGhlIHN0cmluZyB0byBmaW5kIikK</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLmRqYW5nb19kYgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -798,12 +797,12 @@ _meta.</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
