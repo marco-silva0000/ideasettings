@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>verbose_name</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>title</entry>
         <entry encoding="base64">XDx2dWxuX2lkXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb2xvcl9zdHlsZVw+</entry>
         <entry>style</entry>
         <entry encoding="base64">XDxnZXRfbW9kZWxcPg==</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -113,28 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592211216312">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591974305002">
-        <mark key="[" line="50" column="65" />
-        <mark key="]" line="50" column="86" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1592383506506">
-        <mark key="'" line="355" column="25" />
-      </file>
-      <file name="/django_migrations [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592212858673">
+      <file name="/django_migrations [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592393128054">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1592385253277">
-        <mark key="'" line="73" column="35" />
-        <mark key="[" line="113" column="64" />
-        <mark key="]" line="114" column="38" />
-        <mark key="^" line="114" column="38" />
-        <mark key="." line="114" column="37" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/apps.py" timestamp="1592393601995">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1592211033612">
         <mark key="[" line="326" column="4" />
@@ -148,31 +131,16 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/pytest_django/fixtures.py" timestamp="1591955156266">
-        <mark key="'" line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1592383257827">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="29" column="60" />
-        <mark key="^" line="29" column="60" />
-        <mark key="." line="29" column="59" />
-      </file>
-      <file name="/foo.bar" timestamp="1592212858958">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/trims/server/manage.py" timestamp="1592393319740" />
       <file name="/Django Console" timestamp="1592384025860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.django_migrations" timestamp="1592212858904">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/trims.public.django_site" timestamp="1591953208089">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0335_merge_20200326_1716.py" timestamp="1591957280176">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" timestamp="1592393538528">
+        <mark key="'" line="67" column="8" />
+        <mark key="[" line="70" column="10" />
+        <mark key="]" line="70" column="14" />
+        <mark key="^" line="70" column="14" />
+        <mark key="." line="70" column="13" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1591955377261">
         <mark key="'" line="162" column="32" />
@@ -181,24 +149,43 @@
         <mark key="^" line="150" column="15" />
         <mark key="." line="150" column="14" />
       </file>
-      <file name="/django_site [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1591953208078">
+      <file name="/Dummy.txt" timestamp="1592211216312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/code_signature.py" timestamp="1591974305002">
+        <mark key="[" line="50" column="65" />
+        <mark key="]" line="50" column="86" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1592383506506">
+        <mark key="'" line="355" column="25" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/commands/check.py" timestamp="1592393255471">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1592383257827">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="29" column="59" />
+      </file>
+      <file name="/foo.bar" timestamp="1592393128292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1591953226376">
-        <mark key="'" line="53" column="20" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="43" column="11" />
-        <mark key="." line="53" column="0" />
+      <file name="/trims.public.django_migrations" timestamp="1592393128259">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0335_merge_20200326_1716.py" timestamp="1591957280176">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="813" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="815" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="817" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="828" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="831" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="833" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="844" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="847" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="849" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -293,6 +280,12 @@
       <jump line="71" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
       <jump line="55" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
       <jump line="163" column="24" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/contenttypes/models.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
+      <jump line="226" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
+      <jump line="289" column="12" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
+      <jump line="319" column="16" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +294,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lower().</text>
+        <text>app_config</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -383,7 +376,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>lower().</text>
+        <text>app_config</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -407,7 +400,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfbW9kZWxcPg==</text>
+        <text encoding="base64">XDxwcmludFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -417,34 +410,34 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG93ZXJfYm91bmQgPSBtYXgoZmluZF9pbmRleCAtIHdyYXBfbGVuZ3RoLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcHBfY29uZmlnKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXBwZXJfYm91bmQgPSBtYXgoZmluZF9pbmRleCAtIHdyYXBfbGVuZ3RoLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcHBfY29uZmlncykK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51c2VmaXh0dXJlcygiYnlwYXNzX3NlcmlhbGl6ZXJfaW5pdF9hbmRfdmFsaWRhdGVfcXVlcnkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXBwZXJfYm91bmQgPSBtYXgoZmluZF9pbmRleCAtIHdyYXBfbGVuZ3RoLCAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF9xdWVyeSA9IG9wdGlvbnMuZ2V0KCJtb2RlbCIsIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcmdzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5hcHBfbGFiZWw6CiAgICAgICAgICAgIGFwcF9sYWJlbCA9ICJUUklNU3NlcnZlciIK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF9xdWVyeSA9IG9wdGlvbnMuZ2V0KCJtb2RlbCIsIE5vbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBfbGFiZWwgPSBvcHRpb25zLmdldCgiYXBwX2xhYmVsIiwgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5hcHBfbGFiZWw6CiAgICAgICAgICAgIGFwcF9sYWJlbCA9ICJUUklNU3NlcnZlciIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhcHBfbGFiZWwgPSBvcHRpb25zLmdldCgiYXBwX2xhYmVsIiwgTm9uZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9fcHJpbnQgPSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBfbGFiZWwgPSBvcHRpb25zLmdldCgiYXBwX2xhYmVsIiwgTm9uZSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -759,7 +752,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9fcHJpbnQgPSAiIgo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -773,7 +766,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIENvbW1hbmQoQmFzZUNvbW1hbmQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -788,9 +781,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRfbW9kZWxcPg==</last-search>
+      <last-search encoding="base64">XDxwcmludFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfbW9kZWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
