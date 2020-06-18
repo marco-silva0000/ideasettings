@@ -113,15 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592467483203">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1592467906717">
-        <mark key="'" line="308" column="15" />
-      </file>
       <file name="/Python Console" timestamp="1592470995756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,25 +136,10 @@
         <mark key="^" line="170" column="40" />
         <mark key="." line="170" column="39" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/commands/check.py" timestamp="1592393255471">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/commands/sqlmigrate.py" timestamp="1592469627490" />
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/contenttypes/models.py" timestamp="1592231274721">
-        <mark key="'" line="163" column="24" />
-      </file>
-      <file name="/django_content_type [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592466066215">
+      <file name="/console" timestamp="1592499249218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1592471162286">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="49" column="28" />
-        <mark key="^" line="49" column="28" />
-        <mark key="." line="49" column="27" />
-      </file>
-      <file name="/foo.bar" timestamp="1592466079464">
+      <file name="/django_content_type [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592466066215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/trims.public.django_content_type" timestamp="1592466079447">
@@ -173,9 +149,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/django_content_type [trims@localhost]" timestamp="1592466079430">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/trims.public.django_migrations" timestamp="1592393128259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" timestamp="1592467951187">
@@ -190,6 +163,33 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="150" column="15" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592467483203">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1592467906717">
+        <mark key="'" line="308" column="15" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/commands/check.py" timestamp="1592393255471">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/commands/sqlmigrate.py" timestamp="1592469627490" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/commands/test_content_replace.py" timestamp="1592471162286">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="27" />
+      </file>
+      <file name="/foo.bar" timestamp="1592466079464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.django_migrations" timestamp="1592393128259">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
