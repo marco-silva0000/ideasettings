@@ -153,11 +153,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1592572648000">
-        <mark key="'" line="187" column="32" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1592829143573">
+        <mark key="'" line="174" column="32" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592467483203">
         <mark key="[" line="0" column="11" />
@@ -296,7 +296,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiUkVTUE9OU0lCTEVfRElTQ0xPU1VSRSIsCiAgICAgICAgWyJUUklNU3NlcnZlcjo6dnVsbjo6cmVzcG9uc2libGVfZGlzY2xvc3VyZV92aWV3OjpyZXNwb25zaWJsZV9kaXNjbG9zdXJlX3ZpZXciXSwKICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF92aWV3OjpjdmRfdmlldyIsCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -418,7 +418,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiUkVTUE9OU0lCTEVfRElTQ0xPU1VSRSIsCiAgICAgICAgWyJUUklNU3NlcnZlcjo6dnVsbjo6cmVzcG9uc2libGVfZGlzY2xvc3VyZV92aWV3OjpyZXNwb25zaWJsZV9kaXNjbG9zdXJlX3ZpZXciXSwKICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF92aWV3OjpjdmRfdmlldyIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -432,22 +432,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgiS0IiLCBbIlRSSU1Tc2VydmVyOjp2dWxuOjp2dWxuX3ZpZXc6OnZ1bG5fdmlldyJdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF9lZGl0OjpjdmRfZWRpdCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiQ1ZEX1NJR05BVFVSRV9DU1IiLAogICAgICAgIFsKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZC5hZGRfZWRpdF9kZWxldGU6OmN2ZC5hZGRfZWRpdF9kZWxldGUiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OmN2ZDo6Y3ZkX2VkaXQ6OmN2ZF9lZGl0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF92aWV3OjpjdmRfdmlldyIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6Y3ZkOjplZGl0X2RlbGV0ZV9zaWduYXR1cmVfY3NyOjplZGl0X2RlbGV0ZV9zaWduYXR1cmVfY3NyIiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjp2dWxuOjp2dWxuX3ZpZXc6OnZ1bG5fdmlldyIsCiAgICAgICAgXSwKICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZC5hZGRfZWRpdF9kZWxldGU6OmN2ZC5hZGRfZWRpdF9kZWxldGUiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgiQ1ZEX1BFRVJfUkVWSUVXRVIiLCBbIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZC5wZWVyX3Jldmlld2VyOjpjdmQucGVlcl9yZXZpZXdlciJdKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiQ1ZEIiwKICAgICAgICBbCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6Y3ZkOjpjdmQuYWRkX2VkaXRfZGVsZXRlOjpjdmQuYWRkX2VkaXRfZGVsZXRlIiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF9lZGl0OjpjdmRfZWRpdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6Y3ZkOjpjdmRfdmlldzo6Y3ZkX3ZpZXciLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnZ1bG46OnZ1bG5fdmlldzo6dnVsbl92aWV3IiwKICAgICAgICBdLAogICAgKSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICgKICAgICAgICAiQ09ERV9TSUdOQVRVUkUiLAogICAgICAgIFsKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjp2dWxuOjpjb2RlX3NpZ25hdHVyZS5hZGRfZWRpdF9kZWxldGU6OmNvZGVfc2lnbmF0dXJlLmFkZF9lZGl0X2RlbGV0ZSIKICAgICAgICBdLAogICAgKSwK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpzY3JhcGVkdnVsbjo6c2NyYXBlZHZ1bG5fY3JlYXRlOjpzY3JhcGVkdnVsbl9jcmVhdGUiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICgKICAgICAgICAiVlVMTkVSQUJJTElUWV9BTkFMWVNUIiwKICAgICAgICBbCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6c2NyYXBlZHZ1bG46OnNjcmFwZWR2dWxuX2VkaXQ6OnNjcmFwZWR2dWxuX2VkaXQiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnNjcmFwZWR2dWxuOjpzY3JhcGVkdnVsbl92aWV3OjpzY3JhcGVkdnVsbl92aWV3IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjp2dWxuOjp2dWxuX2VkaXQ6OnZ1bG5fZWRpdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6dnVsbjo6dnVsbl92aWV3Ojp2dWxuX3ZpZXciLAogICAgICAgIF0sCiAgICApLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiQkRTUiIsCiAgICAgICAgWwogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnNjcmFwZWR2dWxuOjpzY3JhcGVkdnVsbl9lZGl0OjpzY3JhcGVkdnVsbl9lZGl0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpzY3JhcGVkdnVsbjo6c2NyYXBlZHZ1bG5fdmlldzo6c2NyYXBlZHZ1bG5fdmlldyIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6dnVsbjo6dnVsbl9lZGl0Ojp2dWxuX2VkaXQiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnZ1bG46OnZ1bG5fdmlldzo6dnVsbl92aWV3IiwKICAgICAgICBdLAogICAgKSwK</text>
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -762,7 +762,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiQkRTQV9RUiIsIFsiVFJJTVNzZXJ2ZXI6OnZ1bG46OnZ1bG4udnVsbl9xcjo6dnVsbi52dWxuX3FyIl0KICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAiVVNFUl9BRE1JTiIsCiAgICAgICAgWwogICAgICAgICAgICAiYXV0aDo6dXNlcjo6Q2FuIGFkZCB1c2VyOjphZGRfdXNlciIsCiAgICAgICAgICAgICJhdXRoOjp1c2VyOjpDYW4gY2hhbmdlIHVzZXI6OmNoYW5nZV91c2VyIiwKICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiBkZWxldGUgdXNlcjo6ZGVsZXRlX3VzZXIiLAogICAgICAgIF0sCiAgICApLAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -776,7 +776,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgiQkRTQV9RUiIsIFsiVFJJTVNzZXJ2ZXI6OnZ1bG46OnZ1bG4udnVsbl9xcjo6dnVsbi52dWxuX3FyIl0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiBkZWxldGUgdXNlcjo6ZGVsZXRlX3VzZXIiLAo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
