@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2dWxuX2lkXD4=</entry>
-        <entry encoding="base64">XDxGb3JcPg==</entry>
         <entry encoding="base64">XDxjb250ZW50dHlwZV9vYmpcPg==</entry>
         <entry encoding="base64">XDxDb250ZW50VHlwZVw+</entry>
         <entry encoding="base64">XDxCeXBhc3NcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxtYWtlX21hdGNoZXNcPg==</entry>
+        <entry>blacklistvendor</entry>
+        <entry encoding="base64">XDxibGFja2xpc3R2ZW5kb3Jwcm9kdWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -121,9 +121,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/django_migrations [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592393128054">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/apps.py" timestamp="1592467435148">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -153,17 +150,20 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1592829143573">
-        <mark key="'" line="174" column="32" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1592830919929">
+        <mark key="'" line="148" column="32" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592467483203">
+      <file name="/Dummy.txt" timestamp="1592831341485">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592830037995">
+        <mark key="'" line="774" column="15" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" timestamp="1592467906717">
         <mark key="'" line="308" column="15" />
@@ -188,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="926" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="928" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="940" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="943" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="945" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -288,6 +286,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
       <jump line="132" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="774" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,8 +295,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF92aWV3OjpjdmRfdmlldyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>Update migration to merge with master</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -356,7 +356,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGxhdGVzdF92ZXJzaW9uKGNscyk6CiAgICAgICAgcmVjZW50X3ZlcnNpb24gPSBDVkRWZXJzaW9uLm9iamVjdHMubGF0ZXN0KCJjcmVhdGVkX2F0IikKICAgICAgICAjIEdldHMgYWxsIG9mIHRoZSBDT01QTEVURSBvciBERUxFVEVEIGZyb20gaGlzdG9yeSwgc28gdGhhdCB3ZSBjYW4gZmluZCB0aGUKICAgICAgICAjIGxhdGVzdCBhbmQgZGVsZXRlIHRoZW0gaW0gaXMgaW4gYSBERUxFVEVEIHN0YXR1cyBUUklNUy0xOTMKICAgICAgICBxdWVyeXNldCA9IGNscy5oaXN0b3J5LmZpbHRlcigKICAgICAgICAgICAgc3RhdHVzX19pbj1bZW51bXMuQ09NUExFVEUsIGVudW1zLkRFTEVURURdLAogICAgICAgICAgICBlZGl0ZWRfYXRfX2x0ZT1yZWNlbnRfdmVyc2lvbi5jcmVhdGVkX2F0CiAgICAgICAgKQogICAgICAgICMgRXhjbHVkZXMgdGhlIGhpc3RvcmllcyB0aGF0IGhhdmUgc3Rhc2hlZCBmaWVsZHMgdG8gZXhjbHVkZSBhbnkgQ09NUExFVEUgdG8KICAgICAgICAjIENPTVBMRVRFIHdpdGggc3Rhc2hlZF9maWVsZHMgc3RpbGwgdG8gYmUgYXBwcm92ZWQKICAgICAgICBxdWVyeXNldCA9IHF1ZXJ5c2V0LmV4Y2x1ZGUoc3Rhc2hlZF9yZWxlYXNlX2ZpZWxkc19faXNudWxsPUZhbHNlKQogICAgICAgICMgT3JkZXJzIGJ5IGVkaXRlZF9hdCBkYXRlIHRvIGFuZCBkaXN0aW5jdHMgYnkgY3ZkX2lkIHRvIGdldCB0aGUgbGF0ZXN0IHZlcnNpb24sCiAgICAgICAgIyB0aGlzIG1ha2VzIGEgbGlzdCBvZiBhbGwgY3ZkcyBvbiBpdCdzIGxhdGVzdCBDb21wbGV0ZSBvciBEZWxldGUgc3RhdHVzCiAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5vcmRlcl9ieSgiY3ZkX2lkIiwgIi1lZGl0ZWRfYXQiKS5kaXN0aW5jdCgiY3ZkX2lkIikKICAgICAgICAjIEZvcmNlcyB0aGUgcXVlcnkgdG8gYmUgZXhlY3V0ZWQgaGVyZSwgb3RoZXJ3aXNlIHRoZSBkamFuZ28gbGF6eSBxdWVyaWVzIHdpbGwKICAgICAgICAjIG1ha2UgaXQgYWxsIGluIG9uZSBxdWVyeSBhbmQgbWVzcyB1cCB0aGUgb3JkZXIgb2YgZXhlY3V0aW9uIG9mIHRoZSBleGNsdWRlCiAgICAgICAgIyBhbmQgZGlzdGluY3QgVFJJTVMtMTkzCiAgICAgICAgaGlzdG9yeV9pZHMgPSBxdWVyeXNldC52YWx1ZXNfbGlzdCgiaGlzdG9yeV9pZCIsIGZsYXQ9VHJ1ZSkKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBjbHMuaGlzdG9yeS5maWx0ZXIoaGlzdG9yeV9pZF9faW49aGlzdG9yeV9pZHMpCiAgICAgICAgICAgICAgICAuZXhjbHVkZShzdGF0dXM9ZW51bXMuREVMRVRFRCkgIyBFeGNsdWRlcyBhbGwgb2YgdGhlIERFTEVURUQgaGlzdG9yaWVzCiAgICAgICAgICAgICAgICAub3JkZXJfYnkoImN2ZF9pZCIpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpibGFja2xpc3R2ZW5kb3Jwcm9kdWN0OjpDYW4gYWRkIGJsYWNrbGlzdCB2ZW5kb3IgcHJvZHVjdDo6YWRkX2JsYWNrbGlzdHZlbmRvcnByb2R1Y3QiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OmJsYWNrbGlzdHZlbmRvcnByb2R1Y3Q6OkNhbiBjaGFuZ2UgYmxhY2tsaXN0IHZlbmRvciBwcm9kdWN0OjpjaGFuZ2VfYmxhY2tsaXN0dmVuZG9ycHJvZHVjdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6YmxhY2tsaXN0dmVuZG9ycHJvZHVjdDo6Q2FuIGRlbGV0ZSBibGFja2xpc3QgdmVuZG9yIHByb2R1Y3Q6OmRlbGV0ZV9ibGFja2xpc3R2ZW5kb3Jwcm9kdWN0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpibGFja2xpc3R2ZW5kb3Jwcm9kdWN0OjpDYW4gdmlldyBibGFja2xpc3QgdmVuZG9yIHByb2R1Y3Q6OnZpZXdfYmxhY2tsaXN0dmVuZG9ycHJvZHVjdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6YmxhY2tsaXN0dmVuZG9ycHJvZHVjdDo6dnBfYmxhY2tsaXN0Ojp2cF9ibGFja2xpc3QiLAo=</text>
       </register>
       <register name="+" type="4">
         <text>SELECT 
@@ -378,7 +378,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Update migration to merge with master</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,7 +402,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX21hdGNoZXNcPg==</text>
+        <text encoding="base64">XDxibGFja2xpc3R2ZW5kb3Jwcm9kdWN0XD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -418,7 +418,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF92aWV3OjpjdmRfdmlldyIsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -432,22 +432,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF9lZGl0OjpjdmRfZWRpdCIsCg==</text>
+        <text encoding="base64">ICAgICgKICAgICAgICAiU0NIRURVTElORyIsCiAgICAgICAgWwogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdDo6Q2FuIGFkZCByZXNvdXJjZSBwcm9qZWN0OjphZGRfcmVzb3VyY2Vwcm9qZWN0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpyZXNvdXJjZXByb2plY3Q6OkNhbiBjaGFuZ2UgcmVzb3VyY2UgcHJvamVjdDo6Y2hhbmdlX3Jlc291cmNlcHJvamVjdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6cmVzb3VyY2Vwcm9qZWN0OjpDYW4gZGVsZXRlIHJlc291cmNlIHByb2plY3Q6OmRlbGV0ZV9yZXNvdXJjZXByb2plY3QiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdDo6Q2FuIHZpZXcgcmVzb3VyY2UgcHJvamVjdDo6dmlld19yZXNvdXJjZXByb2plY3QiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdGdyb3VwOjpDYW4gYWRkIHJlc291cmNlIHByb2plY3QgZ3JvdXA6OmFkZF9yZXNvdXJjZXByb2plY3Rncm91cCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6cmVzb3VyY2Vwcm9qZWN0Z3JvdXA6OkNhbiBjaGFuZ2UgcmVzb3VyY2UgcHJvamVjdCBncm91cDo6Y2hhbmdlX3Jlc291cmNlcHJvamVjdGdyb3VwIiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpyZXNvdXJjZXByb2plY3Rncm91cDo6Q2FuIGRlbGV0ZSByZXNvdXJjZSBwcm9qZWN0IGdyb3VwOjpkZWxldGVfcmVzb3VyY2Vwcm9qZWN0Z3JvdXAiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdGdyb3VwOjpDYW4gdmlldyByZXNvdXJjZSBwcm9qZWN0IGdyb3VwOjp2aWV3X3Jlc291cmNlcHJvamVjdGdyb3VwIiwKICAgICAgICBdLAogICAgKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZC5hZGRfZWRpdF9kZWxldGU6OmN2ZC5hZGRfZWRpdF9kZWxldGUiLAo=</text>
+        <text encoding="base64">ICAgICgKICAgICAgICAiVEVBTV9MRUFEUyIsCiAgICAgICAgWwogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OmJkc2FleGNsdWRlZGZyb21jdnNzdmFsaWRhdGlvbmV4cG9ydDo6Q2FuIGFkZCBiZHNhIGV4Y2x1ZGVkIGZyb20gY3ZzcyB2YWxpZGF0aW9uIGV4cG9ydDo6YWRkX2Jkc2FleGNsdWRlZGZyb21jdnNzdmFsaWRhdGlvbmV4cG9ydCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6YmRzYWV4Y2x1ZGVkZnJvbWN2c3N2YWxpZGF0aW9uZXhwb3J0OjpDYW4gY2hhbmdlIGJkc2EgZXhjbHVkZWQgZnJvbSBjdnNzIHZhbGlkYXRpb24gZXhwb3J0OjpjaGFuZ2VfYmRzYWV4Y2x1ZGVkZnJvbWN2c3N2YWxpZGF0aW9uZXhwb3J0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpiZHNhZXhjbHVkZWRmcm9tY3Zzc3ZhbGlkYXRpb25leHBvcnQ6OkNhbiBkZWxldGUgYmRzYSBleGNsdWRlZCBmcm9tIGN2c3MgdmFsaWRhdGlvbiBleHBvcnQ6OmRlbGV0ZV9iZHNhZXhjbHVkZWRmcm9tY3Zzc3ZhbGlkYXRpb25leHBvcnQiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OmJkc2FleGNsdWRlZGZyb21jdnNzdmFsaWRhdGlvbmV4cG9ydDo6Q2FuIHZpZXcgYmRzYSBleGNsdWRlZCBmcm9tIGN2c3MgdmFsaWRhdGlvbiBleHBvcnQ6OnZpZXdfYmRzYWV4Y2x1ZGVkZnJvbWN2c3N2YWxpZGF0aW9uZXhwb3J0IiwKICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiBhZGQgdXNlcjo6YWRkX3VzZXIiLAogICAgICAgICAgICAiYXV0aDo6dXNlcjo6Q2FuIGNoYW5nZSB1c2VyOjpjaGFuZ2VfdXNlciIsCiAgICAgICAgICAgICJhdXRoOjp1c2VyOjpDYW4gZGVsZXRlIHVzZXI6OmRlbGV0ZV91c2VyIiwKICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiB2aWV3IHVzZXI6OnZpZXdfdXNlciIsCiAgICAgICAgXSwKICAgICksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiQ09ERV9TSUdOQVRVUkUiLAogICAgICAgIFsKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjp2dWxuOjpjb2RlX3NpZ25hdHVyZS5hZGRfZWRpdF9kZWxldGU6OmNvZGVfc2lnbmF0dXJlLmFkZF9lZGl0X2RlbGV0ZSIKICAgICAgICBdLAogICAgKSwK</text>
+        <text encoding="base64">ICAgICgKICAgICAgICAiU0NIRURVTElORyIsCiAgICAgICAgWwogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdDo6Q2FuIGFkZCByZXNvdXJjZSBwcm9qZWN0OjphZGRfcmVzb3VyY2Vwcm9qZWN0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpyZXNvdXJjZXByb2plY3Q6OkNhbiBjaGFuZ2UgcmVzb3VyY2UgcHJvamVjdDo6Y2hhbmdlX3Jlc291cmNlcHJvamVjdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6cmVzb3VyY2Vwcm9qZWN0OjpDYW4gZGVsZXRlIHJlc291cmNlIHByb2plY3Q6OmRlbGV0ZV9yZXNvdXJjZXByb2plY3QiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdDo6Q2FuIHZpZXcgcmVzb3VyY2UgcHJvamVjdDo6dmlld19yZXNvdXJjZXByb2plY3QiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdGdyb3VwOjpDYW4gYWRkIHJlc291cmNlIHByb2plY3QgZ3JvdXA6OmFkZF9yZXNvdXJjZXByb2plY3Rncm91cCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6cmVzb3VyY2Vwcm9qZWN0Z3JvdXA6OkNhbiBjaGFuZ2UgcmVzb3VyY2UgcHJvamVjdCBncm91cDo6Y2hhbmdlX3Jlc291cmNlcHJvamVjdGdyb3VwIiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpyZXNvdXJjZXByb2plY3Rncm91cDo6Q2FuIGRlbGV0ZSByZXNvdXJjZSBwcm9qZWN0IGdyb3VwOjpkZWxldGVfcmVzb3VyY2Vwcm9qZWN0Z3JvdXAiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnJlc291cmNlcHJvamVjdGdyb3VwOjpDYW4gdmlldyByZXNvdXJjZSBwcm9qZWN0IGdyb3VwOjp2aWV3X3Jlc291cmNlcHJvamVjdGdyb3VwIiwKICAgICAgICBdLAogICAgKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpzY3JhcGVkdnVsbjo6c2NyYXBlZHZ1bG5fY3JlYXRlOjpzY3JhcGVkdnVsbl9jcmVhdGUiLAo=</text>
+        <text encoding="base64">ICAgICgKICAgICAgICAiVEVBTV9MRUFEUyIsCiAgICAgICAgWwogICAgICAgIF0sCiAgICApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgICAiVlVMTkVSQUJJTElUWV9BTkFMWVNUIiwKICAgICAgICBbCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6c2NyYXBlZHZ1bG46OnNjcmFwZWR2dWxuX2VkaXQ6OnNjcmFwZWR2dWxuX2VkaXQiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OnNjcmFwZWR2dWxuOjpzY3JhcGVkdnVsbl92aWV3OjpzY3JhcGVkdnVsbl92aWV3IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjp2dWxuOjp2dWxuX2VkaXQ6OnZ1bG5fZWRpdCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6dnVsbjo6dnVsbl92aWV3Ojp2dWxuX3ZpZXciLAogICAgICAgIF0sCiAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpiZHNhZXhjbHVkZWRmcm9tY3Zzc3ZhbGlkYXRpb25leHBvcnQ6OkNhbiBhZGQgYmRzYSBleGNsdWRlZCBmcm9tIGN2c3MgdmFsaWRhdGlvbiBleHBvcnQ6OmFkZF9iZHNhZXhjbHVkZWRmcm9tY3Zzc3ZhbGlkYXRpb25leHBvcnQiLAogICAgICAgICAgICAiVFJJTVNzZXJ2ZXI6OmJkc2FleGNsdWRlZGZyb21jdnNzdmFsaWRhdGlvbmV4cG9ydDo6Q2FuIGNoYW5nZSBiZHNhIGV4Y2x1ZGVkIGZyb20gY3ZzcyB2YWxpZGF0aW9uIGV4cG9ydDo6Y2hhbmdlX2Jkc2FleGNsdWRlZGZyb21jdnNzdmFsaWRhdGlvbmV4cG9ydCIsCiAgICAgICAgICAgICJUUklNU3NlcnZlcjo6YmRzYWV4Y2x1ZGVkZnJvbWN2c3N2YWxpZGF0aW9uZXhwb3J0OjpDYW4gZGVsZXRlIGJkc2EgZXhjbHVkZWQgZnJvbSBjdnNzIHZhbGlkYXRpb24gZXhwb3J0OjpkZWxldGVfYmRzYWV4Y2x1ZGVkZnJvbWN2c3N2YWxpZGF0aW9uZXhwb3J0IiwKICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpiZHNhZXhjbHVkZWRmcm9tY3Zzc3ZhbGlkYXRpb25leHBvcnQ6OkNhbiB2aWV3IGJkc2EgZXhjbHVkZWQgZnJvbSBjdnNzIHZhbGlkYXRpb24gZXhwb3J0Ojp2aWV3X2Jkc2FleGNsdWRlZGZyb21jdnNzdmFsaWRhdGlvbmV4cG9ydCIsCiAgICAgICAgICAgICJhdXRoOjp1c2VyOjpDYW4gYWRkIHVzZXI6OmFkZF91c2VyIiwKICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiBjaGFuZ2UgdXNlcjo6Y2hhbmdlX3VzZXIiLAogICAgICAgICAgICAiYXV0aDo6dXNlcjo6Q2FuIGRlbGV0ZSB1c2VyOjpkZWxldGVfdXNlciIsCiAgICAgICAgICAgICJhdXRoOjp1c2VyOjpDYW4gdmlldyB1c2VyOjp2aWV3X3VzZXIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF92aWV3OjpjdmRfdmlldyIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -762,7 +762,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiVVNFUl9BRE1JTiIsCiAgICAgICAgWwogICAgICAgICAgICAiYXV0aDo6dXNlcjo6Q2FuIGFkZCB1c2VyOjphZGRfdXNlciIsCiAgICAgICAgICAgICJhdXRoOjp1c2VyOjpDYW4gY2hhbmdlIHVzZXI6OmNoYW5nZV91c2VyIiwKICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiBkZWxldGUgdXNlcjo6ZGVsZXRlX3VzZXIiLAogICAgICAgIF0sCiAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZF9lZGl0OjpjdmRfZWRpdCIsCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -776,7 +776,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImF1dGg6OnVzZXI6OkNhbiBkZWxldGUgdXNlcjo6ZGVsZXRlX3VzZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRSSU1Tc2VydmVyOjpjdmQ6OmN2ZC5hZGRfZWRpdF9kZWxldGU6OmN2ZC5hZGRfZWRpdF9kZWxldGUiLAo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -791,9 +791,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYWtlX21hdGNoZXNcPg==</last-search>
+      <last-search encoding="base64">XDxibGFja2xpc3R2ZW5kb3Jwcm9kdWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX21hdGNoZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxibGFja2xpc3R2ZW5kb3Jwcm9kdWN0XD4=</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
