@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TESTI</entry>
-        <entry>TEST</entry>
         <entry>sites</entry>
         <entry encoding="base64">XDxkamFuZ29fZGJfc2V0dXBcPg==</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
@@ -25,6 +23,8 @@
         <entry>Copy</entry>
         <entry encoding="base64">XDxDb3B5VG9DbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RSYW5nZVw+</entry>
+        <entry encoding="base64">XDxzY29yZXNcPg==</entry>
+        <entry>TriList</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -121,11 +121,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/apps.py" timestamp="1592467435148">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" timestamp="1592563985168">
         <mark key="[" line="46" column="51" />
         <mark key="]" line="46" column="51" />
@@ -144,12 +139,11 @@
       <file name="/django_content_type [trims@localhost]" timestamp="1592564549571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1592911166133">
-        <mark key="'" line="58" column="62" />
-        <mark key="[" line="417" column="42" />
-        <mark key="]" line="417" column="43" />
-        <mark key="." line="417" column="42" />
-        <mark key="^" line="417" column="43" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1592912112505">
+        <mark key="[" line="58" column="99" />
+        <mark key="]" line="58" column="99" />
+        <mark key="^" line="417" column="57" />
+        <mark key="." line="58" column="99" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" timestamp="1592467951187">
         <mark key="'" line="70" column="0" />
@@ -169,7 +163,8 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592831700431">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592912485471">
+        <mark key="'" line="374" column="34" />
         <mark key="[" line="840" column="0" />
         <mark key="]" line="840" column="0" />
         <mark key="." line="840" column="0" />
@@ -198,11 +193,9 @@
       <file name="/foo.bar" timestamp="1592564549596">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/tri.py" timestamp="1592912450763" />
     </filemarks>
     <jumps>
-      <jump line="1032" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="1035" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="1037" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1049" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1052" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1054" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -300,6 +293,9 @@
       <jump line="25" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="112" column="57" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="58" column="62" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="403" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="837" column="44" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="374" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,8 +303,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJhbmdlID0gZG9jdW1lbnQuY3JlYXRlUmFuZ2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, 'description_technology_overview'</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -390,7 +386,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>scores</text>
+        <text>, 'description_technology_overview'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,7 +410,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RSYW5nZVw+</text>
+        <text>TriList</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -423,14 +419,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJhbmdlID0gZG9jdW1lbnQuY3JlYXRlUmFuZ2UoKTsK</text>
+      <register name="0" type="4">
+        <text>copyToClipboard</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2Uuc2V0RW5kKGVuZE5vZGUsIDApCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCJjb3B5Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,22 +440,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgcmFuZ2Uuc2VsZWN0Tm9kZShkb2N1bWVudC5nZXRFbGVtZW50QnlJZChjb250YWluZXJJZCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLnJlbW92ZUFsbFJhbmdlcygpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLnJlbW92ZUFsbFJhbmdlcygpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgbGV0IHJhbmdlID0gZG9jdW1lbnQuY3JlYXRlUmFuZ2UoKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWFpbkRhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -774,7 +770,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCByYW5nZSA9IGRvY3VtZW50LmNyZWF0ZVJhbmdlKCk7CiAgICBsZXQgc3RhcnROb2RlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NsYXNzaWZpY2F0aW9ucycpCiAgICBjb25zb2xlLmxvZyhzdGFydE5vZGUpCiAgICBsZXQgZW5kTm9kZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdOSVNUNScpCiAgICBjb25zb2xlLmxvZyhlbmROb2RlKQogICAgd2luZG93LmdldFNlbGVjdGlvbigpLnJlbW92ZUFsbFJhbmdlcygpOwogICAgcmFuZ2Uuc2V0U3RhcnQoc3RhcnROb2RlLCAwKQogICAgcmFuZ2Uuc2V0RW5kKGVuZE5vZGUsIDApCg==</text>
+        <text encoding="base64">ICAgICAgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQobWFpbkRhdGEgKyBzY29yZXMpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -788,7 +784,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJhbmdlID0gZG9jdW1lbnQuY3JlYXRlUmFuZ2UoKTsKICAgICAgbGV0IHN0YXJ0Tm9kZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjbGFzc2lmaWNhdGlvbnMnKQogICAgICBjb25zb2xlLmxvZyhzdGFydE5vZGUpCiAgICAgIGxldCBlbmROb2RlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ05JU1Q1JykKICAgICAgY29uc29sZS5sb2coZW5kTm9kZSkKICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLnJlbW92ZUFsbFJhbmdlcygpOwogICAgICByYW5nZS5zZXRTdGFydChzdGFydE5vZGUsIDApCiAgICAgIHJhbmdlLnNldEVuZChlbmROb2RlLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWFpbkRhdGEgPSB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -803,9 +799,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RSYW5nZVw+</last-search>
+      <last-search>TriList</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RSYW5nZVw+</last-pattern>
+      <last-pattern>TriList</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute>force_login(user)</last-substitute>
       <last-dir>1</last-dir>
