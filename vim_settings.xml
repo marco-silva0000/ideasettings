@@ -175,12 +175,12 @@
       <file name="/django_content_type [trims@localhost]" timestamp="1592564549571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1592927315965">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1592989346915">
         <mark key="'" line="414" column="30" />
-        <mark key="[" line="429" column="70" />
-        <mark key="]" line="429" column="70" />
-        <mark key="." line="429" column="70" />
-        <mark key="^" line="429" column="30" />
+        <mark key="[" line="25" column="80" />
+        <mark key="]" line="25" column="87" />
+        <mark key="." line="25" column="86" />
+        <mark key="^" line="25" column="87" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" timestamp="1592467951187">
         <mark key="'" line="70" column="0" />
@@ -303,8 +303,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>All</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -386,7 +386,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>All</text>
       </register>
       <register name="m" type="4">
         <keys>
