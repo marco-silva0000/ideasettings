@@ -122,9 +122,6 @@
         <mark key="^" line="218" column="12" />
         <mark key="." line="46" column="51" />
       </file>
-      <file name="/console" timestamp="1592499249218">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/trims.public.auth_user_groups" timestamp="1593008420112">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,6 +162,12 @@
         <mark key="." line="37" column="72" />
         <mark key="^" line="37" column="73" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1593093249390">
+        <mark key="[" line="371" column="50" />
+        <mark key="]" line="372" column="52" />
+        <mark key="." line="372" column="51" />
+        <mark key="^" line="372" column="52" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592906229818">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -178,12 +181,12 @@
         <mark key="." line="840" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/templatetags/custom_markdownify.py" timestamp="1592997337763" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1593009379539">
-        <mark key="'" line="595" column="53" />
-        <mark key="[" line="663" column="29" />
-        <mark key="]" line="663" column="52" />
-        <mark key="." line="663" column="51" />
-        <mark key="^" line="663" column="52" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1593093176590">
+        <mark key="'" line="601" column="53" />
+        <mark key="[" line="598" column="16" />
+        <mark key="]" line="598" column="16" />
+        <mark key="." line="598" column="16" />
+        <mark key="^" line="598" column="40" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1592831966440">
         <mark key="[" line="39" column="0" />
@@ -303,7 +306,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>False</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -385,7 +388,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>False</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -419,13 +422,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5hc19zdWJqZWN0KCkK</text>
+        <text encoding="base64">ICAgICdQUklPUklUSVpFX1ZFTkRPUl9QUk9EVUNUUyc6IChGYWxzZSwgJycsIGJvb2wpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5hc19zdWJqZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,22 +442,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5hc19zdWJqZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXR0ZWRfc3RhdHVzID09IGVudW1zLlBFRVJfUkVWSUVXOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5ub3RpZnlfcGVlcl9yZXZpZXdlcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNfY2hhbmdlZCA9IHN1Ym1pdHRlZF9zdGF0dXMgIT0gYmVmb3JlX3VwZGF0ZV9jdmQuc3RhdHVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhbmdlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5hc19zdWJqZWN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5hc19zdWJqZWN0KCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -769,7 +772,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkTGlzdCA9IFsKICAgICAgJ2Rlc2NyaXB0aW9uX3N1bW1hcnknLAogICAgICAnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycsCiAgICAgICdkZXNjcmlwdGlvbl9wcmltYXJ5X2lzc3VlJywKICAgICAgJ2Rlc2NyaXB0aW9uX2V4YW1wbGUnLAogICAgICAnY29uc2VxdWVuY2UnLAogICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9zdW1tYXJ5JywKICAgICAgJ2dlbmVyYWxfcmVtZWRpYXRpb25fcHJpbWFyeV9yZW1lZGlhdGlvbicsCiAgICAgICdDVlNTMicsCiAgICAgICdDVlNTMycsCiAgICAgICdOSVNUNUxpa2VsaWhvb2QnLAogICAgICAnTklTVDVJbXBhY3QnLAogICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5ub3RpZnlfcGVlcl9yZXZpZXdlcnMoKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -783,7 +786,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ2NsYXNzaWZpY2F0aW9ucycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
