@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxFeHBvcnRDVkRcPg==</entry>
-        <entry encoding="base64">XDxDVkRGaWx0ZXJcPg==</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxDb3B5VG9DbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxzY29yZXNcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFU1w+</entry>
         <entry encoding="base64">XDxHcm91cFw+</entry>
         <entry encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</entry>
+        <entry>email</entry>
+        <entry>EMAI</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -122,11 +122,11 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593610161495">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="65" column="20" />
-        <mark key="^" line="65" column="20" />
-        <mark key="." line="65" column="19" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593613302166">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="28" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="28" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592912485471">
         <mark key="'" line="374" column="34" />
@@ -152,9 +152,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/django_content_type [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1592564549528">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/trims.public.auth_group" timestamp="1593008422048">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,6 +169,11 @@
         <mark key="'" line="90" column="6" />
       </file>
       <file name="/Django Console" timestamp="1593610364402" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1593612834656">
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="349" column="20" />
+        <mark key="." line="348" column="0" />
+      </file>
       <file name="/django_content_type [trims@localhost]" timestamp="1592564549571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -311,7 +313,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -417,7 +419,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</text>
+        <text>EMAI</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -433,7 +435,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -447,22 +449,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXR0ZWRfc3RhdHVzID09IGVudW1zLlBFRVJfUkVWSUVXOiAgIyBTZWUgaWYgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzCiAgICAgICAgICAgIGlmIG5vdCBzdGF0dXNfY2hhbmdlZDogICMgV2FzIGFscmVhZHkgaW4gUEVFUl9SRVZJRVcsIGNoZWNrIGNvb2xkb3duCiAgICAgICAgICAgICAgICBpZiB0aW1lem9uZS5ub3coKSAtIGxhc3RfY2hhbmdlID4gdGltZWRlbHRhKG1pbnV0ZXM9Y29uc3RhbmNlX2NvbmZpZy5DVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV04pOgogICAgICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzID0gRmFsc2UKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXR0ZWRfc3RhdHVzID09IGVudW1zLlBFRVJfUkVWSUVXOiAgIyBTZWUgaWYgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzCiAgICAgICAgICAgIGlmIG5vdCBzdGF0dXNfY2hhbmdlZDogICMgV2FzIGFscmVhZHkgaW4gUEVFUl9SRVZJRVcsIGNoZWNrIGNvb2xkb3duCiAgICAgICAgICAgICAgICBpZiB0aW1lem9uZS5ub3coKSAtIGxhc3RfY2hhbmdlID4gdGltZWRlbHRhKG1pbnV0ZXM9Y29uc3RhbmNlX2NvbmZpZy5DVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV04pOgogICAgICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzID0gRmFsc2UKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBGYWxzZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBzdGF0dXNfY2hhbmdlZCBhbmQgc3VibWl0dGVkX3N0YXR1cyA9PSBlbnVtcy5QRUVSX1JFVklFVwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlfCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBzdGF0dXNfY2hhbmdlZCBhbmQgc3VibWl0dGVkX3N0YXR1cyA9PSBlbnVtcy5QRUVSX1JFVklFVwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -777,7 +779,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlfCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -791,7 +793,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXR0ZWRfc3RhdHVzID09IGVudW1zLlBFRVJfUkVWSUVXOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -806,9 +808,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</last-search>
+      <last-search>EMAI</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</last-pattern>
+      <last-pattern>EMAI</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
