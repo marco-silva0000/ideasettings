@@ -122,6 +122,12 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593610161495">
+        <mark key="[" line="62" column="22" />
+        <mark key="]" line="65" column="20" />
+        <mark key="^" line="65" column="20" />
+        <mark key="." line="65" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592912485471">
         <mark key="'" line="374" column="34" />
         <mark key="[" line="840" column="0" />
@@ -165,9 +171,7 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" timestamp="1593526051137">
         <mark key="'" line="90" column="6" />
       </file>
-      <file name="/Django Console" timestamp="1593526053931">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Django Console" timestamp="1593610364402" />
       <file name="/django_content_type [trims@localhost]" timestamp="1592564549571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,11 +188,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1593526596493">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1593610335155">
+        <mark key="'" line="40" column="41" />
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1593093853221">
         <mark key="[" line="371" column="5" />
@@ -198,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1203" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1206" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1208" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1221" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -298,6 +302,7 @@
       <jump line="402" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="224" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="25" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="40" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
