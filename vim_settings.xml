@@ -122,11 +122,11 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593613302166">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="28" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="28" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593613335503">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592912485471">
         <mark key="'" line="374" column="34" />
@@ -169,7 +169,7 @@
         <mark key="'" line="90" column="6" />
       </file>
       <file name="/Django Console" timestamp="1593610364402" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1593612834656">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1593613320606">
         <mark key="[" line="348" column="0" />
         <mark key="]" line="349" column="20" />
         <mark key="." line="348" column="0" />
@@ -312,8 +312,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -395,7 +395,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>selectRange</text>
+        <text>10</text>
       </register>
       <register name="m" type="4">
         <keys>
