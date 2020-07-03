@@ -122,11 +122,11 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593613335503">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="39" />
-        <mark key="." line="38" column="38" />
-        <mark key="^" line="38" column="39" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593782902380">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592912485471">
         <mark key="'" line="374" column="34" />
@@ -197,9 +197,9 @@
         <mark key="." line="40" column="41" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1593093853221">
-        <mark key="[" line="371" column="5" />
-        <mark key="]" line="371" column="42" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1593782894884">
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="335" column="1" />
         <mark key="." line="371" column="42" />
         <mark key="^" line="371" column="43" />
       </file>
@@ -313,7 +313,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>#</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -395,7 +395,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -428,8 +428,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>CVD_PEER_REVIEW_EMAIL_COOLDOWN_MINUTES</text>
+      <register name="0" type="2">
+        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDS0VORFMgPSAoCiAgICAjJ2RqYW5nb19hdXRoX2xkYXAuYmFja2VuZC5MREFQQmFja2VuZCcsCiAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQnLAopCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
