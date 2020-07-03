@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>import</entry>
         <entry encoding="base64">XDxDb3B5VG9DbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxzY29yZXNcPg==</entry>
         <entry>TriList</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</entry>
         <entry>email</entry>
         <entry>EMAI</entry>
+        <entry>ldap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -159,9 +159,6 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="48" />
       </file>
-      <file name="/trims.public.django_content_type" timestamp="1592564549585">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1593008422063">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,9 +171,6 @@
         <mark key="]" line="349" column="20" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="/django_content_type [trims@localhost]" timestamp="1592564549571">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1593527942663">
         <mark key="'" line="25" column="53" />
         <mark key="[" line="23" column="21" />
@@ -184,12 +178,11 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1592830919929">
-        <mark key="'" line="148" column="32" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/forms.py" timestamp="1593783071453" />
+      <file name="$USER_HOME$/projects/trims/server/poetry.lock" timestamp="1593783125840">
+        <mark key="'" line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1593783088184" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1593610335155">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="39" column="73" />
@@ -205,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1206" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1208" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1221" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1224" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -305,6 +297,7 @@
       <jump line="224" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="25" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="40" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" />
+      <jump line="12" column="14" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -419,7 +412,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>EMAI</text>
+        <text>ldap</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -808,9 +801,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>EMAI</last-search>
+      <last-search>ldap</last-search>
       <last-offset />
-      <last-pattern>EMAI</last-pattern>
+      <last-pattern>ldap</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
