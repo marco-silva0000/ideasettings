@@ -140,13 +140,6 @@
       <file name="/auth_group [trims@localhost]" timestamp="1593008422034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1593528116990">
-        <mark key="'" line="52" column="68" />
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="83" column="21" />
-        <mark key="." line="83" column="20" />
-        <mark key="^" line="83" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1592831966440">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -165,11 +158,10 @@
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" timestamp="1593526051137">
         <mark key="'" line="90" column="6" />
       </file>
-      <file name="/Django Console" timestamp="1593610364402" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1593613320606">
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="349" column="20" />
-        <mark key="." line="348" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1594028889232">
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1593527942663">
         <mark key="'" line="25" column="53" />
@@ -183,12 +175,10 @@
         <mark key="'" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1593783088184" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1593610335155">
-        <mark key="'" line="40" column="41" />
-        <mark key="[" line="39" column="73" />
-        <mark key="]" line="40" column="42" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="40" column="42" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594028705184">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1593782894884">
         <mark key="[" line="332" column="0" />
@@ -306,7 +296,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -388,7 +378,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -428,7 +418,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
+        <text encoding="base64">I0FVVEhfTERBUF9TRVJWRVJfVVJJID0gImxkYXA6Ly8xMC4xLjQuMTAiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -442,22 +432,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlY2lwaWVudF9saXN0ID0gWydtc2lsdmFAc3lub3BzeXMuY29tJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAK</text>
+        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXR0ZWRfc3RhdHVzID09IGVudW1zLlBFRVJfUkVWSUVXOiAgIyBTZWUgaWYgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzCiAgICAgICAgICAgIGlmIG5vdCBzdGF0dXNfY2hhbmdlZDogICMgV2FzIGFscmVhZHkgaW4gUEVFUl9SRVZJRVcsIGNoZWNrIGNvb2xkb3duCiAgICAgICAgICAgICAgICBpZiB0aW1lem9uZS5ub3coKSAtIGxhc3RfY2hhbmdlID4gdGltZWRlbHRhKG1pbnV0ZXM9Y29uc3RhbmNlX2NvbmZpZy5DVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV04pOgogICAgICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzID0gRmFsc2UKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdWJtaXR0ZWRfc3RhdHVzID09IGVudW1zLlBFRVJfUkVWSUVXOiAgIyBTZWUgaWYgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzCiAgICAgICAgICAgIGlmIG5vdCBzdGF0dXNfY2hhbmdlZDogICMgV2FzIGFscmVhZHkgaW4gUEVFUl9SRVZJRVcsIGNoZWNrIGNvb2xkb3duCiAgICAgICAgICAgICAgICBpZiB0aW1lem9uZS5ub3coKSAtIGxhc3RfY2hhbmdlID4gdGltZWRlbHRhKG1pbnV0ZXM9Y29uc3RhbmNlX2NvbmZpZy5DVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV04pOgogICAgICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbm90aWZ5X3BlZXJfcmV2aWV3ZXJzID0gRmFsc2UKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5vdGlmeV9wZWVyX3Jldmlld2VycyA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBGYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBzdGF0dXNfY2hhbmdlZCBhbmQgc3VibWl0dGVkX3N0YXR1cyA9PSBlbnVtcy5QRUVSX1JFVklFVwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -772,7 +762,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -786,7 +776,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlfcGVlcl9yZXZpZXdlcnMgPSBzdGF0dXNfY2hhbmdlZCBhbmQgc3VibWl0dGVkX3N0YXR1cyA9PSBlbnVtcy5QRUVSX1JFVklFVwo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
