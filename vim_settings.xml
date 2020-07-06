@@ -140,11 +140,12 @@
       <file name="/auth_group [trims@localhost]" timestamp="1593008422034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594029971985">
-        <mark key="'" line="17" column="37" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="60" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594031662708">
+        <mark key="'" line="971" column="40" />
+        <mark key="[" line="970" column="30" />
+        <mark key="]" line="971" column="41" />
+        <mark key="." line="971" column="40" />
+        <mark key="^" line="971" column="41" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1592831966440">
         <mark key="[" line="39" column="0" />
@@ -194,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1221" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1224" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1226" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1240" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -294,6 +294,7 @@
       <jump line="12" column="14" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
       <jump line="290" column="31" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="17" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="971" column="40" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,8 +302,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgR3JvdXAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -384,7 +385,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -417,8 +418,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDS0VORFMgPSAoCiAgICAjJ2RqYW5nb19hdXRoX2xkYXAuYmFja2VuZC5MREFQQmFja2VuZCcsCiAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQnLAopCg==</text>
+      <register name="0" type="4">
+        <text>{item.cvd_id}: {item.title}</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
