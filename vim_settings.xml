@@ -122,6 +122,11 @@
         <mark key="." line="39" column="4" />
         <mark key="^" line="37" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594035328707">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1592912485471">
         <mark key="'" line="374" column="34" />
         <mark key="[" line="840" column="0" />
@@ -135,10 +140,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594032732391">
-        <mark key="[" line="53" column="49" />
-        <mark key="]" line="973" column="0" />
-        <mark key="^" line="972" column="61" />
-        <mark key="." line="973" column="0" />
+        <mark key="]" line="949" column="0" />
+        <mark key="^" line="948" column="61" />
+        <mark key="." line="949" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1592831966440">
         <mark key="[" line="39" column="0" />
@@ -152,6 +156,10 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="48" />
       </file>
+      <file name="/cvd_preview.htm" timestamp="1594035116911">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="77" />
+      </file>
       <file name="/foo.bar" timestamp="1593008422063">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,22 +169,16 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1594033563612">
         <mark key="'" line="221" column="0" />
         <mark key="[" line="345" column="0" />
-        <mark key="]" line="352" column="115" />
-        <mark key="." line="352" column="114" />
-        <mark key="^" line="352" column="115" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1593527942663">
-        <mark key="'" line="25" column="53" />
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594035121259">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="78" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="23" column="78" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/forms.py" timestamp="1593783071453" />
       <file name="$USER_HOME$/projects/trims/server/poetry.lock" timestamp="1593783125840">
         <mark key="'" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1593783088184" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594032623136">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -298,8 +300,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCgo=</text>
+      <register name="&quot;" type="4">
+        <text>add email sending util and rules for CVD PEER_REVIEW</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -381,7 +383,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4dXAhIA==</text>
+        <text>add email sending util and rules for CVD PEER_REVIEW</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,8 +416,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGEgaHJlZj0ie3sgbGlzdF9ocmVmIH19Ij5DVkQte3sgY3ZkLmN2ZF9pZCB9fTwvYT4ge3sgY3ZkLnRpdGxlIH19</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
