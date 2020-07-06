@@ -122,7 +122,7 @@
         <mark key="." line="39" column="4" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594035328707">
+      <file name="/Dummy.txt" timestamp="1594035954194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -301,7 +301,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>add email sending util and rules for CVD PEER_REVIEW</text>
+        <text>Add navigation link back to trims on CVD preview</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -383,7 +383,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>add email sending util and rules for CVD PEER_REVIEW</text>
+        <text>Add navigation link back to trims on CVD preview</text>
       </register>
       <register name="m" type="4">
         <keys>
