@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RSYW5nZVw+</entry>
-        <entry encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</entry>
-        <entry>copy</entry>
         <entry encoding="base64">XDx0ZW1wXD4=</entry>
         <entry encoding="base64">XDxOSVNUNUxpa2VsaWhvb2RcPg==</entry>
         <entry encoding="base64">XDxOSVNUNUltcGFjdFw+</entry>
@@ -25,6 +22,9 @@
         <entry>EMAIL</entry>
         <entry>docs</entry>
         <entry>installed</entry>
+        <entry>CONSTA</entry>
+        <entry>constan</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -113,9 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/auth_user_groups [trims@localhost]" timestamp="1593008419905">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1593782902380">
         <mark key="[" line="39" column="4" />
         <mark key="]" line="39" column="4" />
@@ -129,25 +126,15 @@
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1594054433156">
         <mark key="'" line="3" column="12" />
-        <mark key="[" line="840" column="0" />
-        <mark key="]" line="840" column="0" />
-        <mark key="." line="840" column="0" />
       </file>
-      <file name="/trims.public.auth_user_groups" timestamp="1593008420112">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/admin.py" timestamp="1594115268408">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="/auth_group [trims@localhost]" timestamp="1593008422034">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594032732391">
-        <mark key="]" line="949" column="0" />
-        <mark key="^" line="948" column="61" />
-        <mark key="." line="949" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/__init__.py" timestamp="1592831966440">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="/trims.public.auth_group" timestamp="1593008422048">
         <mark key="[" line="0" column="0" />
@@ -176,8 +163,10 @@
         <mark key="." line="23" column="77" />
         <mark key="^" line="23" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/poetry.lock" timestamp="1593783125840">
-        <mark key="'" line="12" column="14" />
+      <file name="$USER_HOME$/projects/trims/client/src/app/scrapedvuln/scrapedvuln-list.component.html" timestamp="1594115482593">
+        <mark key="[" line="429" column="92" />
+        <mark key="]" line="426" column="25" />
+        <mark key="." line="426" column="26" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594032623136">
         <mark key="[" line="40" column="0" />
@@ -185,7 +174,8 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1593782894884">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1594111884739">
+        <mark key="'" line="148" column="17" />
         <mark key="[" line="332" column="0" />
         <mark key="]" line="335" column="1" />
         <mark key="." line="371" column="42" />
@@ -193,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1240" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1243" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1245" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1254" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
@@ -293,6 +282,7 @@
       <jump line="221" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
       <jump line="374" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="3" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="148" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +291,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Add navigation link back to trims on CVD preview</text>
+        <text>Version</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -383,7 +373,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>Add navigation link back to trims on CVD preview</text>
+        <text>Version</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -407,7 +397,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>installed</text>
+        <text>const</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -416,8 +406,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGEgaHJlZj0ie3sgbGlzdF9ocmVmIH19Ij5DVkQte3sgY3ZkLmN2ZF9pZCB9fTwvYT4ge3sgY3ZkLnRpdGxlIH19</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIENWRFZlcnNpb24sCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -796,9 +786,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>installed</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>installed</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
