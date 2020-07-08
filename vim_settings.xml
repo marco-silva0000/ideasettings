@@ -124,12 +124,12 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1594222472566">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1594223694999">
         <mark key="'" line="121" column="4" />
-        <mark key="[" line="169" column="69" />
-        <mark key="]" line="169" column="83" />
-        <mark key="." line="169" column="82" />
-        <mark key="^" line="169" column="83" />
+        <mark key="[" line="176" column="45" />
+        <mark key="]" line="176" column="49" />
+        <mark key="." line="176" column="48" />
+        <mark key="^" line="176" column="49" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594035121259">
         <mark key="[" line="23" column="12" />
@@ -307,7 +307,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>or</text>
+        <text>getattr(vp, 'rank', 0)</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -389,7 +389,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>getattr(vp, 'rank', 0)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -423,13 +423,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>update_vendor_product_rank</text>
+        <text>vp.get('rank', 0)</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ9e30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodnBbJ3JhbmsnXSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -443,22 +443,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGVhbl92ZW5kb3JfcHJvZHVjdF9saXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhIHZwOiBwcmludCh2cCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+        <text encoding="base64">ICAgICAgICBjbGVhbl92ZW5kb3JfcHJvZHVjdF9saXN0ID0gbGlzdChmaWx0ZXIoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGNsZWFuX3ZlbmRvcl9wcm9kdWN0X2xpc3RbMF0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ9e30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbGVhbl92ZW5kb3JfcHJvZHVjdF9saXN0KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,7 +773,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHYudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -787,7 +787,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCgo=</text>
+        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
