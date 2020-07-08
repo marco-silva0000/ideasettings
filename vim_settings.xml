@@ -123,14 +123,10 @@
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="77" />
       </file>
-      <file name="/a.sql" timestamp="1594216971430">
-        <mark key="[" line="131" column="0" />
+      <file name="/a.sql" timestamp="1594218347926">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1594033563612">
-        <mark key="'" line="221" column="0" />
-        <mark key="[" line="345" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594035121259">
         <mark key="[" line="23" column="12" />
@@ -138,10 +134,13 @@
         <mark key="." line="23" column="77" />
         <mark key="^" line="23" column="78" />
       </file>
-      <file name="/default" timestamp="1594216977569">
+      <file name="/default" timestamp="1594218354650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.vuln_tri_priority_score" timestamp="1594217017424">
+      <file name="/trims.public.vuln_tri_priority_score" timestamp="1594218194239">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/vuln_tri_priority_score [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1594218194225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/client/src/app/scrapedvuln/scrapedvuln-list.component.html" timestamp="1594115482593">
@@ -185,17 +184,17 @@
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594213330834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1594217017439">
+      <file name="/foo.bar" timestamp="1594218194252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" timestamp="1594217033974">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="26" />
+      <file name="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" timestamp="1594218327385">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="12" />
+        <mark key="." line="73" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1243" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="1245" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1254" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="1255" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="150" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
@@ -294,6 +293,8 @@
       <jump line="374" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="3" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="148" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
+      <jump line="0" column="72" filename="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" />
+      <jump line="7" column="6" filename="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,8 +302,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -384,7 +385,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>version_list</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -408,7 +409,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -417,8 +418,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+      <register name="0" type="4">
+        <text>vendor_product_rank</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -797,9 +798,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>const</last-search>
+      <last-search encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
