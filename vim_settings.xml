@@ -23,8 +23,8 @@
         <entry>CONSTA</entry>
         <entry>constan</entry>
         <entry>const</entry>
-        <entry encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</entry>
         <entry>list</entry>
+        <entry encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -119,14 +119,17 @@
       <file name="/vuln_tri_priority_score [trims@localhost]" timestamp="1594218498536">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cvd_preview.htm" timestamp="1594035116911">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="77" />
-      </file>
       <file name="/a.sql" timestamp="1594218874355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1594222472566">
+        <mark key="'" line="121" column="4" />
+        <mark key="[" line="169" column="69" />
+        <mark key="]" line="169" column="83" />
+        <mark key="." line="169" column="82" />
+        <mark key="^" line="169" column="83" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594035121259">
         <mark key="[" line="23" column="12" />
@@ -196,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1254" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
-      <jump line="1255" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/serializers/test_vuln_serializer.py" />
       <jump line="150" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
       <jump line="3" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
       <jump line="156" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
@@ -296,6 +297,8 @@
       <jump line="148" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="7" column="6" filename="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" />
       <jump line="0" column="475" filename="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" />
+      <jump line="254" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" />
+      <jump line="121" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,8 +306,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
+      <register name="&quot;" type="4">
+        <text>or</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -386,7 +389,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>vendor_product_rank,</text>
+        <text>or</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -410,7 +413,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -419,14 +422,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+      <register name="0" type="4">
+        <text>update_vendor_product_rank</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ9e30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -440,7 +443,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbGVhbl92ZW5kb3JfcHJvZHVjdF9saXN0KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
@@ -452,10 +455,10 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHYudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
+        <text encoding="base64">ICAgIHEudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi52ZW5kb3JfcHJvZHVjdF9yYW5rLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -770,7 +773,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHYudmVuZG9yX3Byb2R1Y3RfcmFuaywK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -784,7 +787,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN1YmplY3QpCiAgICBwcmludChtZXNzYWdlKQogICAgcHJpbnQoZnJvbV9lbWFpbCkKICAgIHByaW50KGxpc3QocmVjaXBpZW50X2xpc3QpKQo=</text>
+        <text encoding="base64">IyAgICBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCgo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -799,9 +802,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>list</last-search>
+      <last-search encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
