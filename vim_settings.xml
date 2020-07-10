@@ -5,17 +5,13 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOSVNUNUltcGFjdFw+</entry>
-        <entry encoding="base64">XDxjb3B5VG9DbGlwYm9hcmRcPg==</entry>
         <entry>copyAll</entry>
         <entry encoding="base64">XDxjb25zdGFuY2VfY29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFU1w+</entry>
         <entry encoding="base64">XDxHcm91cFw+</entry>
         <entry encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</entry>
         <entry>email</entry>
         <entry>EMAI</entry>
         <entry>ldap</entry>
-        <entry>notify</entry>
         <entry encoding="base64">XDxub3RpZnlfZ3JvdXBcPg==</entry>
         <entry>EMAIL</entry>
         <entry>docs</entry>
@@ -25,6 +21,10 @@
         <entry>const</entry>
         <entry>list</entry>
         <entry encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</entry>
+        <entry>send</entry>
+        <entry>notify</entry>
+        <entry encoding="base64">XDxDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFU1w+</entry>
+        <entry>CONST</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\r/g</entry>
@@ -124,12 +124,11 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1594223764815">
-        <mark key="'" line="121" column="4" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="168" column="49" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1594375591748">
+        <mark key="'" line="342" column="35" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="372" column="52" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="/Django Console" timestamp="1594229221364">
         <mark key="[" line="0" column="0" />
@@ -143,34 +142,26 @@
       <file name="/vuln_tri_priority_score [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1594218194225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/client/src/app/scrapedvuln/scrapedvuln-list.component.html" timestamp="1594115482593">
-        <mark key="[" line="429" column="92" />
-        <mark key="]" line="426" column="25" />
-        <mark key="." line="426" column="26" />
-      </file>
       <file name="/TRIMSserver_vuln [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1594214154986">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1594111884739">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594375151332">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="54" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1594375518796">
         <mark key="'" line="148" column="17" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="335" column="1" />
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="373" column="1" />
         <mark key="." line="371" column="42" />
         <mark key="^" line="371" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594213312886">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1594375220146">
+        <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1594054433156">
-        <mark key="'" line="3" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/admin.py" timestamp="1594115268408">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="15" />
       </file>
       <file name="/vuln_tri_priority_score [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1594216812260">
         <mark key="[" line="0" column="0" />
@@ -181,14 +172,15 @@
         <mark key="^" line="129" column="34" />
         <mark key="." line="129" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594375495107">
+        <mark key="'" line="53" column="68" />
+        <mark key="[" line="902" column="58" />
+        <mark key="]" line="902" column="63" />
+        <mark key="." line="902" column="62" />
+        <mark key="^" line="902" column="63" />
+      </file>
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594218920899">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1594230675831">
-        <mark key="[" line="63" column="102" />
-        <mark key="]" line="64" column="4" />
-        <mark key="^" line="64" column="4" />
-        <mark key="." line="64" column="3" />
       </file>
       <file name="/foo.bar" timestamp="1594229317974">
         <mark key="[" line="0" column="0" />
@@ -202,12 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
-      <jump line="3" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
-      <jump line="156" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" />
-      <jump line="374" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
-      <jump line="54" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
-      <jump line="52" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="221" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="49" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="53" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
@@ -292,7 +278,6 @@
       <jump line="40" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" />
       <jump line="12" column="14" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
       <jump line="290" column="31" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="17" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="971" column="40" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="221" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
       <jump line="374" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
@@ -302,6 +287,13 @@
       <jump line="0" column="475" filename="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" />
       <jump line="254" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" />
       <jump line="121" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" />
+      <jump line="25" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1318" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="17" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="897" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="896" column="70" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="53" column="68" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="342" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +301,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'price',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFUyc6ICg1LCAnJywgaW50KSwKICAgICdTRU5EX0NWRF9QRUVSX1JFVklFV19FTUFJTCc6IChGYWxzZSwgJycsIGJvb2wpLAo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -392,7 +384,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>'price',</text>
+        <text>CVD_PEER_REVIEW_EMAIL_COOLDOWN_MINUTES</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -416,7 +408,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</text>
+        <text>CONST</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -425,14 +417,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>'vendor_product_rank',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFUyc6ICg1LCAnJywgaW50KSwKICAgICdTRU5EX0NWRF9QRUVSX1JFVklFV19FTUFJTCc6IChGYWxzZSwgJycsIGJvb2wpLAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZlbmRvcl9wcm9kdWN0X3JhbmsiLAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -446,22 +438,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZlbmRvcl9wcm9kdWN0X3JhbmspCg==</text>
+        <text encoding="base64">ICAgICdQUklPUklUSVpFX1ZFTkRPUl9QUk9EVUNUUyc6IChGYWxzZSwgJycsIGJvb2wpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtaW5fdmVuZG9yX3Byb2R1Y3QpCg==</text>
+        <text encoding="base64">ICAgICdCWVBBU1NfUEVFUl9SRVZJRVcnOiAoJ3llcycsICdTZWxlY3QgeWVzIG9yIG5vJywgJ3llc19ub19zZWxlY3QnKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGVhbl92ZW5kb3JfcHJvZHVjdF9saXN0KQo=</text>
+        <text encoding="base64">Q09OU1RBTkNFX0NPTkZJRyA9IHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdnAgaW4gdmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0OgogICAgICAgICAgICBwcmludCh2cCkKICAgICAgICAgICAgcHJpbnQodHlwZSh2cCkpCiAgICAgICAgICAgIHByaW50KHZwLmdldCgncmFuaycsIDApKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHZlbmRvcl9wcm9kdWN0X3ZlcnNpb25fbGlzdCkpCg==</text>
+        <text encoding="base64">U0VORF9DVkRfUEVFUl9SRVZJRVcgPSBnZXRhdHRyKGNvbnN0YW5jZV9jb25maWcsICdDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFUycsIDUpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -776,7 +768,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInZlbmRvcl9wcm9kdWN0X3JhbmsiLAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -790,7 +782,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndXBkYXRlX3ZlbmRvcl9wcm9kdWN0X3JhbmsnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZlbmRvcl9wcm9kdWN0X3JhbmspCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -805,9 +797,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</last-search>
+      <last-search>CONST</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</last-pattern>
+      <last-pattern>CONST</last-pattern>
       <last-replace>force_authenticate(user, fake.sha256())</last-replace>
       <last-substitute encoding="base64">XDxzdWJtaXR0ZWRfc3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
