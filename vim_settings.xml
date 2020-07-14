@@ -119,6 +119,7 @@
       <file name="/vuln_tri_priority_score [trims@localhost]" timestamp="1594229317956">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0405_vuln_vendor_product_rank.py" timestamp="1594713616072" />
       <file name="/a.sql" timestamp="1594218874355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="0" />
@@ -142,9 +143,6 @@
       <file name="/vuln_tri_priority_score [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1594218194225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TRIMSserver_vuln [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1594214154986">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594375151332">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="51" column="0" />
@@ -162,9 +160,6 @@
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="/vuln_tri_priority_score [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1594216812260">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/f3033b11/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/database/trims/schema/public/view/vuln_tri_priority_score.sql" timestamp="1594216945848">
         <mark key="[" line="129" column="30" />
@@ -185,6 +180,7 @@
       <file name="/foo.bar" timestamp="1594229317974">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_merge_20200707_1211.py" timestamp="1594713608300" />
       <file name="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" timestamp="1594218870844">
         <mark key="'" line="0" column="475" />
         <mark key="[" line="109" column="0" />
