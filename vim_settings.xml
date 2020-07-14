@@ -119,8 +119,19 @@
       <file name="/vuln_tri_priority_score [trims@localhost]" timestamp="1594229317956">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console" timestamp="1594717641485">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1594717733031">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0405_vuln_vendor_product_rank.py" timestamp="1594713616072" />
-      <file name="/a.sql" timestamp="1594218874355">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/console.sql" timestamp="1594717643717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1594717682354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
@@ -132,9 +143,6 @@
         <mark key="." line="373" column="0" />
       </file>
       <file name="/Django Console" timestamp="1594229221364">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1594218354650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/trims.public.vuln_tri_priority_score" timestamp="1594229317966">
@@ -152,8 +160,8 @@
         <mark key="." line="371" column="42" />
         <mark key="^" line="371" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594717071676">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1594717750041">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -174,9 +182,6 @@
         <mark key="]" line="980" column="0" />
         <mark key="." line="980" column="0" />
       </file>
-      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594218920899">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1594716147448">
         <mark key="[" line="1058" column="41" />
         <mark key="]" line="1058" column="41" />
@@ -187,13 +192,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_merge_20200707_1211.py" timestamp="1594713608300" />
-      <file name="/app/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/database/trims/schema/public/view/vuln_tri_priority_score.sql" timestamp="1594218870844">
-        <mark key="'" line="0" column="475" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="11" />
-        <mark key="." line="109" column="12" />
-        <mark key="^" line="0" column="531" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="53" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
@@ -304,7 +302,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>trims.public.</text>
+        <text>auto_20200714_0902</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -386,7 +384,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>trims.public.</text>
+        <text>auto_20200714_0902</text>
       </register>
       <register name="m" type="4">
         <keys>
