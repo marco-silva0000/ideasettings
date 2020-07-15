@@ -113,9 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/trims.public.TRIMSserver_vuln" timestamp="1594218920910">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/vuln_tri_priority_score [trims@localhost]" timestamp="1594229317956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,6 +127,10 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0405_vuln_vendor_product_rank.py" timestamp="1594713616072" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/console.sql" timestamp="1594717643717">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/cvd_preview.htm" timestamp="1594803009164">
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="414" column="22" />
       </file>
       <file name="/a.sql" timestamp="1594717682354">
         <mark key="[" line="0" column="0" />
@@ -301,8 +302,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>auto_20200714_0902</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb25fc3VtbWFyeScsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3RlY2hub2xvZ3lfb3ZlcnZpZXcnLAogICAgICAgICdkZXNjcmlwdGlvbl9wcmltYXJ5X2lzc3VlJywKICAgICAgICAnZGVzY3JpcHRpb25fZXhhbXBsZScsCiAgICAgICAgJ2NvbnNlcXVlbmNlJywKICAgICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9wcmltYXJ5X3JlbWVkaWF0aW9uJywKICAgICAgICAnQ1ZTUzInLAogICAgICAgICdDVlNTMycsCiAgICAgICAgJ05JU1Q1TGlrZWxpaG9vZCcsCiAgICAgICAgJ05JU1Q1SW1wYWN0JywK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -417,8 +418,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>delete_tmp_cvd_table</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb25fc3VtbWFyeScsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3RlY2hub2xvZ3lfb3ZlcnZpZXcnLAogICAgICAgICdkZXNjcmlwdGlvbl9wcmltYXJ5X2lzc3VlJywKICAgICAgICAnZGVzY3JpcHRpb25fZXhhbXBsZScsCiAgICAgICAgJ2NvbnNlcXVlbmNlJywKICAgICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9wcmltYXJ5X3JlbWVkaWF0aW9uJywKICAgICAgICAnQ1ZTUzInLAogICAgICAgICdDVlNTMycsCiAgICAgICAgJ05JU1Q1TGlrZWxpaG9vZCcsCiAgICAgICAgJ05JU1Q1SW1wYWN0JywK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
