@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</entry>
-        <entry>email</entry>
-        <entry>EMAI</entry>
-        <entry>ldap</entry>
         <entry encoding="base64">XDxub3RpZnlfZ3JvdXBcPg==</entry>
         <entry>EMAIL</entry>
         <entry>docs</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxjb25zdGFuY2VfY29uZmlnXD4=</entry>
         <entry>this</entry>
         <entry>fir</entry>
+        <entry encoding="base64">XDxuaXN0XzVfcG9pbnRfc2NvcmVfaW1wYWN0XD4=</entry>
+        <entry encoding="base64">XDxjb3B5QWxsVG9DbGlwYm9hcmRcPg==</entry>
+        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxyZW5kZXJlcl9jbGFzc2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w\</entry>
@@ -43,9 +43,9 @@
         <entry>108</entry>
         <entry>wq</entry>
         <entry>r</entry>
-        <entry>W</entry>
         <entry>f</entry>
         <entry>%s/this/self/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -116,6 +116,49 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1594887098224">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console" timestamp="1594717641485">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1594717733031">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1594912726023">
+        <mark key="'" line="334" column="76" />
+        <mark key="[" line="314" column="8" />
+        <mark key="]" line="314" column="27" />
+        <mark key="." line="342" column="42" />
+        <mark key="^" line="339" column="44" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/console.sql" timestamp="1594717643717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/cvd_preview.htm" timestamp="1594804422705">
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="414" column="22" />
+      </file>
+      <file name="/a.sql" timestamp="1594717682354">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1594894581031">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594912152383">
+        <mark key="'" line="474" column="0" />
+        <mark key="[" line="440" column="34" />
+        <mark key="]" line="440" column="58" />
+        <mark key="." line="440" column="57" />
+        <mark key="^" line="440" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594894731745">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594887098788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -125,24 +168,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="86" />
       </file>
-      <file name="/console" timestamp="1594717641485">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1594717733031">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1594895696569">
-        <mark key="'" line="324" column="8" />
-        <mark key="[" line="302" column="8" />
-        <mark key="]" line="302" column="27" />
-        <mark key="^" line="325" column="64" />
-        <mark key="." line="324" column="79" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/console.sql" timestamp="1594717643717">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_auto_20200714_0902.py" timestamp="1594717584151">
         <mark key="'" line="4" column="75" />
         <mark key="[" line="4" column="45" />
@@ -150,18 +175,15 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594716805008">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="980" column="0" />
-        <mark key="]" line="980" column="0" />
-        <mark key="." line="980" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594913604538">
+        <mark key="'" line="1064" column="43" />
+        <mark key="[" line="1080" column="46" />
+        <mark key="]" line="1080" column="64" />
+        <mark key="^" line="1080" column="64" />
+        <mark key="." line="1080" column="63" />
       </file>
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594887098219">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/cvd_preview.htm" timestamp="1594804422705">
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="414" column="22" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1594716147448">
         <mark key="[" line="1058" column="41" />
@@ -169,62 +191,22 @@
         <mark key="^" line="1063" column="34" />
         <mark key="." line="1058" column="41" />
       </file>
-      <file name="/a.sql" timestamp="1594717682354">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1594887098226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1594375633220">
-        <mark key="'" line="342" column="35" />
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="372" column="52" />
-        <mark key="." line="373" column="0" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1594913321164" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/renderers.py" timestamp="1594913252228">
+        <mark key="[" line="191" column="14" />
+        <mark key="]" line="191" column="20" />
+        <mark key="^" line="191" column="20" />
+        <mark key="." line="191" column="19" />
       </file>
-      <file name="/Django Console" timestamp="1594894581031">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594891088373">
-        <mark key="[" line="440" column="10" />
-        <mark key="]" line="440" column="17" />
-        <mark key="^" line="440" column="17" />
-        <mark key="." line="440" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594894731745">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="17" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/renderers.py" timestamp="1594912895156">
+        <mark key="[" line="205" column="6" />
+        <mark key="]" line="205" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="10" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
-      <jump line="16" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
-      <jump line="237" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="355" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="71" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
-      <jump line="55" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/content_replace.py" />
-      <jump line="163" column="24" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/contenttypes/models.py" />
-      <jump line="74" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="226" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="289" column="12" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="319" column="16" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="352" column="35" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="314" column="60" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="388" column="58" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="22" column="56" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="172" column="47" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="177" column="60" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="189" column="58" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="199" column="44" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="302" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="308" column="15" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/base.py" />
-      <jump line="407" column="27" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
-      <jump line="69" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/core/management/__init__.py" />
@@ -300,6 +282,31 @@
       <jump line="4" column="75" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_auto_20200714_0902.py" />
       <jump line="317" column="39" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="324" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="330" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="334" column="76" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
+      <jump line="439" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="440" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="474" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="1292" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="8" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="321" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="327" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="336" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="395" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="422" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="487" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="719" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="777" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="984" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="991" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="998" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1070" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1067" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="345" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="453" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1007" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1008" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1063" column="43" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +315,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>as_plain_text_report</text>
+        <text>HTTP_200_OK</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -390,7 +397,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>first_fields</text>
+        <text>HTTP_200_OK</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,7 +421,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>fir</text>
+        <text encoding="base64">XDxyZW5kZXJlcl9jbGFzc2VzXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -423,14 +430,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>as_plain_text_report</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoaW5zdGFuY2UuYXNfcGxhaW5fdGV4dF9yZXBvcnQoKSwgc3RhdHVzPXN0YXR1cy5IVFRQXzIwMF9PSykK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,22 +451,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dlbmVyYWxfcmVtZWRpYXRpb25fcHJpbWFyeV9yZW1lZGlhdGlvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBDVkQub2JqZWN0cy5maWx0ZXIocGs9Y3ZkX2lkKS5leGlzdHMoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dlbmVyYWxfcmVtZWRpYXRpb25fc3VtbWFyeScsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X2ZpZWxkcyA9IFsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYENWU1MyOiAke3RoaXMuQ1ZTUzJfdmVjdG9yfSAke3RoaXMuQ1ZTUzJ9YCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYENWU1MzOiAke3RoaXMuQ1ZTUzNfdmVjdG9yfSAke3RoaXMuQ1ZTUzN9YCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYE5JU1Qgc2NvcmVgLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBMaWtlbGlob29kOiAke3RoaXMubmlzdF81X3BvaW50X3Njb3JlX2xpa2VsaWhvb2RbMF0udG9VcHBlckNhc2UoKX0ke3RoaXMubmlzdF81X3BvaW50X3Njb3JlX2xpa2VsaWhvb2Quc2xpY2UoMSl9YCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBJbXBhY3Q6ICR7dGhpcy5uaXN0XzVfcG9pbnRfc2NvcmVfaW1wYWN0WzBdLnRvVXBwZXJDYXNlKCl9JHt0aGlzLm5pc3RfNV9wb2ludF9zY29yZV9pbXBhY3Quc2xpY2UoMSl9YCwK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHNlbGYuZ2V0X29iamVjdCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -774,7 +781,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -788,7 +795,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZ2VuZXJhbF9yZW1lZGlhdGlvbl9wcmltYXJ5X3JlbWVkaWF0aW9uJywK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5saXN0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -803,9 +810,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fir</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJlcl9jbGFzc2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>fir</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJlcl9jbGFzc2VzXD4=</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
