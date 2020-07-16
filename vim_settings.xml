@@ -175,26 +175,21 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594913604538">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594913708180">
         <mark key="'" line="1064" column="43" />
-        <mark key="[" line="1080" column="46" />
-        <mark key="]" line="1080" column="64" />
-        <mark key="^" line="1080" column="64" />
-        <mark key="." line="1080" column="63" />
+        <mark key="[" line="1077" column="13" />
+        <mark key="]" line="1077" column="36" />
+        <mark key="^" line="1075" column="32" />
+        <mark key="." line="1077" column="13" />
       </file>
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594887098219">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1594716147448">
-        <mark key="[" line="1058" column="41" />
-        <mark key="]" line="1058" column="41" />
-        <mark key="^" line="1063" column="34" />
-        <mark key="." line="1058" column="41" />
       </file>
       <file name="/foo.bar" timestamp="1594887098226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1594913321164" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" timestamp="1594913828214" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/renderers.py" timestamp="1594913252228">
         <mark key="[" line="191" column="14" />
         <mark key="]" line="191" column="20" />
@@ -315,7 +310,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>HTTP_200_OK</text>
+        <text encoding="base64">dHlwZShjdmRfaWQpID09IHN0ciBhbmQg</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -397,7 +392,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>HTTP_200_OK</text>
+        <text>int</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -430,8 +425,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoaW5zdGFuY2UuYXNfcGxhaW5fdGV4dF9yZXBvcnQoKSwgc3RhdHVzPXN0YXR1cy5IVFRQXzIwMF9PSykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">dHlwZShjdmRfaWQpID09IHN0ciBhbmQg</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
