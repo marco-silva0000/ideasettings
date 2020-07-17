@@ -35,7 +35,6 @@
         <entry>179</entry>
         <entry>%s/force_login(user)/force_authenticate(user, fake.sha256())/g</entry>
         <entry>tablast</entry>
-        <entry>q</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry>set showmode</entry>
@@ -46,6 +45,7 @@
         <entry>f</entry>
         <entry>%s/this/self/g</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -116,7 +116,7 @@
       <file name="/console" timestamp="1594991853832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1594991294055">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1594994280512">
         <mark key="'" line="334" column="76" />
         <mark key="[" line="391" column="4" />
         <mark key="]" line="391" column="21" />
@@ -125,18 +125,15 @@
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/tests/api/test_vuln_api.py" timestamp="1594988860242" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1594985806947" />
-      <file name="/Django Console" timestamp="1594991614988">
-        <mark key="[" line="0" column="112" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594988955725">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1594993800973">
         <mark key="'" line="57" column="27" />
-        <mark key="[" line="445" column="0" />
-        <mark key="]" line="445" column="7" />
-        <mark key="^" line="443" column="48" />
-        <mark key="." line="445" column="8" />
+        <mark key="[" line="442" column="17" />
+        <mark key="]" line="442" column="23" />
+        <mark key="^" line="442" column="23" />
+        <mark key="." line="442" column="22" />
       </file>
       <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/uuid.py" timestamp="1594973701184" />
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1594991429330">
+      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1594994422306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594990392236">
@@ -145,7 +142,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1594991429364">
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1594994422319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/vendor_product.py" timestamp="1594986129262">
@@ -153,15 +150,15 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="108" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594990784724">
-        <mark key="'" line="368" column="45" />
-        <mark key="[" line="403" column="32" />
-        <mark key="]" line="403" column="34" />
-        <mark key="." line="403" column="33" />
-        <mark key="^" line="403" column="34" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594994831668">
+        <mark key="'" line="1304" column="8" />
+        <mark key="[" line="1068" column="50" />
+        <mark key="]" line="1069" column="33" />
+        <mark key="." line="1069" column="32" />
+        <mark key="^" line="1069" column="33" />
       </file>
       <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/ast.py" timestamp="1594985131048" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/console.sql" timestamp="1594991858883">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/console.sql" timestamp="1594992376020">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -170,7 +167,7 @@
         <mark key="[" line="24" column="6" />
         <mark key="]" line="24" column="18" />
       </file>
-      <file name="/foo.bar" timestamp="1594991429425">
+      <file name="/foo.bar" timestamp="1594994422331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1594990163829">
@@ -185,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="837" column="44" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="399" column="6" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="68" column="114" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="85" column="105" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="95" column="99" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
@@ -285,6 +280,8 @@
       <jump line="1299" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1302" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="368" column="45" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1073" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
+      <jump line="1303" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,7 +290,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>text</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -375,7 +372,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>text</text>
       </register>
       <register name="m" type="4">
         <keys>
