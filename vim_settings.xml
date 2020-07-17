@@ -116,6 +116,11 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1594887098224">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594887098788">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="/console" timestamp="1594717641485">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,14 +139,31 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b2abfae-37ef-4e97-ac2b-fe35b81c094b/console.sql" timestamp="1594717643717">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594973807045">
+        <mark key="'" line="1066" column="43" />
+        <mark key="[" line="1084" column="13" />
+        <mark key="]" line="1084" column="20" />
+        <mark key="^" line="1084" column="20" />
+        <mark key="." line="1084" column="19" />
+      </file>
+      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594887098219">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/cvd_preview.htm" timestamp="1594804422705">
         <mark key="[" line="404" column="0" />
         <mark key="]" line="414" column="22" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/urls/converters.py" timestamp="1594973607734">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="18" />
       </file>
       <file name="/a.sql" timestamp="1594717682354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1594887098226">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Django Console" timestamp="1594894581031">
         <mark key="[" line="0" column="0" />
@@ -153,43 +175,13 @@
         <mark key="." line="440" column="57" />
         <mark key="^" line="440" column="58" />
       </file>
+      <file name="/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/uuid.py" timestamp="1594973701184" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1594894731745">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594887098788">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0325_prepare_for_auth.py" timestamp="1594717357467">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="86" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_auto_20200714_0902.py" timestamp="1594717584151">
-        <mark key="'" line="4" column="75" />
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="77" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1594913708180">
-        <mark key="'" line="1064" column="43" />
-        <mark key="[" line="1077" column="13" />
-        <mark key="]" line="1077" column="36" />
-        <mark key="^" line="1075" column="32" />
-        <mark key="." line="1077" column="13" />
-      </file>
-      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1594887098219">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1594887098226">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/generics.py" timestamp="1594913321164" />
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/fields/__init__.py" timestamp="1594913828214" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/renderers.py" timestamp="1594913252228">
         <mark key="[" line="191" column="14" />
         <mark key="]" line="191" column="20" />
@@ -310,7 +302,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZShjdmRfaWQpID09IHN0ciBhbmQg</text>
+        <text>kwargs</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -392,7 +384,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>kwargs</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -425,8 +417,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dHlwZShjdmRfaWQpID09IHN0ciBhbmQg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChrd2FyZ3MpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
