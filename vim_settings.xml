@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>list</entry>
-        <entry encoding="base64">XDx2ZW5kb3JfcHJvZHVjdF9yYW5rXD4=</entry>
         <entry>send</entry>
         <entry>notify</entry>
         <entry encoding="base64">XDxDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFU1w+</entry>
@@ -24,10 +22,11 @@
         <entry encoding="base64">XDxkZXNjcmlwdGlvbl9zdW1tYXJ5XD4=</entry>
         <entry>request\.</entry>
         <entry encoding="base64">XDxsYXRlc3RfcmVsZWFzZVw+</entry>
+        <entry encoding="base64">XDxjb3B5VG9DbGlwYm9hcmRcPg==</entry>
+        <entry>copyToClipboard</entry>
         <entry encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w\</entry>
         <entry>217</entry>
         <entry>%s/trims.public.//g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -46,6 +45,7 @@
         <entry>%s/this/self/g</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>%s/copyToClipboard/copyListToClipboard/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -130,14 +130,20 @@
         <mark key="[" line="405" column="0" />
         <mark key="]" line="405" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1595259027548">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="36" />
-        <mark key="^" line="23" column="36" />
-        <mark key="." line="23" column="35" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1595261453878">
+        <mark key="'" line="224" column="53" />
+        <mark key="[" line="419" column="55" />
+        <mark key="]" line="419" column="90" />
+        <mark key="^" line="419" column="91" />
+        <mark key="." line="419" column="90" />
       </file>
       <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1595251278866">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1595260586101">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="50" column="2" />
+        <mark key="." line="50" column="2" />
       </file>
       <file name="/dummy.sql" timestamp="1595252305785">
         <mark key="[" line="0" column="17" />
@@ -151,7 +157,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1595259039351">
-        <mark key="'" line="1297" column="8" />
+        <mark key="'" line="1303" column="8" />
         <mark key="[" line="370" column="27" />
         <mark key="]" line="370" column="27" />
         <mark key="." line="370" column="27" />
@@ -180,14 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="114" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="85" column="105" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="95" column="99" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="112" column="89" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="197" column="66" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="225" column="7" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="214" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="457" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="412" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="594" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="9" column="50" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
@@ -202,7 +200,6 @@
       <jump line="401" column="27" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" />
       <jump line="82" column="31" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" />
       <jump line="90" column="6" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" />
-      <jump line="402" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="25" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="40" column="41" filename="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" />
       <jump line="12" column="14" filename="$USER_HOME$/projects/trims/server/poetry.lock" />
@@ -256,7 +253,6 @@
       <jump line="444" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="404" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="61" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="58" column="79" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="57" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="1071" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1088" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -278,8 +274,18 @@
       <jump line="368" column="45" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1073" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1303" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="224" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="400" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="437" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="86" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="402" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="58" column="62" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="68" column="62" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="85" column="107" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="95" column="101" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="112" column="57" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="138" column="109" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="148" column="121" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="224" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,8 +293,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>TRIMS-261: Change CVD Peer Review email subject</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vc2VsZWN0cyByYW5nZSBmb3IgdmlzdWFsIGZlZWRiYWNr</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -370,7 +376,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>/{cvd.cvd_id}</text>
+        <text>copyToClipboard</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -403,14 +409,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJ7eyBsaXN0X2hyZWYgfX0iPjwgQmFjazwvYT4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC8vc2VsZWN0cyByYW5nZSBmb3IgdmlzdWFsIGZlZWRiYWNr</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text>TRIMS-261: Change CVD Peer Review email subject</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBjb3B5TGlzdFRvQ2xpcGJvYXJkKGNvbnRhaW5lcklkKSB7CiAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICBpZiAoY29udGFpbmVySWQgPT09ICdhbGwnKXsKICAgICAgY29uc3Qgc2NvcmVzTm9kZSA9IHNlbGVjdFJhbmdlKCdjbGFzc2lmaWNhdGlvbnMnLCAnTklTVDUnKQogICAgICBjb25zdCBtYWluTm9kZSA9IHNlbGVjdFJhbmdlKCdkZXNjcmlwdGlvbicsICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nKQogICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkuYWRkUmFuZ2Uoc2NvcmVzTm9kZSk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5hZGRSYW5nZShtYWluTm9kZSk7CiAgICAgIGlmICh3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmFuZ2VDb3VudCAhPT0gMikgewogICAgICAgIC8vIGJyb3dzZXIgY2FuJ3QgYWRkIDIgcmFuZ2VzLCB3aWxsIG9ubHkgYWRkIHRoZSBtYWluIG9uZSBhbmQgZ3JhYiB0aGF0CiAgICAgICAgY29uc3Qgc2NvcmVzID0gd2luZG93LmdldFNlbGVjdGlvbigpLnRvU3RyaW5nKCkKICAgICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKG1haW5Ob2RlKTsKICAgICAgICBjb25zdCBtYWluRGF0YSA9IHdpbmRvdy5nZXRTZWxlY3Rpb24oKS50b1N0cmluZygpCiAgICAgICAgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQobWFpbkRhdGEgKyBzY29yZXMpCiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgICAgfQogICAgfQogICBlbHNlIHsKICAgICAgY29uc3Qgc2VsZWN0ZWROb2RlUmFuZ2UgPSBzZWxlY3RSYW5nZShjb250YWluZXJJZCk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5yZW1vdmVBbGxSYW5nZXMoKTsKICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKHNlbGVjdGVkTm9kZVJhbmdlKTsKICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,22 +430,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
+        <text encoding="base64">ICAgIGxldCBpZExpc3QgPSBbXQogICAgaWYgKCFpZHMpIHsKICAgICAgaWRMaXN0ID0gWwogICAgICAgICdkZXNjcmlwdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3ByaW1hcnlfaXNzdWUnLAogICAgICAgICdkZXNjcmlwdGlvbl9leGFtcGxlJywKICAgICAgICAnY29uc2VxdWVuY2UnLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3N1bW1hcnknLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nLAogICAgICAgICdDVlNTMicsCiAgICAgICAgJ0NWU1MzJywKICAgICAgICAnTklTVDVMaWtlbGlob29kJywKICAgICAgICAnTklTVDVJbXBhY3QnLAogICAgICBdCiAgICB9CiAgICBlbHNlIHsKICAgICAgID0gaWRzCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
+        <text>TRIMS-261: Change CVD Peer Review email subject</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9ocmVmID0gJy92aWV3Y3ZkcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsYXRlc3RfcmVsZWFzZSI6IGxhdGVzdF9yZWxlYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -754,7 +760,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGN2ZF9pZCwgdGl0bGUgZnJvbSAiVFJJTVNzZXJ2ZXJfY3ZkIiB3aGVyZSBvd2FzcF90b3BfdGVuXzIwMTMgaXMgbnVsbCBvciBvd2FzcF90b3BfdGVuXzIwMTcgaXMgbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9ocmVmID0gJy92aWV3Y3ZkcycK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -768,7 +774,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text>TRIMS-218: Add a 'Copy Finding' feature</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsYXRlc3RfcmVsZWFzZSI6IGxhdGVzdF9yZWxlYXNlLAo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -786,8 +792,8 @@ WHERE `type` = 0</text>
       <last-search encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</last-pattern>
-      <last-replace>self</last-replace>
-      <last-substitute>this</last-substitute>
+      <last-replace>copyListToClipboard</last-replace>
+      <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
