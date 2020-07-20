@@ -130,11 +130,11 @@
         <mark key="[" line="405" column="0" />
         <mark key="]" line="405" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1595258975224">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="43" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1595259027548">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1595251278866">
         <mark key="[" line="0" column="0" />
@@ -145,13 +145,16 @@
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1595252078362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595257931825">
+      <file name="/Dummy.txt" timestamp="1595259111103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1595256505797">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1595259039351">
         <mark key="'" line="1297" column="8" />
+        <mark key="[" line="370" column="27" />
+        <mark key="]" line="370" column="27" />
+        <mark key="." line="370" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/console.sql" timestamp="1595255060400">
         <mark key="[" line="0" column="20" />
@@ -285,7 +288,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJ7eyBsaXN0X2hyZWYgfX0iPjwgQmFjazwvYT4K</text>
+        <text>TRIMS-261: Change CVD Peer Review email subject</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -367,7 +370,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>CVD-{{ cvd.cvd_id }}</text>
+        <text>/{cvd.cvd_id}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -407,7 +410,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
+        <text>TRIMS-261: Change CVD Peer Review email subject</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -421,22 +424,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9ocmVmID0gJy92aWV3Y3ZkcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsYXRlc3RfcmVsZWFzZSI6IGxhdGVzdF9yZWxlYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9ocmVmID0gJy92aWV3Y3ZkcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0IGN2ZF9pZCwgdGl0bGUgZnJvbSAiVFJJTVNzZXJ2ZXJfY3ZkIiB3aGVyZSBvd2FzcF90b3BfdGVuXzIwMTMgaXMgbnVsbCBvciBvd2FzcF90b3BfdGVuXzIwMTcgaXMgbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsYXRlc3RfcmVsZWFzZSI6IGxhdGVzdF9yZWxlYXNlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -751,7 +754,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text>TRIMS-218: Add a 'Copy Finding' feature</text>
+        <text encoding="base64">c2VsZWN0IGN2ZF9pZCwgdGl0bGUgZnJvbSAiVFJJTVNzZXJ2ZXJfY3ZkIiB3aGVyZSBvd2FzcF90b3BfdGVuXzIwMTMgaXMgbnVsbCBvciBvd2FzcF90b3BfdGVuXzIwMTcgaXMgbnVsbDsK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -765,7 +768,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text>TRIMS-218: Add a 'Copy Finding' feature</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
