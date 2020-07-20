@@ -155,10 +155,10 @@
         <mark key="^" line="974" column="55" />
         <mark key="." line="974" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/console.sql" timestamp="1595252380592">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/console.sql" timestamp="1595255060400">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1595235798701">
         <mark key="[" line="0" column="0" />
@@ -292,7 +292,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>edited_at</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -374,7 +374,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>edited_at</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
