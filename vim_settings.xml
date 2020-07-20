@@ -116,10 +116,10 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1595235798718">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595235406226">
+      <file name="/Dummy.txt" timestamp="1595236659718">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/vendor_product.py" timestamp="1594986129262">
         <mark key="'" line="66" column="23" />
@@ -148,7 +148,7 @@
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1595235798701">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1595235798735">
+      <file name="/foo.bar" timestamp="1595251278897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/cvd.py" timestamp="1594990163829">
@@ -163,10 +163,15 @@
         <mark key="^" line="442" column="23" />
         <mark key="." line="442" column="22" />
       </file>
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1595235405736">
+      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1595251278866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1595235405740">
+      <file name="/settings.template" timestamp="1595250196947">
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="352" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1595251279004" />
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1595251278881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/rest_framework/renderers.py" timestamp="1594990109766">
@@ -282,8 +287,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRvIENWRCBwcmV2aWV3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -398,14 +403,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>owasp_top_ten_2013</text>
+      <register name="0" type="2">
+        <text encoding="base64">RU1BSUxfSE9TVCA9ICIxMC4yLjg4LjIyIgpFTUFJTF9VU0VfVExTID0gVHJ1ZQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text>TRIMS-218: Add a 'Copy Finding' feature</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,22 +424,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBsYWluVGV4dFJlbmRlcmVyCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1dWlkIGltcG9ydCBVVUlECg==</text>
+        <text encoding="base64">ICAgIFBsYWluVGV4dFJlbmRlcmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscy5jb252ZXJ0ZXJzIGltcG9ydCBVVUlEQ29udmVydGVyCg==</text>
+        <text encoding="base64">ZnJvbSB1dWlkIGltcG9ydCBVVUlECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBxdWVyeXNldC5maWx0ZXIoY3ZkX2lkPWluc3RhbmNlLmN2ZF9pZCkuZXhpc3RzKCk6CiAgICAgICAgICAgIGluc3RhbmNlID0gcXVlcnlzZXQuZ2V0KGN2ZF9pZD1pbnN0YW5jZS5jdmRfaWQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKCIiLCBzdGF0dXM9c3RhdHVzLkhUVFBfNDA0X05PVF9GT1VORCkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscy5jb252ZXJ0ZXJzIGltcG9ydCBVVUlEQ29udmVydGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBxdWVyeXNldC5maWx0ZXIoY3ZkX2lkPWluc3RhbmNlLmN2ZF9pZCkuZXhpc3RzKCk6CiAgICAgICAgICAgIGluc3RhbmNlID0gcXVlcnlzZXQuZ2V0KGN2ZF9pZD1pbnN0YW5jZS5jdmRfaWQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKCIiLCBzdGF0dXM9c3RhdHVzLkhUVFBfNDA0X05PVF9GT1VORCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENWRC5vYmplY3RzLmFsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,7 +754,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtYXJrZG93biBpbXBvcnQgTWFya2Rvd24KZnJvbSBpbyBpbXBvcnQgU3RyaW5nSU8KCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IENWRC5vYmplY3RzLmFsbCgpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -763,7 +768,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBrID0gc2VyaWFsaXplcnMuVVVJREZpZWxkKCkK</text>
+        <text encoding="base64">ZnJvbSBtYXJrZG93biBpbXBvcnQgTWFya2Rvd24KZnJvbSBpbyBpbXBvcnQgU3RyaW5nSU8KCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
