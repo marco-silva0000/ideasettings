@@ -116,15 +116,17 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1595235798718">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595410033750">
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="29" />
+        <mark key="^" line="60" column="29" />
+        <mark key="." line="60" column="28" />
+      </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1595252078350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1595252350153">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" timestamp="1594994280512">
-        <mark key="[" line="303" column="4" />
-        <mark key="]" line="303" column="21" />
       </file>
       <file name="/cvd.py" timestamp="1595256489596">
         <mark key="[" line="405" column="0" />
@@ -148,6 +150,12 @@
       <file name="/dummy.sql" timestamp="1595252305785">
         <mark key="[" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1595409670712">
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="359" column="0" />
+        <mark key="." line="337" column="4" />
+        <mark key="^" line="346" column="2" />
+      </file>
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1595252078362">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,9 +174,6 @@
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1595235798701">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/diff.html" timestamp="1595258965502">
         <mark key="[" line="23" column="0" />
@@ -293,8 +298,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vc2VsZWN0cyByYW5nZSBmb3IgdmlzdWFsIGZlZWRiYWNr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDS0VORFMgPSAoCiAgICAnZGphbmdvX2F1dGhfbGRhcC5iYWNrZW5kLkxEQVBCYWNrZW5kJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCikKCkhJU1RPUklDX0NWRV9SRUxFQVNFX0RBVEVfUFJJT1JfREFZUyA9IDczMAoKQVVUSF9MREFQX1NFUlZFUl9VUkkgPSAibGRhcDovL2FkbGRhcC5pbnRlcm5hbC5zeW5vcHN5cy5jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjayIKIyBBVVRIX0xEQVBfQklORF9ETiA9ICJjbj1zdmMtdHJpbXMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiCkFVVEhfTERBUF9CSU5EX0ROID0gInN5bm9wc3lzL3N2Yy10cmltcyIKQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiajN+U3ZCRFciCkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goCiAgICAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIKKQojIkNOPXVzZXJzLERDPWludGVyIG5hbCxEQz1zeW5vcHN5cyxEQz1jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgojQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgoKI0FVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLAojICAgIGxkYXAuU0NPUEVfU1VCVFJFRSwgIih1aWQ9JSh1c2VyKXMpIikKCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -376,7 +381,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>copyToClipboard</text>
+        <text encoding="base64">ImxvZ2dlcnMiOiA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -409,14 +414,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC8vc2VsZWN0cyByYW5nZSBmb3IgdmlzdWFsIGZlZWRiYWNr</text>
+      <register name="0" type="2">
+        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDS0VORFMgPSAoCiAgICAnZGphbmdvX2F1dGhfbGRhcC5iYWNrZW5kLkxEQVBCYWNrZW5kJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCikKCkhJU1RPUklDX0NWRV9SRUxFQVNFX0RBVEVfUFJJT1JfREFZUyA9IDczMAoKQVVUSF9MREFQX1NFUlZFUl9VUkkgPSAibGRhcDovL2FkbGRhcC5pbnRlcm5hbC5zeW5vcHN5cy5jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjayIKIyBBVVRIX0xEQVBfQklORF9ETiA9ICJjbj1zdmMtdHJpbXMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiCkFVVEhfTERBUF9CSU5EX0ROID0gInN5bm9wc3lzL3N2Yy10cmltcyIKQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiajN+U3ZCRFciCkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goCiAgICAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIKKQojIkNOPXVzZXJzLERDPWludGVyIG5hbCxEQz1zeW5vcHN5cyxEQz1jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgojQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgoKI0FVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLAojICAgIGxkYXAuU0NPUEVfU1VCVFJFRSwgIih1aWQ9JSh1c2VyKXMpIikKCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjb3B5TGlzdFRvQ2xpcGJvYXJkKGNvbnRhaW5lcklkKSB7CiAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICBpZiAoY29udGFpbmVySWQgPT09ICdhbGwnKXsKICAgICAgY29uc3Qgc2NvcmVzTm9kZSA9IHNlbGVjdFJhbmdlKCdjbGFzc2lmaWNhdGlvbnMnLCAnTklTVDUnKQogICAgICBjb25zdCBtYWluTm9kZSA9IHNlbGVjdFJhbmdlKCdkZXNjcmlwdGlvbicsICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nKQogICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkuYWRkUmFuZ2Uoc2NvcmVzTm9kZSk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5hZGRSYW5nZShtYWluTm9kZSk7CiAgICAgIGlmICh3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmFuZ2VDb3VudCAhPT0gMikgewogICAgICAgIC8vIGJyb3dzZXIgY2FuJ3QgYWRkIDIgcmFuZ2VzLCB3aWxsIG9ubHkgYWRkIHRoZSBtYWluIG9uZSBhbmQgZ3JhYiB0aGF0CiAgICAgICAgY29uc3Qgc2NvcmVzID0gd2luZG93LmdldFNlbGVjdGlvbigpLnRvU3RyaW5nKCkKICAgICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKG1haW5Ob2RlKTsKICAgICAgICBjb25zdCBtYWluRGF0YSA9IHdpbmRvdy5nZXRTZWxlY3Rpb24oKS50b1N0cmluZygpCiAgICAgICAgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQobWFpbkRhdGEgKyBzY29yZXMpCiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgICAgfQogICAgfQogICBlbHNlIHsKICAgICAgY29uc3Qgc2VsZWN0ZWROb2RlUmFuZ2UgPSBzZWxlY3RSYW5nZShjb250YWluZXJJZCk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5yZW1vdmVBbGxSYW5nZXMoKTsKICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKHNlbGVjdGVkTm9kZVJhbmdlKTsKICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">I0FVVEhfTERBUF9CSU5EX1BBU1NXT1JEID0gIldoaXNrZXlJc0JldHRlclRoYW5IMk8hIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -430,22 +435,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBpZExpc3QgPSBbXQogICAgaWYgKCFpZHMpIHsKICAgICAgaWRMaXN0ID0gWwogICAgICAgICdkZXNjcmlwdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3ByaW1hcnlfaXNzdWUnLAogICAgICAgICdkZXNjcmlwdGlvbl9leGFtcGxlJywKICAgICAgICAnY29uc2VxdWVuY2UnLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3N1bW1hcnknLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nLAogICAgICAgICdDVlNTMicsCiAgICAgICAgJ0NWU1MzJywKICAgICAgICAnTklTVDVMaWtlbGlob29kJywKICAgICAgICAnTklTVDVJbXBhY3QnLAogICAgICBdCiAgICB9CiAgICBlbHNlIHsKICAgICAgID0gaWRzCiAgICB9Cg==</text>
+        <text encoding="base64">YWRsZGFwLmludGVybmFsLnN5bm9wc3lzLmNvbQo=</text>
       </register>
       <register name="3" type="2">
-        <text>TRIMS-261: Change CVD Peer Review email subject</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBjb3B5TGlzdFRvQ2xpcGJvYXJkKGNvbnRhaW5lcklkKSB7CiAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICBpZiAoY29udGFpbmVySWQgPT09ICdhbGwnKXsKICAgICAgY29uc3Qgc2NvcmVzTm9kZSA9IHNlbGVjdFJhbmdlKCdjbGFzc2lmaWNhdGlvbnMnLCAnTklTVDUnKQogICAgICBjb25zdCBtYWluTm9kZSA9IHNlbGVjdFJhbmdlKCdkZXNjcmlwdGlvbicsICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nKQogICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkuYWRkUmFuZ2Uoc2NvcmVzTm9kZSk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5hZGRSYW5nZShtYWluTm9kZSk7CiAgICAgIGlmICh3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmFuZ2VDb3VudCAhPT0gMikgewogICAgICAgIC8vIGJyb3dzZXIgY2FuJ3QgYWRkIDIgcmFuZ2VzLCB3aWxsIG9ubHkgYWRkIHRoZSBtYWluIG9uZSBhbmQgZ3JhYiB0aGF0CiAgICAgICAgY29uc3Qgc2NvcmVzID0gd2luZG93LmdldFNlbGVjdGlvbigpLnRvU3RyaW5nKCkKICAgICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKG1haW5Ob2RlKTsKICAgICAgICBjb25zdCBtYWluRGF0YSA9IHdpbmRvdy5nZXRTZWxlY3Rpb24oKS50b1N0cmluZygpCiAgICAgICAgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQobWFpbkRhdGEgKyBzY29yZXMpCiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgICAgfQogICAgfQogICBlbHNlIHsKICAgICAgY29uc3Qgc2VsZWN0ZWROb2RlUmFuZ2UgPSBzZWxlY3RSYW5nZShjb250YWluZXJJZCk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5yZW1vdmVBbGxSYW5nZXMoKTsKICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKHNlbGVjdGVkTm9kZVJhbmdlKTsKICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
+        <text encoding="base64">ICAgIGxldCBpZExpc3QgPSBbXQogICAgaWYgKCFpZHMpIHsKICAgICAgaWRMaXN0ID0gWwogICAgICAgICdkZXNjcmlwdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3ByaW1hcnlfaXNzdWUnLAogICAgICAgICdkZXNjcmlwdGlvbl9leGFtcGxlJywKICAgICAgICAnY29uc2VxdWVuY2UnLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3N1bW1hcnknLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nLAogICAgICAgICdDVlNTMicsCiAgICAgICAgJ0NWU1MzJywKICAgICAgICAnTklTVDVMaWtlbGlob29kJywKICAgICAgICAnTklTVDVJbXBhY3QnLAogICAgICBdCiAgICB9CiAgICBlbHNlIHsKICAgICAgID0gaWRzCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
+        <text>TRIMS-261: Change CVD Peer Review email subject</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -760,7 +765,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9ocmVmID0gJy92aWV3Y3ZkcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -774,7 +779,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsYXRlc3RfcmVsZWFzZSI6IGxhdGVzdF9yZWxlYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
