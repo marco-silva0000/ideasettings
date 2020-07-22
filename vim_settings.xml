@@ -116,11 +116,11 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1595235798718">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595410033750">
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="60" column="29" />
-        <mark key="^" line="60" column="29" />
-        <mark key="." line="60" column="28" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595417415295">
+        <mark key="[" line="67" column="69" />
+        <mark key="]" line="67" column="77" />
+        <mark key="^" line="63" column="24" />
+        <mark key="." line="67" column="69" />
       </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1595252078350">
         <mark key="[" line="0" column="0" />
@@ -298,8 +298,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDS0VORFMgPSAoCiAgICAnZGphbmdvX2F1dGhfbGRhcC5iYWNrZW5kLkxEQVBCYWNrZW5kJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCikKCkhJU1RPUklDX0NWRV9SRUxFQVNFX0RBVEVfUFJJT1JfREFZUyA9IDczMAoKQVVUSF9MREFQX1NFUlZFUl9VUkkgPSAibGRhcDovL2FkbGRhcC5pbnRlcm5hbC5zeW5vcHN5cy5jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjayIKIyBBVVRIX0xEQVBfQklORF9ETiA9ICJjbj1zdmMtdHJpbXMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiCkFVVEhfTERBUF9CSU5EX0ROID0gInN5bm9wc3lzL3N2Yy10cmltcyIKQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiajN+U3ZCRFciCkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goCiAgICAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIKKQojIkNOPXVzZXJzLERDPWludGVyIG5hbCxEQz1zeW5vcHN5cyxEQz1jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgojQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgoKI0FVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLAojICAgIGxkYXAuU0NPUEVfU1VCVFJFRSwgIih1aWQ9JSh1c2VyKXMpIikKCg==</text>
+      <register name="&quot;" type="4">
+        <text>uid</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -381,7 +381,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImxvZ2dlcnMiOiA=</text>
+        <text>uid</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,8 +414,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDS0VORFMgPSAoCiAgICAnZGphbmdvX2F1dGhfbGRhcC5iYWNrZW5kLkxEQVBCYWNrZW5kJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCikKCkhJU1RPUklDX0NWRV9SRUxFQVNFX0RBVEVfUFJJT1JfREFZUyA9IDczMAoKQVVUSF9MREFQX1NFUlZFUl9VUkkgPSAibGRhcDovL2FkbGRhcC5pbnRlcm5hbC5zeW5vcHN5cy5jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjayIKIyBBVVRIX0xEQVBfQklORF9ETiA9ICJjbj1zdmMtdHJpbXMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiCkFVVEhfTERBUF9CSU5EX0ROID0gInN5bm9wc3lzL3N2Yy10cmltcyIKQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiajN+U3ZCRFciCkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goCiAgICAiY249dXNlcnMsZGM9aW50ZXJuYWwsZGM9c3lub3BzeXMsZGM9bGMiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIKKQojIkNOPXVzZXJzLERDPWludGVyIG5hbCxEQz1zeW5vcHN5cyxEQz1jb20iCgojQVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgojQVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgoKI0FVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLAojICAgIGxkYXAuU0NPUEVfU1VCVFJFRSwgIih1aWQ9JSh1c2VyKXMpIikKCg==</text>
+      <register name="0" type="4">
+        <text>synopsys/</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
