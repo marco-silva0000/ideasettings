@@ -113,11 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595420266533">
-        <mark key="[" line="63" column="33" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595432093040">
+        <mark key="[" line="63" column="24" />
         <mark key="]" line="63" column="33" />
-        <mark key="^" line="63" column="51" />
-        <mark key="." line="63" column="33" />
+        <mark key="^" line="63" column="33" />
+        <mark key="." line="63" column="32" />
       </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1595252078350">
         <mark key="[" line="0" column="0" />
@@ -128,21 +128,6 @@
       <file name="/cvd.py" timestamp="1595256489596">
         <mark key="[" line="405" column="0" />
         <mark key="]" line="405" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1595261453878">
-        <mark key="'" line="224" column="53" />
-        <mark key="[" line="419" column="55" />
-        <mark key="]" line="419" column="90" />
-        <mark key="^" line="419" column="91" />
-        <mark key="." line="419" column="90" />
-      </file>
-      <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1595251278866">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1595260586101">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="2" />
-        <mark key="." line="50" column="2" />
       </file>
       <file name="/dummy.sql" timestamp="1595252305785">
         <mark key="[" line="0" column="17" />
@@ -156,13 +141,13 @@
       <file name="/trims.public.TRIMSserver_cvd" timestamp="1595252078362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595259111103">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1595432519385">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1595259039351">
-        <mark key="'" line="1303" column="8" />
+        <mark key="'" line="1294" column="8" />
         <mark key="[" line="370" column="27" />
         <mark key="]" line="370" column="27" />
         <mark key="." line="370" column="27" />
@@ -181,10 +166,6 @@
       </file>
       <file name="/foo.bar" timestamp="1595252078374">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/settings.template" timestamp="1595250196947">
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="352" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1595420034600">
         <mark key="'" line="488" column="20" />
@@ -303,7 +284,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,cn=users</text>
+        <text>266: Add navigation link back to trims on CVD preview</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -385,7 +366,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>,cn=users</text>
+        <text>266: Add navigation link back to trims on CVD preview</text>
       </register>
       <register name="m" type="4">
         <keys>
