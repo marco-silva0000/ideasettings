@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>notify</entry>
         <entry encoding="base64">XDxDVkRfUEVFUl9SRVZJRVdfRU1BSUxfQ09PTERPV05fTUlOVVRFU1w+</entry>
         <entry>CONST</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb3B5VG9DbGlwYm9hcmRcPg==</entry>
         <entry>copyToClipboard</entry>
         <entry encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</entry>
+        <entry>INVA</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -113,14 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/trims.public.TRIMSserver_vuln" timestamp="1595235798718">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595417415295">
-        <mark key="[" line="67" column="69" />
-        <mark key="]" line="67" column="77" />
-        <mark key="^" line="63" column="24" />
-        <mark key="." line="67" column="69" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595420266533">
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="33" />
+        <mark key="^" line="63" column="51" />
+        <mark key="." line="63" column="33" />
       </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1595252078350">
         <mark key="[" line="0" column="0" />
@@ -189,11 +186,15 @@
         <mark key="[" line="351" column="0" />
         <mark key="]" line="352" column="20" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1595420034600">
+        <mark key="'" line="488" column="20" />
+        <mark key="[" line="835" column="14" />
+        <mark key="]" line="835" column="34" />
+        <mark key="." line="835" column="14" />
+        <mark key="^" line="835" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="30" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="594" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="9" column="50" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="385" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="383" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="233" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
@@ -291,6 +292,9 @@
       <jump line="138" column="109" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="148" column="121" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="224" column="53" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
+      <jump line="535" column="34" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="488" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="485" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,7 +303,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>uid</text>
+        <text>,cn=users</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -381,7 +385,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>uid</text>
+        <text>,cn=users</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -405,7 +409,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</text>
+        <text>INVA</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -415,13 +419,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>synopsys/</text>
+        <text>cn=synopsys\svc-trims</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0FVVEhfTERBUF9CSU5EX1BBU1NXT1JEID0gIldoaXNrZXlJc0JldHRlclRoYW5IMk8hIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,22 +439,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRsZGFwLmludGVybmFsLnN5bm9wc3lzLmNvbQo=</text>
+        <text encoding="base64">I0FVVEhfTERBUF9CSU5EX1BBU1NXT1JEID0gIldoaXNrZXlJc0JldHRlclRoYW5IMk8hIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjb3B5TGlzdFRvQ2xpcGJvYXJkKGNvbnRhaW5lcklkKSB7CiAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICBpZiAoY29udGFpbmVySWQgPT09ICdhbGwnKXsKICAgICAgY29uc3Qgc2NvcmVzTm9kZSA9IHNlbGVjdFJhbmdlKCdjbGFzc2lmaWNhdGlvbnMnLCAnTklTVDUnKQogICAgICBjb25zdCBtYWluTm9kZSA9IHNlbGVjdFJhbmdlKCdkZXNjcmlwdGlvbicsICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nKQogICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkuYWRkUmFuZ2Uoc2NvcmVzTm9kZSk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5hZGRSYW5nZShtYWluTm9kZSk7CiAgICAgIGlmICh3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmFuZ2VDb3VudCAhPT0gMikgewogICAgICAgIC8vIGJyb3dzZXIgY2FuJ3QgYWRkIDIgcmFuZ2VzLCB3aWxsIG9ubHkgYWRkIHRoZSBtYWluIG9uZSBhbmQgZ3JhYiB0aGF0CiAgICAgICAgY29uc3Qgc2NvcmVzID0gd2luZG93LmdldFNlbGVjdGlvbigpLnRvU3RyaW5nKCkKICAgICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKG1haW5Ob2RlKTsKICAgICAgICBjb25zdCBtYWluRGF0YSA9IHdpbmRvdy5nZXRTZWxlY3Rpb24oKS50b1N0cmluZygpCiAgICAgICAgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQobWFpbkRhdGEgKyBzY29yZXMpCiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgICAgfQogICAgfQogICBlbHNlIHsKICAgICAgY29uc3Qgc2VsZWN0ZWROb2RlUmFuZ2UgPSBzZWxlY3RSYW5nZShjb250YWluZXJJZCk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5yZW1vdmVBbGxSYW5nZXMoKTsKICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKHNlbGVjdGVkTm9kZVJhbmdlKTsKICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">YWRsZGFwLmludGVybmFsLnN5bm9wc3lzLmNvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBpZExpc3QgPSBbXQogICAgaWYgKCFpZHMpIHsKICAgICAgaWRMaXN0ID0gWwogICAgICAgICdkZXNjcmlwdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3ByaW1hcnlfaXNzdWUnLAogICAgICAgICdkZXNjcmlwdGlvbl9leGFtcGxlJywKICAgICAgICAnY29uc2VxdWVuY2UnLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3N1bW1hcnknLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nLAogICAgICAgICdDVlNTMicsCiAgICAgICAgJ0NWU1MzJywKICAgICAgICAnTklTVDVMaWtlbGlob29kJywKICAgICAgICAnTklTVDVJbXBhY3QnLAogICAgICBdCiAgICB9CiAgICBlbHNlIHsKICAgICAgID0gaWRzCiAgICB9Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBjb3B5TGlzdFRvQ2xpcGJvYXJkKGNvbnRhaW5lcklkKSB7CiAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICBpZiAoY29udGFpbmVySWQgPT09ICdhbGwnKXsKICAgICAgY29uc3Qgc2NvcmVzTm9kZSA9IHNlbGVjdFJhbmdlKCdjbGFzc2lmaWNhdGlvbnMnLCAnTklTVDUnKQogICAgICBjb25zdCBtYWluTm9kZSA9IHNlbGVjdFJhbmdlKCdkZXNjcmlwdGlvbicsICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nKQogICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkuYWRkUmFuZ2Uoc2NvcmVzTm9kZSk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5hZGRSYW5nZShtYWluTm9kZSk7CiAgICAgIGlmICh3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmFuZ2VDb3VudCAhPT0gMikgewogICAgICAgIC8vIGJyb3dzZXIgY2FuJ3QgYWRkIDIgcmFuZ2VzLCB3aWxsIG9ubHkgYWRkIHRoZSBtYWluIG9uZSBhbmQgZ3JhYiB0aGF0CiAgICAgICAgY29uc3Qgc2NvcmVzID0gd2luZG93LmdldFNlbGVjdGlvbigpLnRvU3RyaW5nKCkKICAgICAgICB3aW5kb3cuZ2V0U2VsZWN0aW9uKCkucmVtb3ZlQWxsUmFuZ2VzKCk7CiAgICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKG1haW5Ob2RlKTsKICAgICAgICBjb25zdCBtYWluRGF0YSA9IHdpbmRvdy5nZXRTZWxlY3Rpb24oKS50b1N0cmluZygpCiAgICAgICAgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQobWFpbkRhdGEgKyBzY29yZXMpCiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgICAgfQogICAgfQogICBlbHNlIHsKICAgICAgY29uc3Qgc2VsZWN0ZWROb2RlUmFuZ2UgPSBzZWxlY3RSYW5nZShjb250YWluZXJJZCk7CiAgICAgIHdpbmRvdy5nZXRTZWxlY3Rpb24oKS5yZW1vdmVBbGxSYW5nZXMoKTsKICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLmFkZFJhbmdlKHNlbGVjdGVkTm9kZVJhbmdlKTsKICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>TRIMS-261: Change CVD Peer Review email subject</text>
+        <text encoding="base64">ICAgIGxldCBpZExpc3QgPSBbXQogICAgaWYgKCFpZHMpIHsKICAgICAgaWRMaXN0ID0gWwogICAgICAgICdkZXNjcmlwdGlvbl9zdW1tYXJ5JywKICAgICAgICAnZGVzY3JpcHRpb25fdGVjaG5vbG9neV9vdmVydmlldycsCiAgICAgICAgJ2Rlc2NyaXB0aW9uX3ByaW1hcnlfaXNzdWUnLAogICAgICAgICdkZXNjcmlwdGlvbl9leGFtcGxlJywKICAgICAgICAnY29uc2VxdWVuY2UnLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3N1bW1hcnknLAogICAgICAgICdnZW5lcmFsX3JlbWVkaWF0aW9uX3ByaW1hcnlfcmVtZWRpYXRpb24nLAogICAgICAgICdDVlNTMicsCiAgICAgICAgJ0NWU1MzJywKICAgICAgICAnTklTVDVMaWtlbGlob29kJywKICAgICAgICAnTklTVDVJbXBhY3QnLAogICAgICBdCiAgICB9CiAgICBlbHNlIHsKICAgICAgID0gaWRzCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
+        <text>TRIMS-261: Change CVD Peer Review email subject</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0X2hyZWYiOiBsaXN0X2hyZWYsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -765,7 +769,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEh0dHA0MDQoKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -779,7 +783,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ZkID0gQ1ZELmxhdGVzdF92ZXJzaW9uKCkuZmlsdGVyKGlkPXBrKS5sYXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGN2ZDoK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -794,9 +798,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</last-search>
+      <last-search>INVA</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5TGlzdFRvQ2xpcGJvYXJkXD4=</last-pattern>
+      <last-pattern>INVA</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
