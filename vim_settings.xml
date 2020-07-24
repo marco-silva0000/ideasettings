@@ -44,8 +44,8 @@
         <entry>f</entry>
         <entry>%s/this/self/g</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>%s/copyToClipboard/copyListToClipboard/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -113,16 +113,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595432093040">
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="63" column="33" />
-        <mark key="^" line="63" column="33" />
-        <mark key="." line="63" column="32" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595580982360">
+        <mark key="[" line="126" column="22" />
+        <mark key="]" line="126" column="27" />
+        <mark key="^" line="126" column="27" />
+        <mark key="." line="126" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1595576920134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="/TRIMSserver_projectusage [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1595577626369">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1595570116574">
         <mark key="'" line="43" column="12" />
@@ -130,9 +133,12 @@
       <file name="/fragment.py" timestamp="1595570791007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vendor_product.py" timestamp="1595570762553">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vendor_product.py" timestamp="1595579663474">
         <mark key="[" line="25" column="16" />
         <mark key="." line="25" column="25" />
+      </file>
+      <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1595580078807">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/admin.py" timestamp="1595570022592">
         <mark key="[" line="29" column="15" />
@@ -150,9 +156,14 @@
         <mark key="[" line="149" column="62" />
         <mark key="." line="149" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1595570612197">
-        <mark key="[" line="284" column="11" />
-        <mark key="." line="284" column="20" />
+      <file name="/trims.public.TRIMSserver_projectusage" timestamp="1595580078824">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1595580925440">
+        <mark key="[" line="435" column="19" />
+        <mark key="]" line="435" column="24" />
+        <mark key="." line="435" column="23" />
+        <mark key="^" line="435" column="24" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/vuln.py" timestamp="1595570711399">
         <mark key="[" line="62" column="7" />
@@ -162,27 +173,19 @@
         <mark key="[" line="533" column="65" />
         <mark key="." line="533" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1595259039351">
-        <mark key="'" line="1294" column="8" />
-        <mark key="[" line="370" column="27" />
-        <mark key="]" line="370" column="27" />
-        <mark key="." line="370" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1595570818339">
-        <mark key="[" line="222" column="50" />
-        <mark key="." line="222" column="59" />
-      </file>
-      <file name="/diff.html" timestamp="1595258965502">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="44" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1595580212010">
+        <mark key="'" line="232" column="34" />
+        <mark key="[" line="232" column="28" />
+        <mark key="]" line="232" column="28" />
+        <mark key="." line="232" column="34" />
+        <mark key="^" line="232" column="19" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1595570630694">
         <mark key="[" line="193" column="39" />
         <mark key="." line="193" column="48" />
       </file>
-      <file name="/cvd.py" timestamp="1595256489596">
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="39" />
+      <file name="/foo.bar" timestamp="1595580078840">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/serializers/dashboard.py" timestamp="1595570684145">
         <mark key="[" line="56" column="32" />
@@ -199,15 +202,8 @@
         <mark key="[" line="88" column="66" />
         <mark key="." line="88" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1595409670712">
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="359" column="0" />
-        <mark key="." line="337" column="4" />
-        <mark key="^" line="346" column="2" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="78" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="52" column="68" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="228" column="56" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" />
       <jump line="240" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" />
@@ -307,6 +303,7 @@
       <jump line="158" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" />
       <jump line="56" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" />
       <jump line="43" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="232" column="34" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +312,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Remove duplicate comment</text>
+        <text>INFO</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -397,7 +394,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>Remove duplicate comment</text>
+        <text>INFO</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -431,7 +428,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="4">
-        <text>cn=synopsys\svc-trims</text>
+        <text>DEBUG</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
