@@ -119,32 +119,30 @@
         <mark key="^" line="63" column="33" />
         <mark key="." line="63" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1595570012830">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1595570116574">
+        <mark key="'" line="43" column="12" />
+      </file>
       <file name="/TRIMSserver_cvd [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1595252078350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1595252350153">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cvd.py" timestamp="1595256489596">
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="39" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/admin.py" timestamp="1595570022592">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1595252305785">
-        <mark key="[" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1595409670712">
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="359" column="0" />
-        <mark key="." line="337" column="4" />
-        <mark key="^" line="346" column="2" />
-      </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1595252078362">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595432519385">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" timestamp="1595569944870">
+        <mark key="'" line="56" column="20" />
+        <mark key="[" line="158" column="28" />
+        <mark key="]" line="158" column="28" />
+        <mark key="." line="158" column="29" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" timestamp="1595259039351">
         <mark key="'" line="1294" column="8" />
@@ -167,6 +165,10 @@
       <file name="/foo.bar" timestamp="1595252078374">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/cvd.py" timestamp="1595256489596">
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="39" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1595420034600">
         <mark key="'" line="488" column="20" />
         <mark key="[" line="835" column="14" />
@@ -174,12 +176,20 @@
         <mark key="." line="835" column="14" />
         <mark key="^" line="835" column="14" />
       </file>
+      <file name="/dummy.sql" timestamp="1595252305785">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1595409670712">
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="359" column="0" />
+        <mark key="." line="337" column="4" />
+        <mark key="^" line="346" column="2" />
+      </file>
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1595252078362">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="19" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="383" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="233" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="241" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
       <jump line="598" column="78" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="52" column="68" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="228" column="56" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" />
@@ -276,6 +286,10 @@
       <jump line="535" column="34" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="488" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="485" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="25" column="33" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" />
+      <jump line="158" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" />
+      <jump line="56" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" />
+      <jump line="43" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -779,9 +793,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>INVA</last-search>
+      <last-search>kbvendorproductusa</last-search>
       <last-offset />
-      <last-pattern>INVA</last-pattern>
+      <last-pattern>kbvendorproductusa</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
