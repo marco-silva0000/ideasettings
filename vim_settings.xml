@@ -127,9 +127,6 @@
       <file name="/TRIMSserver_projectusage [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1595577626369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1595570116574">
-        <mark key="'" line="43" column="12" />
-      </file>
       <file name="/fragment.py" timestamp="1595570791007">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,11 +172,14 @@
         <mark key="[" line="533" column="65" />
         <mark key="." line="533" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1595923415935">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1596184870612">
         <mark key="[" line="240" column="47" />
         <mark key="]" line="236" column="93" />
         <mark key="." line="236" column="92" />
         <mark key="^" line="236" column="93" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1596185092284">
+        <mark key="'" line="638" column="9" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1595570630694">
         <mark key="[" line="193" column="39" />
@@ -198,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="37" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="897" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="896" column="70" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="342" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
       <jump line="894" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -298,6 +295,9 @@
       <jump line="204" column="20" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
       <jump line="219" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
       <jump line="42" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
+      <jump line="667" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
+      <jump line="66" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
+      <jump line="638" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -801,9 +801,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDxzY3JhcGVkdnVsbl9fY3VzdG9tZXJfcHJpb3JpdGl6ZWRfdmVuZG9yX3Byb2R1Y3RfcmFua1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JhcGVkdnVsbl9fY3VzdG9tZXJfcHJpb3JpdGl6ZWRfdmVuZG9yX3Byb2R1Y3RfcmFua1w+</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
