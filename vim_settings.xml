@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxyZW5kZXJlcl9jbGFzc2VzXD4=</entry>
         <entry>ast</entry>
         <entry encoding="base64">XDxhc3RcPg==</entry>
         <entry encoding="base64">XDxmaXJzdF92dWNfYXNfZGljdFw+</entry>
@@ -25,6 +23,8 @@
         <entry>Black</entry>
         <entry encoding="base64">XDxpc19jdXN0b21lcl9wcmlvcml0aXplZFw+</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
+        <entry>prio</entry>
+        <entry encoding="base64">XDxzY3JhcGVkdnVsbl9fY3VzdG9tZXJfcHJpb3JpdGl6ZWRfdmVuZG9yX3Byb2R1Y3RfcmFua1w+</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -412,7 +412,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXh0XD4=</text>
+        <text encoding="base64">XDxzY3JhcGVkdnVsbl9fY3VzdG9tZXJfcHJpb3JpdGl6ZWRfdmVuZG9yX3Byb2R1Y3RfcmFua1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
