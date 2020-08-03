@@ -163,22 +163,21 @@
       <file name="/trims.public.projectusage_product_commercial" timestamp="1596448490589">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1596448139828">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="65" column="62" />
-        <mark key="]" line="65" column="47" />
-        <mark key="^" line="65" column="47" />
-        <mark key="." line="65" column="46" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1596450323086">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="55" column="8" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1595923128526">
         <mark key="[" line="533" column="65" />
         <mark key="." line="533" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1596448405436">
-        <mark key="[" line="240" column="47" />
-        <mark key="]" line="236" column="93" />
-        <mark key="." line="236" column="92" />
-        <mark key="^" line="236" column="93" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1596450353636">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="232" column="138" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1596185092284">
         <mark key="'" line="638" column="9" />
@@ -188,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
-      <jump line="894" column="12" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="4" column="75" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_auto_20200714_0902.py" />
       <jump line="317" column="39" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
@@ -288,6 +285,8 @@
       <jump line="667" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="66" column="17" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="638" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
+      <jump line="40" column="62" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
+      <jump line="45" column="22" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,8 +294,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcXVlcnlzZXQgPSBCbGFja2xpc3RWZW5kb3JQcm9kdWN0Lm9iamVjdHMuZmlsdGVyKHZlbmRvcl9faWNvbnRhaW5zPXZlbmRvciwgcHJvZHVjdF9faWNvbnRhaW5zPXByb2R1Y3QpCiAgICAgICAgICAgIHByaW50KHZlbmRvcikKICAgICAgICAgICAgcHJpbnQocHJvZHVjdCkKICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCA9IGJsYWNrbGlzdGVkX3F1ZXJ5c2V0LnZhbHVlc19saXN0KCJwcm9kdWN0X2lkIiwgZmxhdD1UcnVlKQogICAgICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2plY3RfaWQiLCBmbGF0PVRydWUpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCkpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvamVjdF9pZCkpCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShwcm9kdWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9kdWN0X2lkLCBwcm9qZWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9qZWN0X2lkKQo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -378,7 +377,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>project_id__in=blacklisted_project_id</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -411,14 +410,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>_is_customer_prioritized</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gZmlsdGVyKE5vbmUsIGJsYWNrbGlzdGVkX3Byb2plY3RfaWQpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcXVlcnlzZXQgPSBCbGFja2xpc3RWZW5kb3JQcm9kdWN0Lm9iamVjdHMuZmlsdGVyKHZlbmRvcl9faWNvbnRhaW5zPXZlbmRvciwgcHJvZHVjdF9faWNvbnRhaW5zPXByb2R1Y3QpCiAgICAgICAgICAgIHByaW50KHZlbmRvcikKICAgICAgICAgICAgcHJpbnQocHJvZHVjdCkKICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCA9IGJsYWNrbGlzdGVkX3F1ZXJ5c2V0LnZhbHVlc19saXN0KCJwcm9kdWN0X2lkIiwgZmxhdD1UcnVlKQogICAgICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2plY3RfaWQiLCBmbGF0PVRydWUpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCkpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvamVjdF9pZCkpCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShwcm9kdWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9kdWN0X2lkLCBwcm9qZWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9qZWN0X2lkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -432,22 +431,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBpc19jdXN0b21lcl9wcmlvcml0aXplZChzZWxmKToKICAgICAgICByZXR1cm4gUHJpb3JpdGl6ZWRWZW5kb3JQcm9kdWN0Lm9iamVjdHMuZW5hYmxlZCgpLmZpbHRlcih2ZW5kb3I9c2VsZi52ZW5kb3IsIHByb2R1Y3Q9c2VsZi5wcm9kdWN0KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBpc19jdXN0b21lcl9wcmlvcml0aXplZChzZWxmKToKICAgICAgICBpZiBoYXNhdHRyKHNlbGYsICdfaXNfY3VzdG9tZXJfcHJpb3JpdGl6ZWQnKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2lzX2N1c3RvbWVyX3ByaW9yaXRpemVkCiAgICAgICAgcmV0dXJuIFByaW9yaXRpemVkVmVuZG9yUHJvZHVjdC5vYmplY3RzLmVuYWJsZWQoKS5maWx0ZXIoCiAgICAgICAgICAgIHZlbmRvcj1zZWxmLnZlbmRvciwKICAgICAgICAgICAgcHJvZHVjdD1zZWxmLnByb2R1Y3QsCiAgICAgICAgKS5leGlzdHMoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX2NvbW1lcmNpYWwgPT0gVHJ1ZToKICAgICAgICAgICAgb3Blbl9zb3VyY2Vfb3JfcHJvcHJpZXRvcnkgPSAiKENvbW1lcmNpYWwpIgogICAgICAgIGVsaWYgc2VsZi5pc19jb21tZXJjaWFsID09IEZhbHNlOgogICAgICAgICAgICBvcGVuX3NvdXJjZV9vcl9wcm9wcmlldG9yeSA9ICIoT3BlbiBTb3VyY2UpIgo=</text>
+        <text encoding="base64">ICAgIGRlZiBieV92ZW5kb3JfcHJvZHVjdChzZWxmLCB2ZW5kb3I6IHN0ciwgcHJvZHVjdDogc3RyLCBhbm5vdGF0ZV9wcmlvcml0aXphdGlvbj1GYWxzZSwgcmVtb3ZlX2JsYWNrbGlzdGVkPUZhbHNlKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHRleHQoc2VsZik6CgogICAgICAgIGRlbGltaXRlciA9ICJ+fH4iCgogICAgICAgIG9wZW5fc291cmNlX29yX3Byb3ByaWV0b3J5ID0gIihVbmtub3duKSIKCiAgICAgICAgaWYgc2VsZi5pc19jb21tZXJjaWFsID09IFRydWU6CiAgICAgICAgICAgIG9wZW5fc291cmNlX29yX3Byb3ByaWV0b3J5ID0gIihDb21tZXJjaWFsKSIKICAgICAgICBlbGlmIHNlbGYuaXNfY29tbWVyY2lhbCA9PSBGYWxzZToKICAgICAgICAgICAgb3Blbl9zb3VyY2Vfb3JfcHJvcHJpZXRvcnkgPSAiKE9wZW4gU291cmNlKSIKCiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgc3RyKHNlbGYucmFuaykKICAgICAgICAgICAgKyBkZWxpbWl0ZXIKICAgICAgICAgICAgKyBzZWxmLnZlbmRvcgogICAgICAgICAgICArIGRlbGltaXRlcgogICAgICAgICAgICArIHNlbGYucHJvZHVjdAogICAgICAgICAgICArIGRlbGltaXRlcgogICAgICAgICAgICArIG9wZW5fc291cmNlX29yX3Byb3ByaWV0b3J5CiAgICAgICAgICAgICsgZGVsaW1pdGVyCiAgICAgICAgICAgICsgc3RyKHNlbGYuY3ZlX2NvdW50KQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaXN0KGJsYWNrbGlzdGVkX3Byb2plY3RfaWQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaXN0KGJsYWNrbGlzdGVkX3Byb2R1Y3RfaWQpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -762,7 +761,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2plY3RfaWQiLCBmbGF0PVRydWUpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -776,7 +775,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2N1c3RvbWVyX3ByaW9yaXRpemVkKHNlbGYpOgogICAgICAgIHJldHVybiBQcmlvcml0aXplZFZlbmRvclByb2R1Y3Qub2JqZWN0cy5lbmFibGVkKCkuZmlsdGVyKAogICAgICAgICAgICB2ZW5kb3I9c2VsZi52ZW5kb3IsCiAgICAgICAgICAgIHByb2R1Y3Q9c2VsZi5wcm9kdWN0LAogICAgICAgICkuZXhpc3RzKCkK</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3RlZF9wcm9kdWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2R1Y3RfaWQiLCBmbGF0PVRydWUpCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
