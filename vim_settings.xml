@@ -119,10 +119,10 @@
         <mark key="^" line="126" column="27" />
         <mark key="." line="126" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596447201853">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1596470348366">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="/TRIMSserver_projectusage [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1595577626369">
         <mark key="[" line="0" column="0" />
@@ -295,7 +295,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new_</text>
+        <text>add prioritization to the local query when cassius is down</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -377,7 +377,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>new_</text>
+        <text>add prioritization to the local query when cassius is down</text>
       </register>
       <register name="m" type="4">
         <keys>
