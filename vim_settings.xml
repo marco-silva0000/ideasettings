@@ -113,11 +113,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1595580982360">
-        <mark key="[" line="126" column="22" />
-        <mark key="]" line="126" column="27" />
-        <mark key="^" line="126" column="27" />
-        <mark key="." line="126" column="26" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1596623626761">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1596448565793">
         <mark key="[" line="0" column="0" />
@@ -155,9 +154,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/TRIMSserver_projectusage [trims@bdsr-uat-trims-db01.dc1.lan]" timestamp="1595577626369">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/projectusage_product_commercial [trims@localhost]" timestamp="1596448490561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,6 +170,11 @@
       </file>
       <file name="/foo.bar" timestamp="1596448565819">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1596623256285">
+        <mark key="[" line="551" column="0" />
+        <mark key="]" line="551" column="0" />
+        <mark key="." line="551" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -284,8 +285,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Simplify copy findings in cvd_preview.htm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -367,7 +368,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>Simplify copy findings in cvd_preview.htm</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -407,7 +408,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBlbGVtZW50OgogICAgOnBhcmFtIHN0cmVhbToKICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -421,22 +422,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3NlcmlhbGl6ZXJfZGF0YSA9IGxpc3Qoc2VyaWFsaXplci5kYXRhKQo=</text>
+        <text encoding="base64">CkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2RhdGEgPSBzZQo=</text>
+        <text encoding="base64">QVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2JfZG93biA9IFRydWUKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJJc3N1ZSByZXRyZXZpbmcgS0IgVjpQIChwcm9kdWN0X3N1bW1hcnkpIGluZm9ybWF0aW9uICIgKyBzdHIoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcHJpb3JpdGl6ZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJy1faXNfY3VzdG9tZXJfcHJpb3JpdGl6ZWQnLCAncmFuaycpWzo1MF0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJ3JhbmsnKVs6NTBdCgogICAgICAgICAgICBzZXJpYWxpemVyID0gUHJvamVjdFVzYWdlU2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">I2wuc2ltcGxlX2JpbmRfcygndWlkPScrc3RyKHVzZXJuYW1lKSsnLGNuPXVzZXJzLGNuPWFjY291bnRzLGRjPWRjMSxkYz1sYW4nLCBwYXNzd29yZCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -751,7 +752,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcXVlcnlzZXQgPSBCbGFja2xpc3RWZW5kb3JQcm9kdWN0Lm9iamVjdHMuZmlsdGVyKHZlbmRvcl9faWNvbnRhaW5zPXZlbmRvciwgcHJvZHVjdF9faWNvbnRhaW5zPXByb2R1Y3QpCiAgICAgICAgICAgIHByaW50KHZlbmRvcikKICAgICAgICAgICAgcHJpbnQocHJvZHVjdCkKICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCA9IGJsYWNrbGlzdGVkX3F1ZXJ5c2V0LnZhbHVlc19saXN0KCJwcm9kdWN0X2lkIiwgZmxhdD1UcnVlKQogICAgICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2plY3RfaWQiLCBmbGF0PVRydWUpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCkpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvamVjdF9pZCkpCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShwcm9kdWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9kdWN0X2lkLCBwcm9qZWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9qZWN0X2lkKQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBlbGVtZW50OgogICAgOnBhcmFtIHN0cmVhbToKICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
