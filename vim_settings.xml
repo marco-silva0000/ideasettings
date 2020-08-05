@@ -121,11 +121,6 @@
       <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1596448565793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query.py" timestamp="1595922812339">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
       <file name="/trims.public.TRIMSserver_projectusage" timestamp="1596448565806">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,6 +138,12 @@
         <mark key="." line="533" column="74" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1596620455866" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1596629074443">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1596620356313">
         <mark key="[" line="56" column="15" />
         <mark key="]" line="56" column="15" />
@@ -285,8 +286,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>import</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -368,7 +369,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>import</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,7 +403,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmdldFNlbGVjdGlvbigpLnJlbW92ZUFsbFJhbmdlcygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
