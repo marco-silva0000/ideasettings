@@ -150,8 +150,15 @@
         <mark key="[" line="533" column="65" />
         <mark key="." line="533" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1596532764518">
-        <mark key="[" line="38" column="57" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" timestamp="1596618579614">
+        <mark key="'" line="238" column="35" />
+        <mark key="[" line="430" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1596618550478">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="56" column="2" />
+        <mark key="." line="56" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1596532636080">
         <mark key="[" line="0" column="0" />
@@ -180,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="4" column="75" filename="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0404_auto_20200714_0902.py" />
       <jump line="317" column="39" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
       <jump line="324" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/cvd.py" />
@@ -280,6 +286,7 @@
       <jump line="638" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="40" column="62" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
       <jump line="45" column="22" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" />
+      <jump line="238" column="35" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,7 +295,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>add prioritization to the local query when cassius is down</text>
+        <text>#</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -370,7 +377,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>add prioritization to the local query when cassius is down</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -410,7 +417,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBlbGVtZW50OgogICAgOnBhcmFtIHN0cmVhbToKICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,22 +431,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3NlcmlhbGl6ZXJfZGF0YSA9IGxpc3Qoc2VyaWFsaXplci5kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2RhdGEgPSBzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X3NlcmlhbGl6ZXJfZGF0YSA9IGxpc3Qoc2VyaWFsaXplci5kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2JfZG93biA9IFRydWUKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJJc3N1ZSByZXRyZXZpbmcgS0IgVjpQIChwcm9kdWN0X3N1bW1hcnkpIGluZm9ybWF0aW9uICIgKyBzdHIoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyX2RhdGEgPSBzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcHJpb3JpdGl6ZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJy1faXNfY3VzdG9tZXJfcHJpb3JpdGl6ZWQnLCAncmFuaycpWzo1MF0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJ3JhbmsnKVs6NTBdCgogICAgICAgICAgICBzZXJpYWxpemVyID0gUHJvamVjdFVzYWdlU2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2JfZG93biA9IFRydWUKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJJc3N1ZSByZXRyZXZpbmcgS0IgVjpQIChwcm9kdWN0X3N1bW1hcnkpIGluZm9ybWF0aW9uICIgKyBzdHIoZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcHJpb3JpdGl6ZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJy1faXNfY3VzdG9tZXJfcHJpb3JpdGl6ZWQnLCAncmFuaycpWzo1MF0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQub3JkZXJfYnkoJ3JhbmsnKVs6NTBdCgogICAgICAgICAgICBzZXJpYWxpemVyID0gUHJvamVjdFVzYWdlU2VyaWFsaXplcihxdWVyeXNldCwgbWFueT1UcnVlKQogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcXVlcnlzZXQgPSBCbGFja2xpc3RWZW5kb3JQcm9kdWN0Lm9iamVjdHMuZmlsdGVyKHZlbmRvcl9faWNvbnRhaW5zPXZlbmRvciwgcHJvZHVjdF9faWNvbnRhaW5zPXByb2R1Y3QpCiAgICAgICAgICAgIHByaW50KHZlbmRvcikKICAgICAgICAgICAgcHJpbnQocHJvZHVjdCkKICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCA9IGJsYWNrbGlzdGVkX3F1ZXJ5c2V0LnZhbHVlc19saXN0KCJwcm9kdWN0X2lkIiwgZmxhdD1UcnVlKQogICAgICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2plY3RfaWQiLCBmbGF0PVRydWUpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCkpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvamVjdF9pZCkpCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShwcm9kdWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9kdWN0X2lkLCBwcm9qZWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9qZWN0X2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -754,7 +761,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcXVlcnlzZXQgPSBCbGFja2xpc3RWZW5kb3JQcm9kdWN0Lm9iamVjdHMuZmlsdGVyKHZlbmRvcl9faWNvbnRhaW5zPXZlbmRvciwgcHJvZHVjdF9faWNvbnRhaW5zPXByb2R1Y3QpCiAgICAgICAgICAgIHByaW50KHZlbmRvcikKICAgICAgICAgICAgcHJpbnQocHJvZHVjdCkKICAgICAgICAgICAgYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCA9IGJsYWNrbGlzdGVkX3F1ZXJ5c2V0LnZhbHVlc19saXN0KCJwcm9kdWN0X2lkIiwgZmxhdD1UcnVlKQogICAgICAgICAgICBibGFja2xpc3RlZF9wcm9qZWN0X2lkID0gYmxhY2tsaXN0ZWRfcXVlcnlzZXQudmFsdWVzX2xpc3QoInByb2plY3RfaWQiLCBmbGF0PVRydWUpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvZHVjdF9pZCkpCiAgICAgICAgICAgIHByaW50KGxpc3QoYmxhY2tsaXN0ZWRfcHJvamVjdF9pZCkpCiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZXhjbHVkZShwcm9kdWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9kdWN0X2lkLCBwcm9qZWN0X2lkX19pbj1ibGFja2xpc3RlZF9wcm9qZWN0X2lkKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -768,7 +775,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
