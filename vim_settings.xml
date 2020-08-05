@@ -113,10 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1596635392477">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1596636454543">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="61" />
+        <mark key="." line="65" column="38" />
+        <mark key="^" line="65" column="39" />
       </file>
       <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1596448565793">
         <mark key="[" line="0" column="0" />
@@ -286,8 +287,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>import</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QVVUSF9MREFQX1NFUlZFUl9VUkkgPSAibGRhcHM6Ly9hZGxkYXAuaW50ZXJuYWwuc3lub3BzeXMuY29tIgo=</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -369,7 +370,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text>j3~SvBDW</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -403,7 +404,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHV1aWQK</text>
+        <text encoding="base64">QVVUSF9MREFQX1NFUlZFUl9VUkkgPSAibGRhcHM6Ly9hZGxkYXAuaW50ZXJuYWwuc3lub3BzeXMuY29tIgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
