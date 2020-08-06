@@ -45,8 +45,8 @@
         <entry>%s/this/self/g</entry>
         <entry>%s/copyToClipboard/copyListToClipboard/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,15 +128,13 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/projectusage_product_commercial [trims@localhost]" timestamp="1596448490561">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1596638920348">
         <mark key="'" line="212" column="15" />
       </file>
       <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1596448565793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/__init__.py" timestamp="1596722014875" />
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/ldap/ldapobject.py" timestamp="1596705761424">
         <mark key="[" line="440" column="14" />
         <mark key="]" line="440" column="17" />
@@ -167,11 +165,11 @@
       <file name="/foo.bar" timestamp="1596678446519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1596720878032">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1596722016916">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1596705432060">
         <mark key="[" line="345" column="0" />
@@ -310,8 +308,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdXRoZW50aWNhdGUoc2VsZiwgcmVxdWVzdCwgdXNlcm5hbWU9Tm9uZSwgcGFzc3dvcmQ9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3dpbGwgdHJ5JykKICAgICAgICAgICAgYXV0aCA9IHN1cGVyKEN1c3RvbUF1dGhCYWNrZW5kLCBzZWxmKS5hdXRoZW50aWNhdGUoCiAgICAgICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICAgICAgdXNlcm5hbWU9dXNlcm5hbWUsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1wYXNzd29yZCwKICAgICAgICAgICAgICAgICoqa3dhcmdzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoJ2h1bW1tbW1tbScpCiAgICAgICAgICAgIHByaW50KGF1dGgpCiAgICAgICAgICAgIHByaW50KHR5cGUoYXV0aCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnRXhjZXB0aW9uIDooJykKICAgICAgICAgICAgcHJpbnQoZSkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -393,7 +391,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>ldap_user</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -433,7 +431,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdXRoZW50aWNhdGUoc2VsZiwgcmVxdWVzdCwgdXNlcm5hbWU9Tm9uZSwgcGFzc3dvcmQ9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3dpbGwgdHJ5JykKICAgICAgICAgICAgYXV0aCA9IHN1cGVyKEN1c3RvbUF1dGhCYWNrZW5kLCBzZWxmKS5hdXRoZW50aWNhdGUoCiAgICAgICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICAgICAgdXNlcm5hbWU9dXNlcm5hbWUsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1wYXNzd29yZCwKICAgICAgICAgICAgICAgICoqa3dhcmdzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoJ2h1bW1tbW1tbScpCiAgICAgICAgICAgIHByaW50KGF1dGgpCiAgICAgICAgICAgIHByaW50KHR5cGUoYXV0aCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnRXhjZXB0aW9uIDooJykKICAgICAgICAgICAgcHJpbnQoZSkK</text>
+        <text encoding="base64">ICAgIGRlZiBhdXRoZW50aWNhdGUoc2VsZiwgcmVxdWVzdCwgdXNlcm5hbWU9Tm9uZSwgcGFzc3dvcmQ9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3dpbGwgdHJ5JykKICAgICAgICAgICAgYXV0aCA9IHN1cGVyKEN1c3RvbUF1dGhCYWNrZW5kLCBzZWxmKS5hdXRoZW50aWNhdGUoCiAgICAgICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICAgICAgdXNlcm5hbWU9dXNlcm5hbWUsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1wYXNzd29yZCwKICAgICAgICAgICAgICAgICoqa3dhcmdzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoJ2h1bW1tbW1tbScpCiAgICAgICAgICAgIHByaW50KGF1dGgpCiAgICAgICAgICAgIHByaW50KHR5cGUoYXV0aCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnRXhjZXB0aW9uIDooJykKICAgICAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -447,22 +445,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3M=</text>
+        <text encoding="base64">ICAgIGRlZiBhdXRoZW50aWNhdGUoc2VsZiwgcmVxdWVzdCwgdXNlcm5hbWU9Tm9uZSwgcGFzc3dvcmQ9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3dpbGwgdHJ5JykKICAgICAgICAgICAgYXV0aCA9IHN1cGVyKEN1c3RvbUF1dGhCYWNrZW5kLCBzZWxmKS5hdXRoZW50aWNhdGUoCiAgICAgICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICAgICAgdXNlcm5hbWU9dXNlcm5hbWUsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1wYXNzd29yZCwKICAgICAgICAgICAgICAgICoqa3dhcmdzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoJ2h1bW1tbW1tbScpCiAgICAgICAgICAgIHByaW50KGF1dGgpCiAgICAgICAgICAgIHByaW50KHR5cGUoYXV0aCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnRXhjZXB0aW9uIDooJykKICAgICAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCg==</text>
+        <text encoding="base64">ICAgIHBhc3M=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiX2JlZ2luIikK</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiX2JlZ2luIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCg==</text>
+        <text encoding="base64">QVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -777,7 +775,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgo=</text>
+        <text encoding="base64">CkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -791,7 +789,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRyKQo=</text>
+        <text encoding="base64">QVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
