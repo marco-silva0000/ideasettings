@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/trims.public.TRIMSserver_vuln" timestamp="1596637980251">
+      <file name="/trims.public.TRIMSserver_vuln" timestamp="1596678446515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1596637919630">
@@ -121,6 +121,17 @@
         <mark key="]" line="60" column="61" />
         <mark key="." line="65" column="38" />
         <mark key="^" line="65" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1596678447215">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/projectusage_product_commercial [trims@localhost]" timestamp="1596448490561">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1596638920348">
+        <mark key="'" line="212" column="15" />
       </file>
       <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1596448565793">
         <mark key="[" line="0" column="0" />
@@ -137,46 +148,34 @@
         <mark key="^" line="55" column="8" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1596620455866" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1596629074443">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1596620356313">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="56" column="2" />
-        <mark key="." line="56" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596619696201">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="/projectusage_product_commercial [trims@localhost]" timestamp="1596448490561">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1596638920348">
-        <mark key="'" line="212" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1596639111575">
         <mark key="[" line="338" column="0" />
         <mark key="]" line="372" column="75" />
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="0" />
       </file>
-      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1596637980238">
+      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1596678446508">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1596637980263">
+      <file name="/foo.bar" timestamp="1596678446519">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1596629074443">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1596623256285">
         <mark key="[" line="551" column="0" />
         <mark key="]" line="551" column="0" />
         <mark key="." line="551" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1596620356313">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="56" column="2" />
+        <mark key="." line="56" column="15" />
       </file>
     </filemarks>
     <jumps>
