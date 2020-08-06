@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>kbvendorproductusa</entry>
-        <entry encoding="base64">XDxWZW5kb3JQcm9kdWN0UXVlcnlTZXRcPg==</entry>
-        <entry>Black</entry>
-        <entry encoding="base64">XDxpc19jdXN0b21lcl9wcmlvcml0aXplZFw+</entry>
-        <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry>prio</entry>
         <entry encoding="base64">XDxzY3JhcGVkdnVsbl9fY3VzdG9tZXJfcHJpb3JpdGl6ZWRfdmVuZG9yX3Byb2R1Y3RfcmFua1w+</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvbl9zdW1tYXJ5XD4=</entry>
@@ -21,10 +16,15 @@
         <entry>kbce</entry>
         <entry>kb</entry>
         <entry encoding="base64">XDxBVVRIX0xEQVBfVVNFUl9TRUFSQ0hcPg==</entry>
-        <entry>will bind</entry>
         <entry>authent'</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDxfTERBUENvbmZpZ1w+</entry>
+        <entry>will bind</entry>
+        <entry encoding="base64">XDxfYmluZFw+</entry>
+        <entry>con</entry>
+        <entry>_search_for_u</entry>
+        <entry encoding="base64">XDxfdXNlcl9kblw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -144,9 +144,6 @@
       <file name="/trims.public.TRIMSserver_projectusage" timestamp="1596448565806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/trims.public.projectusage_product_commercial" timestamp="1596448490589">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1596450323086">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -165,11 +162,11 @@
       <file name="/foo.bar" timestamp="1596678446519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1596722016916">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1596726925659">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1596705432060">
         <mark key="[" line="345" column="0" />
@@ -181,13 +178,16 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/config.py" timestamp="1596708276724">
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/config.py" timestamp="1596724593768">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1596720615330">
-        <mark key="'" line="70" column="9" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" timestamp="1596725947840">
+        <mark key="'" line="186" column="27" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1596725386634">
+        <mark key="'" line="307" column="12" />
         <mark key="[" line="156" column="19" />
         <mark key="]" line="156" column="22" />
         <mark key="." line="156" column="21" />
@@ -201,27 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="70" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" />
-      <jump line="66" column="23" filename="/vendor_product.py" />
-      <jump line="69" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" />
-      <jump line="444" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="404" column="9" filename="$USER_HOME$/projects/trims/server/TRIMSserver/templates/cvd_preview.htm" />
-      <jump line="1071" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="1088" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="977" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="971" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="958" column="22" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="941" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="936" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="929" column="32" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="916" column="27" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="895" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="777" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="773" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="1076" column="0" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="1305" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="25" column="75" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
-      <jump line="1299" column="23" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1302" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="368" column="45" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
       <jump line="1073" column="28" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/cvd.py" />
@@ -301,6 +280,27 @@
       <jump line="31" column="50" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="67" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="70" column="9" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="154" column="27" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="471" column="17" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="832" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="214" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="221" column="42" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="259" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="260" column="65" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="878" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="527" column="36" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="540" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="448" column="16" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="451" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="510" column="23" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="519" column="17" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="526" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="530" column="21" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="543" column="23" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="273" column="4" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="307" column="12" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="39" column="27" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" />
+      <jump line="186" column="27" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +309,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -391,7 +391,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -415,7 +415,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfTERBUENvbmZpZ1w+</text>
+        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -425,13 +425,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGRhcF91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3JlZ3VsYXIgcmVzdWx0OicpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdXRoZW50aWNhdGUoc2VsZiwgcmVxdWVzdCwgdXNlcm5hbWU9Tm9uZSwgcGFzc3dvcmQ9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3dpbGwgdHJ5JykKICAgICAgICAgICAgYXV0aCA9IHN1cGVyKEN1c3RvbUF1dGhCYWNrZW5kLCBzZWxmKS5hdXRoZW50aWNhdGUoCiAgICAgICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICAgICAgdXNlcm5hbWU9dXNlcm5hbWUsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1wYXNzd29yZCwKICAgICAgICAgICAgICAgICoqa3dhcmdzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoJ2h1bW1tbW1tbScpCiAgICAgICAgICAgIHByaW50KGF1dGgpCiAgICAgICAgICAgIHByaW50KHR5cGUoYXV0aCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnRXhjZXB0aW9uIDooJykKICAgICAgICAgICAgcHJpbnQoZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbGRhcF91c2VyLmNvbm5lY3Rpb24nKQogICAgICAgIHByaW50KGxkYXBfdXNlci5jb25uZWN0aW9uKQogICAgICAgIHByaW50KCdsZGFwX3VuYXZhaWxhYmxlJykKICAgICAgICBwcmludChsZGFwX3VuYXZhaWxhYmxlKQogICAgICAgIHByaW50KCdsYmFwX3VzZXIuYXR0cnMnKQogICAgICAgIHByaW50KGxkYXBfdXNlci5hdHRycykKICAgICAgICBpZiBsZGFwX3VuYXZhaWxhYmxlOgogICAgICAgICAgICAjIGRvIHJlZ3VsYXIgYmFja2VuZCBhdXRoIGFuZCByZXR1cm4gbm9uZSBpZiBmYWlsCiAgICAgICAgICAgIE1vZGVsQmFja2VuZC5hdXRoZW50aWNhdGUoTm9uZSwgdXNlcm5hbWU9bGRhcF91c2VyLmF0dHJzLCBwYXNzd29yZD1wYXNzd29yZCkKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZAogICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -445,22 +445,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdXRoZW50aWNhdGUoc2VsZiwgcmVxdWVzdCwgdXNlcm5hbWU9Tm9uZSwgcGFzc3dvcmQ9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3dpbGwgdHJ5JykKICAgICAgICAgICAgYXV0aCA9IHN1cGVyKEN1c3RvbUF1dGhCYWNrZW5kLCBzZWxmKS5hdXRoZW50aWNhdGUoCiAgICAgICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICAgICAgdXNlcm5hbWU9dXNlcm5hbWUsCiAgICAgICAgICAgICAgICBwYXNzd29yZD1wYXNzd29yZCwKICAgICAgICAgICAgICAgICoqa3dhcmdzCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoJ2h1bW1tbW1tbScpCiAgICAgICAgICAgIHByaW50KGF1dGgpCiAgICAgICAgICAgIHByaW50KHR5cGUoYXV0aCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnRXhjZXB0aW9uIDooJykKICAgICAgICAgICAgcHJpbnQoZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3M=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHlwZShlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkV4Y2VwdGlvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiX2JlZ2luIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbGRhcF91bmF2YWlsYWJsZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVVUSF9MREFQX0JJTkRfRE4gPSAiY249UEFOIExEQVAsIG91PVNlcnZpY2UsIG91PUJsYWNrRHVjaywgZGM9YmRzLWFkIgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -775,7 +775,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkFVVEhfTERBUF9VU0VSX1NFQVJDSCA9IExEQVBTZWFyY2goIm91PWJhc2UiLCBsZGFwLlNDT1BFX1NVQlRSRUUsICIodWlkPSUodXNlcilzKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdXNlcjoK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -789,7 +789,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVVUSF9MREFQX0JJTkRfUEFTU1dPUkQgPSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZAo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -804,9 +804,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfTERBUENvbmZpZ1w+</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfTERBUENvbmZpZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
