@@ -113,50 +113,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/trims.public.TRIMSserver_vuln" timestamp="1596678446515">
+      <file name="/projectusage_product_commercial [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796708982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1596717575841">
-        <mark key="'" line="91" column="2" />
-        <mark key="[" line="58" column="5" />
-        <mark key="]" line="58" column="17" />
-        <mark key="." line="58" column="16" />
-        <mark key="^" line="58" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596678447215">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1596638920348">
-        <mark key="'" line="212" column="15" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/__init__.py" timestamp="1596722014875" />
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/ldap/ldapobject.py" timestamp="1596705761424">
-        <mark key="[" line="440" column="14" />
-        <mark key="]" line="440" column="17" />
-        <mark key="^" line="440" column="17" />
-        <mark key="." line="440" column="16" />
-      </file>
-      <file name="/trims.public.TRIMSserver_projectusage" timestamp="1596448565806">
+      <file name="/TRIMSserver_projectusage [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796794483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1596450323086">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="55" column="8" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1596639111575">
-        <mark key="[" line="338" column="0" />
-        <mark key="]" line="372" column="75" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="243" column="0" />
-      </file>
-      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1596678446508">
+      <file name="/trims.public.TRIMSserver_projectusage" timestamp="1596796794497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1596678446519">
+      <file name="/product_summary [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796604328">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.projectusage_product_commercial" timestamp="1596796708994">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/projectusage_product_commercial_blacklist [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796568630">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/projectusage_product_commercial_blacklist [trims@localhost]" timestamp="1596796475012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/cve_summary [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796696130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1596729505338">
@@ -164,23 +142,26 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/models.py" timestamp="1596729444134">
-        <mark key="'" line="425" column="8" />
+      <file name="/nvd_cve_summary [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796732033">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1596705432060">
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="346" column="42" />
+      <file name="/trims.public.cve_summary" timestamp="1596796696141">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" timestamp="1596629074443">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="20" />
+      <file name="/product [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796616078">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/config.py" timestamp="1596724593768">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="/trims.public.projectusage_product_commercial_blacklist" timestamp="1596796568643">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.product" timestamp="1596796616092">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1596796794508">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/TRIMSserver_resourceproject [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596796742286">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" timestamp="1596729518037">
         <mark key="'" line="186" column="27" />
@@ -188,18 +169,14 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1596729162637">
-        <mark key="'" line="307" column="12" />
-        <mark key="[" line="156" column="19" />
-        <mark key="]" line="156" column="22" />
-        <mark key="." line="156" column="21" />
-        <mark key="^" line="156" column="22" />
+      <file name="/trims.public.TRIMSserver_resourceproject" timestamp="1596796742299">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1596620356313">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="56" column="2" />
-        <mark key="." line="56" column="15" />
+      <file name="/trims.public.nvd_cve_summary" timestamp="1596796732046">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.product_summary" timestamp="1596796604341">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
