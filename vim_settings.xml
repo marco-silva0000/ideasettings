@@ -120,27 +120,27 @@
         <mark key="^" line="55" column="47" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1597136964379">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/middleware.py" timestamp="1597072467963" />
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/__init__.py" timestamp="1597072518017" />
       <file name="/console" timestamp="1597048806517">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/admin/templates/admin/login.html" timestamp="1597049450387" />
-      <file name="/product_summary [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1596812943032">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/auth.py" timestamp="1597072927840">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/auth.py" timestamp="1597137178012">
         <mark key="'" line="42" column="34" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="107" column="13" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="50" />
         <mark key="^" line="45" column="37" />
-        <mark key="." line="45" column="19" />
+        <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597074704327">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="11" column="34" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597137215818">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="36" />
       </file>
       <file name="/a.sql" timestamp="1596813611948">
         <mark key="[" line="0" column="0" />
@@ -301,7 +301,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ldap_user.dn</text>
+        <text>authorization</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -383,7 +383,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>ldap_user.dn</text>
+        <text>authorization</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -416,14 +416,14 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>ldap_user</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIkxEQVAgc2VydmVyIGlzIGRvd24sIHBsZWFzZSB1c2Ugb2xkIGNyZWRlbnRpYWxzIG9yIGNvbnRhY3QgYWRtaW4iCiAgICAgICAgICAgIGVycm9yX2RhdGEgPSB7Im5vbl9maWVsZF9lcnJvcnMiOiBtc2d9Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGRhcF9iYWNrZW5kLmxkYQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -437,22 +437,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGRhcF91c2VyID0gX0xEQVBVc2VyKHNlbGYsIHVzZXJuYW1lPXVzZXJuYW1lLnN0cmlwKCksIHJlcXVlc3Q9cmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgbGRhcC5TRVJWRVJfRE9XTjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChfKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIEN1c3RvbUF1dGhlbnRpY2F0aW9uRm9ybShBdXRoZW50aWNhdGlvbkZvcm0pOgogICAgZGVmIGNsZWFuKHNlbGYpOgogICAgICAgIHRyeToKICAgICAgICAgICAgc3VwZXIoQ3VzdG9tQXV0aGVudGljYXRpb25Gb3JtLCBzZWxmKS5jbGVhbigpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmNsZWFuZWRfZGF0YQogICAgICAgIGV4Y2VwdCBsZGFwLlNFUlZFUl9ET1dOIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgICAgICJMREFQIHNlcnZlciBpcyBkb3duLCB1c2Ugb2xkIGNyZWRlbnRpYWxzIG9yIGNvbnRhY3QgYWRtaW4uIiwKICAgICAgICAgICAgICAgIGNvZGU9J2xkYXBfZG93bicsCiAgICAgICAgICAgICkKCgpjbGFzcyBDdXN0b21Mb2dpblZpZXcoTG9naW5WaWV3KToKICAgIHRlbXBsYXRlX25hbWUgPSAnYWRtaW4vbG9naW4uaHRtbCcKICAgIGZvcm1fY2xhc3MgPSBDdXN0b21BdXRoZW50aWNhdGlvbkZvcm0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfID0gTERBUEJhY2tlbmQoKS5sZGFwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGRhcF9iYWNrZW5kLmxkYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGRhcF91c2VyID0gX0xEQVBVc2VyKHNlbGYsIHVzZXJuYW1lPXVzZXJuYW1lLnN0cmlwKCksIHJlcXVlc3Q9cmVxdWVzdCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -767,7 +767,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChfKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -781,7 +781,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
