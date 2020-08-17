@@ -113,26 +113,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1597147981906">
-        <mark key="'" line="91" column="2" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="55" column="49" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1597662802370">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1597245475161">
-        <mark key="'" line="35" column="17" />
-        <mark key="]" line="45" column="5" />
-      </file>
-      <file name="/projectusage_product_commercial [trims@localhost]" timestamp="1597653855919">
+      <file name="/trims.public.TRIMSserver_vuln" timestamp="1597664408381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1597136964379">
+      <file name="/vuln_tri_priority_score [trims@localhost]" timestamp="1597664408406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TRIMSserver_projectusage [trims@bdsr-prd-trims-db01.dc1.lan [2]]" timestamp="1597653855928">
@@ -143,11 +127,6 @@
       </file>
       <file name="/trims.public.projectusage_product_commercial" timestamp="1597653855925">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/auth.py" timestamp="1597147285247">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/config/settings.template" timestamp="1597662907438">
         <mark key="[" line="326" column="0" />
@@ -160,35 +139,35 @@
         <mark key="." line="1" column="48" />
         <mark key="^" line="11" column="96" />
       </file>
-      <file name="/foo.bar" timestamp="1597663665255">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1597662913089">
         <mark key="'" line="223" column="51" />
         <mark key="[" line="332" column="0" />
         <mark key="]" line="336" column="2" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1597149373864">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" timestamp="1597073458144">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="76" />
-      </file>
       <file name="/TRIMSserver_cvd [trims@localhost]" timestamp="1597663665227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1597074505882">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="83" />
+      <file name="/trims.public.vuln_tri_priority_score" timestamp="1597664408419">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/trims.public.TRIMSserver_cvd" timestamp="1597663665242">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597662802370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1597664408364">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1597664408432">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/settings.template" timestamp="1597662840313">
         <mark key="[" line="322" column="0" />
         <mark key="]" line="325" column="1" />
-      </file>
-      <file name="/trims.public.TRIMSserver_cvd" timestamp="1597663665242">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
