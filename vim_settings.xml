@@ -137,11 +137,11 @@
         <mark key="]" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597922166281">
-        <mark key="[" line="26" column="144" />
-        <mark key="]" line="26" column="87" />
-        <mark key="." line="26" column="86" />
-        <mark key="^" line="26" column="87" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597923379867">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1597912264903">
         <mark key="'" line="41" column="4" />
@@ -310,7 +310,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LDAP integration</text>
+        <text>connection</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -392,7 +392,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>LDAP integration</text>
+        <text>connection</text>
       </register>
       <register name="m" type="4">
         <keys>
