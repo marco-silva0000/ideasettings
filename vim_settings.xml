@@ -119,15 +119,17 @@
       <file name="/vuln_tri_priority_score [trims@localhost]" timestamp="1597841794571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/vuln.py" timestamp="1597841597299">
-        <mark key="[" line="720" column="0" />
-        <mark key="]" line="720" column="30" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/96b12f1b-d73d-4845-9830-9b31fcbc924a/console_1.sql" timestamp="1597833584358">
+      <file name="/Python Console" timestamp="1597913952485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" timestamp="1597908933192" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/populate_project_usage.py" timestamp="1597908655825" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597913545980">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+        <mark key="^" line="11" column="96" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1597912264903">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="41" column="0" />
@@ -147,12 +149,6 @@
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1597845956618">
         <mark key="'" line="83" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1597912248667">
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1597911992420">
         <mark key="[" line="0" column="0" />
@@ -183,6 +179,10 @@
       </file>
       <file name="/foo.bar" timestamp="1597841794607">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" timestamp="1597913683637">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="76" />
       </file>
     </filemarks>
     <jumps>
