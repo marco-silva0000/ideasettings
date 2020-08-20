@@ -128,12 +128,12 @@
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" timestamp="1597908933192" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/populate_project_usage.py" timestamp="1597908655825" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1597909326573">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1597912264903">
         <mark key="'" line="41" column="4" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="149" column="52" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="143" column="63" />
       </file>
       <file name="/Django Console" timestamp="1597845085009">
         <mark key="[" line="0" column="0" />
@@ -141,16 +141,23 @@
       <file name="/trims.public.vuln_tri_priority_score" timestamp="1597841794588">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1597912138898">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1597845956618">
         <mark key="'" line="83" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597908721314">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/common/utils.py" timestamp="1597912248667">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="33" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597911992420">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bb7d27e-c819-4a19-8fea-f6d8f7f93f7b/console_5.sql" timestamp="1597833582620">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/client/src/app/vuln/vuln.ts" timestamp="1597911395764">
         <mark key="[" line="199" column="94" />
@@ -158,23 +165,23 @@
         <mark key="^" line="199" column="94" />
         <mark key="." line="199" column="93" />
       </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0412_vuln_vendor_product_rank.py" timestamp="1597912354171">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="27" column="86" />
+        <mark key="." line="27" column="85" />
+        <mark key="^" line="27" column="86" />
+      </file>
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1597841794534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console_5" timestamp="1597833536159">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1597909503500">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1597911714958">
         <mark key="'" line="131" column="6" />
-        <mark key="[" line="123" column="22" />
-        <mark key="]" line="123" column="48" />
-        <mark key="." line="123" column="22" />
-        <mark key="^" line="123" column="22" />
+        <mark key="[" line="80" column="19" />
+        <mark key="]" line="80" column="39" />
+        <mark key="." line="80" column="38" />
+        <mark key="^" line="80" column="39" />
       </file>
       <file name="/foo.bar" timestamp="1597841794607">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1597833582624">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -286,8 +293,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>vendor_product_rank=max_int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -369,7 +376,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>scrapedvuln__</text>
+        <text>Group</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,8 +409,8 @@ WHERE `type` = 0</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>vendor_product_rank=max_int</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBHcm91cCA9IGFwcHMuZ2V0X21vZGVsKCJhdXRoIiwgIkdyb3VwIikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -423,133 +430,19 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9taW5fcmFua19mcm9tX3ZwX2xpc3QodmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0KToKICAgIGlmIHR5cGUodmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0KSAhPSBsaXN0OiAgIyBDb250aW51ZSBpZiBOb25lCiAgICAgICAgdmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0ID0gW10KICAgICMgR2V0IHZlbmRvciBwcm9kdWN0cyBmcm9tIGpzb24gbGlzdCB3aXRoIHJhbmsgbm90IDAsIC0xIGFuZCAnJwogICAgY2xlYW5fdmVuZG9yX3Byb2R1Y3RfanNvbl9saXN0ID0gbGlzdChmaWx0ZXIoCiAgICAgICAgbGFtYmRhIHZwOiB2cC5nZXQoJ3JhbmsnLCAwKSBub3QgaW4gWzAsIC0xLCAnJ10sCiAgICAgICAgdmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0CiAgICApKQogICAgbWluX3ZlbmRvcl9wcm9kdWN0ID0gbWluKAogICAgICAgIGNsZWFuX3ZlbmRvcl9wcm9kdWN0X2pzb25fbGlzdCwKICAgICAgICBrZXk9bGFtYmRhIHZwOiB2cC5nZXQoJ3JhbmsnKSwKICAgICAgICBkZWZhdWx0PWRpY3QoKQogICAgKQogICAgcmV0dXJuIG1pbl92ZW5kb3JfcHJvZHVjdC5nZXQoJ3JhbmsnLCBOb25lKQoK</text>
       </register>
-      <register name="3" type="4">
-        <text>User
-from django.core.exceptions import ObjectDoesNotExist
-from django.db import IntegrityError
-from django.db.models import Q
-from django.http import HttpResponse, JsonResponse
-from django.shortcuts import get_object_or_404
-from django.utils import timezone
-from django.views import View
-from django_filters import rest_framework as filters
-from rest_framework import generics, mixins, serializers, status, renderers, viewsets
-from rest_framework.decorators import action
-from rest_framework.filters import BaseFilterBackend
-from rest_framework.response import Response
-from stix2.exceptions import RevokeError
-from weasyprint import HTML
-
-from TRIMSserver.webapp import enums, permissions
-from TRIMSserver.webapp.models.vendor_product import PrioritizedVendorProduct
-from TRIMSserver.webapp.models.vuln import get_min_rank_from_vp_list
-from TRIMSserver.webapp.views import getAPIURL
-from TRIMSserver.webapp.models import (
-    VulnListItem,
-    Vuln,
-    Note,
-    ScrapedVuln,
-    VulnStatusAudit,
-    ProjectUsage,
-    SimilarVuln,
-    ResponsibleDisclosureItem,
-    Tri,
-    CAPEC,
-    CWE,
-    BDSAExcludedFromCVSSValidationExport,
-    CodeSig,
-    SecurityIncident
-)
-from TRIMSserver.webapp.serializers import (
-    VulnListSerializer,
-    VulnItemSerializer,
-    VulnListExternalSerializer,
-    SimilarVulnSerializer,
-    VulnSerializer,
-    CAPECSerializer,
-    CWESerializer,
-)
-from TRIMSserver.webapp.stix import Stix
-from random import randrange
-from constance import config as constance_config
-from TRIMSserver.common.utils import (
-    order_dict_list,
-    remove_element_recursive_dict_list,
-    max_int
-)
-
-logger = logging.getLogger(__name__)
-
-
-RANK_GROUP_CHOICES = (
-    (1, '1-1k'),
-    (2, '1k-5k'),
-    (3, '5k-10k'),
-    (4, '10k-20k'),
-    (5, '20k-30k'),
-    (6, '30k+'),
-    (7, 'Not Ranked'),
-    (max_int, 'Empty'),
-)
-
-
-class VulnRankFilter(filters.FilterSet):
-    rank = filters.ChoiceFilter(
-        label=&quot;Rank Group&quot;,
-        choices=RANK_GROUP_CHOICES,
-        method='filter_rank',
-    )
-
-    def filter_rank(self, queryset, name, value):
-        if value == &quot;1&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=0,
-                vendor_product_rank__lte=1000,
-            )
-        elif value == &quot;2&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=1000,
-                vendor_product_rank__lte=5000,
-            )
-        elif value == &quot;3&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=5000,
-                vendor_product_rank__lte=10000,
-            )
-        elif value == &quot;4&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=10000,
-                vendor_product_rank__lte=20000,
-            )
-        elif value == &quot;5&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=20000,
-                vendor_product_rank__lte=30000,
-            )
-        elif value == &quot;6&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=30000,
-            )
-        elif value == &quot;7&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank=None,
-            )
-
-        elif value == str(max_int):  # Highest possible int to deonte empty and appear at end of list
-            queryset = queryset.filter(
-                scrapedvuln__vendor_product_rank=max_int
-            )</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFZ1bAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgTWluaW11bSByYW5rIGNhbGN1bGF0ZWQgZnJvbSB2ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QKICAgICMgMSAtIDIxNDc0ODM2NDcgUmFua2VkIGZyb20gUHJvamVjdFVzYWdlCiAgICAjIDIxNDc0ODM2NDcgaW4gS0IgYnV0IG5vdCBpbiBQcm9qZWN0VXNhZ2UKICAgICMgTm9uZSAtIE5vdCBpbiBLQiBub3IgUHJvamVjdFVzYWdlCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHVwZGF0ZV9hbGxfdmVuZG9yX3Byb2R1Y3RfcmFuayhjbHMpOgogICAgICAgIHZ1bG5zID0gbGlzdChWdWxuLm9iamVjdHMuYWxsKCkpCiAgICAgICAgZm9yIHZ1bG4gaW4gdnVsbnM6CiAgICAgICAgICAgIHZ1bG4udmVuZG9yX3Byb2R1Y3RfcmFuayA9IGdldF9taW5fcmFua19mcm9tX3ZwX2xpc3QodnVsbi52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QpCiAgICAgICAgVnVsbi5vYmplY3RzLmJ1bGtfdXBkYXRlKHZ1bG5zLCBbJ3ZlbmRvcl9wcm9kdWN0X3JhbmsnXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgMCAtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -866,8 +759,122 @@ class VulnRankFilter(filters.FilterSet):
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICg3LCAnUmFua2VkJyksCg==</text>
+      <register name="8" type="4">
+        <text>User
+from django.core.exceptions import ObjectDoesNotExist
+from django.db import IntegrityError
+from django.db.models import Q
+from django.http import HttpResponse, JsonResponse
+from django.shortcuts import get_object_or_404
+from django.utils import timezone
+from django.views import View
+from django_filters import rest_framework as filters
+from rest_framework import generics, mixins, serializers, status, renderers, viewsets
+from rest_framework.decorators import action
+from rest_framework.filters import BaseFilterBackend
+from rest_framework.response import Response
+from stix2.exceptions import RevokeError
+from weasyprint import HTML
+
+from TRIMSserver.webapp import enums, permissions
+from TRIMSserver.webapp.models.vendor_product import PrioritizedVendorProduct
+from TRIMSserver.webapp.models.vuln import get_min_rank_from_vp_list
+from TRIMSserver.webapp.views import getAPIURL
+from TRIMSserver.webapp.models import (
+    VulnListItem,
+    Vuln,
+    Note,
+    ScrapedVuln,
+    VulnStatusAudit,
+    ProjectUsage,
+    SimilarVuln,
+    ResponsibleDisclosureItem,
+    Tri,
+    CAPEC,
+    CWE,
+    BDSAExcludedFromCVSSValidationExport,
+    CodeSig,
+    SecurityIncident
+)
+from TRIMSserver.webapp.serializers import (
+    VulnListSerializer,
+    VulnItemSerializer,
+    VulnListExternalSerializer,
+    SimilarVulnSerializer,
+    VulnSerializer,
+    CAPECSerializer,
+    CWESerializer,
+)
+from TRIMSserver.webapp.stix import Stix
+from random import randrange
+from constance import config as constance_config
+from TRIMSserver.common.utils import (
+    order_dict_list,
+    remove_element_recursive_dict_list,
+    max_int
+)
+
+logger = logging.getLogger(__name__)
+
+
+RANK_GROUP_CHOICES = (
+    (1, '1-1k'),
+    (2, '1k-5k'),
+    (3, '5k-10k'),
+    (4, '10k-20k'),
+    (5, '20k-30k'),
+    (6, '30k+'),
+    (7, 'Not Ranked'),
+    (max_int, 'Empty'),
+)
+
+
+class VulnRankFilter(filters.FilterSet):
+    rank = filters.ChoiceFilter(
+        label=&quot;Rank Group&quot;,
+        choices=RANK_GROUP_CHOICES,
+        method='filter_rank',
+    )
+
+    def filter_rank(self, queryset, name, value):
+        if value == &quot;1&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank__gt=0,
+                vendor_product_rank__lte=1000,
+            )
+        elif value == &quot;2&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank__gt=1000,
+                vendor_product_rank__lte=5000,
+            )
+        elif value == &quot;3&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank__gt=5000,
+                vendor_product_rank__lte=10000,
+            )
+        elif value == &quot;4&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank__gt=10000,
+                vendor_product_rank__lte=20000,
+            )
+        elif value == &quot;5&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank__gt=20000,
+                vendor_product_rank__lte=30000,
+            )
+        elif value == &quot;6&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank__gt=30000,
+            )
+        elif value == &quot;7&quot;:
+            queryset = queryset.filter(
+                vendor_product_rank=None,
+            )
+
+        elif value == str(max_int):  # Highest possible int to deonte empty and appear at end of list
+            queryset = queryset.filter(
+                scrapedvuln__vendor_product_rank=max_int
+            )</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -880,14 +887,8 @@ class VulnRankFilter(filters.FilterSet):
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="4">
-        <text>Not Ranked'),
-    (7, 'Not Ranked'),
-    (max_int, 'Empty'),
-)
-
-
-class VulnRankFilter(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
