@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TEMP</entry>
-        <entry>temp</entry>
-        <entry>MID</entry>
-        <entry>PASS</entry>
-        <entry>LDAP</entry>
         <entry>code</entry>
         <entry>signa</entry>
         <entry>max_</entry>
@@ -25,6 +20,11 @@
         <entry>filter</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>bind</entry>
+        <entry>LDA</entry>
+        <entry encoding="base64">XDxsZGFwXD4=</entry>
+        <entry encoding="base64">XDxMREFQU2VhcmNoXD4=</entry>
+        <entry>LDAP</entry>
+        <entry>ldap</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -120,22 +120,28 @@
         <mark key="^" line="59" column="2" />
         <mark key="." line="59" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1597914284054">
+      <file name="/Python Console" timestamp="1597915569488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1597914870061">
-        <mark key="[" line="0" column="29" />
+      <file name="/fragment.py" timestamp="1597921573895">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/scraped_vuln.py" timestamp="1597908933192" />
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/management/commands/populate_project_usage.py" timestamp="1597908655825" />
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597915363710">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="52" />
-        <mark key="." line="8" column="51" />
-        <mark key="^" line="8" column="52" />
+      <file name="$USER_HOME$/projects/trims/config/settings.template" timestamp="1597922330057">
+        <mark key="'" line="335" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/auth.py" timestamp="1597922166281">
+        <mark key="[" line="26" column="144" />
+        <mark key="]" line="26" column="87" />
+        <mark key="." line="26" column="86" />
+        <mark key="^" line="26" column="87" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1597912264903">
         <mark key="'" line="41" column="4" />
@@ -144,11 +150,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="143" column="63" />
       </file>
-      <file name="/Django Console" timestamp="1597845085009">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/trims.public.vuln_tri_priority_score" timestamp="1597841794588">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" timestamp="1597922315179">
+        <mark key="'" line="341" column="24" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/migrations/0403_set_group_permissions.py" timestamp="1597912138898">
         <mark key="[" line="16" column="0" />
@@ -157,10 +163,10 @@
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" timestamp="1597845956618">
         <mark key="'" line="83" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597911992420">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1597922368263">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/projects/trims/client/src/app/vuln/vuln.ts" timestamp="1597911395764">
         <mark key="[" line="199" column="94" />
@@ -181,39 +187,21 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="80" column="39" />
       </file>
-      <file name="/foo.bar" timestamp="1597841794607">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/contrib/auth/backends.py" timestamp="1597913683637">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="76" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1597915327377">
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1597921465028">
         <mark key="'" line="412" column="59" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="83" />
       </file>
+      <file name="/settings.template" timestamp="1597922221146">
+        <mark key="[" line="327" column="0" />
+        <mark key="]" line="330" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="59" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="202" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="204" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="207" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="209" column="14" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="212" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
-      <jump line="66" column="1" filename="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" />
-      <jump line="69" column="1" filename="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" />
-      <jump line="77" column="1" filename="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" />
-      <jump line="87" column="2" filename="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" />
-      <jump line="549" column="28" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="548" column="31" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="560" column="19" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="1001" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="25" column="5" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="27" column="50" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="57" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="58" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="63" column="12" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="87" column="48" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="130" column="25" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
@@ -294,7 +282,26 @@
       <jump line="65" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="83" column="7" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.py" />
       <jump line="138" column="13" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="295" column="26" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="412" column="59" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="16" column="37" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="323" column="30" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="328" column="5" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="314" column="41" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="321" column="17" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="333" column="4" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="343" column="4" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
+      <jump line="16" column="36" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
+      <jump line="341" column="24" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="329" column="27" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="330" column="24" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="331" column="30" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="332" column="24" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="322" column="30" filename="$USER_HOME$/projects/trims/config/settings.template" />
+      <jump line="334" column="4" filename="$USER_HOME$/projects/trims/config/settings.template" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,8 +309,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LDAP integration</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -385,7 +392,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>Group</text>
+        <text>LDAP integration</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -409,7 +416,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>ldap</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -419,13 +426,13 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHcm91cCA9IGFwcHMuZ2V0X21vZGVsKCJhdXRoIiwgIkdyb3VwIikK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ29fYXV0aF9sZGFwLmNvbmZpZyBpbXBvcnQgTERBUFNlYXJjaAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBVbmNvbW1lbnQgdGhlIGZvbGxvd2luZyBzZXR0aW5nIHRvIHJldmVydCB0byBNb2RlbEJhY2tlbmQKIyBBVVRIRU5USUNBVElPTl9CQUNLRU5EUyA9ICgKIyAgICAgJ2RqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kJywKIyApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,22 +446,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGdldF9taW5fcmFua19mcm9tX3ZwX2xpc3QodmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0KToKICAgIGlmIHR5cGUodmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0KSAhPSBsaXN0OiAgIyBDb250aW51ZSBpZiBOb25lCiAgICAgICAgdmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0ID0gW10KICAgICMgR2V0IHZlbmRvciBwcm9kdWN0cyBmcm9tIGpzb24gbGlzdCB3aXRoIHJhbmsgbm90IDAsIC0xIGFuZCAnJwogICAgY2xlYW5fdmVuZG9yX3Byb2R1Y3RfanNvbl9saXN0ID0gbGlzdChmaWx0ZXIoCiAgICAgICAgbGFtYmRhIHZwOiB2cC5nZXQoJ3JhbmsnLCAwKSBub3QgaW4gWzAsIC0xLCAnJ10sCiAgICAgICAgdmVuZG9yX3Byb2R1Y3RfdmVyc2lvbl9saXN0CiAgICApKQogICAgbWluX3ZlbmRvcl9wcm9kdWN0ID0gbWluKAogICAgICAgIGNsZWFuX3ZlbmRvcl9wcm9kdWN0X2pzb25fbGlzdCwKICAgICAgICBrZXk9bGFtYmRhIHZwOiB2cC5nZXQoJ3JhbmsnKSwKICAgICAgICBkZWZhdWx0PWRpY3QoKQogICAgKQogICAgcmV0dXJuIG1pbl92ZW5kb3JfcHJvZHVjdC5nZXQoJ3JhbmsnLCBOb25lKQoK</text>
+        <text encoding="base64">I2Zyb20gZGphbmdvX2F1dGhfbGRhcC5jb25maWcgaW1wb3J0IExEQVBTZWFyY2gsIEdyb3VwT2ZOYW1lc1R5cGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZ1bAo=</text>
+        <text encoding="base64">I2Zyb20gZGphbmdvX2F1dGhfbGRhcC5jb25maWcgaW1wb3J0IExEQVBTZWFyY2gsIEdyb3VwT2ZOYW1lc1R5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
+        <text encoding="base64">I2ltcG9ydCBsZGFwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHVwZGF0ZV9hbGxfdmVuZG9yX3Byb2R1Y3RfcmFuayhjbHMpOgogICAgICAgIHZ1bG5zID0gbGlzdChWdWxuLm9iamVjdHMuYWxsKCkpCiAgICAgICAgZm9yIHZ1bG4gaW4gdnVsbnM6CiAgICAgICAgICAgIHZ1bG4udmVuZG9yX3Byb2R1Y3RfcmFuayA9IGdldF9taW5fcmFua19mcm9tX3ZwX2xpc3QodnVsbi52ZW5kb3JfcHJvZHVjdF92ZXJzaW9uX2xpc3QpCiAgICAgICAgVnVsbi5vYmplY3RzLmJ1bGtfdXBkYXRlKHZ1bG5zLCBbJ3ZlbmRvcl9wcm9kdWN0X3JhbmsnXSkK</text>
+        <text encoding="base64">IyBVbmNvbW1lbnQgdGhlIGZvbGxvd2luZyBzZXR0aW5nIHRvIHJldmVydCB0byBNb2RlbEJhY2tlbmQKIyBBVVRIRU5USUNBVElPTl9CQUNLRU5EUyA9ICgKIyAgICAgJ2RqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kJywKIyApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBVbmNvbW1lbnQgdGhlIGZvbGxvd2luZyBzZXR0aW5nIHRvIHJldmVydCB0byBNb2RlbEJhY2tlbmQKIyBBVVRIRU5USUNBVElPTl9CQUNLRU5EUyA9ICgKIyAgICAgJ2RqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kJywKIyApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZGFwX2JhY2tlbmQgPSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -768,122 +775,8 @@ WHERE `type` = 0</text>
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>User
-from django.core.exceptions import ObjectDoesNotExist
-from django.db import IntegrityError
-from django.db.models import Q
-from django.http import HttpResponse, JsonResponse
-from django.shortcuts import get_object_or_404
-from django.utils import timezone
-from django.views import View
-from django_filters import rest_framework as filters
-from rest_framework import generics, mixins, serializers, status, renderers, viewsets
-from rest_framework.decorators import action
-from rest_framework.filters import BaseFilterBackend
-from rest_framework.response import Response
-from stix2.exceptions import RevokeError
-from weasyprint import HTML
-
-from TRIMSserver.webapp import enums, permissions
-from TRIMSserver.webapp.models.vendor_product import PrioritizedVendorProduct
-from TRIMSserver.webapp.models.vuln import get_min_rank_from_vp_list
-from TRIMSserver.webapp.views import getAPIURL
-from TRIMSserver.webapp.models import (
-    VulnListItem,
-    Vuln,
-    Note,
-    ScrapedVuln,
-    VulnStatusAudit,
-    ProjectUsage,
-    SimilarVuln,
-    ResponsibleDisclosureItem,
-    Tri,
-    CAPEC,
-    CWE,
-    BDSAExcludedFromCVSSValidationExport,
-    CodeSig,
-    SecurityIncident
-)
-from TRIMSserver.webapp.serializers import (
-    VulnListSerializer,
-    VulnItemSerializer,
-    VulnListExternalSerializer,
-    SimilarVulnSerializer,
-    VulnSerializer,
-    CAPECSerializer,
-    CWESerializer,
-)
-from TRIMSserver.webapp.stix import Stix
-from random import randrange
-from constance import config as constance_config
-from TRIMSserver.common.utils import (
-    order_dict_list,
-    remove_element_recursive_dict_list,
-    max_int
-)
-
-logger = logging.getLogger(__name__)
-
-
-RANK_GROUP_CHOICES = (
-    (1, '1-1k'),
-    (2, '1k-5k'),
-    (3, '5k-10k'),
-    (4, '10k-20k'),
-    (5, '20k-30k'),
-    (6, '30k+'),
-    (7, 'Not Ranked'),
-    (max_int, 'Empty'),
-)
-
-
-class VulnRankFilter(filters.FilterSet):
-    rank = filters.ChoiceFilter(
-        label=&quot;Rank Group&quot;,
-        choices=RANK_GROUP_CHOICES,
-        method='filter_rank',
-    )
-
-    def filter_rank(self, queryset, name, value):
-        if value == &quot;1&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=0,
-                vendor_product_rank__lte=1000,
-            )
-        elif value == &quot;2&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=1000,
-                vendor_product_rank__lte=5000,
-            )
-        elif value == &quot;3&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=5000,
-                vendor_product_rank__lte=10000,
-            )
-        elif value == &quot;4&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=10000,
-                vendor_product_rank__lte=20000,
-            )
-        elif value == &quot;5&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=20000,
-                vendor_product_rank__lte=30000,
-            )
-        elif value == &quot;6&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank__gt=30000,
-            )
-        elif value == &quot;7&quot;:
-            queryset = queryset.filter(
-                vendor_product_rank=None,
-            )
-
-        elif value == str(max_int):  # Highest possible int to deonte empty and appear at end of list
-            queryset = queryset.filter(
-                scrapedvuln__vendor_product_rank=max_int
-            )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZGFwX2JhY2tlbmQgPSBMREFQQmFja2VuZCgpCiAgICAgICAgbGRhcF91c2VyID0gX0xEQVBVc2VyKGxkYXBfYmFja2VuZCwgdXNlcm5hbWU9dXNlcm5hbWUsIHJlcXVlc3Q9cmVxdWVzdCkK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -897,7 +790,7 @@ class VulnRankFilter(filters.FilterSet):
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
@@ -912,9 +805,9 @@ class VulnRankFilter(filters.FilterSet):
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bind</last-search>
+      <last-search>ldap</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>ldap</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
