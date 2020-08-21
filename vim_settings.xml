@@ -155,14 +155,14 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1597928049138">
+      <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1598004255094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/vuln.py" timestamp="1597928699819">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="55" />
       </file>
-      <file name="/trims.public.TRIMSserver_projectusage" timestamp="1597928049150">
+      <file name="/trims.public.TRIMSserver_projectusage" timestamp="1598004255108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vendor_product.py" timestamp="1597998136869">
@@ -177,10 +177,10 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597929014567">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1598004264942">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vendor_product.py" timestamp="1597997969920">
         <mark key="[" line="251" column="0" />
@@ -191,7 +191,7 @@
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1597998938263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1597998938293">
+      <file name="/foo.bar" timestamp="1598004255124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1597921465028">
@@ -308,8 +308,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdnB2X2xpc3QgPSAiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>18</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -391,7 +391,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIGtiX3NlcnZlciBpcyBkb3duLCB3aWxsIGdldCBpbmZvcm1hdGlvbiBmcm9tIGxvY2FsIHRhYmxl</text>
+        <text>18</text>
       </register>
       <register name="m" type="4">
         <keys>
