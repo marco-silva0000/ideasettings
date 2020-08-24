@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>max</entry>
         <entry>filters</entry>
         <entry encoding="base64">XDxyYW5rXD4=</entry>
         <entry encoding="base64">XDxnZXRfbWluX3JhbmtfZnJvbV92cF9saXN0XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>to_fild</entry>
         <entry encoding="base64">XDx0b19maWVsZF9uYW1lXD4=</entry>
         <entry encoding="base64">XDxSQU5LX0dST1VQX0NIT0lDRVNcPg==</entry>
+        <entry encoding="base64">XDxnZXRfZmlsdGVyX3ByZWRpY2F0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -141,8 +141,8 @@
       <file name="/console" timestamp="1598006418059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_filters/filters.py" timestamp="1598025664866">
-        <mark key="'" line="259" column="48" />
+      <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_filters/filters.py" timestamp="1598259831143">
+        <mark key="'" line="194" column="22" />
         <mark key="[" line="254" column="0" />
         <mark key="]" line="261" column="28" />
       </file>
@@ -188,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="878" column="0" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
-      <jump line="527" column="36" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="540" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="448" column="16" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
       <jump line="451" column="20" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" />
@@ -288,6 +286,8 @@
       <jump line="86" column="48" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="85" column="47" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
       <jump line="134" column="16" filename="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" />
+      <jump line="254" column="8" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_filters/filters.py" />
+      <jump line="194" column="22" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_filters/filters.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -402,7 +402,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSQU5LX0dST1VQX0NIT0lDRVNcPg==</text>
+        <text encoding="base64">XDxnZXRfZmlsdGVyX3ByZWRpY2F0ZVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -791,9 +791,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSQU5LX0dST1VQX0NIT0lDRVNcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfZmlsdGVyX3ByZWRpY2F0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSQU5LX0dST1VQX0NIT0lDRVNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfZmlsdGVyX3ByZWRpY2F0ZVw+</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
