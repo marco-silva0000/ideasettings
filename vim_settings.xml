@@ -116,7 +116,7 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1597998938278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598020603484">
+      <file name="/Dummy.txt" timestamp="1598268455194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -161,8 +161,8 @@
         <mark key="]" line="259" column="0" />
         <mark key="." line="259" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1598263498026">
-        <mark key="[" line="52" column="20" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/scraped_vuln.py" timestamp="1598268661576">
+        <mark key="[" line="30" column="45" />
         <mark key="]" line="52" column="59" />
         <mark key="." line="52" column="20" />
         <mark key="^" line="103" column="16" />
@@ -170,18 +170,12 @@
       <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1597998938263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1598263812689">
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1598268649377">
         <mark key="'" line="134" column="16" />
-        <mark key="[" line="97" column="32" />
-        <mark key="]" line="97" column="32" />
-        <mark key="." line="97" column="32" />
-        <mark key="^" line="98" column="70" />
-      </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/models/vuln.py" timestamp="1597928290395">
-        <mark key="[" line="182" column="9" />
-        <mark key="]" line="182" column="9" />
-        <mark key="." line="182" column="10" />
-        <mark key="^" line="182" column="16" />
+        <mark key="[" line="58" column="45" />
+        <mark key="]" line="61" column="1" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="1" />
       </file>
       <file name="/foo.bar" timestamp="1598004255124">
         <mark key="[" line="0" column="0" />
@@ -301,8 +295,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZlbmRvcl9wcm9kdWN0X3JhbmtfX2x0ID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0ndmVuZG9yX3Byb2R1Y3RfcmFuaycsIGxvb2t1cF9leHByPSdsdCcpCg==</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -384,7 +378,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>VulnRankFilter</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -424,7 +418,7 @@ WHERE `type` = 0</text>
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhbmsgPSBmaWx0ZXJzLk11bHRpcGxlQ2hvaWNlRmlsdGVyKAogICAgICAgIGxhYmVsPSJSYW5rIEdyb3VwIiwKICAgICAgICBjaG9pY2VzPVJBTktfR1JPVVBfQ0hPSUNFUywKICAgICAgICBmaWVsZF9uYW1lPSd2ZW5kb3JfcHJvZHVjdF9yYW5rJwogICAgKQo=</text>
+        <text encoding="base64">ICAgIHZlbmRvcl9wcm9kdWN0X3JhbmtfX2x0ID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0ndmVuZG9yX3Byb2R1Y3RfcmFuaycsIGxvb2t1cF9leHByPSdsdCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,22 +432,22 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgIHZlbmRvcl9wcm9kdWN0X3JhbmtfX2d0ID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0ndmVuZG9yX3Byb2R1Y3RfcmFuaycsIGxvb2t1cF9leHByPSdndCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1ldGhvZD0nZmlsdGVyX3JhbmsnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVnVsblJhbmtGaWx0ZXIoZmlsdGVycy5GaWx0ZXJTZXQpOgoKICAgIHJhbmsgPSBmaWx0ZXJzLk11bHRpcGxlQ2hvaWNlRmlsdGVyKAogICAgICAgIGxhYmVsPSJSYW5rIEdyb3VwIiwKICAgICAgICBjaG9pY2VzPVJBTktfR1JPVVBfQ0hPSUNFUywKICAgICAgICBmaWVsZF9uYW1lPSd2ZW5kb3JfcHJvZHVjdF9yYW5rJwogICAgKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhbmtfZmllbGQgPSAndmVuZG9yX3Byb2R1Y3RfcmFuaycK</text>
+        <text encoding="base64">ICAgIHJhbmsgPSBmaWx0ZXJzLk11bHRpcGxlQ2hvaWNlRmlsdGVyKAogICAgICAgIGxhYmVsPSJSYW5rIEdyb3VwIiwKICAgICAgICBjaG9pY2VzPVJBTktfR1JPVVBfQ0hPSUNFUywKICAgICAgICBmaWVsZF9uYW1lPSd2ZW5kb3JfcHJvZHVjdF9yYW5rJwogICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfcmFuayhzZWxmLCBxdWVyeXNldCwgbmFtZSwgdmFsdWVfbGlzdCk6CiAgICAgICAgcSA9IFEoKQogICAgICAgIGZvciB2YWx1ZSBpbiB2YWx1ZV9saXN0OgogICAgICAgICAgICBpZiB2YWx1ZSA9PSAiMSI6CiAgICAgICAgICAgICAgICBxIHw9IFEoKip7c2VsZi5yYW5rX2ZpZWxkICsgJ19fZ3QnOiAwLCBzZWxmLnJhbmtfZmllbGQgKyAnX19sdGUnOiAxMDAwLCB9KQogICAgICAgICAgICBlbGlmIHZhbHVlID09ICIyIjoKICAgICAgICAgICAgICAgIHEgfD0gUSgqKntzZWxmLnJhbmtfZmllbGQgKyAnX19ndCc6IDEwMDAsIHNlbGYucmFua19maWVsZCArICdfX2x0ZSc6IDUwMDAsIH0pCiAgICAgICAgICAgIGVsaWYgdmFsdWUgPT0gIjMiOgogICAgICAgICAgICAgICAgcSB8PSBRKCoqe3NlbGYucmFua19maWVsZCArICdfX2d0JzogNTAwMCwgc2VsZi5yYW5rX2ZpZWxkICsgJ19fbHRlJzogMTAwMDAsIH0pCiAgICAgICAgICAgIGVsaWYgdmFsdWUgPT0gIjQiOgogICAgICAgICAgICAgICAgcSB8PSBRKCoqe3NlbGYucmFua19maWVsZCArICdfX2d0JzogMTAwMDAsIHNlbGYucmFua19maWVsZCArICdfX2x0ZSc6IDIwMDAwLCB9KQogICAgICAgICAgICBlbGlmIHZhbHVlID09ICI1IjoKICAgICAgICAgICAgICAgIHEgfD0gUSgqKntzZWxmLnJhbmtfZmllbGQgKyAnX19ndCc6IDIwMDAwLCBzZWxmLnJhbmtfZmllbGQgKyAnX19sdGUnOiAzMDAwMCwgfSkKICAgICAgICAgICAgZWxpZiB2YWx1ZSA9PSAiNiI6CiAgICAgICAgICAgICAgICBxIHw9IFEoKip7c2VsZi5yYW5rX2ZpZWxkICsgJ19fZ3QnOiAzMDAwMH0pCiAgICAgICAgICAgIGVsaWYgdmFsdWUgPT0gIjciOgogICAgICAgICAgICAgICAgcSB8PSBRKCoqe3NlbGYucmFua19maWVsZCArICdfX2lzX251bGwnOiBUcnVlfSkKICAgICAgICAgICAgZWxpZiB2YWx1ZSA9PSAiOCI6CiAgICAgICAgICAgICAgICBxIHw9IFEoKip7c2VsZi5yYW5rX2ZpZWxkICsgJ19faXNfbnVsbCc6IEZhbHNlLCB9KQogICAgICAgICAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgdmVuZG9yX3Byb2R1Y3RfcmFua19faXNudWxsPUZhbHNlLAogICAgICAgICAgICAgICAgKS5leGNsdWRlKHZlbmRvcl9wcm9kdWN0X3Jhbms9bWF4X2ludCkKICAgICAgICAgICAgZWxpZiB2YWx1ZSA9PSBzdHIobWF4X2ludCk6CiAgICAgICAgICAgICAgICBxIHw9IFEoKip7c2VsZi5yYW5rX2ZpZWxkOiBtYXhfaW50fSkKICAgICAgICByZXR1cm4gcXVlcnlzZXQuZmlsdGVyKHEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1ldGhvZD0nZmlsdGVyX3JhbmsnLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -768,7 +762,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ge25hbWU6IGdldGF0dHIodiwgc2VsZi5maWVsZC50b19maWVsZF9uYW1lKX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -782,7 +776,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHtuYW1lICsgJ19fZ3QnOiAwLCBuYW1lICsgJ19fbHRlJzogMTAwMH0KICAgICAgICAgICAgcSB8PSBRKCoqe3NlbGYucmFua19maWVsZDogbWF4X2ludH0pCg==</text>
+        <text encoding="base64">ICAgIHJhbmtfZmllbGQgPSAndmVuZG9yX3Byb2R1Y3RfcmFuaycK</text>
       </register>
       <register name="y" type="4">
         <text>v</text>
