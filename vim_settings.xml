@@ -116,11 +116,11 @@
       <file name="/trims.public.TRIMSserver_vuln" timestamp="1597998938278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1598348605755">
-        <mark key="[" line="63" column="28" />
-        <mark key="]" line="63" column="29" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1598353812794">
+        <mark key="[" line="68" column="41" />
+        <mark key="]" line="68" column="41" />
         <mark key="^" line="63" column="29" />
-        <mark key="." line="63" column="28" />
+        <mark key="." line="68" column="41" />
       </file>
       <file name="/Python Console" timestamp="1598348831306">
         <mark key="[" line="0" column="0" />
@@ -280,7 +280,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Bugfix when KB is down</text>
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -362,7 +362,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>Bugfix when KB is down</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
