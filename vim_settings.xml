@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bulk</entry>
         <entry encoding="base64">XDxWdWxuRmlsdGVyXD4=</entry>
         <entry>backend</entry>
         <entry>filter</entry>
@@ -25,6 +24,7 @@
         <entry>port</entry>
         <entry encoding="base64">XDxzYXNsXD4=</entry>
         <entry encoding="base64">XDxfdXJpXD4=</entry>
+        <entry>MAIL</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -386,7 +386,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXJpXD4=</text>
+        <text>MAIL</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -775,9 +775,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfdXJpXD4=</last-search>
+      <last-search>MAIL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXJpXD4=</last-pattern>
+      <last-pattern>MAIL</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
