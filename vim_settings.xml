@@ -113,9 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/trims.public.TRIMSserver_vuln" timestamp="1597998938278">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/dev_settings.py" timestamp="1598353812794">
         <mark key="[" line="68" column="41" />
         <mark key="]" line="68" column="41" />
@@ -123,9 +120,6 @@
         <mark key="." line="68" column="41" />
       </file>
       <file name="/Python Console" timestamp="1598348831306">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/TRIMSserver_projectusage [trims@localhost]" timestamp="1598004255094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/generic.py" timestamp="1598276260535">
@@ -149,7 +143,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" timestamp="1598024483288" />
-      <file name="/Dummy.txt" timestamp="1598355967098">
+      <file name="/Dummy.txt" timestamp="1598357514529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -158,11 +152,19 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="139" column="56" />
       </file>
-      <file name="/TRIMSserver_vuln [trims@localhost]" timestamp="1597998938263">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/content_replace.py" timestamp="1598357781667" />
       <file name="/foo.bar" timestamp="1598004255124">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1598357402608">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" timestamp="1598357883870">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django_auth_ldap/backend.py" timestamp="1598349025479">
         <mark key="[" line="873" column="0" />
@@ -280,7 +282,7 @@
         <text encoding="base64">ICAgICAgICBzZXJpYWxpemVkX2RhdGEgPSBWdWxuSXRlbVNlcmlhbGl6ZXIoZGF0YT1kYXRhKS52YWxpZGF0ZShkYXRhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text>f_x~</text>
@@ -362,7 +364,7 @@ FROM cvd.signatures_and_code_remediation_details a
 WHERE `type` = 0</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -396,7 +398,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHZhbHVlID09IHN0cihtYXhfaW50KToKICAgICAgICAgICAgcmV0dXJuIHtuYW1lOiBtYXhfaW50fQo=</text>
+        <text encoding="base64">ZGphbmdvLnNldHVwKCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -406,11 +408,18 @@ WHERE `type` = 0</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="112" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
           <key char="65535" code="40" mods="0" />
           <key char="48" code="0" mods="0" />
         </keys>
