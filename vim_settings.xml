@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxWdWxuRmlsdGVyXD4=</entry>
-        <entry>backend</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>bind</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzYXNsXD4=</entry>
         <entry encoding="base64">XDxfdXJpXD4=</entry>
         <entry>MAIL</entry>
+        <entry>export</entry>
+        <entry encoding="base64">XDxleHBvcnR2dWxuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -139,10 +139,8 @@
         <mark key="[" line="254" column="0" />
         <mark key="]" line="261" column="28" />
       </file>
-      <file name="/trims.public.TRIMSserver_projectusage" timestamp="1598004255108">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/django/db/models/query_utils.py" timestamp="1598024483288" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/permissions.py" timestamp="1598367275567" />
       <file name="/Dummy.txt" timestamp="1598357514529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -152,10 +150,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="139" column="56" />
       </file>
-      <file name="/content_replace.py" timestamp="1598357781667" />
-      <file name="/foo.bar" timestamp="1598004255124">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" timestamp="1598366944593">
+        <mark key="'" line="596" column="15" />
       </file>
+      <file name="/content_replace.py" timestamp="1598357781667" />
+      <file name="$USER_HOME$/projects/trims/server/TRIMSserver/webapp/views/vuln.py" timestamp="1598366960261" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1598357402608">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="14" />
@@ -174,8 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="51" filename="$USER_HOME$/projects/trims/server/TRIMSserver/settings.template" />
-      <jump line="201" column="11" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="477" column="42" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="479" column="18" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
       <jump line="482" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
@@ -274,6 +271,8 @@
       <jump line="305" column="15" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/ldap/ldapobject.py" />
       <jump line="1104" column="9" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/ldap/ldapobject.py" />
       <jump line="1139" column="24" filename="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/trims-q-PWStUr-py3.7/lib/python3.7/site-packages/ldap/ldapobject.py" />
+      <jump line="7" column="29" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
+      <jump line="596" column="15" filename="$USER_HOME$/projects/trims/server/TRIMSserver/urls.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -388,7 +387,7 @@ WHERE `type` = 0</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>MAIL</text>
+        <text encoding="base64">XDxleHBvcnR2dWxuXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -784,9 +783,9 @@ WHERE `type` = 0</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>MAIL</last-search>
+      <last-search encoding="base64">XDxleHBvcnR2dWxuXD4=</last-search>
       <last-offset />
-      <last-pattern>MAIL</last-pattern>
+      <last-pattern encoding="base64">XDxleHBvcnR2dWxuXD4=</last-pattern>
       <last-replace>copyListToClipboard</last-replace>
       <last-substitute>copyToClipboard</last-substitute>
       <last-dir>1</last-dir>
