@@ -5,12 +5,12 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="orgaizationService.js" type="JavaScript" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="logActions.html" type="PLAIN_TEXT" />
-      <mapping pattern="exampleAPIShellRegisters.json" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="exampleAPIShellRegisters.json" type="PLAIN_TEXT" />
+      <mapping pattern="logActions.html" type="PLAIN_TEXT" />
       <mapping pattern=".settings.py.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
