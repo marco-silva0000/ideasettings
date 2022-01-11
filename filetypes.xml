@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="echoer" type="AUTO_DETECTED" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
